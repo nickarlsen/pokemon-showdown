@@ -2,6 +2,7 @@ export const Scripts: ModdedBattleScriptsData = {
 	inherit: 'gen4',
 	gen: 3,
 	init() {
+		// Special Physical Split, Not to be used in FBI
 		// const specialTypes = ['Fire', 'Water', 'Grass', 'Ice', 'Electric', 'Dark', 'Psychic', 'Dragon'];
 		// let newCategory = '';
 		// for (const i in this.data.Moves) {
