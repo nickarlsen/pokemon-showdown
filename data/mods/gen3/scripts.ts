@@ -2,16 +2,17 @@ export const Scripts: ModdedBattleScriptsData = {
 	inherit: 'gen4',
 	gen: 3,
 	init() {
-		const specialTypes = ['Fire', 'Water', 'Grass', 'Ice', 'Electric', 'Dark', 'Psychic', 'Dragon'];
-		let newCategory = '';
-		for (const i in this.data.Moves) {
-			if (!this.data.Moves[i]) console.log(i);
-			if (this.data.Moves[i].category === 'Status') continue;
-			newCategory = specialTypes.includes(this.data.Moves[i].type) ? 'Special' : 'Physical';
-			if (newCategory !== this.data.Moves[i].category) {
-				this.modData('Moves', i).category = newCategory;
-			}
-		}
+		// Special Physical Split, Not to be used in FBI
+		// const specialTypes = ['Fire', 'Water', 'Grass', 'Ice', 'Electric', 'Dark', 'Psychic', 'Dragon'];
+		// let newCategory = '';
+		// for (const i in this.data.Moves) {
+		// 	if (!this.data.Moves[i]) console.log(i);
+		// 	if (this.data.Moves[i].category === 'Status') continue;
+		// 	newCategory = specialTypes.includes(this.data.Moves[i].type) ? 'Special' : 'Physical';
+		// 	if (newCategory !== this.data.Moves[i].category) {
+		// 		this.modData('Moves', i).category = newCategory;
+		// 	}
+		// }
 	},
 	pokemon: {
 		inherit: true,
@@ -115,9 +116,7 @@ export const Scripts: ModdedBattleScriptsData = {
 
 			return Math.floor(baseDamage);
 		},
-		useMoveInner(moveOrMoveName, pokemon, options) {
-			let sourceEffect = options?.sourceEffect;
-			let target = options?.target;
+		useMoveInner(moveOrMoveName, pokemon, target, sourceEffect, zMove) {
 			if (!sourceEffect && this.battle.effect.id) sourceEffect = this.battle.effect;
 			if (sourceEffect && sourceEffect.id === 'instruct') sourceEffect = null;
 
