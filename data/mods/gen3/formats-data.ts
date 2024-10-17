@@ -449,9 +449,6 @@ export const FormatsData: import('../../../sim/dex-species').ModdedSpeciesFormat
 	mewtwo: {
 		tier: "OU",
 	},
-	mewtwo: {
-		tier: "OU",
-	},
 	mew: {
 		tier: "OU",
 	},
@@ -675,7 +672,7 @@ export const FormatsData: import('../../../sim/dex-species').ModdedSpeciesFormat
 		tier: "PU",
 	},
 	heracross: {
-		tier: "OU",
+		tier: "UU",
 	},
 
 	slakoth: {
@@ -844,7 +841,7 @@ export const FormatsData: import('../../../sim/dex-species').ModdedSpeciesFormat
 		tier: "LC",
 	},
 	claydol: {
-		tier: "OU",
+		tier: "UU",
 	},
 	lileep: {
 		tier: "ZU",
@@ -862,7 +859,7 @@ export const FormatsData: import('../../../sim/dex-species').ModdedSpeciesFormat
 		tier: "LC",
 	},
 	milotic: {
-		tier: "OU",
+		tier: "UU",
 	},
 	castform: {
 		tier: "ZU",
@@ -937,7 +934,7 @@ export const FormatsData: import('../../../sim/dex-species').ModdedSpeciesFormat
 		tier: "ZUBL",
 	},
 	salamence: {
-		tier: "OU",
+		tier: "UU",
 	},
 	beldum: {
 		tier: "LC",
