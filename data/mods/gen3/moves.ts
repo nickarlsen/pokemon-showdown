@@ -131,6 +131,32 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 			foe.removeSideCondition('lightscreen');
 		},
 	},
+	bugbite: {
+		num: 450,
+		accuracy: 100,
+		basePower: 60,
+		category: "Physical",
+		name: "Bug Bite",
+		pp: 20,
+		priority: 0,
+		flags: {contact: 1, protect: 1, mirror: 1, metronome: 1},
+		onHit(target, source) {
+			const item = target.getItem();
+			if (source.hp && item.isBerry && target.takeItem(source)) {
+				this.add('-enditem', target, item.name, '[from] stealeat', '[move] Bug Bite', '[of] ' + source);
+				if (this.singleEvent('Eat', item, null, source, null, null)) {
+					this.runEvent('EatItem', source, null, null, item);
+					if (item.id === 'leppaberry') target.staleness = 'external';
+				}
+				if (item.onEat) source.ateBerry = true;
+			}
+		},
+		secondary: null,
+		target: "normal",
+		type: "Bug",
+		contestType: "Cute",
+		gen: 3,
+	},
 	charge: {
 		inherit: true,
 		boosts: null,
@@ -760,5 +786,178 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 	zapcannon: {
 		inherit: true,
 		basePower: 100,
+	},
+	// bugbuzz: {
+	// 	inherit: true,
+	// },
+	// bugbite: {
+	// 	inherit: true,
+	// },
+	// drillrun: {
+	// 	inherit: true,
+	// },
+	// moonblast: {
+	// 	inherit: true,
+	// },
+	// energyball: {
+	// 	inherit: true,
+	// },
+	// gunkshot: {
+	// 	inherit: true,
+	// },
+	// fairywind: {
+	// 	inherit: true,
+	// },
+	// shadowclaw: {
+	// 	inherit: true,
+	// },
+	// playrough: {
+	// 	inherit: true,
+	// },
+	bugbuzz: {
+		num: 405,
+		accuracy: 100,
+		basePower: 90,
+		category: "Special",
+		name: "Bug Buzz",
+		pp: 10,
+		priority: 0,
+		flags: {protect: 1, mirror: 1, sound: 1, bypasssub: 1, metronome: 1},
+		secondary: {
+			chance: 10,
+			boosts: {
+				spd: -1,
+			},
+		},
+		target: "normal",
+		type: "Bug",
+		contestType: "Beautiful",
+		gen: 3,
+	},
+	
+	drillrun: {
+		num: 529,
+		accuracy: 95,
+		basePower: 80,
+		category: "Physical",
+		name: "Drill Run",
+		pp: 10,
+		priority: 0,
+		flags: {contact: 1, protect: 1, mirror: 1, metronome: 1},
+		critRatio: 2,
+		secondary: null,
+		target: "normal",
+		type: "Ground",
+		contestType: "Tough",
+		gen: 3,
+	},
+	moonblast: {
+		num: 585,
+		accuracy: 100,
+		basePower: 95,
+		category: "Special",
+		name: "Moonblast",
+		pp: 15,
+		priority: 0,
+		flags: {protect: 1, mirror: 1, metronome: 1},
+		secondary: {
+			chance: 30,
+			boosts: {
+				spa: -1,
+			},
+		},
+		target: "normal",
+		type: "Fairy",
+		contestType: "Beautiful",
+		gen: 3,
+	},
+	energyball: {
+		num: 412,
+		accuracy: 100,
+		basePower: 90,
+		category: "Special",
+		name: "Energy Ball",
+		pp: 10,
+		priority: 0,
+		flags: {protect: 1, mirror: 1, metronome: 1, bullet: 1},
+		secondary: {
+			chance: 10,
+			boosts: {
+				spd: -1,
+			},
+		},
+		target: "normal",
+		type: "Grass",
+		contestType: "Beautiful",
+		gen: 3,
+	},
+	gunkshot: {
+		num: 441,
+		accuracy: 80,
+		basePower: 120,
+		category: "Physical",
+		name: "Gunk Shot",
+		pp: 5,
+		priority: 0,
+		flags: {protect: 1, mirror: 1, metronome: 1},
+		secondary: {
+			chance: 30,
+			status: 'psn',
+		},
+		target: "normal",
+		type: "Poison",
+		contestType: "Tough",
+		gen: 3,
+	},
+	fairywind: {
+		num: 584,
+		accuracy: 100,
+		basePower: 40,
+		category: "Special",
+		name: "Fairy Wind",
+		pp: 30,
+		priority: 0,
+		flags: {protect: 1, mirror: 1, metronome: 1, wind: 1},
+		secondary: null,
+		target: "normal",
+		type: "Fairy",
+		contestType: "Beautiful",
+		gen: 3,
+	},
+	shadowclaw: {
+		num: 421,
+		accuracy: 100,
+		basePower: 70,
+		category: "Physical",
+		name: "Shadow Claw",
+		pp: 15,
+		priority: 0,
+		flags: {contact: 1, protect: 1, mirror: 1, metronome: 1},
+		critRatio: 2,
+		secondary: null,
+		target: "normal",
+		type: "Ghost",
+		contestType: "Cool",
+		gen: 3,
+	},
+	playrough: {
+		num: 583,
+		accuracy: 90,
+		basePower: 90,
+		category: "Physical",
+		name: "Play Rough",
+		pp: 10,
+		priority: 0,
+		flags: {contact: 1, protect: 1, mirror: 1, metronome: 1},
+		secondary: {
+			chance: 10,
+			boosts: {
+				atk: -1,
+			},
+		},
+		target: "normal",
+		type: "Fairy",
+		contestType: "Cute",
+		gen: 3,
 	},
 };
