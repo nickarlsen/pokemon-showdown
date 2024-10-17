@@ -302,17 +302,6 @@ export const Items: import('../../../sim/dex-items').ModdedItemDataTable = {
 		onFractionalPriority() {},
 		// implemented in Pokemon#getActionSpeed()
 	},
-	salacberry: {
-		inherit: true,
-		onUpdate() {},
-		onResidualOrder: 10,
-		onResidualSubOrder: 4,
-		onResidual(pokemon) {
-			if (pokemon.hp <= pokemon.maxhp / 4) {
-				pokemon.eatItem();
-			}
-		},
-	},
 	seaincense: {
 		inherit: true,
 		onBasePower() {},
