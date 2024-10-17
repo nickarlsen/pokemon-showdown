@@ -6,6 +6,7 @@ export const Scripts: ModdedBattleScriptsData = {
 		let newCategory = '';
 		for (const i in this.data.Moves) {
 			if (!this.data.Moves[i]) console.log(i);
+			else console.log(i);
 			if (this.data.Moves[i].category === 'Status' || this.data.Moves[i].category === 'Physical' || this.data.Moves[i].category === 'Special') continue;
 			newCategory = specialTypes.includes(this.data.Moves[i].type) ? 'Special' : 'Physical';
 			if (newCategory !== this.data.Moves[i].category) {
