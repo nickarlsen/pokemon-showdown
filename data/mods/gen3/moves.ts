@@ -815,7 +815,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 	// 	inherit: true,
 	// },
 	bugbuzz: {
-		num: 405,
+		num: -405,
 		accuracy: 100,
 		basePower: 90,
 		category: "Special",
@@ -836,7 +836,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 	},
 	
 	drillrun: {
-		num: 529,
+		num: -529,
 		accuracy: 95,
 		basePower: 80,
 		category: "Physical",
@@ -852,7 +852,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		gen: 3,
 	},
 	moonblast: {
-		num: 585,
+		num: -585,
 		accuracy: 100,
 		basePower: 95,
 		category: "Special",
@@ -872,7 +872,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		gen: 3,
 	},
 	energyball: {
-		num: 412,
+		num: -412,
 		accuracy: 100,
 		basePower: 90,
 		category: "Special",
@@ -892,7 +892,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		gen: 3,
 	},
 	gunkshot: {
-		num: 441,
+		num: -441,
 		accuracy: 80,
 		basePower: 120,
 		category: "Physical",
@@ -910,7 +910,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		gen: 3,
 	},
 	fairywind: {
-		num: 584,
+		num: -584,
 		accuracy: 100,
 		basePower: 40,
 		category: "Special",
@@ -925,7 +925,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		gen: 3,
 	},
 	shadowclaw: {
-		num: 421,
+		num: -421,
 		accuracy: 100,
 		basePower: 70,
 		category: "Physical",
@@ -941,7 +941,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		gen: 3,
 	},
 	playrough: {
-		num: 583,
+		num: -583,
 		accuracy: 90,
 		basePower: 90,
 		category: "Physical",
