@@ -975,4 +975,7 @@ export const FormatsData: import('../../../sim/dex-species').ModdedSpeciesFormat
 	deoxysspeed: {
 		tier: "Uber",
 	},
+	breloom: {
+		tier: "UU",
+	},
 };
