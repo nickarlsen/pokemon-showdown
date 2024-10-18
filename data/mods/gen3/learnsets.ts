@@ -27728,9 +27728,6 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             poisonsting: [
                 "3L17"
             ],
-            magnitude: [
-                "3L22"
-            ],
             slash: [
                 "3L24"
             ],
@@ -27738,12 +27735,18 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
                 "3L27",
                 "3T"
             ],
+            mudshot: [
+                "3L28"
+            ],
             brickbreak: [
                 "3L30",
                 "3M"
             ],
             drillrun: [
                 "3L35"
+            ],
+            shadowclaw: [
+                "3L42"
             ],
             firepunch: [
                 "3L45"
@@ -29694,14 +29697,21 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
                 "3L6",
                 "3T"
             ],
-            sandattack: [
-                "3L11"
+            mudslap: [
+                "3L11",
+                "3T"
             ],
             poisonsting: [
                 "3L17"
             ],
+            sandtomb: [
+                "3L20"
+            ],
             slash: [
                 "3L23"
+            ],
+            mudshot: [
+                "3L25"
             ],
             swift: [
                 "3L30",
@@ -29709,9 +29719,6 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             ],
             furyswipes: [
                 "3L37"
-            ],
-            sandtomb: [
-                "3L45"
             ],
             sandstorm: [
                 "3L53",
@@ -29799,9 +29806,6 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
                 "3T"
             ],
             rollout: [
-                "3T"
-            ],
-            mudslap: [
                 "3T"
             ],
             swagger: [
