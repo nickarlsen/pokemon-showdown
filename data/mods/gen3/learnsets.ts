@@ -1475,6 +1475,9 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
     beedrill: {
         inherit: true,
         learnset: {
+            poisonjab: [
+                "3L28"
+            ],
             furyattack: [
                 "3L10"
             ],
@@ -1597,6 +1600,9 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
     bellsprout: {
         inherit: true,
         learnset: {
+            poisonjab: [
+                "3L28"
+            ],
             vinewhip: [
                 "3L1"
             ],
@@ -3994,6 +4000,9 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
     muk: {
         inherit: true,
         learnset: {
+            poisonjab: [
+                "3L42"
+            ],
             poisongas: [
                 "3L1"
             ],
@@ -6643,6 +6652,9 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
     weepinbell: {
         inherit: true,
         learnset: {
+            poisonjab: [
+                "3L31"
+            ],
             vinewhip: [
                 "3L1"
             ],
@@ -6759,6 +6771,9 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
     nidoqueen: {
         inherit: true,
         learnset: {
+            poisonjab: [
+                "3L30"
+            ],
             scratch: [
                 "3L1"
             ],
@@ -7707,6 +7722,9 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
     nidorino: {
         inherit: true,
         learnset: {
+            poisonjab: [
+                "3L26"
+            ],
             leer: [
                 "3L1"
             ],
@@ -12309,6 +12327,9 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
     mankey: {
         inherit: true,
         learnset: {
+            poisonjab: [
+                "3L41"
+            ],
             scratch: [
                 "3L1"
             ],
@@ -14992,6 +15013,9 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
     victreebel: {
         inherit: true,
         learnset: {
+            poisonjab: [
+                "3L33"
+            ],
             stockpile: [
                 "3L1"
             ],
@@ -16329,6 +16353,9 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
     nidorina: {
         inherit: true,
         learnset: {
+            poisonjab: [
+                "3L26"
+            ],
             growl: [
                 "3L1"
             ],
@@ -16619,6 +16646,9 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
     poliwrath: {
         inherit: true,
         learnset: {
+            poisonjab: [
+                "3L40"
+            ],
             watergun: [
                 "3L1"
             ],
@@ -22098,6 +22128,9 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
     nidoking: {
         inherit: true,
         learnset: {
+            poisonjab: [
+                "3L30"
+            ],
             peck: [
                 "3L1"
             ],
@@ -22298,6 +22331,9 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
     cloyster: {
         inherit: true,
         learnset: {
+            poisonjab: [
+                "3L42"
+            ],
             protect: [
                 "3L1",
                 "3M"
@@ -22312,7 +22348,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
                 "3L51"
             ],
             shadowclaw: [
-                "3L38"
+                "3L34"
             ],
             frustration: [
                 "3M"
@@ -27715,6 +27751,9 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
     sandslash: {
         inherit: true,
         learnset: {
+            poisonjab: [
+                "3L38"
+            ],
             scratch: [
                 "3L1"
             ],
@@ -29690,6 +29729,9 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
     sandshrew: {
         inherit: true,
         learnset: {
+            poisonjab: [
+                "3L35"
+            ],
             scratch: [
                 "3L1"
             ],
@@ -34923,6 +34965,9 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
     rapidash: {
         inherit: true,
         learnset: {
+            poisonjab: [
+                "3L45"
+            ],
             quickattack: [
                 "3L1"
             ],
@@ -34950,7 +34995,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             playrough: [
                 "3L38"
             ],
-            furyattack: [
+            blazekick: [
                 "3L40"
             ],
             bounce: [
@@ -36968,6 +37013,9 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
     hitmonlee: {
         inherit: true,
         learnset: {
+            poisonjab: [
+                "3L38"
+            ],
             revenge: [
                 "3L1"
             ],
@@ -38461,6 +38509,9 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
     primeape: {
         inherit: true,
         learnset: {
+            poisonjab: [
+                "3L49"
+            ],
             scratch: [
                 "3L1"
             ],
@@ -38493,11 +38544,8 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
                 "3L44",
                 "3T"
             ],
-            screech: [
-                "3L53"
-            ],
             thrash: [
-                "3L62"
+                "3L52"
             ],
             sunnyday: [
                 "3M"
@@ -43357,6 +43405,9 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
     seaking: {
         inherit: true,
         learnset: {
+            poisonjab: [
+                "3L29"
+            ],
             peck: [
                 "3L1"
             ],
@@ -44213,6 +44264,9 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
     ekans: {
         inherit: true,
         learnset: {
+            poisonjab: [
+                "3L25"
+            ],
             wrap: [
                 "3L1"
             ],
@@ -48177,6 +48231,9 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
     arbok: {
         inherit: true,
         learnset: {
+            poisonjab: [
+                "3L29"
+            ],
             wrap: [
                 "3L1"
             ],
@@ -49796,6 +49853,9 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
     grimer: {
         inherit: true,
         learnset: {
+            poisonjab: [
+                "3L31"
+            ],
             poisongas: [
                 "3L1"
             ],
@@ -53189,6 +53249,9 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
     tentacool: {
         inherit: true,
         learnset: {
+            poisonjab: [
+                "3L31"
+            ],
             poisonsting: [
                 "3L1"
             ],
@@ -53775,6 +53838,9 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
     tentacruel: {
         inherit: true,
         learnset: {
+            poisonjab: [
+                "3L33"
+            ],
             poisonsting: [
                 "3L1"
             ],

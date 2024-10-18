@@ -960,4 +960,21 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		contestType: "Cute",
 		gen: 3,
 	},
+	poisonjab: {
+		num: -398,
+		accuracy: 100,
+		basePower: 80,
+		category: "Physical",
+		name: "Poison Jab",
+		pp: 20,
+		priority: 0,
+		flags: {contact: 1, protect: 1, mirror: 1, metronome: 1},
+		secondary: {
+			chance: 30,
+			status: 'psn',
+		},
+		target: "normal",
+		type: "Poison",
+		contestType: "Tough",
+	},
 };
