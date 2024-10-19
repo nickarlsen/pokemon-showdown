@@ -977,4 +977,25 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		type: "Poison",
 		contestType: "Tough",
 	},
+	bulletseed: {
+		inherit: true,
+		basePower: 20,
+	},
+	lick: {
+		inherit: true,
+		basePower: 40,
+	},
+	eggbomb: {
+		inherit: true,
+		basePower: 50,
+		accuracy: 100,
+		secondary: {
+			chance: 50,
+			status: 'par',
+		},
+	},
+	leechlife: {
+		inherit: true,
+		basePower: 40,
+	},
 };
