@@ -1,8 +1,3 @@
-
-// FBI fire red pokedex.ts:
-// 
-
-
 export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable = {
 	bulbasaur:
 	{
