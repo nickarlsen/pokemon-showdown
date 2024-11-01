@@ -53967,11 +53967,11 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
     shroomish: {
         inherit: true,
         learnset: {
-            absorb: [
-                "3L1"
-            ],
             tackle: [
                 "3L4"
+            ],
+            absorb: [
+                "3L1"
             ],
             stunspore: [
                 "3L7"
