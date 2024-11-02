@@ -486,160 +486,160 @@ export const FormatsData: import('../../../sim/dex-species').ModdedSpeciesFormat
 		tier: "OU",
 	},
 	skarmory: {
-		tier: "UU",
+		tier: "Uber",
 	},
 	celebi: {
-		tier: "UU",
+		tier: "Uber",
 	},
 	flygon: {
-		tier: "UU",
+		tier: "Uber",
 	},
 	forretress: {
-		tier: "UU",
+		tier: "Uber",
 	},
 	jirachi: {
-		tier: "UU",
+		tier: "Uber",
 	},
 	latias: {
-		tier: "UU",
+		tier: "Uber",
 	},
 	metagross: {
-		tier: "UU",
+		tier: "Uber",
 	},
 	suicune: {
-		tier: "UU",
+		tier: "Uber",
 	},
 	swampert: {
-		tier: "UU",
+		tier: "Uber",
 	},
 	tyranitar: {
-		tier: "UU",
+		tier: "Uber",
 	},
 	chikorita: {
-		tier: "LC",
+		tier: "Uber",
 	},
 	bayleef: {
-		tier: "ZU",
+		tier: "Uber",
 	},
 	meganium: {
-		tier: "UU",
+		tier: "Uber",
 	},
 	cyndaquil: {
-		tier: "ZU",
+		tier: "Uber",
 	},
 	quilava: {
-		tier: "ZU",
+		tier: "Uber",
 	},
 	typhlosion: {
-		tier: "UUBL",
+		tier: "Uber",
 	},
 	totodile: {
-		tier: "LC",
+		tier: "Uber",
 	},
 	croconaw: {
-		tier: "ZU",
+		tier: "Uber",
 	},
 	feraligatr: {
-		tier: "UU",
+		tier: "Uber",
 	},
 	sentret: {
-		tier: "LC",
+		tier: "Uber",
 	},
 	furret: {
-		tier: "PU",
+		tier: "Uber",
 	},
 	hoothoot: {
-		tier: "LC",
+		tier: "Uber",
 	},
 	noctowl: {
-		tier: "ZU",
+		tier: "Uber",
 	},
 	ledyba: {
-		tier: "LC",
+		tier: "Uber",
 	},
 	ledian: {
-		tier: "ZU",
+		tier: "Uber",
 	},
 	spinarak: {
-		tier: "LC",
+		tier: "Uber",
 	},
 	ariados: {
-		tier: "ZU",
+		tier: "Uber",
 	},
 	chinchou: {
-		tier: "ZU",
+		tier: "Uber",
 	},
 	lanturn: {
-		tier: "UU",
+		tier: "Uber",
 	},
 	togepi: {
-		tier: "LC",
+		tier: "Uber",
 	},
 	togetic: {
-		tier: "PU",
+		tier: "Uber",
 	},
 	natu: {
-		tier: "LC",
+		tier: "Uber",
 	},
 	xatu: {
-		tier: "UU",
+		tier: "Uber",
 	},
 	mareep: {
-		tier: "LC",
+		tier: "Uber",
 	},
 	flaaffy: {
-		tier: "ZU",
+		tier: "Uber",
 	},
 	ampharos: {
-		tier: "UU",
+		tier: "Uber",
 	},
 	azurill: {
-		tier: "LC",
+		tier: "Uber",
 	},
 	marill: {
-		tier: "NFE",
+		tier: "Uber",
 	},
 	azumarill: {
-		tier: "UU",
+		tier: "Uber",
 	},
 	sudowoodo: {
-		tier: "NU",
+		tier: "Uber",
 	},
 	hoppip: {
-		tier: "LC",
+		tier: "Uber",
 	},
 	skiploom: {
-		tier: "NFE",
+		tier: "Uber",
 	},
 	jumpluff: {
-		tier: "UU",
+		tier: "Uber",
 	},
 	aipom: {
-		tier: "ZU",
+		tier: "Uber",
 	},
 	sunkern: {
-		tier: "LC",
+		tier: "Uber",
 	},
 	sunflora: {
-		tier: "ZU",
+		tier: "Uber",
 	},
 	yanma: {
-		tier: "ZUBL",
+		tier: "Uber",
 	},
 	wooper: {
-		tier: "LC",
+		tier: "Uber",
 	},
 	quagsire: {
-		tier: "UU",
+		tier: "Uber",
 	},
 	murkrow: {
-		tier: "NU",
+		tier: "Uber",
 	},
 	misdreavus: {
-		tier: "UU",
+		tier: "Uber",
 	},
 	unown: {
-		tier: "ZU",
+		tier: "Uber",
 	},
 	wynaut: {
 		tier: "Uber",
@@ -648,308 +648,308 @@ export const FormatsData: import('../../../sim/dex-species').ModdedSpeciesFormat
 		tier: "Uber",
 	},
 	girafarig: {
-		tier: "UU",
+		tier: "Uber",
 	},
 	pineco: {
-		tier: "PU",
+		tier: "Uber",
 	},
 	dunsparce: {
-		tier: "PUBL",
+		tier: "Uber",
 	},
 	gligar: {
-		tier: "UU",
+		tier: "Uber",
 	},
 	snubbull: {
-		tier: "LC",
+		tier: "Uber",
 	},
 	granbull: {
-		tier: "UU",
+		tier: "Uber",
 	},
 	qwilfish: {
-		tier: "UU",
+		tier: "Uber",
 	},
 	shuckle: {
-		tier: "PU",
+		tier: "Uber",
 	},
 	heracross: {
-		tier: "UU",
+		tier: "Uber",
 	},
 
 	slakoth: {
-		tier: "LC",
+		tier: "Uber",
 	},
 	vigoroth: {
-		tier: "NU",
+		tier: "Uber",
 	},
 	slaking: {
-		tier: "UUBL",
+		tier: "Uber",
 	},
 	nincada: {
-		tier: "LC",
+		tier: "Uber",
 	},
 	ninjask: {
-		tier: "UU",
+		tier: "Uber",
 	},
 	shedinja: {
-		tier: "ZUBL",
+		tier: "Uber",
 	},
 	whismur: {
-		tier: "LC",
+		tier: "Uber",
 	},
 	loudred: {
-		tier: "NFE",
+		tier: "Uber",
 	},
 	exploud: {
-		tier: "UU",
+		tier: "Uber",
 	},
 	makuhita: {
-		tier: "LC",
+		tier: "Uber",
 	},
 	hariyama: {
-		tier: "UUBL",
+		tier: "Uber",
 	},
 	nosepass: {
-		tier: "ZU",
+		tier: "Uber",
 	},
 	skitty: {
-		tier: "LC",
+		tier: "Uber",
 	},
 	delcatty: {
-		tier: "ZU",
+		tier: "Uber",
 	},
 	sableye: {
-		tier: "NU",
+		tier: "Uber",
 	},
 	mawile: {
-		tier: "PU",
+		tier: "Uber",
 	},
 	aron: {
-		tier: "ZU",
+		tier: "Uber",
 	},
 	lairon: {
-		tier: "ZUBL",
+		tier: "Uber",
 	},
 	aggron: {
-		tier: "UU",
+		tier: "Uber",
 	},
 	meditite: {
-		tier: "ZU",
+		tier: "Uber",
 	},
 	medicham: {
-		tier: "UUBL",
+		tier: "Uber",
 	},
 	electrike: {
-		tier: "LC",
+		tier: "Uber",
 	},
 	manectric: {
-		tier: "UU",
+		tier: "Uber",
 	},
 	plusle: {
-		tier: "NU",
+		tier: "Uber",
 	},
 	minun: {
-		tier: "PU",
+		tier: "Uber",
 	},
 	volbeat: {
-		tier: "ZU",
+		tier: "Uber",
 	},
 	illumise: {
-		tier: "ZU",
+		tier: "Uber",
 	},
 	roselia: {
-		tier: "NU",
+		tier: "Uber",
 	},
 	gulpin: {
-		tier: "LC",
+		tier: "Uber",
 	},
 	swalot: {
-		tier: "PU",
+		tier: "Uber",
 	},
 	carvanha: {
-		tier: "LC",
+		tier: "Uber",
 	},
 	sharpedo: {
-		tier: "UU",
+		tier: "Uber",
 	},
 	wailmer: {
-		tier: "LC",
+		tier: "Uber",
 	},
 	wailord: {
-		tier: "NU",
+		tier: "Uber",
 	},
 	numel: {
-		tier: "LC",
+		tier: "Uber",
 	},
 	camerupt: {
-		tier: "UU",
+		tier: "Uber",
 	},
 	torkoal: {
-		tier: "NU",
+		tier: "Uber",
 	},
 	spoink: {
-		tier: "ZU",
+		tier: "Uber",
 	},
 	grumpig: {
-		tier: "UU",
+		tier: "Uber",
 	},
 	spinda: {
-		tier: "ZU",
+		tier: "Uber",
 	},
 	trapinch: {
-		tier: "PU",
+		tier: "Uber",
 	},
 	vibrava: {
-		tier: "PU",
+		tier: "Uber",
 	},
 	cacnea: {
-		tier: "LC",
+		tier: "Uber",
 	},
 	cacturne: {
-		tier: "NU",
+		tier: "Uber",
 	},
 	swablu: {
-		tier: "LC",
+		tier: "Uber",
 	},
 	altaria: {
-		tier: "UU",
+		tier: "Uber",
 	},
 	zangoose: {
-		tier: "UUBL",
+		tier: "Uber",
 	},
 	seviper: {
-		tier: "PU",
+		tier: "Uber",
 	},
 	lunatone: {
-		tier: "UU",
+		tier: "Uber",
 	},
 	solrock: {
-		tier: "UU",
+		tier: "Uber",
 	},
 	barboach: {
-		tier: "LC",
+		tier: "Uber",
 	},
 	whiscash: {
-		tier: "NU",
+		tier: "Uber",
 	},
 	corphish: {
-		tier: "LC",
+		tier: "Uber",
 	},
 	crawdaunt: {
-		tier: "NU",
+		tier: "Uber",
 	},
 	baltoy: {
-		tier: "LC",
+		tier: "Uber",
 	},
 	claydol: {
-		tier: "UU",
+		tier: "Uber",
 	},
 	lileep: {
-		tier: "ZU",
+		tier: "Uber",
 	},
 	cradily: {
-		tier: "UU",
+		tier: "Uber",
 	},
 	anorith: {
-		tier: "ZU",
+		tier: "Uber",
 	},
 	armaldo: {
-		tier: "UUBL",
+		tier: "Uber",
 	},
 	feebas: {
-		tier: "LC",
+		tier: "Uber",
 	},
 	milotic: {
-		tier: "UU",
+		tier: "Uber",
 	},
 	castform: {
-		tier: "ZU",
+		tier: "Uber",
 	},
 	castformsunny: {
-		tier: "ZU",
+		tier: "Uber",
 	},
 	castformrainy: {
-		tier: "ZU",
+		tier: "Uber",
 	},
 	castformsnowy: {
-		tier: "ZU",
+		tier: "Uber",
 	},
 	kecleon: {
-		tier: "NU",
+		tier: "Uber",
 	},
 	shuppet: {
-		tier: "ZU",
+		tier: "Uber",
 	},
 	banette: {
-		tier: "UU",
+		tier: "Uber",
 	},
 	duskull: {
-		tier: "PU",
+		tier: "Uber",
 	},
 	dusclops: {
-		tier: "UUBL",
+		tier: "Uber",
 	},
 	tropius: {
-		tier: "ZU",
+		tier: "Uber",
 	},
 	chimecho: {
-		tier: "NU",
+		tier: "Uber",
 	},
 	absol: {
-		tier: "UU",
+		tier: "Uber",
 	},
 	snorunt: {
-		tier: "ZU",
+		tier: "Uber",
 	},
 	glalie: {
-		tier: "NU",
+		tier: "Uber",
 	},
 	spheal: {
-		tier: "LC",
+		tier: "Uber",
 	},
 	sealeo: {
-		tier: "PU",
+		tier: "Uber",
 	},
 	walrein: {
-		tier: "UU",
+		tier: "Uber",
 	},
 	clamperl: {
-		tier: "ZU",
+		tier: "Uber",
 	},
 	huntail: {
-		tier: "NU",
+		tier: "Uber",
 	},
 	gorebyss: {
-		tier: "UU",
+		tier: "Uber",
 	},
 	relicanth: {
-		tier: "NU",
+		tier: "Uber",
 	},
 	luvdisc: {
-		tier: "ZU",
+		tier: "Uber",
 	},
 	bagon: {
-		tier: "LC",
+		tier: "Uber",
 	},
 	shelgon: {
-		tier: "ZUBL",
+		tier: "Uber",
 	},
 	salamence: {
-		tier: "UU",
+		tier: "Uber",
 	},
 	beldum: {
-		tier: "LC",
+		tier: "Uber",
 	},
 	metang: {
-		tier: "NU",
+		tier: "Uber",
 	},
 	regirock: {
-		tier: "UUBL",
+		tier: "Uber",
 	},
 	regice: {
-		tier: "UUBL",
+		tier: "Uber",
 	},
 	registeel: {
-		tier: "UUBL",
+		tier: "Uber",
 	},
 	latios: {
 		tier: "Uber",
@@ -976,6 +976,6 @@ export const FormatsData: import('../../../sim/dex-species').ModdedSpeciesFormat
 		tier: "Uber",
 	},
 	breloom: {
-		tier: "UU",
+		tier: "Uber",
 	},
 };

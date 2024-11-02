@@ -333,7 +333,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		inherit: true,
 		types: ["Bug", "Psychic"],
 		baseStats: {hp: 60,atk: 55,def: 50,spa: 40,spd: 55,spe: 45},
-		abilities: {0: "Compoundeyes"}
+		abilities: {0: "Compound Eyes"}
 	},
 	venomoth:
 	{
