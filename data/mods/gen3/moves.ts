@@ -978,7 +978,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		contestType: "Tough",
 	},
 	xscissor: {
-		num: -403,
+		num: -404,
 		accuracy: 100,
 		basePower: 80,
 		category: "Physical",
