@@ -3484,7 +3484,6 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 		inherit: true,
 		learnset: {
 			bodyslam: ["3T"],
-			bite: ["3L16"],
 			facade: ["3M"],
 			furyattack: ["3L13"],
 			aerialace: ["3M"],
@@ -3496,7 +3495,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 			mimic: ["3T"],
 			growl: ["3L1"],
 			return: ["3M"],
-			peck: ["3L1"],
+			peck: ["3L1", "3L16"],
 			uproar: ["3L33"],
 			rest: ["3M"],
 			triattack: ["3L21"],
