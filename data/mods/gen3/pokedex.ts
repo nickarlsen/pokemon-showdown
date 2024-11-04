@@ -725,14 +725,14 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		inherit: true,
 		types: ["Ground"],
 		baseStats: {hp: 50,atk: 50,def: 95,spa: 40,spd: 50,spe: 35},
-		abilities: {0: "Rock Head", 1: "Lightningrod"}
+		abilities: {0: "Rock Head", 1: "Lightning Rod"}
 	},
 	marowak:
 	{
 		inherit: true,
 		types: ["Ground"],
 		baseStats: {hp: 60,atk: 80,def: 110,spa: 50,spd: 80,spe: 45},
-		abilities: {0: "Rock Head", 1: "Lightningrod"}
+		abilities: {0: "Rock Head", 1: "Lightning Rod"}
 	},
 	hitmonlee:
 	{
@@ -774,14 +774,14 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		inherit: true,
 		types: ["Ground", "Rock"],
 		baseStats: {hp: 80,atk: 85,def: 95,spa: 30,spd: 30,spe: 25},
-		abilities: {0: "Lightningrod", 1: "Rock Head"}
+		abilities: {0: "Lightning Rod", 1: "Rock Head"}
 	},
 	rhydon:
 	{
 		inherit: true,
 		types: ["Ground", "Rock"],
 		baseStats: {hp: 105,atk: 130,def: 120,spa: 45,spd: 45,spe: 40},
-		abilities: {0: "Lightningrod", 1: "Rock Head"}
+		abilities: {0: "Lightning Rod", 1: "Rock Head"}
 	},
 	chansey:
 	{
