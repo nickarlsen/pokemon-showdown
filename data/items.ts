@@ -958,7 +958,7 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 			return this.chainModify(1.5);
 		},
 		isChoice: true,
-		num: 287,
+		num: -287,
 		gen: 4,
 	},
 	choicespecs: {
@@ -982,7 +982,7 @@ export const Items: import('../sim/dex-items').ItemDataTable = {
 			return this.chainModify(1.5);
 		},
 		isChoice: true,
-		num: 297,
+		num: -297,
 		gen: 4,
 	},
 	chopleberry: {
