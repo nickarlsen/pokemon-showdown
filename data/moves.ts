@@ -10554,7 +10554,7 @@ export const Moves: import('../sim/dex-moves').MoveDataTable = {
 	leechlife: {
 		num: -141,
 		accuracy: 100,
-		basePower: 40,
+		basePower: 50,
 		category: "Physical",
 		name: "Leech Life",
 		pp: 10,
