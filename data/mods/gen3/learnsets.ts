@@ -30420,7 +30420,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             ]
         }
     },
-    walkngwake: {
+    walkingwake: {
         inherit: true,
         learnset: {
             leer: [
