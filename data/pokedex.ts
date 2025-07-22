@@ -7171,34 +7171,34 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
         
     },
-    // articunogalar:{
-    //     num:144,
-    //     name:"Articuno-Galar",
-    //     baseSpecies:"Articuno",
-    //     forme:"Galar",
-    //     types:[
-    //         "Psychic",
-    //         "Flying"
-    //     ],
-    //     gender:"N",
-    //     baseStats:{
-    //         hp:90,
-    //         atk:85,
-    //         def:85,
-    //         spa:125,
-    //         spd:100,
-    //         spe:95
-    //     },
-    //     abilities:{
-    //         0:"Competitive"
-    //     },
-    //     heightm:1.7,
-    //     weightkg:50.9,
-    //     color:"Purple",
-    //     eggGroups:[
-    //         "Undiscovered"
-    //     ]
-    // },
+    articuno:{
+        num:144,
+        name:"Articuno-Galar",
+        baseSpecies:"Articuno",
+        forme:"Galar",
+        types:[
+            "Psychic",
+            "Flying"
+        ],
+        gender:"N",
+        baseStats:{
+            hp:90,
+            atk:85,
+            def:85,
+            spa:125,
+            spd:100,
+            spe:95
+        },
+        abilities:{
+            0:"Competitive"
+        },
+        heightm:1.7,
+        weightkg:50.9,
+        color:"Purple",
+        eggGroups:[
+            "Undiscovered"
+        ]
+    },
     zapdos:{
         num:145,
         name:"Zapdos",
