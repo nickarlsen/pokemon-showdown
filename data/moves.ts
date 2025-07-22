@@ -3873,7 +3873,7 @@ export const Moves: import('../sim/dex-moves').MoveDataTable = {
 	dive: {
 		num: -291,
 		accuracy: 100,
-		basePower: 80,
+		basePower: 110,
 		category: "Physical",
 		name: "Dive",
 		pp: 10,
@@ -5512,7 +5512,7 @@ export const Moves: import('../sim/dex-moves').MoveDataTable = {
 	fireblast: {
 		num: -126,
 		accuracy: 85,
-		basePower: 120,
+		basePower: 110,
 		category: "Special",
 		name: "Fire Blast",
 		pp: 5,
@@ -5813,7 +5813,7 @@ export const Moves: import('../sim/dex-moves').MoveDataTable = {
 		priority: 0,
 		flags: {contact: 1, protect: 1, mirror: 1, defrost: 1, metronome: 1},
 		secondary: {
-			chance: 10,
+			chance: 30,
 			status: 'brn',
 		},
 		target: "normal",
@@ -11034,14 +11034,19 @@ export const Moves: import('../sim/dex-moves').MoveDataTable = {
 	},
 	magicalleaf: {
 		num: -345,
-		accuracy: true,
+		accuracy: 100,
 		basePower: 60,
 		category: "Special",
 		name: "Magical Leaf",
 		pp: 20,
 		priority: 0,
 		flags: {protect: 1, mirror: 1, metronome: 1},
-		secondary: null,
+		secondary: {
+			chance: 50,
+			boosts: {
+				spd: -1,
+			},
+		},
 		target: "normal",
 		type: "Grass",
 		contestType: "Beautiful",
@@ -19216,7 +19221,7 @@ export const Moves: import('../sim/dex-moves').MoveDataTable = {
 	surf: {
 		num: -57,
 		accuracy: 100,
-		basePower: 95,
+		basePower: 90,
 		category: "Special",
 		name: "Surf",
 		pp: 15,

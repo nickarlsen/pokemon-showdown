@@ -273,7 +273,6 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 	},
 	dive: {
 		inherit: true,
-		basePower: 60,
 	},
 	doomdesire: {
 		inherit: true,
@@ -673,7 +672,6 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 	},
 	surf: {
 		inherit: true,
-		target: "allAdjacentFoes",
 	},
 	taunt: {
 		inherit: true,
@@ -758,7 +756,6 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 	},
 	waterfall: {
 		inherit: true,
-		secondary: null,
 	},
 	weatherball: {
 		inherit: true,
