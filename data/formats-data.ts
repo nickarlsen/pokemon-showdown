@@ -158,10 +158,10 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		natDexTier: "RU",
 	},
 	ekans: {
-	tier: "OU",
+	tier: "Uber",
 	},
 	arbok: {
-	tier: "OU",
+	tier: "Uber",
 		doublesTier: "(DUU)",
 		natDexTier: "RU",
 	},
