@@ -177,7 +177,7 @@ export const DefaultText: {[id: IDEntry]: DefaultText} = {
 		damage: "  [POKEMON] was hurt by its burn!",
 	},
 	frz: {
-		start: "  [POKEMON] was frozen solid!",
+		start: "  [POKEMON] was frozen solid!", //fix
 		alreadyStarted: "  [POKEMON] is already frozen solid!",
 		end: "  [POKEMON] thawed out!",
 		endFromItem: "  [POKEMON]'s [ITEM] defrosted it!",

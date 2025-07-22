@@ -13963,11 +13963,11 @@ export const Moves: import('../sim/dex-moves').MoveDataTable = {
 		basePower: 80,
 		category: "Physical",
 		name: "Poison Jab",
-		pp: 20,
+		pp: 15,
 		priority: 0,
 		flags: {contact: 1, protect: 1, mirror: 1, metronome: 1},
 		secondary: {
-			chance: 30,
+			chance: 50,
 			status: 'psn',
 		},
 		target: "normal",
@@ -17235,7 +17235,7 @@ export const Moves: import('../sim/dex-moves').MoveDataTable = {
 	},
 	skittersmack: {
 		num: 806,
-		accuracy: 90,
+		accuracy: 100,
 		basePower: 70,
 		category: "Physical",
 		name: "Skitter Smack",
@@ -22041,45 +22041,47 @@ export const Moves: import('../sim/dex-moves').MoveDataTable = {
 	},
 	tripleslap: {
 		num: 1001,
-		accuracy: 100,
-		basePower: 80,
-		category: "Physical",
-		name: "Triple Slap",
-		pp: 10,
-		priority: 2,
-		flags: {contact: 1, protect: 1, mirror: 1},
-		secondary: {
-			chance: 100,
-			self: {
-				boosts: {
-					evasion: 1,
-				},
-			},
+		accuracy: 90,
+		basePower: 30,
+		basePowerCallback(pokemon, target, move) {
+			return 30 * move.hit;
 		},
+		category: "Physical",
+		pp: 15,
+		priority: 0,
+		flags: {contact: 1, protect: 1, mirror: 1, metronome: 1},
+		multihit: 3,
+		multiaccuracy: true,
+		secondary: null,
 		target: "normal",
-		type: "Electric",
-		contestType: "Cool",
+		type: "Normal",
+		name: "Triple Slap"
 	},
 	diamondcut: {
 		num: 1002,
 		accuracy: 100,
-		basePower: 80,
+		basePower: 130,
 		category: "Physical",
 		name: "Diamond Cut",
 		pp: 10,
-		priority: 2,
-		flags: {contact: 1, protect: 1, mirror: 1},
-		secondary: {
-			chance: 100,
-			self: {
-				boosts: {
-					evasion: 1,
-				},
-			},
+		priority: 1,
+		flags: {contact: 1, charge: 1, protect: 1, mirror: 1, metronome: 1, nosleeptalk: 1, failinstruct: 1},
+		onTryMove(attacker, defender, move) {
+			if (attacker.removeVolatile(move.id)) {
+				return;
+			}
+			this.add('-prepare', attacker, move.name);
+			this.boost({def: 1}, attacker, attacker, move);
+			if (!this.runEvent('ChargeMove', attacker, defender, move)) {
+				return;
+			}
+			attacker.addVolatile('twoturnmove', defender);
+			return null;
 		},
+		secondary: null,
 		target: "normal",
-		type: "Electric",
-		contestType: "Cool",
+		type: "Rock",
+		contestType: "Tough",
 	},
 	balefulwind: {
 		num: 1003,
@@ -22088,312 +22090,242 @@ export const Moves: import('../sim/dex-moves').MoveDataTable = {
 		category: "Physical",
 		name: "Baleful Wind",
 		pp: 10,
-		priority: 2,
+		priority: 0,
 		flags: {contact: 1, protect: 1, mirror: 1},
-		secondary: {
-			chance: 100,
-			self: {
-				boosts: {
-					evasion: 1,
-				},
-			},
-		},
+		
 		target: "normal",
-		type: "Electric",
+		type: "", // fix
 		contestType: "Cool",
 	},
 	lifeshard: {
 		num: 1004,
-		accuracy: 100,
-		basePower: 80,
+		accuracy: 90,
+		basePower: 60,
 		category: "Physical",
 		name: "Life Shard",
-		pp: 10,
-		priority: 2,
-		flags: {contact: 1, protect: 1, mirror: 1},
-		secondary: {
-			chance: 100,
-			self: {
-				boosts: {
-					evasion: 1,
-				},
-			},
-		},
+		pp: 15,
+		priority: 0,
+		flags: {protect: 1, mirror: 1},
+		drain: [1, 2],
+		
 		target: "normal",
-		type: "Electric",
+		type: "Rock",
 		contestType: "Cool",
 	},
 	glittertrap: {
 		num: 1005,
-		accuracy: 100,
-		basePower: 80,
-		category: "Physical",
+		accuracy: 85,
+		basePower: 30,
+		category: "Special",
 		name: "Glitter Trap",
 		pp: 10,
-		priority: 2,
-		flags: {contact: 1, protect: 1, mirror: 1},
-		secondary: {
-			chance: 100,
-			self: {
-				boosts: {
-					evasion: 1,
-				},
-			},
-		},
+		priority: 1, // fix
+		flags: {protect: 1},
+		volatileStatus: 'partiallytrapped',
 		target: "normal",
-		type: "Electric",
+		type: "Rock",
 		contestType: "Cool",
 	},
 	psychosap: {
 		num: 1006,
 		accuracy: 100,
-		basePower: 80,
-		category: "Physical",
+		basePower: 75,
+		category: "Special",
 		name: "Psycho Sap",
 		pp: 10,
-		priority: 2,
-		flags: {contact: 1, protect: 1, mirror: 1},
-		secondary: {
-			chance: 100,
-			self: {
-				boosts: {
-					evasion: 1,
-				},
-			},
-		},
+		priority: 0,
+		flags: {protect: 1, mirror: 1},
+		drain: [1, 2],
 		target: "normal",
-		type: "Electric",
+		type: "Psychic",
 		contestType: "Cool",
 	},
 	fellsweep: {
 		num: 1007,
 		accuracy: 100,
-		basePower: 80,
+		basePower: 70,
 		category: "Physical",
 		name: "Fell Sweep",
-		pp: 10,
-		priority: 2,
+		pp: 15,
+		priority: 0,
 		flags: {contact: 1, protect: 1, mirror: 1},
 		secondary: {
-			chance: 100,
-			self: {
-				boosts: {
-					evasion: 1,
-				},
-			},
+			chance: 30,
+			volatileStatus: 'flinch',
 		},
 		target: "normal",
-		type: "Electric",
+		type: "Normal",
 		contestType: "Cool",
 	},
 	frostbite: {
 		num: 1008,
-		accuracy: 100,
-		basePower: 80,
-		category: "Physical",
+		accuracy: 85,
+		basePower: 30,
+		category: "Special",
 		name: "Frostbite",
 		pp: 10,
-		priority: 2,
-		flags: {contact: 1, protect: 1, mirror: 1},
+		priority: 0,
+		flags: {protect: 1, mirror: 1},
 		secondary: {
 			chance: 100,
-			self: {
-				boosts: {
-					evasion: 1,
-				},
-			},
+			volatileStatus: 'frz',
 		},
 		target: "normal",
-		type: "Electric",
+		type: "Ice",
 		contestType: "Cool",
 	},
 	clayblade: {
 		num: 1009,
-		accuracy: 100,
-		basePower: 80,
+		accuracy: 95,
+		basePower: 40,
 		category: "Physical",
 		name: "Clay Blade",
-		pp: 10,
-		priority: 2,
-		flags: {contact: 1, protect: 1, mirror: 1},
+		pp: 15,
+		priority: 0,
+		flags: {protect: 1, mirror: 1},
 		secondary: {
 			chance: 100,
 			self: {
 				boosts: {
-					evasion: 1,
+					atk: 1,
 				},
 			},
 		},
 		target: "normal",
-		type: "Electric",
+		type: "Ground",
 		contestType: "Cool",
 	},
 	megapierce: {
 		num: 1010,
 		accuracy: 100,
-		basePower: 80,
+		basePower: 90,
 		category: "Physical",
 		name: "Megapierce",
 		pp: 10,
-		priority: 2,
+		priority: 0,
 		flags: {contact: 1, protect: 1, mirror: 1},
-		secondary: {
-			chance: 100,
-			self: {
-				boosts: {
-					evasion: 1,
-				},
-			},
-		},
+		drain: [1, 2],
 		target: "normal",
-		type: "Electric",
+		type: "Bug",
 		contestType: "Cool",
 	},
 	truestrike: {
 		num: 1011,
-		accuracy: 100,
-		basePower: 80,
+		accuracy: true,
+		basePower: 100,
 		category: "Physical",
 		name: "True Strike",
 		pp: 10,
-		priority: 2,
 		flags: {contact: 1, protect: 1, mirror: 1},
-		secondary: {
-			chance: 100,
-			self: {
-				boosts: {
-					evasion: 1,
-				},
-			},
-		},
+		priority: -1,
 		target: "normal",
-		type: "Electric",
+		type: "Fighting",
 		contestType: "Cool",
 	},
 	meteorcrash: {
 		num: 1012,
-		accuracy: 100,
-		basePower: 80,
+		accuracy: 90,
+		basePower: 90,
 		category: "Physical",
 		name: "Meteor Crash",
 		pp: 10,
-		priority: 2,
+		priority: 0,
 		flags: {contact: 1, protect: 1, mirror: 1},
 		secondary: {
-			chance: 100,
+			chance: 50,
 			self: {
 				boosts: {
-					evasion: 1,
+					atk: 1,
 				},
 			},
 		},
 		target: "normal",
-		type: "Electric",
+		type: "Steel",
 		contestType: "Cool",
 	},
 	galeblow: {
 		num: 1013,
-		accuracy: 100,
-		basePower: 80,
+		accuracy: 90,
+		basePower: 70,
 		category: "Physical",
 		name: "Galeblow",
-		pp: 10,
-		priority: 2,
-		flags: {contact: 1, protect: 1, mirror: 1},
+		pp: 25,
+		priority: 0,
+		flags: {protect: 1, mirror: 1},
 		secondary: {
 			chance: 100,
-			self: {
-				boosts: {
-					evasion: 1,
-				},
+			boosts: {
+				spe: -1,
 			},
 		},
 		target: "normal",
-		type: "Electric",
+		type: "Flying",
 		contestType: "Cool",
 	},
 	glacialize: {
 		num: 1014,
-		accuracy: 100,
-		basePower: 80,
+		accuracy: 95,
+		basePower: 70,
 		category: "Physical",
 		name: "Glacialize",
 		pp: 10,
-		priority: 2,
+		priority: 0,
 		flags: {contact: 1, protect: 1, mirror: 1},
 		secondary: {
 			chance: 100,
-			self: {
-				boosts: {
-					evasion: 1,
-				},
+			boosts: {
+				spe: -1,
 			},
 		},
 		target: "normal",
-		type: "Electric",
+		type: "Ice",
 		contestType: "Cool",
 	},
 	headcrack: {
 		num: 1015,
-		accuracy: 100,
-		basePower: 80,
+		accuracy: 95,
+		basePower: 130,
 		category: "Physical",
 		name: "Head Crack",
-		pp: 10,
-		priority: 2,
-		flags: {contact: 1, protect: 1, mirror: 1},
-		secondary: {
-			chance: 100,
-			self: {
-				boosts: {
-					evasion: 1,
-				},
-			},
-		},
+		pp: 15,
+		priority: 0,
+		flags: {protect: 1, mirror: 1},
+		recoil: [1, 3],
 		target: "normal",
-		type: "Electric",
+		type: "Rock",
 		contestType: "Cool",
 	},
 	condemn: {
 		num: 1016,
-		accuracy: 100,
-		basePower: 80,
+		accuracy: 95,
+		basePower: 60,
 		category: "Physical",
 		name: "Condemn",
 		pp: 10,
 		priority: 2,
 		flags: {contact: 1, protect: 1, mirror: 1},
 		secondary: {
-			chance: 100,
-			self: {
-				boosts: {
-					evasion: 1,
-				},
+			chance: 30,
+			boosts: {
+				def: -1,
 			},
 		},
 		target: "normal",
-		type: "Electric",
+		type: "Dark",
 		contestType: "Cool",
 	},
 	hijinks: {
 		num: 1017,
 		accuracy: 100,
-		basePower: 80,
+		basePower: 20,
 		category: "Physical",
 		name: "Hijinks",
-		pp: 10,
-		priority: 2,
+		pp: 20,
+		priority: 0,
 		flags: {contact: 1, protect: 1, mirror: 1},
-		secondary: {
-			chance: 100,
-			self: {
-				boosts: {
-					evasion: 1,
-				},
-			},
-		},
+		multihit: [2, 5],
 		target: "normal",
-		type: "Electric",
+		type: "Fairy",
 		contestType: "Cool",
 	},
 	drainbash: {
@@ -22402,100 +22334,111 @@ export const Moves: import('../sim/dex-moves').MoveDataTable = {
 		basePower: 80,
 		category: "Physical",
 		name: "Drain Bash",
-		pp: 10,
-		priority: 2,
+		pp: 5,
+		priority: 0,
 		flags: {contact: 1, protect: 1, mirror: 1},
-		secondary: {
-			chance: 100,
-			self: {
-				boosts: {
-					evasion: 1,
-				},
-			},
-		},
+		drain: [1, 2],
 		target: "normal",
-		type: "Electric",
+		type: "Fighting",
 		contestType: "Cool",
 	},
 	springwind: {
 		num: 1019,
 		accuracy: 100,
 		basePower: 80,
-		category: "Physical",
+		category: "Special",
 		name: "Spring Wind",
-		pp: 10,
-		priority: 2,
-		flags: {contact: 1, protect: 1, mirror: 1},
-		secondary: {
-			chance: 100,
-			self: {
-				boosts: {
-					evasion: 1,
-				},
-			},
+		pp: 20,
+		priority: 0,
+		flags: {protect: 1, mirror: 1},
+		onAfterHit(target, pokemon, move) {
+			if (!move.hasSheerForce) {
+				if (pokemon.hp && pokemon.removeVolatile('leechseed')) {
+					this.add('-end', pokemon, 'Leech Seed', '[from] move: Spring Wind', '[of] ' + pokemon);
+				}
+				const sideConditions = ['spikes', 'toxicspikes', 'stealthrock', 'stickyweb', 'gmaxsteelsurge'];
+				for (const condition of sideConditions) {
+					if (pokemon.hp && pokemon.side.removeSideCondition(condition)) {
+						this.add('-sideend', pokemon.side, this.dex.conditions.get(condition).name, '[from] move: Spring Wind', '[of] ' + pokemon);
+					}
+				}
+				if (pokemon.hp && pokemon.volatiles['partiallytrapped']) {
+					pokemon.removeVolatile('partiallytrapped');
+				}
+			}
+		},
+		onAfterSubDamage(damage, target, pokemon, move) {
+			if (!move.hasSheerForce) {
+				if (pokemon.hp && pokemon.removeVolatile('leechseed')) {
+					this.add('-end', pokemon, 'Leech Seed', '[from] move: Spring Wind', '[of] ' + pokemon);
+				}
+				const sideConditions = ['spikes', 'toxicspikes', 'stealthrock', 'stickyweb', 'gmaxsteelsurge'];
+				for (const condition of sideConditions) {
+					if (pokemon.hp && pokemon.side.removeSideCondition(condition)) {
+						this.add('-sideend', pokemon.side, this.dex.conditions.get(condition).name, '[from] move: Spring Wind', '[of] ' + pokemon);
+					}
+				}
+				if (pokemon.hp && pokemon.volatiles['partiallytrapped']) {
+					pokemon.removeVolatile('partiallytrapped');
+				}
+			}
 		},
 		target: "normal",
-		type: "Electric",
+		type: "Fairy",
 		contestType: "Cool",
 	},
 	zephyrbash: {
 		num: 1020,
 		accuracy: 100,
-		basePower: 80,
+		basePower: 75,
 		category: "Physical",
 		name: "Zephyr Bash",
 		pp: 10,
-		priority: 2,
-		flags: {contact: 1, protect: 1, mirror: 1},
+		priority: 0,
+		flags: {protect: 1, mirror: 1},
 		secondary: {
 			chance: 100,
 			self: {
 				boosts: {
-					evasion: 1,
+					def: 1,
 				},
 			},
 		},
 		target: "normal",
-		type: "Electric",
+		type: "Flying",
 		contestType: "Cool",
 	},
 	omenpulse: {
 		num: 1021,
 		accuracy: 100,
 		basePower: 80,
-		category: "Physical",
+		category: "Special",
 		name: "Omen Pulse",
-		pp: 10,
-		priority: 2,
-		flags: {contact: 1, protect: 1, mirror: 1},
+		pp: 15,
+		priority: 0,
+		flags: {protect: 1, mirror: 1},
 		secondary: {
 			chance: 100,
-			self: {
-				boosts: {
-					evasion: 1,
-				},
+			boosts: {
+				spa: -1,
 			},
 		},
 		target: "normal",
-		type: "Electric",
+		type: "Dark",
 		contestType: "Cool",
 	},
 	suddenshock: {
 		num: 1022,
 		accuracy: 100,
-		basePower: 80,
-		category: "Physical",
+		basePower: 55,
+		category: "Special",
 		name: "Sudden Shock",
-		pp: 10,
+		pp: 15,
 		priority: 2,
-		flags: {contact: 1, protect: 1, mirror: 1},
+		flags: {protect: 1, mirror: 1},
 		secondary: {
-			chance: 100,
-			self: {
-				boosts: {
-					evasion: 1,
-				},
-			},
+			chance: 20,
+			status: 'par',
 		},
 		target: "normal",
 		type: "Electric",
@@ -22503,296 +22446,265 @@ export const Moves: import('../sim/dex-moves').MoveDataTable = {
 	},
 	rancor: {
 		num: 1023,
-		accuracy: 100,
-		basePower: 80,
+		accuracy: 90,
+		basePower: 70,
 		category: "Physical",
 		name: "Rancor",
 		pp: 10,
-		priority: 2,
-		flags: {contact: 1, protect: 1, mirror: 1},
-		secondary: {
-			chance: 100,
-			self: {
-				boosts: {
-					evasion: 1,
-				},
-			},
+		priority: 0,
+		flags: {protect: 1, mirror: 1},
+		basePowerCallback(pokemon, target, move) {
+			const damagedByTarget = pokemon.attackedBy.some(
+				p => p.source === target && p.damage > 0 && p.thisTurn
+			);
+			if (damagedByTarget) {
+				this.debug('BP doubled for getting hit by ' + target);
+				return move.basePower * 2;
+			}
+			return move.basePower;
 		},
 		target: "normal",
-		type: "Electric",
+		type: "Dragon",
 		contestType: "Cool",
 	},
 	irridate: {
 		num: 1024,
-		accuracy: 100,
-		basePower: 80,
-		category: "Physical",
+		accuracy: 90,
+		basePower: 50,
+		category: "Special",
 		name: "Irradiate",
 		pp: 10,
-		priority: 2,
+		priority: 0,
 		flags: {contact: 1, protect: 1, mirror: 1},
 		secondary: {
 			chance: 100,
-			self: {
-				boosts: {
-					evasion: 1,
-				},
-			},
+			status: 'tox',
 		},
 		target: "normal",
-		type: "Electric",
+		type: "Rock",
 		contestType: "Cool",
 	},
 	hiddenclaw: {
 		num: 1025,
-		accuracy: 100,
+		accuracy: 95,
 		basePower: 80,
 		category: "Physical",
 		name: "Hidden Claw",
-		pp: 10,
-		priority: 2,
-		flags: {contact: 1, protect: 1, mirror: 1},
-		secondary: {
-			chance: 100,
-			self: {
-				boosts: {
-					evasion: 1,
-				},
-			},
-		},
+		pp: 5,
+		priority: 0,
+		flags: {contact: 1, protect: 1, mirror: 1, futuremove: 1},
 		target: "normal",
-		type: "Electric",
+		type: "Normal",
 		contestType: "Cool",
 	},
 	stormwinds: {
 		num: 1026,
-		accuracy: 100,
-		basePower: 80,
-		category: "Physical",
+		accuracy: 90,
+		basePower: 130,
+		category: "Special",
 		name: "Stormwinds",
-		pp: 10,
-		priority: 2,
-		flags: {contact: 1, protect: 1, mirror: 1},
-		secondary: {
-			chance: 100,
-			self: {
-				boosts: {
-					evasion: 1,
-				},
-			},
-		},
+		pp: 5,
+		priority: 0,
+		flags: {protect: 1, mirror: 1},
+		recoil: [1, 3],
 		target: "normal",
-		type: "Electric",
+		type: "Flying",
 		contestType: "Cool",
 	},
 	celestus: {
 		num: 1027,
 		accuracy: 100,
-		basePower: 80,
-		category: "Physical",
+		basePower: 0,
+		category: "Status",
 		name: "Celestus",
 		pp: 10,
-		priority: 2,
+		priority: 0,
 		flags: {contact: 1, protect: 1, mirror: 1},
-		secondary: {
-			chance: 100,
-			self: {
-				boosts: {
-					evasion: 1,
-				},
-			},
+		boosts: {
+			spe: -2,
 		},
 		target: "normal",
-		type: "Electric",
+		type: "Psychic",
 		contestType: "Cool",
 	},
 	wyrmrend: {
 		num: 1028,
 		accuracy: 100,
 		basePower: 80,
-		category: "Physical",
+		category: "Special",
 		name: "Wyrm Rend",
 		pp: 10,
-		priority: 2,
-		flags: {contact: 1, protect: 1, mirror: 1},
-		secondary: {
-			chance: 100,
-			self: {
-				boosts: {
-					evasion: 1,
-				},
-			},
+		priority: 0,
+		flags: {protect: 1, mirror: 1},
+		basePowerCallback(pokemon, target, move) {
+			if (target.status === 'par') {
+				this.debug('BP doubled on paralyzed target');
+				return move.basePower * 2;
+			}
+			return move.basePower;
 		},
 		target: "normal",
-		type: "Electric",
+		type: "Dragon",
 		contestType: "Cool",
 	},
 	formup: {
 		num: 1029,
 		accuracy: 100,
-		basePower: 80,
-		category: "Physical",
+		basePower: 0,
+		category: "Status",
 		name: "Form Up",
 		pp: 10,
-		priority: 2,
+		priority: 0,
 		flags: {contact: 1, protect: 1, mirror: 1},
-		secondary: {
-			chance: 100,
-			self: {
-				boosts: {
-					evasion: 1,
-				},
-			},
+		self: {
+			boosts: {
+				atk: 1,
+				spe: 1,
+			}
 		},
 		target: "normal",
-		type: "Electric",
+		type: "Fighting",
 		contestType: "Cool",
 	},
 	icequeen: {
 		num: 1030,
 		accuracy: 100,
 		basePower: 80,
-		category: "Physical",
+		category: "Special",
 		name: "Ice Queen",
-		pp: 10,
-		priority: 2,
-		flags: {contact: 1, protect: 1, mirror: 1},
+		pp: 15,
+		priority: 0,
+		flags: {protect: 1, mirror: 1},
 		secondary: {
-			chance: 100,
-			self: {
-				boosts: {
-					evasion: 1,
-				},
-			},
+			chance: 30,
+			status: 'frz',
 		},
-		target: "normal",
-		type: "Electric",
+		target: "adjacentFoe",
+		type: "Ice",
 		contestType: "Cool",
 	},
 	trislash: {
 		num: 1031,
 		accuracy: 100,
-		basePower: 80,
+		basePower: 60,
 		category: "Physical",
 		name: "Tri Slash",
-		pp: 10,
-		priority: 2,
+		pp: 15,
+		priority: 0,
 		flags: {contact: 1, protect: 1, mirror: 1},
 		secondary: {
-			chance: 100,
-			self: {
-				boosts: {
-					evasion: 1,
-				},
+			chance: 50,
+			onHit(target, source) {
+				const result = this.random(3);
+				if (result === 0) {
+					target.trySetStatus('brn', source);
+				} else if (result === 1) {
+					target.trySetStatus('par', source);
+				} else {
+					target.trySetStatus('frz', source);
+				}
 			},
 		},
 		target: "normal",
-		type: "Electric",
+		type: "Flying",
 		contestType: "Cool",
 	},
 	limitbreak: {
 		num: 1032,
 		accuracy: 100,
-		basePower: 80,
+		basePower: 100,
 		category: "Physical",
 		name: "Limit Break",
-		pp: 10,
-		priority: 2,
+		pp: 5,
+		priority: 0,
 		flags: {contact: 1, protect: 1, mirror: 1},
 		secondary: {
 			chance: 100,
 			self: {
 				boosts: {
-					evasion: 1,
-				},
-			},
+					atk: 1,
+				}
+			}
 		},
 		target: "normal",
-		type: "Electric",
+		type: "Psychic",
 		contestType: "Cool",
 	},
 	adaptation: {
 		num: 1033,
-		accuracy: 100,
+		accuracy: 50,
 		basePower: 80,
 		category: "Physical",
 		name: "Adaptation",
 		pp: 10,
-		priority: 2,
-		flags: {contact: 1, protect: 1, mirror: 1},
+		priority: 0,
+		flags: {protect: 1, mirror: 1},
 		secondary: {
 			chance: 100,
 			self: {
 				boosts: {
-					evasion: 1,
-				},
-			},
+					atk: 1,
+					def: 1,
+					spa: 1,
+					spd: 1,
+					spe: 1,
+				}
+			}
 		},
 		target: "normal",
-		type: "Electric",
+		type: "Fire",
 		contestType: "Cool",
 	},
 	swarmorder: {
 		num: 1034,
 		accuracy: 100,
-		basePower: 80,
-		category: "Physical",
+		basePower: 60,
+		category: "Special",
 		name: "Swarm Order",
 		pp: 10,
-		priority: 2,
-		flags: {contact: 1, protect: 1, mirror: 1},
+		priority: 0,
+		flags: {protect: 1, mirror: 1},
 		secondary: {
 			chance: 100,
-			self: {
-				boosts: {
-					evasion: 1,
-				},
-			},
+			volatileStatus: 'partiallytrapped',
 		},
 		target: "normal",
-		type: "Electric",
+		type: "Bug",
 		contestType: "Cool",
 	},
 	bugbolt: {
 		num: 1035,
-		accuracy: 100,
-		basePower: 80,
-		category: "Physical",
+		accuracy: 80,
+		basePower: 60,
+		category: "Special",
 		name: "Bugbolt",
 		pp: 10,
-		priority: 2,
-		flags: {contact: 1, protect: 1, mirror: 1},
+		priority: 0,
+		flags: {protect: 1, mirror: 1},
 		secondary: {
 			chance: 100,
-			self: {
-				boosts: {
-					evasion: 1,
-				},
-			},
+			status: 'par',
 		},
 		target: "normal",
-		type: "Electric",
+		type: "Bug",
 		contestType: "Cool",
 	},
 	armorward: {
 		num: 1036,
 		accuracy: 100,
-		basePower: 80,
-		category: "Physical",
+		basePower: 0,
+		category: "Status",
 		name: "Armor Ward",
-		pp: 10,
-		priority: 2,
-		flags: {contact: 1, protect: 1, mirror: 1},
-		secondary: {
-			chance: 100,
-			self: {
-				boosts: {
-					evasion: 1,
-				},
-			},
+		pp: 15,
+		priority: 1,
+		flags: {snatch: 1},
+		self: {
+			boosts: {
+				spd: 2,
+			}
 		},
 		target: "normal",
-		type: "Electric",
+		type: "Normal",
 		contestType: "Cool",
 	},
 

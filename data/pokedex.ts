@@ -1219,7 +1219,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         num:25,
         name:"Pikachu",
         types:[
-            "Electr"
+            "Electric"
         ],
         baseStats:{
             spa:50,
@@ -1750,7 +1750,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         num:26,
         name:"Raichu",
         types:[
-            "Electr"
+            "Electric"
         ],
         baseStats:{
             spa:90,
@@ -3098,7 +3098,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         num:56,
         name:"Mankey",
         types:[
-            "Fight"
+            "Fighting"
         ],
         baseStats:{
             spa:35,
@@ -3128,7 +3128,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         num:57,
         name:"Primeape",
         types:[
-            "Fight"
+            "Fighting"
         ],
         baseStats:{
             spa:60,
@@ -3378,7 +3378,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         name:"Poliwrath",
         types:[
             "Water",
-            "Fight"
+            "Fighting"
         ],
         baseStats:{
             spa:70,
@@ -3408,7 +3408,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         num:63,
         name:"Abra",
         types:[
-            "Psychc"
+            "Psychic"
         ],
         genderRatio:{
             M:0.75,
@@ -3442,7 +3442,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         num:64,
         name:"Kadabra",
         types:[
-            "Psychc"
+            "Psychic"
         ],
         genderRatio:{
             M:0.75,
@@ -3478,7 +3478,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         num:65,
         name:"Alakazam",
         types:[
-            "Psychc"
+            "Psychic"
         ],
         genderRatio:{
             M:0.75,
@@ -3549,7 +3549,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         num:66,
         name:"Machop",
         types:[
-            "Fight"
+            "Fighting"
         ],
         genderRatio:{
             M:0.75,
@@ -3583,7 +3583,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         num:67,
         name:"Machoke",
         types:[
-            "Fight"
+            "Fighting"
         ],
         genderRatio:{
             M:0.75,
@@ -3619,7 +3619,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         num:68,
         name:"Machamp",
         types:[
-            "Fight",
+            "Fighting",
             "Fire"
         ],
         genderRatio:{
@@ -4189,7 +4189,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         name:"Slowpoke",
         types:[
             "Water",
-            "Psychc"
+            "Psychic"
         ],
         baseStats:{
             spa:40,
@@ -4262,7 +4262,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         name:"Slowbro",
         types:[
             "Water",
-            "Psychc"
+            "Psychic"
         ],
         baseStats:{
             spa:100,
@@ -4363,7 +4363,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         num:81,
         name:"Magnemite",
         types:[
-            "Electr",
+            "Electric",
             "Steel"
         ],
         gender:"N",
@@ -4395,7 +4395,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         num:82,
         name:"Magneton",
         types:[
-            "Electr",
+            "Electric",
             "Steel"
         ],
         gender:"N",
@@ -4429,7 +4429,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         num:83,
         name:"Farfetch\u2019d",
         types:[
-            "Fight",
+            "Fighting",
             "Flying"
         ],
         baseStats:{
@@ -5133,7 +5133,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         num:100,
         name:"Voltorb",
         types:[
-            "Electr"
+            "Electric"
         ],
         gender:"N",
         baseStats:{
@@ -5204,7 +5204,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         num:101,
         name:"Electrode",
         types:[
-            "Electr"
+            "Electric"
         ],
         gender:"N",
         baseStats:{
@@ -6011,7 +6011,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         name:"Starmie",
         types:[
             "Water",
-            "Psychc"
+            "Psychic"
         ],
         gender:"N",
         baseStats:{
@@ -6341,7 +6341,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         forme:"Paldea-Combat",
         types:[
             "Rock",
-            "Fight"
+            "Fighting"
         ],
         gender:"M",
         baseStats:{
@@ -6759,7 +6759,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         num:135,
         name:"Jolteon",
         types:[
-            "Electr"
+            "Electric"
         ],
         genderRatio:{
             M:0.875,
@@ -7133,11 +7133,11 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ],
         changesFrom:"Snorlax"
     },
-    articuno:{
+    articunogalar:{
         num:144,
-        name:"Articuno",
+        name:"Articuno-Galar",
         types:[
-            "Psychc",
+            "Psychic",
             "Flying"
         ],
         gender:"N",
@@ -7171,39 +7171,39 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
         
     },
-    articunogalar:{
-        num:144,
-        name:"Articuno-Galar",
-        baseSpecies:"Articuno",
-        forme:"Galar",
-        types:[
-            "Psychic",
-            "Flying"
-        ],
-        gender:"N",
-        baseStats:{
-            hp:90,
-            atk:85,
-            def:85,
-            spa:125,
-            spd:100,
-            spe:95
-        },
-        abilities:{
-            0:"Competitive"
-        },
-        heightm:1.7,
-        weightkg:50.9,
-        color:"Purple",
-        eggGroups:[
-            "Undiscovered"
-        ]
-    },
+    // articunogalar:{
+    //     num:144,
+    //     name:"Articuno-Galar",
+    //     baseSpecies:"Articuno",
+    //     forme:"Galar",
+    //     types:[
+    //         "Psychic",
+    //         "Flying"
+    //     ],
+    //     gender:"N",
+    //     baseStats:{
+    //         hp:90,
+    //         atk:85,
+    //         def:85,
+    //         spa:125,
+    //         spd:100,
+    //         spe:95
+    //     },
+    //     abilities:{
+    //         0:"Competitive"
+    //     },
+    //     heightm:1.7,
+    //     weightkg:50.9,
+    //     color:"Purple",
+    //     eggGroups:[
+    //         "Undiscovered"
+    //     ]
+    // },
     zapdos:{
         num:145,
         name:"Zapdos",
         types:[
-            "Electr",
+            "Electric",
             "Flying"
         ],
         gender:"N",
@@ -7421,7 +7421,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         num:150,
         name:"Mewtwo",
         types:[
-            "Psychc"
+            "Psychic"
         ],
         gender:"N",
         baseStats:{
@@ -7517,7 +7517,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         num:151,
         name:"Mew",
         types:[
-            "Psychc"
+            "Psychic"
         ],
         gender:"N",
         baseStats:{
@@ -8163,7 +8163,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         name:"Chinchou",
         types:[
             "Water",
-            "Electr"
+            "Electric"
         ],
         baseStats:{
             spa:56,
@@ -8194,7 +8194,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         name:"Lanturn",
         types:[
             "Water",
-            "Electr"
+            "Electric"
         ],
         baseStats:{
             spa:94,
@@ -8485,7 +8485,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         num:179,
         name:"Mareep",
         types:[
-            "Electr"
+            "Electric"
         ],
         baseStats:{
             spa:65,
@@ -8516,7 +8516,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         num:180,
         name:"Flaaffy",
         types:[
-            "Electr"
+            "Electric"
         ],
         baseStats:{
             spa:80,
@@ -8549,7 +8549,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         num:181,
         name:"Ampharos",
         types:[
-            "Electr",
+            "Electric",
             "Dragon"
         ],
         baseStats:{
@@ -9084,7 +9084,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         num:196,
         name:"Espeon",
         types:[
-            "Psychc"
+            "Psychic"
         ],
         genderRatio:{
             M:0.875,
@@ -9181,7 +9181,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         name:"Slowking",
         types:[
             "Water",
-            "Psychc"
+            "Psychic"
         ],
         baseStats:{
             spa:100,
@@ -9281,7 +9281,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         name:"Unown",
         baseForme:"A",
         types:[
-            "Psychc"
+            "Psychic"
         ],
         gender:"N",
         baseStats:{
@@ -9367,7 +9367,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         num:202,
         name:"Wobbuffet",
         types:[
-            "Psychc"
+            "Psychic"
         ],
         baseStats:{
             spa:33,
@@ -9397,7 +9397,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         name:"Girafarig",
         types:[
             "Normal",
-            "Psychc"
+            "Psychic"
         ],
         baseStats:{
             spa:95,
@@ -9833,7 +9833,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         name:"Heracross",
         types:[
             "Bug",
-            "Fight"
+            "Fighting"
         ],
         baseStats:{
             spa:40,
@@ -10858,7 +10858,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         num:243,
         name:"Raikou",
         types:[
-            "Electr"
+            "Electric"
         ],
         gender:"N",
         baseStats:{
@@ -11074,7 +11074,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         num:249,
         name:"Lugia",
         types:[
-            "Psychc",
+            "Psychic",
             "Flying"
         ],
         gender:"N",
@@ -11136,7 +11136,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         num:251,
         name:"Celebi",
         types:[
-            "Psychc",
+            "Psychic",
             "Grass"
         ],
         gender:"N",
@@ -11345,7 +11345,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         name:"Combusken",
         types:[
             "Fire",
-            "Fight"
+            "Fighting"
         ],
         genderRatio:{
             M:0.875,
@@ -11381,7 +11381,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         name:"Blaziken",
         types:[
             "Fire",
-            "Fight"
+            "Fighting"
         ],
         genderRatio:{
             M:0.875,
@@ -12257,7 +12257,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         num:280,
         name:"Ralts",
         types:[
-            "Psychc",
+            "Psychic",
             "Fairy"
         ],
         baseStats:{
@@ -12289,7 +12289,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         num:281,
         name:"Kirlia",
         types:[
-            "Psychc",
+            "Psychic",
             "Fairy"
         ],
         baseStats:{
@@ -12324,7 +12324,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         num:282,
         name:"Gardevoir",
         types:[
-            "Psychc",
+            "Psychic",
             "Fairy"
         ],
         baseStats:{
@@ -12482,7 +12482,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         name:"Breloom",
         types:[
             "Grass",
-            "Fight"
+            "Fighting"
         ],
         baseStats:{
             spa:60,
@@ -12783,8 +12783,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         num:296,
         name:"Makuhita",
         types:[
-            "Fight",
-            "Electr"
+            "Fighting",
+            "Electric"
         ],
         genderRatio:{
             M:0.75,
@@ -12818,8 +12818,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         num:297,
         name:"Hariyama",
         types:[
-            "Fight",
-            "Electr"
+            "Fighting",
+            "Electric"
         ],
         genderRatio:{
             M:0.75,
@@ -13245,8 +13245,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         num:307,
         name:"Meditite",
         types:[
-            "Fight",
-            "Psychc"
+            "Fighting",
+            "Psychic"
         ],
         baseStats:{
             spa:40,
@@ -13275,8 +13275,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         num:308,
         name:"Medicham",
         types:[
-            "Fight",
-            "Psychc"
+            "Fighting",
+            "Psychic"
         ],
         baseStats:{
             spa:50,
@@ -13430,7 +13430,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         num:311,
         name:"Plusle",
         types:[
-            "Electr",
+            "Electric",
             "Fire"
         ],
         baseStats:{
@@ -13457,7 +13457,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         num:312,
         name:"Minun",
         types:[
-            "Electr",
+            "Electric",
             "Water"
         ],
         baseStats:{
@@ -14314,7 +14314,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         name:"Lunatone",
         types:[
             "Rock",
-            "Psychc"
+            "Psychic"
         ],
         gender:"N",
         baseStats:{
@@ -14342,7 +14342,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         name:"Solrock",
         types:[
             "Fire",
-            "Psychc"
+            "Psychic"
         ],
         gender:"N",
         baseStats:{
@@ -14429,7 +14429,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         name:"Corphish",
         types:[
             "Water",
-            "Fight"
+            "Fighting"
         ],
         baseStats:{
             spa:50,
@@ -14461,7 +14461,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         name:"Crawdaunt",
         types:[
             "Water",
-            "Fight"
+            "Fighting"
         ],
         baseStats:{
             spa:60,
@@ -14492,7 +14492,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         name:"Baltoy",
         types:[
             "Ground",
-            "Psychc"
+            "Psychic"
         ],
         gender:"N",
         baseStats:{
@@ -14523,7 +14523,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         name:"Claydol",
         types:[
             "Ground",
-            "Psychc"
+            "Psychic"
         ],
         gender:"N",
         baseStats:{
@@ -15079,7 +15079,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         num:358,
         name:"Chimecho",
         types:[
-            "Psychc"
+            "Psychic"
         ],
         baseStats:{
             spa:100,
@@ -15169,7 +15169,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         num:360,
         name:"Wynaut",
         types:[
-            "Psychc"
+            "Psychic"
         ],
         baseStats:{
             spa:23,
@@ -15668,7 +15668,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         name:"Beldum",
         types:[
             "Steel",
-            "Psychc"
+            "Psychic"
         ],
         gender:"N",
         baseStats:{
@@ -15700,7 +15700,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         name:"Metang",
         types:[
             "Steel",
-            "Psychc"
+            "Psychic"
         ],
         gender:"N",
         baseStats:{
@@ -15734,7 +15734,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         name:"Metagross",
         types:[
             "Steel",
-            "Psychc"
+            "Psychic"
         ],
         gender:"N",
         baseStats:{
@@ -15891,7 +15891,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         name:"Latias",
         types:[
             "Dragon",
-            "Psychc"
+            "Psychic"
         ],
         gender:"F",
         baseStats:{
@@ -15958,7 +15958,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         name:"Latios",
         types:[
             "Dragon",
-            "Psychc"
+            "Psychic"
         ],
         gender:"M",
         baseStats:{
@@ -16223,7 +16223,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         name:"Jirachi",
         types:[
             "Steel",
-            "Psychc"
+            "Psychic"
         ],
         gender:"N",
         baseStats:{
@@ -16254,7 +16254,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         name:"Deoxys",
         baseForme:"Normal",
         types:[
-            "Psychc"
+            "Psychic"
         ],
         gender:"N",
         baseStats:{
@@ -18936,7 +18936,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         name:"Magnezone",
         types:[
             "Steel",
-            "Electr"
+            "Electric"
         ],
         gender:"N",
         baseStats:{
@@ -24161,7 +24161,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         num:587,
         name:"Emolga",
         types:[
-            "Electr",
+            "Electric",
             "Flying"
         ],
         baseStats:{
@@ -24390,7 +24390,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         num:595,
         name:"Joltik",
         types:[
-            "Electr",
+            "Electric",
             "Bug"
         ],
         baseStats:{
@@ -24421,7 +24421,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         num:596,
         name:"Galvantula",
         types:[
-            "Electr",
+            "Electric",
             "Bug"
         ],
         baseStats:{
@@ -27890,7 +27890,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         num:686,
         name:"Inkay",
         types:[
-            "Psychc",
+            "Psychic",
             "Poison"
         ],
         baseStats:{
@@ -27922,7 +27922,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         num:687,
         name:"Malamar",
         types:[
-            "Psychc",
+            "Psychic",
             "Poison"
         ],
         baseStats:{
@@ -30042,7 +30042,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         name:"Charjabug",
         types:[
             "Bug",
-            "Electr"
+            "Electric"
         ],
         baseStats:{
             spa:55,
@@ -30074,7 +30074,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         name:"Vikavolt",
         types:[
             "Bug",
-            "Electr"
+            "Electric"
         ],
         baseStats:{
             spa:145,
@@ -32193,7 +32193,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         num:777,
         name:"Togedemaru",
         types:[
-            "Electr",
+            "Electric",
             "Steel"
         ],
         baseStats:{
@@ -33379,7 +33379,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         num:807,
         name:"Zeraora",
         types:[
-            "Electr"
+            "Electric"
         ],
         gender:"N",
         baseStats:{
@@ -35517,7 +35517,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         num:857,
         name:"Hattrem",
         types:[
-            "Psychc",
+            "Psychic",
             "Fairy"
         ],
         gender:"F",
@@ -35551,7 +35551,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         num:858,
         name:"Hatterene",
         types:[
-            "Psychc",
+            "Psychic",
             "Fairy"
         ],
         gender:"F",
@@ -35837,7 +35837,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         num:865,
         name:"Sirfetch\u2019d",
         types:[
-            "Fight",
+            "Fighting",
             "Flying"
         ],
         baseStats:{
@@ -36040,7 +36040,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         num:870,
         name:"Falinks",
         types:[
-            "Fight",
+            "Fighting",
             "Steel"
         ],
         gender:"N",
@@ -40073,7 +40073,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         name:"Annihilape",
         types:[
             "Ghost",
-            "Fight"
+            "Fighting"
         ],
         baseStats:{
             spa:50,
@@ -40134,7 +40134,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         name:"Farigiraf",
         types:[
             "Normal",
-            "Psychc"
+            "Psychic"
         ],
         baseStats:{
             spa:120,
@@ -40263,7 +40263,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         name:"Great Tusk",
         types:[
             "Ground",
-            "Fight"
+            "Fighting"
         ],
         gender:"N",
         baseStats:{
@@ -45010,8 +45010,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:60
         },
         types:[
-            "Fight",
-            "Psychc"
+            "Fighting",
+            "Psychic"
         ],
         
         weightkg:61,
@@ -45229,9 +45229,9 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             1:"Rock head"
         }
     },
-    stingscour:{
+    noxdrill:{
         num:-6017,
-        name:"Stingscour",
+        name:"Noxdrill",
         baseStats:{
             spa:50,
             spd:75,

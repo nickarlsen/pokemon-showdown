@@ -99554,124 +99554,124 @@ export const Learnsets: import('../sim/dex-species').ModdedLearnsetDataTable = {
         inherit: true,
         learnset: {
             tackle: [
-                "3L1"
+                "3L1", "9L1"
             ],
             megadrain: [
-                "3L1"
+                "3L1", "9L1"
             ],
             howl: [
-                "3L7"
+                "3L7", "9L7"
             ],
             vinewhip: [
-                "3L11"
+                "3L11", "9L11"
             ],
             quickattack: [
-                "3L15"
+                "3L15", "9L15"
             ],
             snarl: [
-                "3L17"
+                "3L17", "9L17"
             ],
             revenge: [
-                "3L19"
+                "3L19", "9L19"
             ],
             razorleaf: [
-                "3L22"
+                "3L22", "9L22"
             ],
             leechseed: [
-                "3L24"
+                "3L24", "9L24"
             ],
             takedown: [
-                "3L27"
+                "3L27", "9L27"
             ],
             poisonfang: [
-                "3L29"
+                "3L29", "9L29"
             ],
             fakeout: [
-                "3L31",
-                "3M",
-                "3T"
+                "3L31", "9L31",
+                "3M", "9M",
+                "3T", "9T"
             ],
             agility: [
-                "3L34"
+                "3L34", "9L34"
             ],
             leafblade: [
-                "3L36"
+                "3L36", "9L36"
             ],
             drainbash: [
-                "3L39"
+                "3L39", "9L39"
             ],
             aromatherapy: [
-                "3L42"
+                "3L42", "9L42"
             ],
             headcrack: [
-                "3L46"
+                "3L46", "9L46"
             ],
             extremespeed: [
-                "3L50"
+                "3L50", "9L50"
             ],
             protect: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             sludgebomb: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             secretpower: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             facade: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             sunnyday: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             flash: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             trailblaze: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             hiddenpower: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             toxic: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             cut: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             return: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             hyperbeam: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             solarbeam: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             gigadrain: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             rest: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             bulletseed: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ]
         }
     },
@@ -99679,129 +99679,129 @@ export const Learnsets: import('../sim/dex-species').ModdedLearnsetDataTable = {
         inherit: true,
         learnset: {
             astonish: [
-                "3L1"
+                "3L1", "9L1"
             ],
             screech: [
-                "3L8"
+                "3L8", "9L8"
             ],
             knockoff: [
-                "3L13"
+                "3L13", "9L13"
             ],
             curse: [
-                "3L16"
+                "3L16", "9L16"
             ],
             shadowsneak: [
-                "3L19"
+                "3L19", "9L19"
             ],
             confuseray: [
-                "3L21"
+                "3L21", "9L21"
             ],
             painsplit: [
-                "3L23"
+                "3L23", "9L23"
             ],
             willowisp: [
-                "3L26"
+                "3L26", "9L26"
             ],
             shadowclaw: [
-                "3L29"
+                "3L29", "9L29"
             ],
             spite: [
-                "3L33"
+                "3L33", "9L33"
             ],
             nightslash: [
-                "3L36"
+                "3L36", "9L36"
             ],
             swordsdance: [
-                "3L40"
+                "3L40", "9L40"
             ],
             phantomrush: [
-                "3L44"
+                "3L44", "9L44"
             ],
             clayblade: [
-                "3L48"
+                "3L48", "9L48"
             ],
             agility: [
-                "3L52"
+                "3L52", "9L52"
             ],
             sunnyday: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             shadowball: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             calmmind: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             toxic: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             thunder: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             return: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             protect: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             psychic: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             thunderbolt: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             brickbreak: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             flash: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             discharge: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             raindance: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             skillswap: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             hyperbeam: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             rest: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             secretpower: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             facade: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             hiddenpower: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             poisonjab: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ]
         }
     },
@@ -99809,144 +99809,144 @@ export const Learnsets: import('../sim/dex-species').ModdedLearnsetDataTable = {
         inherit: true,
         learnset: {
             leer: [
-                "3L1"
+                "3L1", "9L1"
             ],
             scratch: [
-                "3L1"
+                "3L1", "9L1"
             ],
             overdrive: [
-                "3L5"
+                "3L5", "9L5"
             ],
             nightshade: [
-                "3L9"
+                "3L9", "9L9"
             ],
             astonish: [
-                "3L13"
+                "3L13", "9L13"
             ],
             willowisp: [
-                "3L17"
+                "3L17", "9L17"
             ],
             fakeout: [
-                "3L21",
-                "3M",
-                "3T"
+                "3L21", "9L21",
+                "3M", "9M",
+                "3T", "9T"
             ],
             detect: [
-                "3L25"
+                "3L25", "9L25"
             ],
             shadowpunch: [
-                "3L27"
+                "3L27", "9L27"
             ],
             knockoff: [
-                "3L33"
+                "3L33", "9L33"
             ],
             sandtomb: [
-                "3L35"
+                "3L35", "9L35"
             ],
             confuseray: [
-                "3L37"
+                "3L37", "9L37"
             ],
             gunkshot: [
-                "3L41"
+                "3L41", "9L41"
             ],
             phantomrush: [
-                "3L44"
+                "3L44", "9L44"
             ],
             glittertrap: [
-                "3L46"
+                "3L46", "9L46"
             ],
             focuspunch: [
-                "3L50",
-                "3M",
-                "3T"
+                "3L50", "9L50",
+                "3M", "9M",
+                "3T", "9T"
             ],
             sunnyday: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             aerialace: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             calmmind: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             shadowball: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             toxic: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             cut: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             return: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             rocksmash: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             protect: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             rocktomb: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             psychic: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             brickbreak: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             flash: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             waterpulse: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             raindance: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             dig: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             rest: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             secretpower: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             facade: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             balefulwind: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             hiddenpower: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             poisonjab: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ]
         }
     },
@@ -99954,142 +99954,142 @@ export const Learnsets: import('../sim/dex-species').ModdedLearnsetDataTable = {
         inherit: true,
         learnset: {
             tailwhip: [
-                "3L1"
+                "3L1", "9L1"
             ],
             ember: [
-                "3L1"
+                "3L1", "9L1"
             ],
             snarl: [
-                "3L8"
+                "3L8", "9L8"
             ],
             roar: [
-                "3L10",
-                "3M",
-                "3T"
+                "3L10", "9L10",
+                "3M", "9M",
+                "3T", "9T"
             ],
             sunnyday: [
-                "3L14"
+                "3L14", "9L14"
             ],
             firespin: [
-                "3L17",
-                "3M",
-                "3T"
+                "3L17", "9L17",
+                "3M", "9M",
+                "3T", "9T"
             ],
             confuseray: [
-                "3L20"
+                "3L20", "9L20"
             ],
             willowisp: [
-                "3L24"
+                "3L24", "9L24"
             ],
             aurorabeam: [
-                "3L25"
+                "3L25", "9L25"
             ],
             wish: [
-                "3L27"
+                "3L27", "9L27"
             ],
             flamethrower: [
-                "3L29",
-                "3M",
-                "3T"
+                "3L29", "9L29",
+                "3M", "9M",
+                "3T", "9T"
             ],
             charm: [
-                "3L32"
+                "3L32", "9L32"
             ],
             springwind: [
-                "3L31"
+                "3L31", "9L31"
             ],
             fireblast: [
-                "3L38",
-                "3M",
-                "3T"
+                "3L38", "9L38",
+                "3M", "9M",
+                "3T", "9T"
             ],
             icequeen: [
-                "3L40"
+                "3L40", "9L40"
             ],
             nastyplot: [
-                "3L42"
+                "3L42", "9L42"
             ],
             weatherball: [
-                "3L45"
+                "3L45", "9L45"
             ],
             memento: [
-                "3L50"
+                "3L50", "9L50"
             ],
             hail: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             reflect: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             shadowball: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             toxic: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             return: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             irontail: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             protect: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             moonblast: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             lightscreen: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             overheat: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             blizzard: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             icebeam: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             hyperbeam: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             dig: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             rest: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             secretpower: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             facade: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             balefulwind: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             hiddenpower: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ]
         }
     },
@@ -100097,119 +100097,119 @@ export const Learnsets: import('../sim/dex-species').ModdedLearnsetDataTable = {
         inherit: true,
         learnset: {
             whirlpool: [
-                "3L1"
+                "3L1", "9L1"
             ],
             bubble: [
-                "3L1"
+                "3L1", "9L1"
             ],
             yawn: [
-                "3L8"
+                "3L8", "9L8"
             ],
             snarl: [
-                "3L12"
+                "3L12", "9L12"
             ],
             bubblebeam: [
-                "3L15"
+                "3L15", "9L15"
             ],
             drainingkiss: [
-                "3L18"
+                "3L18", "9L18"
             ],
             charm: [
-                "3L23"
+                "3L23", "9L23"
             ],
             icywind: [
-                "3L27"
+                "3L27", "9L27"
             ],
             waterpulse: [
-                "3L30",
-                "3M",
-                "3T"
+                "3L30", "9L30",
+                "3M", "9M",
+                "3T", "9T"
             ],
             springwind: [
-                "3L33"
+                "3L33", "9L33"
             ],
             wish: [
-                "3L38"
+                "3L38", "9L38"
             ],
             omenpulse: [
-                "3L40"
+                "3L40", "9L40"
             ],
             moonblast: [
-                "3L42",
-                "3M",
-                "3T"
+                "3L42", "9L42",
+                "3M", "9M",
+                "3T", "9T"
             ],
             faketears: [
-                "3L44"
+                "3L44", "9L44"
             ],
             icebeam: [
-                "3L46",
-                "3M",
-                "3T"
+                "3L46", "9L46",
+                "3M", "9M",
+                "3T", "9T"
             ],
             hail: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             shadowball: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             toxic: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             return: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             protect: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             surf: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             psychic: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             raindance: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             blizzard: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             waterfall: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             dive: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             hyperbeam: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             rest: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             secretpower: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             facade: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             hiddenpower: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ]
         }
     },
@@ -100217,137 +100217,137 @@ export const Learnsets: import('../sim/dex-species').ModdedLearnsetDataTable = {
         inherit: true,
         learnset: {
             confusion: [
-                "3L10"
+                "3L10", "9L10"
             ],
             poisonpowder: [
-                "3L13"
+                "3L13", "9L13"
             ],
             stunspore: [
-                "3L14"
+                "3L14", "9L14"
             ],
             sleeppowder: [
-                "3L15"
+                "3L15", "9L15"
             ],
             supersonic: [
-                "3L18"
+                "3L18", "9L18"
             ],
             gust: [
-                "3L21"
+                "3L21", "9L21"
             ],
             whirlwind: [
-                "3L24"
+                "3L24", "9L24"
             ],
             signalbeam: [
-                "3L27"
+                "3L27", "9L27"
             ],
             dragonbreath: [
-                "3L30"
+                "3L30", "9L30"
             ],
             confuseray: [
-                "3L33"
+                "3L33", "9L33"
             ],
             bugbolt: [
-                "3L37"
+                "3L37", "9L37"
             ],
             nastyplot: [
-                "3L41"
+                "3L41", "9L41"
             ],
             wyrmrend: [
-                "3L44"
+                "3L44", "9L44"
             ],
             stormwinds: [
-                "3L48"
+                "3L48", "9L48"
             ],
             drainingkiss: [
-                "3L51"
+                "3L51", "9L51"
             ],
             galeblow: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             sunnyday: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             toxic: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             thunder: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             return: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             gigadrain: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             protect: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             psychic: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             thunderbolt: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             flash: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             moonblast: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             waterpulse: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             solarbeam: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             hyperbeam: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             dig: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             rest: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             sludgebomb: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             secretpower: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             facade: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             balefulwind: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             hiddenpower: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             poisonjab: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ]
         }
     },
@@ -100355,165 +100355,165 @@ export const Learnsets: import('../sim/dex-species').ModdedLearnsetDataTable = {
         inherit: true,
         learnset: {
             peck: [
-                "3L1"
+                "3L1", "9L1"
             ],
             growl: [
-                "3L1"
+                "3L1", "9L1"
             ],
             quickattack: [
-                "3L1"
+                "3L1", "9L1"
             ],
             sing: [
-                "3L11"
+                "3L11", "9L11"
             ],
             willowisp: [
-                "3L16"
+                "3L16", "9L16"
             ],
             wingattack: [
-                "3L19"
+                "3L19", "9L19"
             ],
             hijinks: [
-                "3L24"
+                "3L24", "9L24"
             ],
             dragonclaw: [
-                "3L30",
-                "3M",
-                "3T"
+                "3L30", "9L30",
+                "3M", "9M",
+                "3T", "9T"
             ],
             bodyslam: [
-                "3L33"
+                "3L33", "9L33"
             ],
             dragondance: [
-                "3L36"
+                "3L36", "9L36"
             ],
             recover: [
-                "3L39"
+                "3L39", "9L39"
             ],
             dracorush: [
-                "3L42"
+                "3L42", "9L42"
             ],
             playrough: [
-                "3L45"
+                "3L45", "9L45"
             ],
             healbell: [
-                "3L47"
+                "3L47", "9L47"
             ],
             extremespeed: [
-                "3L50"
+                "3L50", "9L50"
             ],
             flareblitz: [
-                "3L54"
+                "3L54", "9L54"
             ],
             outrage: [
-                "3L58"
+                "3L58", "9L58"
             ],
             fireblast: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             sunnyday: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             galeblow: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             roar: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             aerialace: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             trailblaze: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             toxic: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             return: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             rocksmash: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             irontail: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             protect: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             surf: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             steelwing: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             solarbeam: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             fly: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             earthquake: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             firespin: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             raindance: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             icebeam: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             waterfall: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             hyperbeam: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             rest: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             flamethrower: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             secretpower: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             facade: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             hiddenpower: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             poisonjab: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ]
         }
     },
@@ -100521,140 +100521,140 @@ export const Learnsets: import('../sim/dex-species').ModdedLearnsetDataTable = {
         inherit: true,
         learnset: {
             tackle: [
-                "3L1"
+                "3L1", "9L1"
             ],
             meditate: [
-                "3L4"
+                "3L4", "9L4"
             ],
             supersonic: [
-                "3L9"
+                "3L9", "9L9"
             ],
             detect: [
-                "3L12"
+                "3L12", "9L12"
             ],
             lowkick: [
-                "3L15"
+                "3L15", "9L15"
             ],
             hiddenpower: [
-                "3L18",
-                "3M",
-                "3T"
+                "3L18", "9L18",
+                "3M", "9M",
+                "3T", "9T"
             ],
             ironhead: [
-                "3L22"
+                "3L22", "9L22"
             ],
             fakeout: [
-                "3L25",
-                "3M",
-                "3T"
+                "3L25", "9L25",
+                "3M", "9M",
+                "3T", "9T"
             ],
             machpunch: [
-                "3L28"
+                "3L28", "9L28"
             ],
             overdrive: [
-                "3L31"
+                "3L31", "9L31"
             ],
             hijumpkick: [
-                "3L34"
+                "3L34", "9L34"
             ],
             icepunch: [
-                "3L38"
+                "3L38", "9L38"
             ],
             shadowsneak: [
-                "3L42"
+                "3L42", "9L42"
             ],
             recover: [
-                "3L45"
+                "3L45", "9L45"
             ],
             drainbash: [
-                "3L48"
+                "3L48", "9L48"
             ],
             reversal: [
-                "3L52"
+                "3L52", "9L52"
             ],
             reflect: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             sunnyday: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             focuspunch: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             calmmind: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             shadowball: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             toxic: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             trailblaze: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             return: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             rocksmash: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             rocktomb: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             psychic: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             brickbreak: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             flash: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             strength: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             lightscreen: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             raindance: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             hyperbeam: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             rest: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             secretpower: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             facade: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             bulkup: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ]
         }
     },
@@ -100662,147 +100662,147 @@ export const Learnsets: import('../sim/dex-species').ModdedLearnsetDataTable = {
         inherit: true,
         learnset: {
             frostbite: [
-                "3L1"
+                "3L1", "9L1"
             ],
             leer: [
-                "3L1"
+                "3L1", "9L1"
             ],
             bite: [
-                "3L1"
+                "3L1", "9L1"
             ],
             headbutt: [
-                "3L19"
+                "3L19", "9L19"
             ],
             snarl: [
-                "3L13"
+                "3L13", "9L13"
             ],
             icywind: [
-                "3L16"
+                "3L16", "9L16"
             ],
             omenpulse: [
-                "3L23"
+                "3L23", "9L23"
             ],
             protect: [
-                "3L24",
-                "3M",
-                "3T"
+                "3L24", "9L24",
+                "3M", "9M",
+                "3T", "9T"
             ],
             avalanche: [
-                "3L26"
+                "3L26", "9L26"
             ],
             fakeout: [
-                "3L29"
+                "3L29", "9L29"
             ],
             crunch: [
-                "3L32"
+                "3L32", "9L32"
             ],
             icebeam: [
-                "3L35",
-                "3M",
-                "3T"
+                "3L35", "9L35",
+                "3M", "9M",
+                "3T", "9T"
             ],
             knockoff: [
-                "3L39"
+                "3L39", "9L39"
             ],
             glacialize: [
-                "3L42"
+                "3L42", "9L42"
             ],
             superpower: [
-                "3L45"
+                "3L45", "9L45"
             ],
             rancor: [
-                "3L49"
+                "3L49", "9L49"
             ],
             explosion: [
-                "3L53"
+                "3L53", "9L53"
             ],
             hail: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             reflect: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             roar: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             shadowball: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             calmmind: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             trailblaze: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             toxic: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             return: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             psychic: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             flash: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             selfdestruct: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             lightscreen: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             waterpulse: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             earthquake: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             blizzard: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             hyperbeam: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             dig: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             rest: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             secretpower: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             facade: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             balefulwind: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             hiddenpower: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ]
         }
     },
@@ -100810,130 +100810,130 @@ export const Learnsets: import('../sim/dex-species').ModdedLearnsetDataTable = {
         inherit: true,
         learnset: {
             astonish: [
-                "3L1"
+                "3L1", "9L1"
             ],
             bite: [
-                "3L6"
+                "3L6", "9L6"
             ],
             quickattack: [
-                "3L11"
+                "3L11", "9L11"
             ],
             fakeout: [
-                "3L14",
-                "3M",
-                "3T"
+                "3L14", "9L14",
+                "3M", "9M",
+                "3T", "9T"
             ],
             spikecannon: [
-                "3L17"
+                "3L17", "9L17"
             ],
             hijinks: [
-                "3L20"
+                "3L20", "9L20"
             ],
             scaryface: [
-                "3L23"
+                "3L23", "9L23"
             ],
             clayblade: [
-                "3L26"
+                "3L26", "9L26"
             ],
             crunch: [
-                "3L28"
+                "3L28", "9L28"
             ],
             batonpass: [
-                "3L30"
+                "3L30", "9L30"
             ],
             agility: [
-                "3L32"
+                "3L32", "9L32"
             ],
             bulletpunch: [
-                "3L35"
+                "3L35", "9L35"
             ],
             playrough: [
-                "3L37"
+                "3L37", "9L37"
             ],
             irondefense: [
-                "3L40"
+                "3L40", "9L40"
             ],
             thunderpunch: [
-                "3L44"
+                "3L44", "9L44"
             ],
             meteorcrash: [
-                "3L48"
+                "3L48", "9L48"
             ],
             fireblast: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             sunnyday: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             focuspunch: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             toxic: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             cut: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             return: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             rocksmash: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             protect: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             rocktomb: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             brickbreak: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             raindance: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             icebeam: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             hyperbeam: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             rest: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             sludgebomb: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             secretpower: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             facade: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             hiddenpower: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             strength: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ]
         }
     },
@@ -100941,149 +100941,149 @@ export const Learnsets: import('../sim/dex-species').ModdedLearnsetDataTable = {
         inherit: true,
         learnset: {
             slash: [
-                "3L1"
+                "3L1", "9L1"
             ],
             pursuit: [
-                "3L5"
+                "3L5", "9L5"
             ],
             aerialace: [
-                "3L8",
-                "3M",
-                "3T"
+                "3L8", "9L8",
+                "3M", "9M",
+                "3T", "9T"
             ],
             rocktomb: [
-                "3L13",
-                "3M",
-                "3T"
+                "3L13", "9L13",
+                "3M", "9M",
+                "3T", "9T"
             ],
             magnitude: [
-                "3L16"
+                "3L16", "9L16"
             ],
             knockoff: [
-                "3L20"
+                "3L20", "9L20"
             ],
             screech: [
-                "3L24"
+                "3L24", "9L24"
             ],
             glacialize: [
-                "3L26"
+                "3L26", "9L26"
             ],
             clayblade: [
-                "3L28"
+                "3L28", "9L28"
             ],
             willowisp: [
-                "3L33"
+                "3L33", "9L33"
             ],
             condemn: [
-                "3L37"
+                "3L37", "9L37"
             ],
             sandtomb: [
-                "3L40"
+                "3L40", "9L40"
             ],
             swordsdance: [
-                "3L44"
+                "3L44", "9L44"
             ],
             gunkshot: [
-                "3L49"
+                "3L49", "9L49"
             ],
             nightslash: [
-                "3L53"
+                "3L53", "9L53"
             ],
             reflect: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             sunnyday: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             roar: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             trailblaze: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             toxic: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             cut: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             return: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             rocksmash: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             protect: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             brickbreak: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             strength: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             selfdestruct: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             lightscreen: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             earthquake: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             raindance: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             hyperbeam: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             dig: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             rest: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             secretpower: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             facade: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             sandstorm: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             hiddenpower: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             bulkup: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             poisonjab: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ]
         }
     },
@@ -101091,148 +101091,148 @@ export const Learnsets: import('../sim/dex-species').ModdedLearnsetDataTable = {
         inherit: true,
         learnset: {
             wrap: [
-                "3L1"
+                "3L1", "9L1"
             ],
             lick: [
-                "3L7"
+                "3L7", "9L7"
             ],
             bite: [
-                "3L10"
+                "3L10", "9L10"
             ],
             poisontail: [
-                "3L16"
+                "3L16", "9L16"
             ],
             knockoff: [
-                "3L19"
+                "3L19", "9L19"
             ],
             clayblade: [
-                "3L22"
+                "3L22", "9L22"
             ],
             poisonfang: [
-                "3L24"
+                "3L24", "9L24"
             ],
             scaryface: [
-                "3L26"
+                "3L26", "9L26"
             ],
             nightslash: [
-                "3L30"
+                "3L30", "9L30"
             ],
             glare: [
-                "3L32"
+                "3L32", "9L32"
             ],
             haze: [
-                "3L35"
+                "3L35", "9L35"
             ],
             crunch: [
-                "3L38"
+                "3L38", "9L38"
             ],
             gunkshot: [
-                "3L42"
+                "3L42", "9L42"
             ],
             dracorush: [
-                "3L45"
+                "3L45", "9L45"
             ],
             dragondance: [
-                "3L50"
+                "3L50", "9L50"
             ],
             outrage: [
-                "3L55"
+                "3L55", "9L55"
             ],
             sunnyday: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             aerialace: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             trailblaze: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             toxic: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             cut: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             return: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             rocksmash: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             irontail: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             gigadrain: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             protect: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             rocktomb: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             earthquake: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             firespin: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             raindance: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             hyperbeam: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             dig: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             rest: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             flamethrower: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             sludgebomb: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             secretpower: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             facade: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             hiddenpower: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             strength: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             poisonjab: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ]
         }
     },
@@ -101240,139 +101240,139 @@ export const Learnsets: import('../sim/dex-species').ModdedLearnsetDataTable = {
         inherit: true,
         learnset: {
             astonish: [
-                "3L1"
+                "3L1", "9L1"
             ],
             screech: [
-                "3L8"
+                "3L8", "9L8"
             ],
             knockoff: [
-                "3L13"
+                "3L13", "9L13"
             ],
             curse: [
-                "3L16"
+                "3L16", "9L16"
             ],
             shadowsneak: [
-                "3L19"
+                "3L19", "9L19"
             ],
             confuseray: [
-                "3L21"
+                "3L21", "9L21"
             ],
             painsplit: [
-                "3L23"
+                "3L23", "9L23"
             ],
             willowisp: [
-                "3L26"
+                "3L26", "9L26"
             ],
             shadowclaw: [
-                "3L29"
+                "3L29", "9L29"
             ],
             fakeout: [
-                "3L33",
-                "3M",
-                "3T"
+                "3L33", "9L33",
+                "3M", "9M",
+                "3T", "9T"
             ],
             omenpulse: [
-                "3L36"
+                "3L36", "9L36"
             ],
             memento: [
-                "3L40"
+                "3L40", "9L40"
             ],
             sludgewave: [
-                "3L44"
+                "3L44", "9L44"
             ],
             bittermalice: [
-                "3L48"
+                "3L48", "9L48"
             ],
             celestus: [
-                "3L52"
+                "3L52", "9L52"
             ],
             reflect: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             sunnyday: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             shadowball: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             calmmind: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             toxic: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             thunder: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             return: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             protect: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             psychic: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             thunderbolt: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             flash: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             lightscreen: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             discharge: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             raindance: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             skillswap: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             hyperbeam: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             rest: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             sludgebomb: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             secretpower: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             facade: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             hiddenpower: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             poisonjab: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ]
         }
     },
@@ -101380,124 +101380,124 @@ export const Learnsets: import('../sim/dex-species').ModdedLearnsetDataTable = {
         inherit: true,
         learnset: {
             growl: [
-                "3L1"
+                "3L1", "9L1"
             ],
             tackle: [
-                "3L1"
+                "3L1", "9L1"
             ],
             magnitude: [
-                "3L8"
+                "3L8", "9L8"
             ],
             ember: [
-                "3L11"
+                "3L11", "9L11"
             ],
             rocktomb: [
-                "3L14",
-                "3M",
-                "3T"
+                "3L14", "9L14",
+                "3M", "9M",
+                "3T", "9T"
             ],
             mudshot: [
-                "3L16"
+                "3L16", "9L16"
             ],
             recover: [
-                "3L19"
+                "3L19", "9L19"
             ],
             smog: [
-                "3L23"
+                "3L23", "9L23"
             ],
             flamethrower: [
-                "3L26",
-                "3M",
-                "3T"
+                "3L26", "9L26",
+                "3M", "9M",
+                "3T", "9T"
             ],
             spikes: [
-                "3L28"
+                "3L28", "9L28"
             ],
             lavaplume: [
-                "3L32"
+                "3L32", "9L32"
             ],
             ancientpower: [
-                "3L35"
+                "3L35", "9L35"
             ],
             earthpower: [
-                "3L38"
+                "3L38", "9L38"
             ],
             eruption: [
-                "3L43"
+                "3L43", "9L43"
             ],
             amnesia: [
-                "3L47"
+                "3L47", "9L47"
             ],
             nastyplot: [
-                "3L50"
+                "3L50", "9L50"
             ],
             fireblast: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             sunnyday: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             roar: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             toxic: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             return: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             rocksmash: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             protect: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             selfdestruct: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             firespin: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             overheat: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             hyperbeam: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             rest: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             secretpower: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             facade: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             sandstorm: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             hiddenpower: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             strength: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ]
         }
     },
@@ -101505,164 +101505,272 @@ export const Learnsets: import('../sim/dex-species').ModdedLearnsetDataTable = {
         inherit: true,
         learnset: {
             quickattack: [
-                "3L1"
+                "3L1", "9L1"
             ],
             uproar: [
-                "3L15"
+                "3L15", "9L15"
             ],
             headbutt: [
-                "3L1"
+                "3L1", "9L1"
             ],
             psybeam: [
-                "3L10"
+                "3L10", "9L10"
             ],
             willowisp: [
-                "3L12"
+                "3L12", "9L12"
             ],
             dizzypunch: [
-                "3L17"
+                "3L17", "9L17"
             ],
             teeterdance: [
-                "3L21"
+                "3L21", "9L21"
             ],
             fakeout: [
-                "3L25",
-                "3M",
-                "3T"
+                "3L25", "9L25",
+                "3M", "9M",
+                "3T", "9T"
             ],
             shadowsneak: [
-                "3L29"
+                "3L29", "9L29"
             ],
             drainingkiss: [
-                "3L33"
+                "3L33", "9L33"
             ],
             flareblitz: [
-                "3L37"
+                "3L37", "9L37"
             ],
             nastyplot: [
-                "3L40"
+                "3L40", "9L40"
             ],
             omenpulse: [
-                "3L44"
+                "3L44", "9L44"
             ],
             headcrack: [
-                "3L47"
+                "3L47", "9L47"
             ],
             phantomrush: [
-                "3L51"
+                "3L51", "9L51"
             ],
             lavaplume: [
-                "3L55"
+                "3L55", "9L55"
             ],
             fireblast: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             sunnyday: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             focuspunch: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             calmmind: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             shadowball: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             toxic: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             return: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             rocksmash: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             irontail: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             protect: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             rocktomb: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             psychic: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             brickbreak: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             strength: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             waterpulse: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             firespin: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             raindance: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             overheat: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             hyperbeam: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             dig: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             rest: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             flamethrower: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             secretpower: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             facade: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             hiddenpower: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             bulkup: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ],
             poisonjab: [
-                "3M",
-                "3T"
+                "3M", "9M",
+                "3T", "9T"
             ]
         }
     },
-	
+	noxdrill: {
+        inherit: true,
+        learnset: {
+            furyattack: [
+                "3L1", "9L1"
+            ],
+            peck: [
+                "3L1", "9L1"
+            ],
+            twineedle: [
+                "3L14", "9L14"
+            ],
+            knockoff: [
+                "3L18", "9L18"
+            ],
+            poisonsting: [
+                "3L22", "9L22"
+            ],
+            clayblade: [
+                "3L25", "9L25"
+            ],
+            pursuit: [
+                "3L27", "9L27"
+            ],
+            poisonjab: [
+                "3L30", "9L30",
+                "3M", "9M",
+                "3T", "9T"
+            ],
+            drillrun: [
+                "3L32", "9L32"
+            ],
+            skittersmack: [
+                "3L35", "9L35"
+            ],
+            endeavor: [
+                "3L38", "9L38"
+            ],
+            toxiclance: [
+                "3L42", "9L42"
+            ],
+            dragondance: [
+                "3L45", "9L45"
+            ],
+            megapierce: [
+                "3L50", "9L50"
+            ],
+            protect: [
+                "3M", "9M",
+                "3T", "9T"
+            ],
+            sludgebomb: [
+                "3M", "9M",
+                "3T", "9T"
+            ],
+            psychic: [
+                "3M", "9M",
+                "3T", "9T"
+            ],
+            facade: [
+                "3M", "9M",
+                "3T", "9T"
+            ],
+            sunnyday: [
+                "3M", "9M",
+                "3T", "9T"
+            ],
+            secretpower: [
+                "3M", "9M",
+                "3T", "9T"
+            ],
+            flash: [
+                "3M", "9M",
+                "3T", "9T"
+            ],
+            trailblaze: [
+                "3M", "9M",
+                "3T", "9T"
+            ],
+            toxic: [
+                "3M", "9M",
+                "3T", "9T"
+            ],
+            hiddenpower: [
+                "3M", "9M",
+                "3T", "9T"
+            ],
+            return: [
+                "3M", "9M",
+                "3T", "9T"
+            ],
+            solarbeam: [
+                "3M", "9M",
+                "3T", "9T"
+            ],
+            dig: [
+                "3M", "9M",
+                "3T", "9T"
+            ],
+            rest: [
+                "3M", "9M",
+                "3T", "9T"
+            ],
+            gigadrain: [
+                "3M", "9M",
+                "3T", "9T"
+            ]
+        }
+    },
 };
