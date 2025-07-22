@@ -1,12 +1,12 @@
 export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable = {
 	bulbasaur: {
-	tier: "OU",
+	tier: "Uber",
 	},
 	ivysaur: {
-	tier: "OU",
+	tier: "Uber",
 	},
 	venusaur: {
-	tier: "OU",
+	tier: "Uber",
 		doublesTier: "(DUU)",
 		natDexTier: "RU",
 	},
@@ -20,13 +20,13 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	tier: "Uber",
 	},
 	charmander: {
-	tier: "OU",
+	tier: "Uber",
 	},
 	charmeleon: {
-	tier: "OU",
+	tier: "Uber",
 	},
 	charizard: {
-	tier: "OU",
+	tier: "Uber",
 		doublesTier: "(DUU)",
 		natDexTier: "RU",
 	},
@@ -45,13 +45,13 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	tier: "Uber",
 	},
 	squirtle: {
-	tier: "OU",
+	tier: "Uber",
 	},
 	wartortle: {
-	tier: "OU",
+	tier: "Uber",
 	},
 	blastoise: {
-	tier: "OU",
+	tier: "Uber",
 		doublesTier: "(DUU)",
 		natDexTier: "RU",
 	},
@@ -149,12 +149,12 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	spearow: {
 		
-	tier: "OU",
+	tier: "Uber",
 		natDexTier: "LC",
 	},
 	fearow: {
 		
-	tier: "OU",
+	tier: "Uber",
 		natDexTier: "RU",
 	},
 	ekans: {
@@ -277,44 +277,44 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	nidoranf: {
 		
-	tier: "OU",
+	tier: "Uber",
 		natDexTier: "LC",
 	},
 	nidorina: {
 		
-	tier: "OU",
+	tier: "Uber",
 		natDexTier: "NFE",
 	},
 	nidoqueen: {
 		
-	tier: "OU",
+	tier: "Uber",
 		natDexTier: "RU",
 	},
 	nidoranm: {
 		
-	tier: "OU",
+	tier: "Uber",
 		natDexTier: "LC",
 	},
 	nidorino: {
 		
-	tier: "OU",
+	tier: "Uber",
 		natDexTier: "NFE",
 	},
 	nidoking: {
 		
-	tier: "OU",
+	tier: "Uber",
 		natDexTier: "RU",
 	},
 	cleffa: {
 	tier: "Uber",
 	},
 	clefairy: {
-	tier: "OU",
+	tier: "Uber",
 		doublesTier: "DUU",
 		natDexTier: "NFE",
 	},
 	clefable: {
-	tier: "OU",
+	tier: "Uber",
 		doublesTier: "(DUU)",
 		natDexTier: "UU",
 	},
@@ -397,13 +397,13 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		natDexTier: "RU",
 	},
 	diglett: {
-	tier: "OU",
+	tier: "Uber",
 	},
 	diglettalola: {
 	tier: "Uber",
 	},
 	dugtrio: {
-	tier: "OU",
+	tier: "Uber",
 		doublesTier: "(DUU)",
 		natDexTier: "RU",
 	},
@@ -413,7 +413,7 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		natDexTier: "RU",
 	},
 	meowth: {
-	tier: "OU",
+	tier: "Uber",
 	},
 	meowthalola: {
 	tier: "Uber",
@@ -426,7 +426,7 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	tier: "Uber",
 	},
 	persian: {
-	tier: "OU",
+	tier: "Uber",
 		doublesTier: "(DUU)",
 		natDexTier: "RU",
 	},
@@ -473,18 +473,18 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		natDexTier: "RU",
 	},
 	poliwag: {
-	tier: "OU",
+	tier: "Uber",
 	},
 	poliwhirl: {
-	tier: "OU",
+	tier: "Uber",
 	},
 	poliwrath: {
-	tier: "OU",
+	tier: "Uber",
 		doublesTier: "(DUU)",
 		natDexTier: "RU",
 	},
 	politoed: {
-	tier: "OU",
+	tier: "Uber",
 		doublesTier: "DUU",
 		natDexTier: "RU",
 	},
@@ -528,13 +528,13 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	tier: "Uber",
 	},
 	bellsprout: {
-	tier: "OU",
+	tier: "Uber",
 	},
 	weepinbell: {
-	tier: "OU",
+	tier: "Uber",
 	},
 	victreebel: {
-	tier: "OU",
+	tier: "Uber",
 		doublesTier: "(DUU)",
 		natDexTier: "RU",
 	},
@@ -570,7 +570,7 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	ponyta: {
 		
-	tier: "OU",
+	tier: "Uber",
 		natDexTier: "LC",
 	},
 	ponytagalar: {
@@ -580,7 +580,7 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	rapidash: {
 		
-	tier: "OU",
+	tier: "Uber",
 		natDexTier: "RU",
 	},
 	rapidashgalar: {
@@ -589,13 +589,13 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		natDexTier: "RU",
 	},
 	slowpoke: {
-	tier: "OU",
+	tier: "Uber",
 	},
 	slowpokegalar: {
 	tier: "Uber",
 	},
 	slowbro: {
-	tier: "OU",
+	tier: "Uber",
 		doublesTier: "(DUU)",
 		natDexTier: "UU",
 	},
@@ -610,7 +610,7 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		natDexTier: "RU",
 	},
 	slowking: {
-	tier: "OU",
+	tier: "Uber",
 		doublesTier: "(DUU)",
 		natDexTier: "RU",
 	},
@@ -688,15 +688,15 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		natDexTier: "RU",
 	},
 	gastly: {
-	tier: "OU",
+	tier: "Uber",
 	},
 	haunter: {
-	tier: "OU",
+	tier: "Uber",
 		doublesTier: "NFE",
 		natDexTier: "NFE",
 	},
 	gengar: {
-	tier: "OU",
+	tier: "Uber",
 		doublesTier: "(DUU)",
 		natDexTier: "RUBL",
 	},
@@ -779,12 +779,12 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	cubone: {
 		
-	tier: "OU",
+	tier: "Uber",
 		natDexTier: "LC",
 	},
 	marowak: {
 		
-	tier: "OU",
+	tier: "Uber",
 		natDexTier: "RU",
 	},
 	marowakalola: {
@@ -859,7 +859,7 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		natDexTier: "UU",
 	},
 	blissey: {
-	tier: "OU",
+	tier: "Uber",
 		doublesTier: "(DUU)",
 		natDexTier: "RU",
 	},
@@ -997,7 +997,7 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		natDexTier: "UUBL",
 	},
 	tauros: {
-	tier: "OU",
+	tier: "Uber",
 		doublesTier: "(DUU)",
 		natDexTier: "RU",
 	},
@@ -1109,22 +1109,22 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	omanyte: {
 		
-	tier: "OU",
+	tier: "Uber",
 		natDexTier: "LC",
 	},
 	omastar: {
 		
-	tier: "OU",
+	tier: "Uber",
 		natDexTier: "RU",
 	},
 	kabuto: {
 		
-	tier: "OU",
+	tier: "Uber",
 		natDexTier: "LC",
 	},
 	kabutops: {
 		
-	tier: "OU",
+	tier: "Uber",
 		natDexTier: "RU",
 	},
 	aerodactyl: {
@@ -1141,7 +1141,7 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	tier: "Uber",
 	},
 	snorlax: {
-	tier: "OU",
+	tier: "Uber",
 		doublesTier: "(DUU)",
 		natDexTier: "RU",
 	},
@@ -1170,7 +1170,7 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		natDexTier: "UUBL",
 	},
 	moltres: {
-	tier: "OU",
+	tier: "Uber",
 		doublesTier: "(DUU)",
 		natDexTier: "OU",
 	},
@@ -1191,7 +1191,7 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		natDexTier: "OU",
 	},
 	mewtwo: {
-	tier: "OU",
+	tier: "Uber",
 		doublesTier: "DUber",
 		natDexTier: "Uber",
 	},
@@ -1249,10 +1249,10 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		natDexTier: "RU",
 	},
 	sentret: {
-	tier: "OU",
+	tier: "Uber",
 	},
 	furret: {
-	tier: "OU",
+	tier: "Uber",
 		doublesTier: "(DUU)",
 		natDexTier: "RU",
 	},
@@ -1351,13 +1351,13 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		natDexTier: "RU",
 	},
 	hoppip: {
-	tier: "OU",
+	tier: "Uber",
 	},
 	skiploom: {
-	tier: "OU",
+	tier: "Uber",
 	},
 	jumpluff: {
-	tier: "OU",
+	tier: "Uber",
 		doublesTier: "(DUU)",
 		natDexTier: "RU",
 	},
@@ -1370,10 +1370,10 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		natDexTier: "RU",
 	},
 	sunkern: {
-	tier: "OU",
+	tier: "Uber",
 	},
 	sunflora: {
-	tier: "OU",
+	tier: "Uber",
 		doublesTier: "(DUU)",
 		natDexTier: "RU",
 	},
@@ -1386,13 +1386,13 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		natDexTier: "RU",
 	},
 	wooper: {
-	tier: "OU",
+	tier: "Uber",
 	},
 	wooperpaldea: {
 	tier: "Uber",
 	},
 	quagsire: {
-	tier: "OU",
+	tier: "Uber",
 		doublesTier: "(DUU)",
 		natDexTier: "RU",
 	},
@@ -1603,10 +1603,10 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		natDexTier: "UU",
 	},
 	houndour: {
-	tier: "OU",
+	tier: "Uber",
 	},
 	houndoom: {
-	tier: "OU",
+	tier: "Uber",
 		doublesTier: "(DUU)",
 		natDexTier: "RU",
 	},
@@ -1632,7 +1632,7 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		natDexTier: "RU",
 	},
 	smeargle: {
-	tier: "OU",
+	tier: "Uber",
 		doublesTier: "(DUU)",
 		natDexTier: "RU",
 	},
@@ -1642,17 +1642,17 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		natDexTier: "RU",
 	},
 	raikou: {
-	tier: "OU",
+	tier: "Uber",
 		doublesTier: "(DUU)",
 		natDexTier: "RU",
 	},
 	entei: {
-	tier: "OU",
+	tier: "Uber",
 		doublesTier: "(DUU)",
 		natDexTier: "RU",
 	},
 	suicune: {
-	tier: "OU",
+	tier: "Uber",
 		doublesTier: "(DUU)",
 		natDexTier: "RU",
 	},
@@ -1684,7 +1684,7 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	celebi: {
 		
-	tier: "OU",
+	tier: "Uber",
 		natDexTier: "RU",
 	},
 	treecko: {
@@ -1772,27 +1772,27 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 	},
 	wurmple: {
 		isNonstandard: "Past",
-	tier: "OU",
+	tier: "Uber",
 		natDexTier: "LC",
 	},
 	silcoon: {
 		isNonstandard: "Past",
-	tier: "OU",
+	tier: "Uber",
 		natDexTier: "NFE",
 	},
 	beautifly: {
 		isNonstandard: "Past",
-	tier: "OU",
+	tier: "Uber",
 		natDexTier: "RU",
 	},
 	cascoon: {
 		isNonstandard: "Past",
-	tier: "OU",
+	tier: "Uber",
 		natDexTier: "NFE",
 	},
 	dustox: {
 		isNonstandard: "Past",
-	tier: "OU",
+	tier: "Uber",
 		natDexTier: "RU",
 	},
 	lotad: {
@@ -2439,12 +2439,12 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		natDexTier: "AG",
 	},
 	jirachi: {
-	tier: "OU",
+	tier: "Uber",
 		doublesTier: "(DUU)",
 		natDexTier: "RUBL",
 	},
 	deoxys: {
-	tier: "OU",
+	tier: "Uber",
 		doublesTier: "DUU",
 		natDexTier: "Uber",
 	},
