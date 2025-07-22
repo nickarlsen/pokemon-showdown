@@ -101773,4 +101773,170 @@ export const Learnsets: import('../sim/dex-species').ModdedLearnsetDataTable = {
             ]
         }
     },
+	boskoal: {
+        inherit: true,
+        learnset: {
+            ember: [
+                "3L1", "9L1",
+            ],
+            smog: [
+                "3L5", "9L5",
+            ],
+            ingrain: [
+                "3L14", "9L14",
+            ],
+            vinewhip: [
+                "3L15", "9L15",
+            ],
+            megadrain: [
+                "3L19", "9L19",
+            ],
+            rapidspin: [
+                "3L20", "9L20",
+            ],
+            stunspore: [
+                "3L24", "9L24",
+            ],
+            flamewheel: [
+                "3L25", "9L25",
+            ],
+            protect: [
+                "3L29", "9L29",
+                "3M", "9M",
+                "3T", "9T",
+            ],
+            lavaplume: [
+                "3L30", "9L30",
+            ],
+            synthesis: [
+                "3L34", "9L34",
+            ],
+            knockoff: [
+                "3L35", "9L35",
+            ],
+            sleeppowder: [
+                "3L39", "9L39",
+            ],
+            ancientpower: [
+                "3L40", "9L40",
+            ],
+            irondefense: [
+                "3L44", "9L44",
+            ],
+            eruption: [
+                "3L45", "9L45",
+            ],
+            headcrack: [
+                "3L49", "9L49",
+            ],
+            reflect: [
+                "3M", "9M",
+                "3T", "9T",
+            ],
+            sunnyday: [
+                "3M", "9M",
+                "3T", "9T",
+            ],
+            shadowball: [
+                "3M", "9M",
+                "3T", "9T",
+            ],
+            calmmind: [
+                "3M", "9M",
+                "3T", "9T",
+            ],
+            trailblaze: [
+                "3M", "9M",
+                "3T", "9T",
+            ],
+            toxic: [
+                "3M", "9M",
+                "3T", "9T",
+            ],
+            return: [
+                "3M", "9M",
+                "3T", "9T",
+            ],
+            rocksmash: [
+                "3M", "9M",
+                "3T", "9T",
+            ],
+            gigadrain: [
+                "3M", "9M",
+                "3T", "9T",
+            ],
+            rocktomb: [
+                "3M", "9M",
+                "3T", "9T",
+            ],
+            strength: [
+                "3M", "9M",
+                "3T", "9T",
+            ],
+            selfdestruct: [
+                "3M", "9M",
+                "3T", "9T",
+            ],
+            lightscreen: [
+                "3M", "9M",
+                "3T", "9T",
+            ],
+            solarbeam: [
+                "3M", "9M",
+                "3T", "9T",
+            ],
+            bulletseed: [
+                "3M", "9M",
+                "3T", "9T",
+            ],
+            earthquake: [
+                "3M", "9M",
+                "3T", "9T",
+            ],
+            firespin: [
+                "3M", "9M",
+                "3T", "9T",
+            ],
+            overheat: [
+                "3M", "9M",
+                "3T", "9T",
+            ],
+            hyperbeam: [
+                "3M", "9M",
+                "3T", "9T",
+            ],
+            dig: [
+                "3M", "9M",
+                "3T", "9T",
+            ],
+            rest: [
+                "3M", "9M",
+                "3T", "9T",
+            ],
+            flamethrower: [
+                "3M", "9M",
+                "3T", "9T",
+            ],
+            sludgebomb: [
+                "3M", "9M",
+                "3T", "9T",
+            ],
+            secretpower: [
+                "3M", "9M",
+                "3T", "9T",
+            ],
+            facade: [
+                "3M", "9M",
+                "3T", "9T",
+            ],
+            hiddenpower: [
+                "3M", "9M",
+                "3T", "9T",
+            ],
+            bulkup: [
+                "3M", "9M",
+                "3T", "9T",
+            ]
+        }
+    },
 };
