@@ -22086,15 +22086,26 @@ export const Moves: import('../sim/dex-moves').MoveDataTable = {
 	balefulwind: {
 		num: 1003,
 		accuracy: 100,
-		basePower: 80,
-		category: "Physical",
+		basePower: 130,
+		category: "Special",
 		name: "Baleful Wind",
 		pp: 10,
-		priority: 0,
-		flags: {contact: 1, protect: 1, mirror: 1},
-		
+		priority: 1,
+		flags: {charge: 1, protect: 1, mirror: 1, metronome: 1},
+		onTryMove(attacker, defender, move) {
+			if (attacker.removeVolatile(move.id)) {
+				return;
+			}
+			this.add('-prepare', attacker, move.name);
+			this.boost({spa: 1}, attacker, attacker, move);
+			if (!this.runEvent('ChargeMove', attacker, defender, move)) {
+				return;
+			}
+			attacker.addVolatile('twoturnmove', defender);
+			return null;
+		},
 		target: "normal",
-		type: "", // fix
+		type: "Dark", // fix
 		contestType: "Cool",
 	},
 	lifeshard: {
@@ -22467,7 +22478,7 @@ export const Moves: import('../sim/dex-moves').MoveDataTable = {
 		type: "Dragon",
 		contestType: "Cool",
 	},
-	irridate: {
+	irradiate: {
 		num: 1024,
 		accuracy: 90,
 		basePower: 50,
@@ -22475,7 +22486,7 @@ export const Moves: import('../sim/dex-moves').MoveDataTable = {
 		name: "Irradiate",
 		pp: 10,
 		priority: 0,
-		flags: {contact: 1, protect: 1, mirror: 1},
+		flags: {contact: 1, mirror: 1},
 		secondary: {
 			chance: 100,
 			status: 'tox',

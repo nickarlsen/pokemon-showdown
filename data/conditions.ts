@@ -14,7 +14,7 @@ export const Conditions: import('../sim/dex-conditions').ConditionDataTable = {
 		// Damage reduction is handled directly in the sim/battle.js damage function
 		onResidualOrder: 10,
 		onResidual(pokemon) {
-			this.damage(pokemon.baseMaxhp / 16);
+			this.damage(pokemon.baseMaxhp / 8);
 		},
 	},
 	par: {
@@ -93,7 +93,7 @@ export const Conditions: import('../sim/dex-conditions').ConditionDataTable = {
 		// Damage reduction is handled directly in the sim/battle.js damage function
 		onResidualOrder: 10,
 		onResidual(pokemon) {
-			this.damage(pokemon.baseMaxhp / 16);
+			this.damage(pokemon.baseMaxhp / 8);
 		},
 		// name: 'frz',
 		// effectType: 'Status',

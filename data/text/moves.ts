@@ -7546,4 +7546,185 @@ export const MovesText: {[id: IDEntry]: MoveText} = {
 			shortDesc: "Nearly always goes first. Always crits.",
 		},
 	},
+	tripleslap: {
+		name: "Triple Slap",
+		desc: "Hits up to three times, each hit increasing in power.",
+		shortDesc: "Hits 2-3 times, each hit is stronger.",
+	},
+	diamondcut: {
+		name: "Diamond Cut",
+		desc: "Raise defense on turn 1, then attack turn 2. Has priority.",
+		shortDesc: "Raises Defense, then attacks next turn.",
+	},
+	balefulwind: {
+		name: "Baleful Wind",
+		desc: "Raise Sp.Atk turn 1, then attack turn 2. Has priority.",
+		shortDesc: "Raises Sp.Atk, then attacks next turn.",
+	},
+	lifeshard: {
+		name: "Life Shard",
+		desc: "Launch a gem at the foe, restoring HP on hit.",
+		shortDesc: "User recovers 50% of the damage dealt.",
+	},
+	glittertrap: {
+		name: "Glitter Trap",
+		desc: "Traps the target in a glittering prison for 2 to 5 turns. The trapped target cannot switch out.",
+		shortDesc: "Traps the target for 2-5 turns.",
+	},
+	psychosap: {
+		name: "Psycho Sap",
+		desc: "An attack that steals half the damage inflicted.",
+		shortDesc: "User recovers 50% of the damage dealt.",
+	},
+	fellsweep: {
+		name: "Fell Sweep",
+		desc: "A wide sweep with a chance to make each foe flinch.",
+		shortDesc: "30% chance to make the target flinch.",
+	},
+	frostbite: {
+		name: "Frostbite",
+		desc: "A chilling attack that may cause frostbite to the target.",
+		shortDesc: "May cause frostbite to the target.",
+	},
+	clayblade: {
+		name: "Clay Blade",
+		desc: "Forms a sharp edge of mud. Raises the user's attack.",
+		shortDesc: "Raises the user's Attack by 1 stage.",
+	},
+	megapierce: {
+		name: "Mega Pierce",
+		desc: "Pierces the target and drains their essence, restoring HP.",
+		shortDesc: "User recovers 50% of the damage dealt.",
+	},
+	truestrike: {
+		name: "True Strike",
+		desc: "Makes the user's move last, but it never misses.",
+		shortDesc: "Never misses. -1 priority.",
+	},
+	meteorcrash: {
+		name: "Meteor Crash",
+		desc: "Fires a meteor-like punch. May raise ATTACK.",
+		shortDesc: "50% chance to raise Attack by 1 stage.",
+	},
+	galeblow: {
+		name: "Gale Blow",
+		desc: "Batters foes with a rush of wind that lowers speed.",
+		shortDesc: "Lowers the target's Speed.",
+	},
+	glacialize: {
+		name: "Glacialize",
+		desc: "A chilling attack that lowers the target's speed.",
+		shortDesc: "Lowers the target's Speed.",
+	},
+	headcrack: {
+		name: "Head Crack",
+		desc: "A powerful headbutt that hurts the user.",
+		shortDesc: "1/3 recoil damage to the user.",
+	},
+	condemn: {
+		name: "Condemn",
+		desc: "Slashes the target's spirit. Usually moves first.",
+		shortDesc: "30% change to lower target defense by 1 stage. +2 priority.",
+	},
+	hijinks: {
+		name: "Hijinks",
+		desc: "Excitedly tackle the target. Hits 2 to 5 times.",
+		shortDesc: "Hits 2-5 times.",
+	},
+	drainbash: {
+		name: "Drain Bash",
+		desc: "A powerful bash that drains the target's energy.",
+		shortDesc: "User recovers 50% of the damage dealt.",
+	},
+	springwind: {
+		name: "Spring Wind",
+		desc: "A gust of fresh air that clears away hazards.",
+		shortDesc: "Free user from hazards/bind/Leech Seed.",
+	},
+	zephyrbash: {
+		name: "Zephyr Bash",
+		desc: "The attack of a valiant vigilante. Raises Defense.",
+		shortDesc: "User raises Defense by 1 stage.",
+	},
+	omenpulse: {
+		name: "Omen Pulse",
+		desc: "An evil aura that lowers the target's Sp.Atk.",
+		shortDesc: "Lowers the target's Sp.Atk by 1 stage.",
+	},
+	suddenshock: {
+		name: "Sudden Shock",
+		desc: "An instantaneous shock. Usually goes first. May Paralyze.",
+		shortDesc: "20% chance to Paralyze target. +2 priority.",
+	},
+	rancor: {
+		name: "Rancor",
+		desc: "Becomes stronger if hit previously in the turn.",
+		shortDesc: "Power doubled if hit this turn.",
+	},
+	irradiate: {
+		name: "Irradiate",
+		desc: "Throw a sickening rock at the target, badly poisoning them.",
+		shortDesc: "Badly poisons the target.",
+	},
+	hiddenclaw: {
+		name: "Hidden Claw",
+		desc: "A delayed move that cannot be protected against.",
+		shortDesc: "Hits in 2 turns. Cannot be protected against.",
+	},
+	stormwinds: {
+		name: "Storm Winds",
+		desc: "A devastating attack that hurts the user in return.",
+		shortDesc: "1/3 recoil damage to the user.",
+	},
+	celestus: {
+		name: "Celestus",
+		desc: "Invokes cosmic power to sharply lower foes' Speed.",
+		shortDesc: "Lowers the target's Speed by 2 stages.",
+	},
+	wyrmrend: {
+		name: "Wyrm Rend",
+		desc: "Powerful against paralyzed foes, but also heals them.",
+		shortDesc: "Damage doubles if target is paralyzed; cures it.",
+	},
+	formup: {
+		name: "Form Up",
+		desc: "An offensive position that raises Attack and Speed.",
+		shortDesc: "Raises Attack and Speed by 1 stage.",
+	},
+	icequeen: {
+		name: "Ice Queen",
+		desc: "A howl that may leave all foes frostbitten.",
+		shortDesc: "30% chance to frostbite foes. Hits both foes",
+	},
+	trislash: {
+		name: "Tri Slash",
+		desc: "May cause paralysis, burn, or frostbite.",
+		shortDesc: "50% chance to paralyze or burn or freeze target.",
+	},
+	limitbreak: {
+		name: "Limit Break",
+		desc: "An impossible strike that raises the user's ATTACK.",
+		shortDesc: "Raises the user's Attack by 1 stage.",
+	},
+	adaptation: {
+		name: "Adaptation",
+		desc: "A scorching move that burns everything.",
+		shortDesc: "User raises all stats by 1 stage.",
+	},
+	swarmorder: {
+		name: "Swarm Order",
+		desc: "A swarm traps the foe. Usually goes first.",
+		shortDesc: "Traps the target for 2-5 turns. +1 priority.",
+	},
+	bugbolt: {
+		name: "Bug Bolt",
+		desc: "A blast of noise that leaves the target paralyzed.",
+		shortDesc: "Paralyzes target.",
+	},
+	armorward: {
+		name: "Armor Ward",
+		desc: "Swiftly reinforces the user's armor, sharply raising Sp.Def.",
+		shortDesc: "User raises Sp.Def. by 2 stages",
+	},
+
 };
