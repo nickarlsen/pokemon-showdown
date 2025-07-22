@@ -3767,4 +3767,35 @@ export const PokedexText: {[id: IDEntry]: PokedexText} = {
 	pokestarufopropu2: {
 		name: "Pokestar UFO-PropU2",
 	},
+	venagon: {
+		name: "Venagon",
+	},
+	malighast: {
+		name: "Malighast",
+	},
+	meduru: {
+		name: "Meduru",
+	},
+	frostales: {
+		name: "Frostales",
+	},
+	noxdrill: {
+		name: "Noxdrill",
+	},
+	lunamite: {
+		name: "Lunamite",
+	},
+	dizzbear: {
+		name: "Dizzbear",
+	},
+	cloudiou: {
+		name: "Cloudiou",
+	},
+	bleakrath: {
+		name: "Bleakrath",
+	},
+	warliv: {
+		name: "Warliv",
+	},
+
 };
