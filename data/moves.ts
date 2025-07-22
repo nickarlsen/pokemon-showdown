@@ -175,7 +175,7 @@ export const Moves: import('../sim/dex-moves').MoveDataTable = {
 	aerialace: {
 		num: -332,
 		accuracy: true,
-		basePower: 60,
+		basePower: 75,
 		category: "Physical",
 		name: "Aerial Ace",
 		pp: 20,
@@ -411,7 +411,7 @@ export const Moves: import('../sim/dex-moves').MoveDataTable = {
 	ancientpower: {
 		num: -246,
 		accuracy: 100,
-		basePower: 60,
+		basePower: 75,
 		category: "Special",
 		name: "Ancient Power",
 		pp: 5,
@@ -6097,7 +6097,7 @@ export const Moves: import('../sim/dex-moves').MoveDataTable = {
 	fly: {
 		num: -19,
 		accuracy: 95,
-		basePower: 70,
+		basePower: 110,
 		category: "Physical",
 		name: "Fly",
 		pp: 15,
@@ -6510,7 +6510,12 @@ export const Moves: import('../sim/dex-moves').MoveDataTable = {
 		pp: 20,
 		priority: 0,
 		flags: {contact: 1, protect: 1, mirror: 1, metronome: 1},
-		multihit: [2, 5],
+		onTryHit(pokemon) {
+			// will shatter screens through sub, before you hit
+			pokemon.side.removeSideCondition('reflect');
+			pokemon.side.removeSideCondition('lightscreen');
+			pokemon.side.removeSideCondition('auroraveil');
+		},
 		secondary: null,
 		target: "normal",
 		type: "Normal",
@@ -12867,32 +12872,14 @@ export const Moves: import('../sim/dex-moves').MoveDataTable = {
 		accuracy: true,
 		basePower: 0,
 		category: "Status",
-		isNonstandard: "Past",
 		name: "Mud Sport",
 		pp: 15,
 		priority: 0,
-		flags: {nonsky: 1, metronome: 1},
-		pseudoWeather: 'mudsport',
-		condition: {
-			duration: 5,
-			onFieldStart(field, source) {
-				this.add('-fieldstart', 'move: Mud Sport', '[of] ' + source);
-			},
-			onBasePowerPriority: 1,
-			onBasePower(basePower, attacker, defender, move) {
-				if (move.type === 'Electric') {
-					this.debug('mud sport weaken');
-					return this.chainModify([1352, 4096]);
-				}
-			},
-			onFieldResidualOrder: 27,
-			onFieldResidualSubOrder: 4,
-			onFieldEnd() {
-				this.add('-fieldend', 'move: Mud Sport');
-			},
+		flags: {snatch: 1, metronome: 1},
+		boosts: {
+			spe: -1,
 		},
-		secondary: null,
-		target: "all",
+		target: "adjacentFoe",
 		type: "Ground",
 		zMove: {boost: {spd: 1}},
 		contestType: "Cute",
@@ -13993,14 +13980,14 @@ export const Moves: import('../sim/dex-moves').MoveDataTable = {
 	poisonsting: {
 		num: -40,
 		accuracy: 100,
-		basePower: 15,
+		basePower: 45,
 		category: "Physical",
 		name: "Poison Sting",
 		pp: 35,
 		priority: 0,
 		flags: {protect: 1, mirror: 1, metronome: 1},
 		secondary: {
-			chance: 30,
+			chance: 10,
 			status: 'psn',
 		},
 		target: "normal",
@@ -17102,12 +17089,12 @@ export const Moves: import('../sim/dex-moves').MoveDataTable = {
 	},
 	sing: {
 		num: -47,
-		accuracy: 55,
+		accuracy: 75,
 		basePower: 0,
 		category: "Status",
 		name: "Sing",
 		pp: 15,
-		priority: 0,
+		priority: -1,
 		flags: {protect: 1, reflectable: 1, mirror: 1, sound: 1, bypasssub: 1, metronome: 1},
 		status: 'slp',
 		secondary: null,
@@ -17944,7 +17931,7 @@ export const Moves: import('../sim/dex-moves').MoveDataTable = {
 	sonicboom: {
 		num: -49,
 		accuracy: 90,
-		basePower: 0,
+		basePower: 50,
 		damage: 20,
 		category: "Special",
 		isNonstandard: "Past",
@@ -17952,8 +17939,13 @@ export const Moves: import('../sim/dex-moves').MoveDataTable = {
 		pp: 20,
 		priority: 0,
 		flags: {protect: 1, mirror: 1, metronome: 1},
-		secondary: null,
-		target: "normal",
+		secondary: {
+			chance: 100,
+			boosts: {
+				spd: -1,
+			},
+		},
+		target: "adjacentFoe",
 		type: "Normal",
 		contestType: "Cool",
 	},

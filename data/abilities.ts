@@ -5651,4 +5651,16 @@ export const Abilities: import('../sim/dex-abilities').AbilityDataTable = {
 		rating: 3,
 		num: -4,
 	},
+	beautyward: {
+		onModifyDefPriority: 6,
+		onModifyDef(def, pokemon) {
+			if (pokemon.status) {
+				return this.chainModify(1.5);
+			}
+		},
+		flags: {breakable: 1},
+		name: "Beauty Ward",
+		rating: 2.5,
+		num: -63,
+	},
 };
