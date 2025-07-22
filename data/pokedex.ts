@@ -45254,5 +45254,31 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             0:"Intimidate",
             1:"Speed boost"
         }
+    },
+    boskoal:{
+        num:-6017,
+        name:"Boskoal",
+        baseStats:{
+            spa:90,
+            spd:110,
+            spe:50,
+            atk:50,
+            def:120,
+            hp:70
+        },
+        types:[
+            "Fire",
+            "Grass"
+        ],
+        
+        weightkg:61,
+        color:"White",
+        eggGroups:[
+            "Undiscovered"
+        ],
+        abilities:{
+            0:"Sun Boosted",
+            1:"Huge Power"
+        }
     }
 };
