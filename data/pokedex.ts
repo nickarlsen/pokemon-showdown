@@ -1,6 +1,6 @@
 export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
     bulbasaur:{
-        num:1,
+        num:-1,
         name:"Bulbasaur",
         types:[
             "Grass"
@@ -34,7 +34,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     ivysaur:{
-        num:2,
+        num:-2,
         name:"Ivysaur",
         types:[
             "Grass"
@@ -70,7 +70,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     venusaur:{
-        num:3,
+        num:-3,
         name:"Venusaur",
         types:[
             "Grass",
@@ -112,7 +112,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     venusaurmega:{
-        num:3,
+        num:-3,
         name:"Venusaur-Mega",
         baseSpecies:"Venusaur",
         forme:"Mega",
@@ -145,7 +145,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         requiredItem:"Venusaurite"
     },
     venusaurgmax:{
-        num:3,
+        num:-3,
         name:"Venusaur-Gmax",
         baseSpecies:"Venusaur",
         forme:"Gmax",
@@ -179,7 +179,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Venusaur"
     },
     charmander:{
-        num:4,
+        num:-4,
         name:"Charmander",
         types:[
             "Fire"
@@ -213,7 +213,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     charmeleon:{
-        num:5,
+        num:-5,
         name:"Charmeleon",
         types:[
             "Fire"
@@ -249,7 +249,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     charizard:{
-        num:6,
+        num:-6,
         name:"Charizard",
         types:[
             "Fire",
@@ -293,7 +293,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     charizardmegax:{
-        num:6,
+        num:-6,
         name:"Charizard-Mega-X",
         baseSpecies:"Charizard",
         forme:"Mega-X",
@@ -326,7 +326,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         requiredItem:"Charizardite X"
     },
     charizardmegay:{
-        num:6,
+        num:-6,
         name:"Charizard-Mega-Y",
         baseSpecies:"Charizard",
         forme:"Mega-Y",
@@ -359,7 +359,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         requiredItem:"Charizardite Y"
     },
     charizardgmax:{
-        num:6,
+        num:-6,
         name:"Charizard-Gmax",
         baseSpecies:"Charizard",
         forme:"Gmax",
@@ -393,7 +393,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Charizard"
     },
     squirtle:{
-        num:7,
+        num:-7,
         name:"Squirtle",
         types:[
             "Water"
@@ -427,7 +427,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     wartortle:{
-        num:8,
+        num:-8,
         name:"Wartortle",
         types:[
             "Water"
@@ -463,7 +463,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     blastoise:{
-        num:9,
+        num:-9,
         name:"Blastoise",
         types:[
             "Water"
@@ -504,7 +504,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     blastoisemega:{
-        num:9,
+        num:-9,
         name:"Blastoise-Mega",
         baseSpecies:"Blastoise",
         forme:"Mega",
@@ -536,7 +536,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         requiredItem:"Blastoisinite"
     },
     blastoisegmax:{
-        num:9,
+        num:-9,
         name:"Blastoise-Gmax",
         baseSpecies:"Blastoise",
         forme:"Gmax",
@@ -569,7 +569,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Blastoise"
     },
     caterpie:{
-        num:10,
+        num:-10,
         name:"Caterpie",
         types:[
             "Bug"
@@ -598,7 +598,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     metapod:{
-        num:11,
+        num:-11,
         name:"Metapod",
         types:[
             "Bug"
@@ -629,7 +629,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     butterfree:{
-        num:12,
+        num:-12,
         name:"Butterfree",
         types:[
             "Bug",
@@ -659,7 +659,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     butterfreegmax:{
-        num:12,
+        num:-12,
         name:"Butterfree-Gmax",
         baseSpecies:"Butterfree",
         forme:"Gmax",
@@ -688,7 +688,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Butterfree"
     },
     weedle:{
-        num:13,
+        num:-13,
         name:"Weedle",
         types:[
             "Bug",
@@ -718,7 +718,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     kakuna:{
-        num:14,
+        num:-14,
         name:"Kakuna",
         types:[
             "Bug",
@@ -750,7 +750,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     beedrill:{
-        num:15,
+        num:-15,
         name:"Beedrill",
         types:[
             "Bug",
@@ -786,7 +786,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     beedrillmega:{
-        num:15,
+        num:-15,
         name:"Beedrill-Mega",
         baseSpecies:"Beedrill",
         forme:"Mega",
@@ -814,7 +814,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         requiredItem:"Beedrillite"
     },
     pidgey:{
-        num:16,
+        num:-16,
         name:"Pidgey",
         types:[
             "Normal",
@@ -842,7 +842,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     pidgeotto:{
-        num:17,
+        num:-17,
         name:"Pidgeotto",
         types:[
             "Normal",
@@ -872,7 +872,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     pidgeot:{
-        num:18,
+        num:-18,
         name:"Pidgeot",
         types:[
             "Normal",
@@ -906,7 +906,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     pidgeotmega:{
-        num:18,
+        num:-18,
         name:"Pidgeot-Mega",
         baseSpecies:"Pidgeot",
         forme:"Mega",
@@ -934,7 +934,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         requiredItem:"Pidgeotite"
     },
     rattata:{
-        num:19,
+        num:-19,
         name:"Rattata",
         types:[
             "Normal"
@@ -969,7 +969,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     rattataalola:{
-        num:19,
+        num:-19,
         name:"Rattata-Alola",
         baseSpecies:"Rattata",
         forme:"Alola",
@@ -1001,7 +1001,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     raticate:{
-        num:20,
+        num:-20,
         name:"Raticate",
         types:[
             "Normal"
@@ -1037,7 +1037,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     raticatealola:{
-        num:20,
+        num:-20,
         name:"Raticate-Alola",
         baseSpecies:"Raticate",
         forme:"Alola",
@@ -1069,7 +1069,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     raticatealolatotem:{
-        num:20,
+        num:-20,
         name:"Raticate-Alola-Totem",
         baseSpecies:"Raticate",
         forme:"Alola-Totem",
@@ -1096,7 +1096,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     spearow:{
-        num:21,
+        num:-21,
         name:"Spearow",
         types:[
             "Flying"
@@ -1125,7 +1125,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     fearow:{
-        num:22,
+        num:-22,
         name:"Fearow",
         types:[
             "Flying",
@@ -1154,7 +1154,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     ekans:{
-        num:23,
+        num:-23,
         name:"Ekans",
         types:[
             "Poison"
@@ -1185,7 +1185,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     arbok:{
-        num:24,
+        num:-24,
         name:"Arbok",
         types:[
             "Poison",
@@ -1216,7 +1216,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     pikachu:{
-        num:25,
+        num:-25,
         name:"Pikachu",
         types:[
             "Electric"
@@ -1286,7 +1286,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     pikachucosplay:{
-        num:25,
+        num:-25,
         name:"Pikachu-Cosplay",
         baseSpecies:"Pikachu",
         forme:"Cosplay",
@@ -1314,7 +1314,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         gen:6
     },
     pikachurockstar:{
-        num:25,
+        num:-25,
         name:"Pikachu-Rock-Star",
         baseSpecies:"Pikachu",
         forme:"Rock-Star",
@@ -1343,7 +1343,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         gen:6
     },
     pikachubelle:{
-        num:25,
+        num:-25,
         name:"Pikachu-Belle",
         baseSpecies:"Pikachu",
         forme:"Belle",
@@ -1372,7 +1372,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         gen:6
     },
     pikachupopstar:{
-        num:25,
+        num:-25,
         name:"Pikachu-Pop-Star",
         baseSpecies:"Pikachu",
         forme:"Pop-Star",
@@ -1401,7 +1401,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         gen:6
     },
     pikachuphd:{
-        num:25,
+        num:-25,
         name:"Pikachu-PhD",
         baseSpecies:"Pikachu",
         forme:"PhD",
@@ -1430,7 +1430,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         gen:6
     },
     pikachulibre:{
-        num:25,
+        num:-25,
         name:"Pikachu-Libre",
         baseSpecies:"Pikachu",
         forme:"Libre",
@@ -1459,7 +1459,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         gen:6
     },
     pikachuoriginal:{
-        num:25,
+        num:-25,
         name:"Pikachu-Original",
         baseSpecies:"Pikachu",
         forme:"Original",
@@ -1488,7 +1488,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         gen:7
     },
     pikachuhoenn:{
-        num:25,
+        num:-25,
         name:"Pikachu-Hoenn",
         baseSpecies:"Pikachu",
         forme:"Hoenn",
@@ -1517,7 +1517,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         gen:7
     },
     pikachusinnoh:{
-        num:25,
+        num:-25,
         name:"Pikachu-Sinnoh",
         baseSpecies:"Pikachu",
         forme:"Sinnoh",
@@ -1546,7 +1546,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         gen:7
     },
     pikachuunova:{
-        num:25,
+        num:-25,
         name:"Pikachu-Unova",
         baseSpecies:"Pikachu",
         forme:"Unova",
@@ -1575,7 +1575,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         gen:7
     },
     pikachukalos:{
-        num:25,
+        num:-25,
         name:"Pikachu-Kalos",
         baseSpecies:"Pikachu",
         forme:"Kalos",
@@ -1604,7 +1604,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         gen:7
     },
     pikachualola:{
-        num:25,
+        num:-25,
         name:"Pikachu-Alola",
         baseSpecies:"Pikachu",
         forme:"Alola",
@@ -1633,7 +1633,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         gen:7
     },
     pikachupartner:{
-        num:25,
+        num:-25,
         name:"Pikachu-Partner",
         baseSpecies:"Pikachu",
         forme:"Partner",
@@ -1662,7 +1662,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         gen:7
     },
     pikachustarter:{
-        num:25,
+        num:-25,
         name:"Pikachu-Starter",
         baseSpecies:"Pikachu",
         forme:"Starter",
@@ -1689,7 +1689,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     pikachugmax:{
-        num:25,
+        num:-25,
         name:"Pikachu-Gmax",
         baseSpecies:"Pikachu",
         forme:"Gmax",
@@ -1718,7 +1718,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Pikachu"
     },
     pikachuworld:{
-        num:25,
+        num:-25,
         name:"Pikachu-World",
         baseSpecies:"Pikachu",
         forme:"World",
@@ -1747,7 +1747,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         gen:8
     },
     raichu:{
-        num:26,
+        num:-26,
         name:"Raichu",
         types:[
             "Electric"
@@ -1785,7 +1785,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     raichualola:{
-        num:26,
+        num:-26,
         name:"Raichu-Alola",
         baseSpecies:"Raichu",
         forme:"Alola",
@@ -1817,7 +1817,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     sandshrew:{
-        num:27,
+        num:-27,
         name:"Sandshrew",
         types:[
             "Ground"
@@ -1853,7 +1853,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     sandshrewalola:{
-        num:27,
+        num:-27,
         name:"Sandshrew-Alola",
         baseSpecies:"Sandshrew",
         forme:"Alola",
@@ -1884,7 +1884,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     sandslash:{
-        num:28,
+        num:-28,
         name:"Sandslash",
         types:[
             "Ground"
@@ -1919,7 +1919,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     sandslashalola:{
-        num:28,
+        num:-28,
         name:"Sandslash-Alola",
         baseSpecies:"Sandslash",
         forme:"Alola",
@@ -1950,7 +1950,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     nidoranf:{
-        num:29,
+        num:-29,
         name:"Nidoran-F",
         types:[
             "Poison"
@@ -1981,7 +1981,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     nidorina:{
-        num:30,
+        num:-30,
         name:"Nidorina",
         types:[
             "Poison"
@@ -2013,7 +2013,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     nidoqueen:{
-        num:31,
+        num:-31,
         name:"Nidoqueen",
         types:[
             "Poison",
@@ -2044,7 +2044,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     nidoranm:{
-        num:32,
+        num:-32,
         name:"Nidoran-M",
         types:[
             "Poison"
@@ -2076,7 +2076,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     nidorino:{
-        num:33,
+        num:-33,
         name:"Nidorino",
         types:[
             "Poison"
@@ -2109,7 +2109,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     nidoking:{
-        num:34,
+        num:-34,
         name:"Nidoking",
         types:[
             "Poison",
@@ -2141,7 +2141,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     clefairy:{
-        num:35,
+        num:-35,
         name:"Clefairy",
         types:[
             "Fairy"
@@ -2176,7 +2176,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     clefable:{
-        num:36,
+        num:-36,
         name:"Clefable",
         types:[
             "Fairy"
@@ -2209,7 +2209,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     vulpix:{
-        num:37,
+        num:-37,
         name:"Vulpix",
         types:[
             "Fire"
@@ -2250,7 +2250,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     vulpixalola:{
-        num:37,
+        num:-37,
         name:"Vulpix-Alola",
         baseSpecies:"Vulpix",
         forme:"Alola",
@@ -2284,7 +2284,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     ninetales:{
-        num:38,
+        num:-38,
         name:"Ninetales",
         types:[
             "Fire"
@@ -2325,7 +2325,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     ninetalesalola:{
-        num:38,
+        num:-38,
         name:"Ninetales-Alola",
         baseSpecies:"Ninetales",
         forme:"Alola",
@@ -2360,7 +2360,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     jigglypuff:{
-        num:39,
+        num:-39,
         name:"Jigglypuff",
         types:[
             "Normal",
@@ -2396,7 +2396,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     wigglytuff:{
-        num:40,
+        num:-40,
         name:"Wigglytuff",
         types:[
             "Normal",
@@ -2430,7 +2430,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     zubat:{
-        num:41,
+        num:-41,
         name:"Zubat",
         types:[
             "Poison",
@@ -2460,7 +2460,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     golbat:{
-        num:42,
+        num:-42,
         name:"Golbat",
         types:[
             "Poison",
@@ -2492,7 +2492,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     oddish:{
-        num:43,
+        num:-43,
         name:"Oddish",
         types:[
             "Grass",
@@ -2522,7 +2522,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     gloom:{
-        num:44,
+        num:-44,
         name:"Gloom",
         types:[
             "Grass",
@@ -2555,7 +2555,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     vileplume:{
-        num:45,
+        num:-45,
         name:"Vileplume",
         types:[
             "Grass",
@@ -2585,7 +2585,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     paras:{
-        num:46,
+        num:-46,
         name:"Paras",
         types:[
             "Bug",
@@ -2617,7 +2617,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     parasect:{
-        num:47,
+        num:-47,
         name:"Parasect",
         types:[
             "Bug",
@@ -2648,7 +2648,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     venonat:{
-        num:48,
+        num:-48,
         name:"Venonat",
         types:[
             "Bug",
@@ -2676,7 +2676,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     venomoth:{
-        num:49,
+        num:-49,
         name:"Venomoth",
         types:[
             "Bug",
@@ -2703,7 +2703,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     diglett:{
-        num:50,
+        num:-50,
         name:"Diglett",
         types:[
             "Ground",
@@ -2741,7 +2741,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     diglettalola:{
-        num:50,
+        num:-50,
         name:"Diglett-Alola",
         baseSpecies:"Diglett",
         forme:"Alola",
@@ -2773,7 +2773,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     dugtrio:{
-        num:51,
+        num:-51,
         name:"Dugtrio",
         types:[
             "Ground",
@@ -2810,7 +2810,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     dugtrioalola:{
-        num:51,
+        num:-51,
         name:"Dugtrio-Alola",
         baseSpecies:"Dugtrio",
         forme:"Alola",
@@ -2841,7 +2841,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     meowth:{
-        num:52,
+        num:-52,
         name:"Meowth",
         types:[
             "Normal"
@@ -2880,7 +2880,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     meowthalola:{
-        num:52,
+        num:-52,
         name:"Meowth-Alola",
         baseSpecies:"Meowth",
         forme:"Alola",
@@ -2911,7 +2911,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     meowthgalar:{
-        num:52,
+        num:-52,
         name:"Meowth-Galar",
         baseSpecies:"Meowth",
         forme:"Galar",
@@ -2942,7 +2942,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     meowthgmax:{
-        num:52,
+        num:-52,
         name:"Meowth-Gmax",
         baseSpecies:"Meowth",
         forme:"Gmax",
@@ -2971,7 +2971,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Meowth"
     },
     persian:{
-        num:53,
+        num:-53,
         name:"Persian",
         types:[
             "Normal",
@@ -3008,7 +3008,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     persianalola:{
-        num:53,
+        num:-53,
         name:"Persian-Alola",
         baseSpecies:"Persian",
         forme:"Alola",
@@ -3038,7 +3038,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     psyduck:{
-        num:54,
+        num:-54,
         name:"Psyduck",
         types:[
             "Water"
@@ -3067,7 +3067,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     golduck:{
-        num:55,
+        num:-55,
         name:"Golduck",
         types:[
             "Water"
@@ -3095,7 +3095,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     mankey:{
-        num:56,
+        num:-56,
         name:"Mankey",
         types:[
             "Fighting"
@@ -3125,7 +3125,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     primeape:{
-        num:57,
+        num:-57,
         name:"Primeape",
         types:[
             "Fighting"
@@ -3157,7 +3157,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     growlithe:{
-        num:58,
+        num:-58,
         name:"Growlithe",
         types:[
             "Fire"
@@ -3196,7 +3196,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     growlithehisui:{
-        num:58,
+        num:-58,
         name:"Growlithe-Hisui",
         baseSpecies:"Growlithe",
         forme:"Hisui",
@@ -3233,7 +3233,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     arcanine:{
-        num:59,
+        num:-59,
         name:"Arcanine",
         types:[
             "Fire"
@@ -3274,7 +3274,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     arcaninehisui:{
-        num:59,
+        num:-59,
         name:"Arcanine-Hisui",
         baseSpecies:"Arcanine",
         forme:"Hisui",
@@ -3311,7 +3311,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     poliwag:{
-        num:60,
+        num:-60,
         name:"Poliwag",
         types:[
             "Water"
@@ -3341,7 +3341,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     poliwhirl:{
-        num:61,
+        num:-61,
         name:"Poliwhirl",
         types:[
             "Water"
@@ -3374,7 +3374,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     poliwrath:{
-        num:62,
+        num:-62,
         name:"Poliwrath",
         types:[
             "Water",
@@ -3405,7 +3405,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     abra:{
-        num:63,
+        num:-63,
         name:"Abra",
         types:[
             "Psychic"
@@ -3439,7 +3439,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     kadabra:{
-        num:64,
+        num:-64,
         name:"Kadabra",
         types:[
             "Psychic"
@@ -3475,7 +3475,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     alakazam:{
-        num:65,
+        num:-65,
         name:"Alakazam",
         types:[
             "Psychic"
@@ -3515,7 +3515,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     alakazammega:{
-        num:65,
+        num:-65,
         name:"Alakazam-Mega",
         baseSpecies:"Alakazam",
         forme:"Mega",
@@ -3546,7 +3546,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         requiredItem:"Alakazite"
     },
     machop:{
-        num:66,
+        num:-66,
         name:"Machop",
         types:[
             "Fighting"
@@ -3580,7 +3580,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     machoke:{
-        num:67,
+        num:-67,
         name:"Machoke",
         types:[
             "Fighting"
@@ -3616,7 +3616,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     machamp:{
-        num:68,
+        num:-68,
         name:"Machamp",
         types:[
             "Fighting",
@@ -3651,7 +3651,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     machampgmax:{
-        num:68,
+        num:-68,
         name:"Machamp-Gmax",
         baseSpecies:"Machamp",
         forme:"Gmax",
@@ -3684,7 +3684,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Machamp"
     },
     bellsprout:{
-        num:69,
+        num:-69,
         name:"Bellsprout",
         types:[
             "Grass"
@@ -3713,7 +3713,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     weepinbell:{
-        num:70,
+        num:-70,
         name:"Weepinbell",
         types:[
             "Grass",
@@ -3745,7 +3745,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     victreebel:{
-        num:71,
+        num:-71,
         name:"Victreebel",
         types:[
             "Grass",
@@ -3775,7 +3775,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     tentacool:{
-        num:72,
+        num:-72,
         name:"Tentacool",
         types:[
             "Water",
@@ -3806,7 +3806,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     tentacruel:{
-        num:73,
+        num:-73,
         name:"Tentacruel",
         types:[
             "Water",
@@ -3836,7 +3836,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     geodude:{
-        num:74,
+        num:-74,
         name:"Geodude",
         types:[
             "Rock",
@@ -3874,7 +3874,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     geodudealola:{
-        num:74,
+        num:-74,
         name:"Geodude-Alola",
         baseSpecies:"Geodude",
         forme:"Alola",
@@ -3906,7 +3906,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     graveler:{
-        num:75,
+        num:-75,
         name:"Graveler",
         types:[
             "Rock",
@@ -3946,7 +3946,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     graveleralola:{
-        num:75,
+        num:-75,
         name:"Graveler-Alola",
         baseSpecies:"Graveler",
         forme:"Alola",
@@ -3980,7 +3980,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     golem:{
-        num:76,
+        num:-76,
         name:"Golem",
         types:[
             "Rock",
@@ -4017,7 +4017,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     golemalola:{
-        num:76,
+        num:-76,
         name:"Golem-Alola",
         baseSpecies:"Golem",
         forme:"Alola",
@@ -4048,7 +4048,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     ponyta:{
-        num:77,
+        num:-77,
         name:"Ponyta",
         types:[
             "Fire",
@@ -4086,7 +4086,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     ponytagalar:{
-        num:77,
+        num:-77,
         name:"Ponyta-Galar",
         baseSpecies:"Ponyta",
         forme:"Galar",
@@ -4117,7 +4117,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     rapidash:{
-        num:78,
+        num:-78,
         name:"Rapidash",
         types:[
             "Fire",
@@ -4154,7 +4154,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     rapidashgalar:{
-        num:78,
+        num:-78,
         name:"Rapidash-Galar",
         baseSpecies:"Rapidash",
         forme:"Galar",
@@ -4185,7 +4185,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     slowpoke:{
-        num:79,
+        num:-79,
         name:"Slowpoke",
         types:[
             "Water",
@@ -4225,7 +4225,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     slowpokegalar:{
-        num:79,
+        num:-79,
         name:"Slowpoke-Galar",
         baseSpecies:"Slowpoke",
         forme:"Galar",
@@ -4258,7 +4258,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     slowbro:{
-        num:80,
+        num:-80,
         name:"Slowbro",
         types:[
             "Water",
@@ -4298,7 +4298,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     slowbromega:{
-        num:80,
+        num:-80,
         name:"Slowbro-Mega",
         baseSpecies:"Slowbro",
         forme:"Mega",
@@ -4327,7 +4327,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         requiredItem:"Slowbronite"
     },
     slowbrogalar:{
-        num:80,
+        num:-80,
         name:"Slowbro-Galar",
         baseSpecies:"Slowbro",
         forme:"Galar",
@@ -4360,7 +4360,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     magnemite:{
-        num:81,
+        num:-81,
         name:"Magnemite",
         types:[
             "Electric",
@@ -4392,7 +4392,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     magneton:{
-        num:82,
+        num:-82,
         name:"Magneton",
         types:[
             "Electric",
@@ -4426,7 +4426,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     farfetchd:{
-        num:83,
+        num:-83,
         name:"Farfetch\u2019d",
         types:[
             "Fighting",
@@ -4462,7 +4462,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     farfetchdgalar:{
-        num:83,
+        num:-83,
         name:"Farfetch\u2019d-Galar",
         baseSpecies:"Farfetch\u2019d",
         forme:"Galar",
@@ -4493,7 +4493,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     doduo:{
-        num:84,
+        num:-84,
         name:"Doduo",
         types:[
             "Dark",
@@ -4524,7 +4524,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     dodrio:{
-        num:85,
+        num:-85,
         name:"Dodrio",
         types:[
             "Dark",
@@ -4554,7 +4554,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     seel:{
-        num:86,
+        num:-86,
         name:"Seel",
         types:[
             "Water"
@@ -4582,7 +4582,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     dewgong:{
-        num:87,
+        num:-87,
         name:"Dewgong",
         types:[
             "Water",
@@ -4610,7 +4610,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     grimer:{
-        num:88,
+        num:-88,
         name:"Grimer",
         types:[
             "Poison"
@@ -4645,7 +4645,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     grimeralola:{
-        num:88,
+        num:-88,
         name:"Grimer-Alola",
         baseSpecies:"Grimer",
         forme:"Alola",
@@ -4678,7 +4678,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     muk:{
-        num:89,
+        num:-89,
         name:"Muk",
         types:[
             "Poison"
@@ -4712,7 +4712,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     mukalola:{
-        num:89,
+        num:-89,
         name:"Muk-Alola",
         baseSpecies:"Muk",
         forme:"Alola",
@@ -4744,7 +4744,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     shellder:{
-        num:90,
+        num:-90,
         name:"Shellder",
         types:[
             "Ghost",
@@ -4775,7 +4775,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     cloyster:{
-        num:91,
+        num:-91,
         name:"Cloyster",
         types:[
             "Ghost",
@@ -4806,7 +4806,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     gastly:{
-        num:92,
+        num:-92,
         name:"Gastly",
         types:[
             "Ghost",
@@ -4836,7 +4836,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     haunter:{
-        num:93,
+        num:-93,
         name:"Haunter",
         types:[
             "Ghost",
@@ -4868,7 +4868,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     gengar:{
-        num:94,
+        num:-94,
         name:"Gengar",
         types:[
             "Ghost",
@@ -4905,7 +4905,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     gengarmega:{
-        num:94,
+        num:-94,
         name:"Gengar-Mega",
         baseSpecies:"Gengar",
         forme:"Mega",
@@ -4933,7 +4933,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         requiredItem:"Gengarite"
     },
     gengargmax:{
-        num:94,
+        num:-94,
         name:"Gengar-Gmax",
         baseSpecies:"Gengar",
         forme:"Gmax",
@@ -4961,7 +4961,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Gengar"
     },
     onix:{
-        num:95,
+        num:-95,
         name:"Onix",
         types:[
             "Rock",
@@ -4992,7 +4992,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     drowzee:{
-        num:96,
+        num:-96,
         name:"Drowzee",
         types:[
             "Psychic"
@@ -5019,7 +5019,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     hypno:{
-        num:97,
+        num:-97,
         name:"Hypno",
         types:[
             "Psychic"
@@ -5045,7 +5045,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     krabby:{
-        num:98,
+        num:-98,
         name:"Krabby",
         types:[
             "Water"
@@ -5073,7 +5073,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     kingler:{
-        num:99,
+        num:-99,
         name:"Kingler",
         types:[
             "Water"
@@ -5101,7 +5101,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         canGigantamax:"G-Max Foam Burst"
     },
     kinglergmax:{
-        num:99,
+        num:-99,
         name:"Kingler-Gmax",
         baseSpecies:"Kingler",
         forme:"Gmax",
@@ -5130,7 +5130,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Kingler"
     },
     voltorb:{
-        num:100,
+        num:-100,
         name:"Voltorb",
         types:[
             "Electric"
@@ -5168,7 +5168,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     voltorbhisui:{
-        num:100,
+        num:-100,
         name:"Voltorb-Hisui",
         baseSpecies:"Voltorb",
         forme:"Hisui",
@@ -5201,7 +5201,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     electrode:{
-        num:101,
+        num:-101,
         name:"Electrode",
         types:[
             "Electric"
@@ -5238,7 +5238,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     electrodehisui:{
-        num:101,
+        num:-101,
         name:"Electrode-Hisui",
         baseSpecies:"Electrode",
         forme:"Hisui",
@@ -5271,7 +5271,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     exeggcute:{
-        num:102,
+        num:-102,
         name:"Exeggcute",
         types:[
             "Grass",
@@ -5300,7 +5300,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     exeggutor:{
-        num:103,
+        num:-103,
         name:"Exeggutor",
         types:[
             "Grass",
@@ -5335,7 +5335,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     exeggutoralola:{
-        num:103,
+        num:-103,
         name:"Exeggutor-Alola",
         baseSpecies:"Exeggutor",
         forme:"Alola",
@@ -5367,7 +5367,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     cubone:{
-        num:104,
+        num:-104,
         name:"Cubone",
         types:[
             "Ground"
@@ -5398,7 +5398,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     marowak:{
-        num:105,
+        num:-105,
         name:"Marowak",
         types:[
             "Ground"
@@ -5436,7 +5436,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     marowakalola:{
-        num:105,
+        num:-105,
         name:"Marowak-Alola",
         baseSpecies:"Marowak",
         forme:"Alola",
@@ -5469,7 +5469,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     marowakalolatotem:{
-        num:105,
+        num:-105,
         name:"Marowak-Alola-Totem",
         baseSpecies:"Marowak",
         forme:"Alola-Totem",
@@ -5496,7 +5496,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     hitmonlee:{
-        num:106,
+        num:-106,
         name:"Hitmonlee",
         types:[
             "Fighting"
@@ -5524,7 +5524,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     hitmonchan:{
-        num:107,
+        num:-107,
         name:"Hitmonchan",
         types:[
             "Fighting"
@@ -5552,7 +5552,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     lickitung:{
-        num:108,
+        num:-108,
         name:"Lickitung",
         types:[
             "Normal"
@@ -5580,7 +5580,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     koffing:{
-        num:109,
+        num:-109,
         name:"Koffing",
         types:[
             "Poison"
@@ -5610,7 +5610,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     weezing:{
-        num:110,
+        num:-110,
         name:"Weezing",
         types:[
             "Poison"
@@ -5643,7 +5643,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     weezinggalar:{
-        num:110,
+        num:-110,
         name:"Weezing-Galar",
         baseSpecies:"Weezing",
         forme:"Galar",
@@ -5675,7 +5675,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     rhyhorn:{
-        num:111,
+        num:-111,
         name:"Rhyhorn",
         types:[
             "Ground",
@@ -5705,7 +5705,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     rhydon:{
-        num:112,
+        num:-112,
         name:"Rhydon",
         types:[
             "Ground",
@@ -5737,7 +5737,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     chansey:{
-        num:113,
+        num:-113,
         name:"Chansey",
         types:[
             "Normal"
@@ -5771,7 +5771,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         canHatch:true
     },
     tangela:{
-        num:114,
+        num:-114,
         name:"Tangela",
         types:[
             "Grass"
@@ -5798,7 +5798,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     kangaskhan:{
-        num:115,
+        num:-115,
         name:"Kangaskhan",
         types:[
             "Normal"
@@ -5830,7 +5830,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     kangaskhanmega:{
-        num:115,
+        num:-115,
         name:"Kangaskhan-Mega",
         baseSpecies:"Kangaskhan",
         forme:"Mega",
@@ -5858,7 +5858,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         requiredItem:"Kangaskhanite"
     },
     horsea:{
-        num:116,
+        num:-116,
         name:"Horsea",
         types:[
             "Water"
@@ -5888,7 +5888,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     seadra:{
-        num:117,
+        num:-117,
         name:"Seadra",
         types:[
             "Water"
@@ -5920,7 +5920,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     goldeen:{
-        num:118,
+        num:-118,
         name:"Goldeen",
         types:[
             "Water"
@@ -5948,7 +5948,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     seaking:{
-        num:119,
+        num:-119,
         name:"Seaking",
         types:[
             "Water",
@@ -5976,7 +5976,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     staryu:{
-        num:120,
+        num:-120,
         name:"Staryu",
         types:[
             "Water"
@@ -6007,7 +6007,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     starmie:{
-        num:121,
+        num:-121,
         name:"Starmie",
         types:[
             "Water",
@@ -6039,7 +6039,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     mrmime:{
-        num:122,
+        num:-122,
         name:"Mr. Mime",
         types:[
             "Psychic",
@@ -6075,7 +6075,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     mrmimegalar:{
-        num:122,
+        num:-122,
         name:"Mr. Mime-Galar",
         baseSpecies:"Mr. Mime",
         forme:"Galar",
@@ -6112,7 +6112,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         canHatch:true
     },
     scyther:{
-        num:123,
+        num:-123,
         name:"Scyther",
         types:[
             "Bug",
@@ -6141,7 +6141,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     jynx:{
-        num:124,
+        num:-124,
         name:"Jynx",
         types:[
             "Ice",
@@ -6169,7 +6169,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     electabuzz:{
-        num:125,
+        num:-125,
         name:"Electabuzz",
         types:[
             "Electric"
@@ -6202,7 +6202,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     magmar:{
-        num:126,
+        num:-126,
         name:"Magmar",
         types:[
             "Fire"
@@ -6235,7 +6235,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     pinsir:{
-        num:127,
+        num:-127,
         name:"Pinsir",
         types:[
             "Bug"
@@ -6269,7 +6269,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     pinsirmega:{
-        num:127,
+        num:-127,
         name:"Pinsir-Mega",
         baseSpecies:"Pinsir",
         forme:"Mega",
@@ -6297,7 +6297,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         requiredItem:"Pinsirite"
     },
     tauros:{
-        num:128,
+        num:-128,
         name:"Tauros",
         types:[
             "Normal"
@@ -6335,7 +6335,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     taurospaldeacombat:{
-        num:128,
+        num:-128,
         name:"Tauros-Paldea-Combat",
         baseSpecies:"Tauros",
         forme:"Paldea-Combat",
@@ -6366,7 +6366,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     taurospaldeablaze:{
-        num:128,
+        num:-128,
         name:"Tauros-Paldea-Blaze",
         baseSpecies:"Tauros",
         forme:"Paldea-Blaze",
@@ -6397,7 +6397,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     taurospaldeaaqua:{
-        num:128,
+        num:-128,
         name:"Tauros-Paldea-Aqua",
         baseSpecies:"Tauros",
         forme:"Paldea-Aqua",
@@ -6427,7 +6427,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     magikarp:{
-        num:129,
+        num:-129,
         name:"Magikarp",
         types:[
             "Water"
@@ -6457,7 +6457,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     gyarados:{
-        num:130,
+        num:-130,
         name:"Gyarados",
         types:[
             "Water",
@@ -6494,7 +6494,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     gyaradosmega:{
-        num:130,
+        num:-130,
         name:"Gyarados-Mega",
         baseSpecies:"Gyarados",
         forme:"Mega",
@@ -6523,7 +6523,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         requiredItem:"Gyaradosite"
     },
     lapras:{
-        num:131,
+        num:-131,
         name:"Lapras",
         types:[
             "Water",
@@ -6551,7 +6551,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         canGigantamax:"G-Max Resonance"
     },
     laprasgmax:{
-        num:131,
+        num:-131,
         name:"Lapras-Gmax",
         baseSpecies:"Lapras",
         forme:"Gmax",
@@ -6582,7 +6582,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Lapras"
     },
     ditto:{
-        num:132,
+        num:-132,
         name:"Ditto",
         types:[
             "Normal"
@@ -6609,7 +6609,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     eevee:{
-        num:133,
+        num:-133,
         name:"Eevee",
         types:[
             "Normal"
@@ -6657,7 +6657,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     eeveestarter:{
-        num:133,
+        num:-133,
         name:"Eevee-Starter",
         baseSpecies:"Eevee",
         forme:"Starter",
@@ -6689,7 +6689,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     eeveegmax:{
-        num:133,
+        num:-133,
         name:"Eevee-Gmax",
         baseSpecies:"Eevee",
         forme:"Gmax",
@@ -6722,7 +6722,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Eevee"
     },
     vaporeon:{
-        num:134,
+        num:-134,
         name:"Vaporeon",
         types:[
             "Water"
@@ -6756,7 +6756,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     jolteon:{
-        num:135,
+        num:-135,
         name:"Jolteon",
         types:[
             "Electric"
@@ -6789,7 +6789,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     flareon:{
-        num:136,
+        num:-136,
         name:"Flareon",
         types:[
             "Fire"
@@ -6823,7 +6823,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     porygon:{
-        num:137,
+        num:-137,
         name:"Porygon",
         types:[
             "Normal"
@@ -6853,7 +6853,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     omanyte:{
-        num:138,
+        num:-138,
         name:"Omanyte",
         types:[
             "Rock",
@@ -6889,7 +6889,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     omastar:{
-        num:139,
+        num:-139,
         name:"Omastar",
         types:[
             "Rock",
@@ -6924,7 +6924,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     kabuto:{
-        num:140,
+        num:-140,
         name:"Kabuto",
         types:[
             "Water",
@@ -6960,7 +6960,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     kabutops:{
-        num:141,
+        num:-141,
         name:"Kabutops",
         types:[
             "Water",
@@ -6995,7 +6995,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     aerodactyl:{
-        num:142,
+        num:-142,
         name:"Aerodactyl",
         types:[
             "Rock",
@@ -7034,7 +7034,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     aerodactylmega:{
-        num:142,
+        num:-142,
         name:"Aerodactyl-Mega",
         baseSpecies:"Aerodactyl",
         forme:"Mega",
@@ -7066,7 +7066,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         requiredItem:"Aerodactylite"
     },
     snorlax:{
-        num:143,
+        num:-143,
         name:"Snorlax",
         types:[
             "Normal"
@@ -7101,7 +7101,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     snorlaxgmax:{
-        num:143,
+        num:-143,
         name:"Snorlax-Gmax",
         baseSpecies:"Snorlax",
         forme:"Gmax",
@@ -7134,7 +7134,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Snorlax"
     },
     articunogalar:{
-        num:144,
+        num:-144,
         name:"Articuno-Galar",
         types:[
             "Psychic",
@@ -7172,7 +7172,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     articuno:{
-        num:144,
+        num:-144,
         name:"Articuno-Galar",
         baseSpecies:"Articuno",
         forme:"Galar",
@@ -7200,7 +7200,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     zapdos:{
-        num:145,
+        num:-145,
         name:"Zapdos",
         types:[
             "Electric",
@@ -7238,7 +7238,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     zapdosgalar:{
-        num:145,
+        num:-145,
         name:"Zapdos-Galar",
         baseSpecies:"Zapdos",
         forme:"Galar",
@@ -7266,7 +7266,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     moltres:{
-        num:146,
+        num:-146,
         name:"Moltres",
         types:[
             "Fire",
@@ -7304,7 +7304,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     moltresgalar:{
-        num:146,
+        num:-146,
         name:"Moltres-Galar",
         baseSpecies:"Moltres",
         forme:"Galar",
@@ -7332,7 +7332,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     dratini:{
-        num:147,
+        num:-147,
         name:"Dratini",
         types:[
             "Dragon"
@@ -7360,7 +7360,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     dragonair:{
-        num:148,
+        num:-148,
         name:"Dragonair",
         types:[
             "Dragon"
@@ -7390,7 +7390,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     dragonite:{
-        num:149,
+        num:-149,
         name:"Dragonite",
         types:[
             "Dragon",
@@ -7418,7 +7418,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     mewtwo:{
-        num:150,
+        num:-150,
         name:"Mewtwo",
         types:[
             "Psychic"
@@ -7457,7 +7457,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     mewtwomegax:{
-        num:150,
+        num:-150,
         name:"Mewtwo-Mega-X",
         baseSpecies:"Mewtwo",
         forme:"Mega-X",
@@ -7486,7 +7486,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         requiredItem:"Mewtwonite X"
     },
     mewtwomegay:{
-        num:150,
+        num:-150,
         name:"Mewtwo-Mega-Y",
         baseSpecies:"Mewtwo",
         forme:"Mega-Y",
@@ -7514,7 +7514,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         requiredItem:"Mewtwonite Y"
     },
     mew:{
-        num:151,
+        num:-151,
         name:"Mew",
         types:[
             "Psychic"
@@ -7544,7 +7544,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     chikorita:{
-        num:152,
+        num:-152,
         name:"Chikorita",
         types:[
             "Grass"
@@ -7578,7 +7578,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     bayleef:{
-        num:153,
+        num:-153,
         name:"Bayleef",
         types:[
             "Grass"
@@ -7614,7 +7614,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     meganium:{
-        num:154,
+        num:-154,
         name:"Meganium",
         types:[
             "Grass"
@@ -7647,7 +7647,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     cyndaquil:{
-        num:155,
+        num:-155,
         name:"Cyndaquil",
         types:[
             "Fire"
@@ -7680,7 +7680,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     quilava:{
-        num:156,
+        num:-156,
         name:"Quilava",
         types:[
             "Fire"
@@ -7716,7 +7716,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     typhlosion:{
-        num:157,
+        num:-157,
         name:"Typhlosion",
         types:[
             "Fire"
@@ -7755,7 +7755,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     typhlosionhisui:{
-        num:157,
+        num:-157,
         name:"Typhlosion-Hisui",
         baseSpecies:"Typhlosion",
         forme:"Hisui",
@@ -7789,7 +7789,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     totodile:{
-        num:158,
+        num:-158,
         name:"Totodile",
         types:[
             "Water"
@@ -7823,7 +7823,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     croconaw:{
-        num:159,
+        num:-159,
         name:"Croconaw",
         types:[
             "Water"
@@ -7859,7 +7859,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     feraligatr:{
-        num:160,
+        num:-160,
         name:"Feraligatr",
         types:[
             "Water"
@@ -7892,7 +7892,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     sentret:{
-        num:161,
+        num:-161,
         name:"Sentret",
         types:[
             "Normal"
@@ -7922,7 +7922,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     furret:{
-        num:162,
+        num:-162,
         name:"Furret",
         types:[
             "Normal"
@@ -7951,7 +7951,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     hoothoot:{
-        num:163,
+        num:-163,
         name:"Hoothoot",
         types:[
             "Normal",
@@ -7981,7 +7981,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     noctowl:{
-        num:164,
+        num:-164,
         name:"Noctowl",
         types:[
             "Normal",
@@ -8010,7 +8010,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     ledyba:{
-        num:165,
+        num:-165,
         name:"Ledyba",
         types:[
             "Bug",
@@ -8041,7 +8041,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     ledian:{
-        num:166,
+        num:-166,
         name:"Ledian",
         types:[
             "Bug",
@@ -8071,7 +8071,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     spinarak:{
-        num:167,
+        num:-167,
         name:"Spinarak",
         types:[
             "Bug",
@@ -8101,7 +8101,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     ariados:{
-        num:168,
+        num:-168,
         name:"Ariados",
         types:[
             "Bug",
@@ -8130,7 +8130,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     crobat:{
-        num:169,
+        num:-169,
         name:"Crobat",
         types:[
             "Poison",
@@ -8159,7 +8159,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     chinchou:{
-        num:170,
+        num:-170,
         name:"Chinchou",
         types:[
             "Water",
@@ -8190,7 +8190,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     lanturn:{
-        num:171,
+        num:-171,
         name:"Lanturn",
         types:[
             "Water",
@@ -8220,7 +8220,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     pichu:{
-        num:172,
+        num:-172,
         name:"Pichu",
         types:[
             "Electric"
@@ -8256,7 +8256,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     pichuspikyeared:{
-        num:172,
+        num:-172,
         name:"Pichu-Spiky-eared",
         baseSpecies:"Pichu",
         forme:"Spiky-eared",
@@ -8283,7 +8283,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         gen:4
     },
     cleffa:{
-        num:173,
+        num:-173,
         name:"Cleffa",
         types:[
             "Fairy"
@@ -8317,7 +8317,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         canHatch:true
     },
     igglybuff:{
-        num:174,
+        num:-174,
         name:"Igglybuff",
         types:[
             "Normal",
@@ -8352,7 +8352,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         canHatch:true
     },
     togepi:{
-        num:175,
+        num:-175,
         name:"Togepi",
         types:[
             "Fairy"
@@ -8386,7 +8386,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     togetic:{
-        num:176,
+        num:-176,
         name:"Togetic",
         types:[
             "Fairy",
@@ -8423,7 +8423,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     natu:{
-        num:177,
+        num:-177,
         name:"Natu",
         types:[
             "Psychic",
@@ -8453,7 +8453,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     xatu:{
-        num:178,
+        num:-178,
         name:"Xatu",
         types:[
             "Psychic",
@@ -8482,7 +8482,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     mareep:{
-        num:179,
+        num:-179,
         name:"Mareep",
         types:[
             "Electric"
@@ -8513,7 +8513,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     flaaffy:{
-        num:180,
+        num:-180,
         name:"Flaaffy",
         types:[
             "Electric"
@@ -8546,7 +8546,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     ampharos:{
-        num:181,
+        num:-181,
         name:"Ampharos",
         types:[
             "Electric",
@@ -8584,7 +8584,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     ampharosmega:{
-        num:181,
+        num:-181,
         name:"Ampharos-Mega",
         baseSpecies:"Ampharos",
         forme:"Mega",
@@ -8613,7 +8613,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         requiredItem:"Ampharosite"
     },
     bellossom:{
-        num:182,
+        num:-182,
         name:"Bellossom",
         types:[
             "Grass"
@@ -8640,7 +8640,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     marill:{
-        num:183,
+        num:-183,
         name:"Marill",
         types:[
             "Water",
@@ -8675,7 +8675,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     azumarill:{
-        num:184,
+        num:-184,
         name:"Azumarill",
         types:[
             "Water",
@@ -8706,7 +8706,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     sudowoodo:{
-        num:185,
+        num:-185,
         name:"Sudowoodo",
         types:[
             "Rock"
@@ -8737,7 +8737,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     politoed:{
-        num:186,
+        num:-186,
         name:"Politoed",
         types:[
             "Water"
@@ -8767,7 +8767,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     hoppip:{
-        num:187,
+        num:-187,
         name:"Hoppip",
         types:[
             "Grass",
@@ -8798,7 +8798,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     skiploom:{
-        num:188,
+        num:-188,
         name:"Skiploom",
         types:[
             "Grass",
@@ -8831,7 +8831,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     jumpluff:{
-        num:189,
+        num:-189,
         name:"Jumpluff",
         types:[
             "Grass",
@@ -8861,7 +8861,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     aipom:{
-        num:190,
+        num:-190,
         name:"Aipom",
         types:[
             "Normal"
@@ -8890,7 +8890,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     sunkern:{
-        num:191,
+        num:-191,
         name:"Sunkern",
         types:[
             "Grass"
@@ -8919,7 +8919,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     sunflora:{
-        num:192,
+        num:-192,
         name:"Sunflora",
         types:[
             "Grass"
@@ -8948,7 +8948,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     yanma:{
-        num:193,
+        num:-193,
         name:"Yanma",
         types:[
             "Bug",
@@ -8978,7 +8978,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     wooper:{
-        num:194,
+        num:-194,
         name:"Wooper",
         types:[
             "Water",
@@ -9017,7 +9017,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     wooperpaldea:{
-        num:194,
+        num:-194,
         name:"Wooper-Paldea",
         baseSpecies:"Wooper",
         forme:"Paldea",
@@ -9050,7 +9050,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     quagsire:{
-        num:195,
+        num:-195,
         name:"Quagsire",
         types:[
             "Water",
@@ -9081,7 +9081,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     espeon:{
-        num:196,
+        num:-196,
         name:"Espeon",
         types:[
             "Psychic"
@@ -9114,7 +9114,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     umbreon:{
-        num:197,
+        num:-197,
         name:"Umbreon",
         types:[
             "Dark"
@@ -9147,7 +9147,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     murkrow:{
-        num:198,
+        num:-198,
         name:"Murkrow",
         types:[
             "Dark",
@@ -9177,7 +9177,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     slowking:{
-        num:199,
+        num:-199,
         name:"Slowking",
         types:[
             "Water",
@@ -9215,7 +9215,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     slowkinggalar:{
-        num:199,
+        num:-199,
         name:"Slowking-Galar",
         baseSpecies:"Slowking",
         forme:"Galar",
@@ -9248,7 +9248,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     misdreavus:{
-        num:200,
+        num:-200,
         name:"Misdreavus",
         types:[
             "Ghost"
@@ -9277,7 +9277,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     unown:{
-        num:201,
+        num:-201,
         name:"Unown",
         baseForme:"A",
         types:[
@@ -9364,7 +9364,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     wobbuffet:{
-        num:202,
+        num:-202,
         name:"Wobbuffet",
         types:[
             "Psychic"
@@ -9393,7 +9393,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     girafarig:{
-        num:203,
+        num:-203,
         name:"Girafarig",
         types:[
             "Normal",
@@ -9424,7 +9424,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     pineco:{
-        num:204,
+        num:-204,
         name:"Pineco",
         types:[
             "Bug"
@@ -9452,7 +9452,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     forretress:{
-        num:205,
+        num:-205,
         name:"Forretress",
         types:[
             "Bug",
@@ -9480,7 +9480,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     dunsparce:{
-        num:206,
+        num:-206,
         name:"Dunsparce",
         types:[
             "Normal"
@@ -9510,7 +9510,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     gligar:{
-        num:207,
+        num:-207,
         name:"Gligar",
         types:[
             "Ground",
@@ -9541,7 +9541,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     steelix:{
-        num:208,
+        num:-208,
         name:"Steelix",
         types:[
             "Steel",
@@ -9579,7 +9579,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     steelixmega:{
-        num:208,
+        num:-208,
         name:"Steelix-Mega",
         baseSpecies:"Steelix",
         forme:"Mega",
@@ -9607,7 +9607,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         requiredItem:"Steelixite"
     },
     snubbull:{
-        num:209,
+        num:-209,
         name:"Snubbull",
         types:[
             "Fairy"
@@ -9641,7 +9641,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     granbull:{
-        num:210,
+        num:-210,
         name:"Granbull",
         types:[
             "Fairy"
@@ -9674,7 +9674,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     qwilfish:{
-        num:211,
+        num:-211,
         name:"Qwilfish",
         types:[
             "Water",
@@ -9708,7 +9708,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     qwilfishhisui:{
-        num:211,
+        num:-211,
         name:"Qwilfish-Hisui",
         baseSpecies:"Qwilfish",
         forme:"Hisui",
@@ -9740,7 +9740,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     scizor:{
-        num:212,
+        num:-212,
         name:"Scizor",
         types:[
             "Bug",
@@ -9774,7 +9774,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     scizormega:{
-        num:212,
+        num:-212,
         name:"Scizor-Mega",
         baseSpecies:"Scizor",
         forme:"Mega",
@@ -9802,7 +9802,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         requiredItem:"Scizorite"
     },
     shuckle:{
-        num:213,
+        num:-213,
         name:"Shuckle",
         types:[
             "Bug",
@@ -9829,7 +9829,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     heracross:{
-        num:214,
+        num:-214,
         name:"Heracross",
         types:[
             "Bug",
@@ -9864,7 +9864,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     heracrossmega:{
-        num:214,
+        num:-214,
         name:"Heracross-Mega",
         baseSpecies:"Heracross",
         forme:"Mega",
@@ -9892,7 +9892,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         requiredItem:"Heracronite"
     },
     sneasel:{
-        num:215,
+        num:-215,
         name:"Sneasel",
         types:[
             "Dark",
@@ -9930,7 +9930,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     sneaselhisui:{
-        num:215,
+        num:-215,
         name:"Sneasel-Hisui",
         baseSpecies:"Sneasel",
         forme:"Hisui",
@@ -9962,7 +9962,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     teddiursa:{
-        num:216,
+        num:-216,
         name:"Teddiursa",
         types:[
             "Normal"
@@ -9991,7 +9991,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     ursaring:{
-        num:217,
+        num:-217,
         name:"Ursaring",
         types:[
             "Normal"
@@ -10022,7 +10022,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     slugma:{
-        num:218,
+        num:-218,
         name:"Slugma",
         types:[
             "Fire"
@@ -10051,7 +10051,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     magcargo:{
-        num:219,
+        num:-219,
         name:"Magcargo",
         types:[
             "Fire",
@@ -10080,7 +10080,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     swinub:{
-        num:220,
+        num:-220,
         name:"Swinub",
         types:[
             "Ice",
@@ -10111,7 +10111,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     piloswine:{
-        num:221,
+        num:-221,
         name:"Piloswine",
         types:[
             "Ice",
@@ -10144,7 +10144,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     corsola:{
-        num:222,
+        num:-222,
         name:"Corsola",
         types:[
             "Water",
@@ -10184,7 +10184,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     corsolagalar:{
-        num:222,
+        num:-222,
         name:"Corsola-Galar",
         baseSpecies:"Corsola",
         forme:"Galar",
@@ -10219,7 +10219,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     remoraid:{
-        num:223,
+        num:-223,
         name:"Remoraid",
         types:[
             "Water"
@@ -10249,7 +10249,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     octillery:{
-        num:224,
+        num:-224,
         name:"Octillery",
         types:[
             "Water"
@@ -10278,7 +10278,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     delibird:{
-        num:225,
+        num:-225,
         name:"Delibird",
         types:[
             "Ice",
@@ -10306,7 +10306,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     mantine:{
-        num:226,
+        num:-226,
         name:"Mantine",
         types:[
             "Water",
@@ -10337,7 +10337,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         canHatch:true
     },
     skarmory:{
-        num:227,
+        num:-227,
         name:"Skarmory",
         types:[
             "Steel",
@@ -10365,7 +10365,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     houndour:{
-        num:228,
+        num:-228,
         name:"Houndour",
         types:[
             "Dark",
@@ -10396,7 +10396,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     houndoom:{
-        num:229,
+        num:-229,
         name:"Houndoom",
         types:[
             "Dark",
@@ -10433,7 +10433,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     houndoommega:{
-        num:229,
+        num:-229,
         name:"Houndoom-Mega",
         baseSpecies:"Houndoom",
         forme:"Mega",
@@ -10461,7 +10461,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         requiredItem:"Houndoominite"
     },
     kingdra:{
-        num:230,
+        num:-230,
         name:"Kingdra",
         types:[
             "Water",
@@ -10491,7 +10491,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     phanpy:{
-        num:231,
+        num:-231,
         name:"Phanpy",
         types:[
             "Ground"
@@ -10521,7 +10521,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     donphan:{
-        num:232,
+        num:-232,
         name:"Donphan",
         types:[
             "Ground"
@@ -10550,7 +10550,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     porygon2:{
-        num:233,
+        num:-233,
         name:"Porygon2",
         types:[
             "Normal"
@@ -10582,7 +10582,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     stantler:{
-        num:234,
+        num:-234,
         name:"Stantler",
         types:[
             "Normal"
@@ -10611,7 +10611,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     smeargle:{
-        num:235,
+        num:-235,
         name:"Smeargle",
         types:[
             "Normal"
@@ -10637,7 +10637,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     tyrogue:{
-        num:236,
+        num:-236,
         name:"Tyrogue",
         types:[
             "Fighting"
@@ -10670,7 +10670,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         canHatch:true
     },
     hitmontop:{
-        num:237,
+        num:-237,
         name:"Hitmontop",
         types:[
             "Fighting"
@@ -10700,7 +10700,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     smoochum:{
-        num:238,
+        num:-238,
         name:"Smoochum",
         types:[
             "Ice",
@@ -10732,7 +10732,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         canHatch:true
     },
     elekid:{
-        num:239,
+        num:-239,
         name:"Elekid",
         types:[
             "Electric"
@@ -10765,7 +10765,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         canHatch:true
     },
     magby:{
-        num:240,
+        num:-240,
         name:"Magby",
         types:[
             "Fire"
@@ -10798,7 +10798,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         canHatch:true
     },
     miltank:{
-        num:241,
+        num:-241,
         name:"Miltank",
         types:[
             "Normal"
@@ -10825,7 +10825,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     blissey:{
-        num:242,
+        num:-242,
         name:"Blissey",
         types:[
             "Normal"
@@ -10855,7 +10855,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     raikou:{
-        num:243,
+        num:-243,
         name:"Raikou",
         types:[
             "Electric"
@@ -10885,7 +10885,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     entei:{
-        num:244,
+        num:-244,
         name:"Entei",
         types:[
             "Fire"
@@ -10915,7 +10915,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     suicune:{
-        num:245,
+        num:-245,
         name:"Suicune",
         types:[
             "Water"
@@ -10945,7 +10945,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     larvitar:{
-        num:246,
+        num:-246,
         name:"Larvitar",
         types:[
             "Rock",
@@ -10975,7 +10975,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     pupitar:{
-        num:247,
+        num:-247,
         name:"Pupitar",
         types:[
             "Rock",
@@ -11007,7 +11007,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     tyranitar:{
-        num:248,
+        num:-248,
         name:"Tyranitar",
         types:[
             "Rock",
@@ -11043,7 +11043,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     tyranitarmega:{
-        num:248,
+        num:-248,
         name:"Tyranitar-Mega",
         baseSpecies:"Tyranitar",
         forme:"Mega",
@@ -11071,7 +11071,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         requiredItem:"Tyranitarite"
     },
     lugia:{
-        num:249,
+        num:-249,
         name:"Lugia",
         types:[
             "Psychic",
@@ -11102,7 +11102,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     hooh:{
-        num:250,
+        num:-250,
         name:"Ho-Oh",
         types:[
             "Fire",
@@ -11133,7 +11133,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     celebi:{
-        num:251,
+        num:-251,
         name:"Celebi",
         types:[
             "Psychic",
@@ -11164,7 +11164,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     treecko:{
-        num:252,
+        num:-252,
         name:"Treecko",
         types:[
             "Grass"
@@ -11198,7 +11198,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     grovyle:{
-        num:253,
+        num:-253,
         name:"Grovyle",
         types:[
             "Grass"
@@ -11234,7 +11234,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     sceptile:{
-        num:254,
+        num:-254,
         name:"Sceptile",
         types:[
             "Grass",
@@ -11275,7 +11275,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     sceptilemega:{
-        num:254,
+        num:-254,
         name:"Sceptile-Mega",
         baseSpecies:"Sceptile",
         forme:"Mega",
@@ -11308,7 +11308,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         requiredItem:"Sceptilite"
     },
     torchic:{
-        num:255,
+        num:-255,
         name:"Torchic",
         types:[
             "Fire"
@@ -11341,7 +11341,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     combusken:{
-        num:256,
+        num:-256,
         name:"Combusken",
         types:[
             "Fire",
@@ -11377,7 +11377,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     blaziken:{
-        num:257,
+        num:-257,
         name:"Blaziken",
         types:[
             "Fire",
@@ -11417,7 +11417,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     blazikenmega:{
-        num:257,
+        num:-257,
         name:"Blaziken-Mega",
         baseSpecies:"Blaziken",
         forme:"Mega",
@@ -11449,7 +11449,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         requiredItem:"Blazikenite"
     },
     mudkip:{
-        num:258,
+        num:-258,
         name:"Mudkip",
         types:[
             "Water"
@@ -11483,7 +11483,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     marshtomp:{
-        num:259,
+        num:-259,
         name:"Marshtomp",
         types:[
             "Water",
@@ -11520,7 +11520,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     swampert:{
-        num:260,
+        num:-260,
         name:"Swampert",
         types:[
             "Water",
@@ -11561,7 +11561,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     swampertmega:{
-        num:260,
+        num:-260,
         name:"Swampert-Mega",
         baseSpecies:"Swampert",
         forme:"Mega",
@@ -11594,7 +11594,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         requiredItem:"Swampertite"
     },
     poochyena:{
-        num:261,
+        num:-261,
         name:"Poochyena",
         types:[
             "Dark"
@@ -11623,7 +11623,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     mightyena:{
-        num:262,
+        num:-262,
         name:"Mightyena",
         types:[
             "Dark"
@@ -11651,7 +11651,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     zigzagoon:{
-        num:263,
+        num:-263,
         name:"Zigzagoon",
         types:[
             "Normal"
@@ -11687,7 +11687,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     zigzagoongalar:{
-        num:263,
+        num:-263,
         name:"Zigzagoon-Galar",
         baseSpecies:"Zigzagoon",
         forme:"Galar",
@@ -11719,7 +11719,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     linoone:{
-        num:264,
+        num:-264,
         name:"Linoone",
         types:[
             "Normal",
@@ -11755,7 +11755,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     linoonegalar:{
-        num:264,
+        num:-264,
         name:"Linoone-Galar",
         baseSpecies:"Linoone",
         forme:"Galar",
@@ -11789,7 +11789,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     wurmple:{
-        num:265,
+        num:-265,
         name:"Wurmple",
         types:[
             "Bug"
@@ -11819,7 +11819,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     silcoon:{
-        num:266,
+        num:-266,
         name:"Silcoon",
         types:[
             "Bug"
@@ -11850,7 +11850,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     beautifly:{
-        num:267,
+        num:-267,
         name:"Beautifly",
         types:[
             "Bug",
@@ -11879,7 +11879,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     cascoon:{
-        num:268,
+        num:-268,
         name:"Cascoon",
         types:[
             "Bug"
@@ -11910,7 +11910,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     dustox:{
-        num:269,
+        num:-269,
         name:"Dustox",
         types:[
             "Bug",
@@ -11939,7 +11939,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     lotad:{
-        num:270,
+        num:-270,
         name:"Lotad",
         types:[
             "Water",
@@ -11971,7 +11971,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     lombre:{
-        num:271,
+        num:-271,
         name:"Lombre",
         types:[
             "Water",
@@ -12005,7 +12005,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     ludicolo:{
-        num:272,
+        num:-272,
         name:"Ludicolo",
         types:[
             "Water",
@@ -12037,7 +12037,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     seedot:{
-        num:273,
+        num:-273,
         name:"Seedot",
         types:[
             "Grass"
@@ -12068,7 +12068,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     nuzleaf:{
-        num:274,
+        num:-274,
         name:"Nuzleaf",
         types:[
             "Grass",
@@ -12102,7 +12102,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     shiftry:{
-        num:275,
+        num:-275,
         name:"Shiftry",
         types:[
             "Grass",
@@ -12134,7 +12134,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     taillow:{
-        num:276,
+        num:-276,
         name:"Taillow",
         types:[
             "Normal",
@@ -12163,7 +12163,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     swellow:{
-        num:277,
+        num:-277,
         name:"Swellow",
         types:[
             "Normal",
@@ -12191,7 +12191,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     wingull:{
-        num:278,
+        num:-278,
         name:"Wingull",
         types:[
             "Water",
@@ -12223,7 +12223,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     pelipper:{
-        num:279,
+        num:-279,
         name:"Pelipper",
         types:[
             "Water",
@@ -12254,7 +12254,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     ralts:{
-        num:280,
+        num:-280,
         name:"Ralts",
         types:[
             "Psychic",
@@ -12286,7 +12286,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     kirlia:{
-        num:281,
+        num:-281,
         name:"Kirlia",
         types:[
             "Psychic",
@@ -12321,7 +12321,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     gardevoir:{
-        num:282,
+        num:-282,
         name:"Gardevoir",
         types:[
             "Psychic",
@@ -12359,7 +12359,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     gardevoirmega:{
-        num:282,
+        num:-282,
         name:"Gardevoir-Mega",
         baseSpecies:"Gardevoir",
         forme:"Mega",
@@ -12387,7 +12387,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         requiredItem:"Gardevoirite"
     },
     surskit:{
-        num:283,
+        num:-283,
         name:"Surskit",
         types:[
             "Bug",
@@ -12418,7 +12418,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     masquerain:{
-        num:284,
+        num:-284,
         name:"Masquerain",
         types:[
             "Bug",
@@ -12448,7 +12448,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     shroomish:{
-        num:285,
+        num:-285,
         name:"Shroomish",
         types:[
             "Grass"
@@ -12478,7 +12478,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     breloom:{
-        num:286,
+        num:-286,
         name:"Breloom",
         types:[
             "Grass",
@@ -12508,7 +12508,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     slakoth:{
-        num:287,
+        num:-287,
         name:"Slakoth",
         types:[
             "Normal"
@@ -12537,7 +12537,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     vigoroth:{
-        num:288,
+        num:-288,
         name:"Vigoroth",
         types:[
             "Normal"
@@ -12568,7 +12568,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     slaking:{
-        num:289,
+        num:-289,
         name:"Slaking",
         types:[
             "Normal"
@@ -12596,7 +12596,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     nincada:{
-        num:290,
+        num:-290,
         name:"Nincada",
         types:[
             "Bug",
@@ -12627,7 +12627,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     ninjask:{
-        num:291,
+        num:-291,
         name:"Ninjask",
         types:[
             "Bug",
@@ -12656,7 +12656,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     shedinja:{
-        num:292,
+        num:-292,
         name:"Shedinja",
         types:[
             "Bug",
@@ -12687,7 +12687,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     whismur:{
-        num:293,
+        num:-293,
         name:"Whismur",
         types:[
             "Normal"
@@ -12717,7 +12717,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     loudred:{
-        num:294,
+        num:-294,
         name:"Loudred",
         types:[
             "Normal"
@@ -12750,7 +12750,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     exploud:{
-        num:295,
+        num:-295,
         name:"Exploud",
         types:[
             "Normal"
@@ -12780,7 +12780,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     makuhita:{
-        num:296,
+        num:-296,
         name:"Makuhita",
         types:[
             "Fighting",
@@ -12815,7 +12815,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     hariyama:{
-        num:297,
+        num:-297,
         name:"Hariyama",
         types:[
             "Fighting",
@@ -12849,7 +12849,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     azurill:{
-        num:298,
+        num:-298,
         name:"Azurill",
         types:[
             "Normal",
@@ -12885,7 +12885,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     nosepass:{
-        num:299,
+        num:-299,
         name:"Nosepass",
         types:[
             "Rock"
@@ -12915,7 +12915,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     skitty:{
-        num:300,
+        num:-300,
         name:"Skitty",
         types:[
             "Normal"
@@ -12950,7 +12950,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     delcatty:{
-        num:301,
+        num:-301,
         name:"Delcatty",
         types:[
             "Fairy",
@@ -12986,7 +12986,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     sableye:{
-        num:302,
+        num:-302,
         name:"Sableye",
         types:[
             "Dark",
@@ -13021,7 +13021,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     sableyemega:{
-        num:302,
+        num:-302,
         name:"Sableye-Mega",
         baseSpecies:"Sableye",
         forme:"Mega",
@@ -13049,7 +13049,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         requiredItem:"Sablenite"
     },
     mawile:{
-        num:303,
+        num:-303,
         name:"Mawile",
         types:[
             "Steel",
@@ -13085,7 +13085,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     mawilemega:{
-        num:303,
+        num:-303,
         name:"Mawile-Mega",
         baseSpecies:"Mawile",
         forme:"Mega",
@@ -13114,7 +13114,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         requiredItem:"Mawilite"
     },
     aron:{
-        num:304,
+        num:-304,
         name:"Aron",
         types:[
             "Steel",
@@ -13145,7 +13145,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     lairon:{
-        num:305,
+        num:-305,
         name:"Lairon",
         types:[
             "Steel",
@@ -13178,7 +13178,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     aggron:{
-        num:306,
+        num:-306,
         name:"Aggron",
         types:[
             "Steel",
@@ -13215,7 +13215,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     aggronmega:{
-        num:306,
+        num:-306,
         name:"Aggron-Mega",
         baseSpecies:"Aggron",
         forme:"Mega",
@@ -13242,7 +13242,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         requiredItem:"Aggronite"
     },
     meditite:{
-        num:307,
+        num:-307,
         name:"Meditite",
         types:[
             "Fighting",
@@ -13272,7 +13272,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     medicham:{
-        num:308,
+        num:-308,
         name:"Medicham",
         types:[
             "Fighting",
@@ -13308,7 +13308,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     medichammega:{
-        num:308,
+        num:-308,
         name:"Medicham-Mega",
         baseSpecies:"Medicham",
         forme:"Mega",
@@ -13336,7 +13336,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         requiredItem:"Medichamite"
     },
     electrike:{
-        num:309,
+        num:-309,
         name:"Electrike",
         types:[
             "Electric"
@@ -13365,7 +13365,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     manectric:{
-        num:310,
+        num:-310,
         name:"Manectric",
         types:[
             "Electric"
@@ -13400,7 +13400,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     manectricmega:{
-        num:310,
+        num:-310,
         name:"Manectric-Mega",
         baseSpecies:"Manectric",
         forme:"Mega",
@@ -13427,7 +13427,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         requiredItem:"Manectite"
     },
     plusle:{
-        num:311,
+        num:-311,
         name:"Plusle",
         types:[
             "Electric",
@@ -13454,7 +13454,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     minun:{
-        num:312,
+        num:-312,
         name:"Minun",
         types:[
             "Electric",
@@ -13481,7 +13481,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     volbeat:{
-        num:313,
+        num:-313,
         name:"Volbeat",
         types:[
             "Bug",
@@ -13512,7 +13512,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     illumise:{
-        num:314,
+        num:-314,
         name:"Illumise",
         types:[
             "Bug",
@@ -13542,7 +13542,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     roselia:{
-        num:315,
+        num:-315,
         name:"Roselia",
         types:[
             "Grass",
@@ -13577,7 +13577,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         canHatch:true
     },
     gulpin:{
-        num:316,
+        num:-316,
         name:"Gulpin",
         types:[
             "Poison"
@@ -13607,7 +13607,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     swalot:{
-        num:317,
+        num:-317,
         name:"Swalot",
         types:[
             "Poison"
@@ -13636,7 +13636,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     carvanha:{
-        num:318,
+        num:-318,
         name:"Carvanha",
         types:[
             "Water",
@@ -13667,7 +13667,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     sharpedo:{
-        num:319,
+        num:-319,
         name:"Sharpedo",
         types:[
             "Water",
@@ -13704,7 +13704,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     sharpedomega:{
-        num:319,
+        num:-319,
         name:"Sharpedo-Mega",
         baseSpecies:"Sharpedo",
         forme:"Mega",
@@ -13732,7 +13732,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         requiredItem:"Sharpedonite"
     },
     wailmer:{
-        num:320,
+        num:-320,
         name:"Wailmer",
         types:[
             "Water"
@@ -13762,7 +13762,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     wailord:{
-        num:321,
+        num:-321,
         name:"Wailord",
         types:[
             "Water"
@@ -13791,7 +13791,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     numel:{
-        num:322,
+        num:-322,
         name:"Numel",
         types:[
             "Fire",
@@ -13822,7 +13822,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     camerupt:{
-        num:323,
+        num:-323,
         name:"Camerupt",
         types:[
             "Fire",
@@ -13859,7 +13859,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     cameruptmega:{
-        num:323,
+        num:-323,
         name:"Camerupt-Mega",
         baseSpecies:"Camerupt",
         forme:"Mega",
@@ -13887,7 +13887,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         requiredItem:"Cameruptite"
     },
     torkoal:{
-        num:324,
+        num:-324,
         name:"Torkoal",
         types:[
             "Fire"
@@ -13913,7 +13913,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     spoink:{
-        num:325,
+        num:-325,
         name:"Spoink",
         types:[
             "Psychic"
@@ -13942,7 +13942,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     grumpig:{
-        num:326,
+        num:-326,
         name:"Grumpig",
         types:[
             "Psychic"
@@ -13970,7 +13970,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     spinda:{
-        num:327,
+        num:-327,
         name:"Spinda",
         types:[
             "Normal"
@@ -13998,7 +13998,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     trapinch:{
-        num:328,
+        num:-328,
         name:"Trapinch",
         types:[
             "Ground"
@@ -14029,7 +14029,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     vibrava:{
-        num:329,
+        num:-329,
         name:"Vibrava",
         types:[
             "Ground",
@@ -14063,7 +14063,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     flygon:{
-        num:330,
+        num:-330,
         name:"Flygon",
         types:[
             "Ground",
@@ -14094,7 +14094,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     cacnea:{
-        num:331,
+        num:-331,
         name:"Cacnea",
         types:[
             "Grass",
@@ -14126,7 +14126,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     cacturne:{
-        num:332,
+        num:-332,
         name:"Cacturne",
         types:[
             "Grass",
@@ -14157,7 +14157,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     swablu:{
-        num:333,
+        num:-333,
         name:"Swablu",
         types:[
             "Normal",
@@ -14188,7 +14188,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     altaria:{
-        num:334,
+        num:-334,
         name:"Altaria",
         types:[
             "Dragon",
@@ -14226,7 +14226,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     altariamega:{
-        num:334,
+        num:-334,
         name:"Altaria-Mega",
         baseSpecies:"Altaria",
         forme:"Mega",
@@ -14255,7 +14255,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         requiredItem:"Altarianite"
     },
     zangoose:{
-        num:335,
+        num:-335,
         name:"Zangoose",
         types:[
             "Normal"
@@ -14282,7 +14282,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     seviper:{
-        num:336,
+        num:-336,
         name:"Seviper",
         types:[
             "Poison"
@@ -14310,7 +14310,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     lunatone:{
-        num:337,
+        num:-337,
         name:"Lunatone",
         types:[
             "Rock",
@@ -14338,7 +14338,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     solrock:{
-        num:338,
+        num:-338,
         name:"Solrock",
         types:[
             "Fire",
@@ -14366,7 +14366,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     barboach:{
-        num:339,
+        num:-339,
         name:"Barboach",
         types:[
             "Water",
@@ -14396,7 +14396,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     whiscash:{
-        num:340,
+        num:-340,
         name:"Whiscash",
         types:[
             "Water",
@@ -14425,7 +14425,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     corphish:{
-        num:341,
+        num:-341,
         name:"Corphish",
         types:[
             "Water",
@@ -14457,7 +14457,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     crawdaunt:{
-        num:342,
+        num:-342,
         name:"Crawdaunt",
         types:[
             "Water",
@@ -14488,7 +14488,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     baltoy:{
-        num:343,
+        num:-343,
         name:"Baltoy",
         types:[
             "Ground",
@@ -14519,7 +14519,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     claydol:{
-        num:344,
+        num:-344,
         name:"Claydol",
         types:[
             "Ground",
@@ -14549,7 +14549,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     lileep:{
-        num:345,
+        num:-345,
         name:"Lileep",
         types:[
             "Rock",
@@ -14583,7 +14583,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     cradily:{
-        num:346,
+        num:-346,
         name:"Cradily",
         types:[
             "Ghost",
@@ -14616,7 +14616,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     anorith:{
-        num:347,
+        num:-347,
         name:"Anorith",
         types:[
             "Rock",
@@ -14650,7 +14650,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     armaldo:{
-        num:348,
+        num:-348,
         name:"Armaldo",
         types:[
             "Steel",
@@ -14683,7 +14683,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     feebas:{
-        num:349,
+        num:-349,
         name:"Feebas",
         types:[
             "Water"
@@ -14713,7 +14713,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     milotic:{
-        num:350,
+        num:-350,
         name:"Milotic",
         types:[
             "Water"
@@ -14743,7 +14743,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     castform:{
-        num:351,
+        num:-351,
         name:"Castform",
         types:[
             "Normal"
@@ -14781,7 +14781,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     castformsunny:{
-        num:351,
+        num:-351,
         name:"Castform-Sunny",
         baseSpecies:"Castform",
         forme:"Sunny",
@@ -14810,7 +14810,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         battleOnly:"Castform"
     },
     castformrainy:{
-        num:351,
+        num:-351,
         name:"Castform-Rainy",
         baseSpecies:"Castform",
         forme:"Rainy",
@@ -14839,7 +14839,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         battleOnly:"Castform"
     },
     castformsnowy:{
-        num:351,
+        num:-351,
         name:"Castform-Snowy",
         baseSpecies:"Castform",
         forme:"Snowy",
@@ -14868,7 +14868,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         battleOnly:"Castform"
     },
     kecleon:{
-        num:352,
+        num:-352,
         name:"Kecleon",
         types:[
             "Normal"
@@ -14894,7 +14894,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     shuppet:{
-        num:353,
+        num:-353,
         name:"Shuppet",
         types:[
             "Ghost"
@@ -14923,7 +14923,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     banette:{
-        num:354,
+        num:-354,
         name:"Banette",
         types:[
             "Ghost",
@@ -14960,7 +14960,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     banettemega:{
-        num:354,
+        num:-354,
         name:"Banette-Mega",
         baseSpecies:"Banette",
         forme:"Mega",
@@ -14987,7 +14987,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         requiredItem:"Banettite"
     },
     duskull:{
-        num:355,
+        num:-355,
         name:"Duskull",
         types:[
             "Ghost"
@@ -15016,7 +15016,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     dusclops:{
-        num:356,
+        num:-356,
         name:"Dusclops",
         types:[
             "Ghost"
@@ -15047,7 +15047,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     tropius:{
-        num:357,
+        num:-357,
         name:"Tropius",
         types:[
             "Grass",
@@ -15076,7 +15076,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     chimecho:{
-        num:358,
+        num:-358,
         name:"Chimecho",
         types:[
             "Psychic"
@@ -15106,7 +15106,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     absol:{
-        num:359,
+        num:-359,
         name:"Absol",
         types:[
             "Dark"
@@ -15139,7 +15139,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     absolmega:{
-        num:359,
+        num:-359,
         name:"Absol-Mega",
         baseSpecies:"Absol",
         forme:"Mega",
@@ -15166,7 +15166,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         requiredItem:"Absolite"
     },
     wynaut:{
-        num:360,
+        num:-360,
         name:"Wynaut",
         types:[
             "Psychic"
@@ -15196,7 +15196,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     snorunt:{
-        num:361,
+        num:-361,
         name:"Snorunt",
         types:[
             "Ice"
@@ -15228,7 +15228,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     glalie:{
-        num:362,
+        num:-362,
         name:"Glalie",
         types:[
             "Ice"
@@ -15265,7 +15265,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     glaliemega:{
-        num:362,
+        num:-362,
         name:"Glalie-Mega",
         baseSpecies:"Glalie",
         forme:"Mega",
@@ -15293,7 +15293,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         requiredItem:"Glalitite"
     },
     spheal:{
-        num:363,
+        num:-363,
         name:"Spheal",
         types:[
             "Ice",
@@ -15325,7 +15325,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     sealeo:{
-        num:364,
+        num:-364,
         name:"Sealeo",
         types:[
             "Ice",
@@ -15359,7 +15359,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     walrein:{
-        num:365,
+        num:-365,
         name:"Walrein",
         types:[
             "Ice",
@@ -15390,7 +15390,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     clamperl:{
-        num:366,
+        num:-366,
         name:"Clamperl",
         types:[
             "Water"
@@ -15419,7 +15419,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     huntail:{
-        num:367,
+        num:-367,
         name:"Huntail",
         types:[
             "Water"
@@ -15447,7 +15447,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     gorebyss:{
-        num:368,
+        num:-368,
         name:"Gorebyss",
         types:[
             "Water"
@@ -15475,7 +15475,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     relicanth:{
-        num:369,
+        num:-369,
         name:"Relicanth",
         types:[
             "Water",
@@ -15508,7 +15508,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     luvdisc:{
-        num:370,
+        num:-370,
         name:"Luvdisc",
         types:[
             "Water",
@@ -15540,7 +15540,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     bagon:{
-        num:371,
+        num:-371,
         name:"Bagon",
         types:[
             "Dragon"
@@ -15569,7 +15569,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     shelgon:{
-        num:372,
+        num:-372,
         name:"Shelgon",
         types:[
             "Dragon"
@@ -15600,7 +15600,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     salamence:{
-        num:373,
+        num:-373,
         name:"Salamence",
         types:[
             "Dragon",
@@ -15636,7 +15636,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     salamencemega:{
-        num:373,
+        num:-373,
         name:"Salamence-Mega",
         baseSpecies:"Salamence",
         forme:"Mega",
@@ -15664,7 +15664,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         requiredItem:"Salamencite"
     },
     beldum:{
-        num:374,
+        num:-374,
         name:"Beldum",
         types:[
             "Steel",
@@ -15696,7 +15696,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     metang:{
-        num:375,
+        num:-375,
         name:"Metang",
         types:[
             "Steel",
@@ -15730,7 +15730,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     metagross:{
-        num:376,
+        num:-376,
         name:"Metagross",
         types:[
             "Steel",
@@ -15768,7 +15768,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     metagrossmega:{
-        num:376,
+        num:-376,
         name:"Metagross-Mega",
         baseSpecies:"Metagross",
         forme:"Mega",
@@ -15797,7 +15797,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         requiredItem:"Metagrossite"
     },
     regirock:{
-        num:377,
+        num:-377,
         name:"Regirock",
         types:[
             "Rock"
@@ -15827,7 +15827,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     regice:{
-        num:378,
+        num:-378,
         name:"Regice",
         types:[
             "Ice"
@@ -15857,7 +15857,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     registeel:{
-        num:379,
+        num:-379,
         name:"Registeel",
         types:[
             "Steel"
@@ -15887,7 +15887,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     latias:{
-        num:380,
+        num:-380,
         name:"Latias",
         types:[
             "Dragon",
@@ -15925,7 +15925,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     latiasmega:{
-        num:380,
+        num:-380,
         name:"Latias-Mega",
         baseSpecies:"Latias",
         forme:"Mega",
@@ -15954,7 +15954,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         requiredItem:"Latiasite"
     },
     latios:{
-        num:381,
+        num:-381,
         name:"Latios",
         types:[
             "Dragon",
@@ -15992,7 +15992,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     latiosmega:{
-        num:381,
+        num:-381,
         name:"Latios-Mega",
         baseSpecies:"Latios",
         forme:"Mega",
@@ -16021,7 +16021,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         requiredItem:"Latiosite"
     },
     kyogre:{
-        num:382,
+        num:-382,
         name:"Kyogre",
         types:[
             "Water"
@@ -16058,7 +16058,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     kyogreprimal:{
-        num:382,
+        num:-382,
         name:"Kyogre-Primal",
         baseSpecies:"Kyogre",
         forme:"Primal",
@@ -16086,7 +16086,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         requiredItem:"Blue Orb"
     },
     groudon:{
-        num:383,
+        num:-383,
         name:"Groudon",
         types:[
             "Ground"
@@ -16123,7 +16123,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     groudonprimal:{
-        num:383,
+        num:-383,
         name:"Groudon-Primal",
         baseSpecies:"Groudon",
         forme:"Primal",
@@ -16152,7 +16152,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         requiredItem:"Red Orb"
     },
     rayquaza:{
-        num:384,
+        num:-384,
         name:"Rayquaza",
         types:[
             "Dragon",
@@ -16190,7 +16190,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     rayquazamega:{
-        num:384,
+        num:-384,
         name:"Rayquaza-Mega",
         baseSpecies:"Rayquaza",
         forme:"Mega",
@@ -16219,7 +16219,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         requiredMove:"Dragon Ascent"
     },
     jirachi:{
-        num:385,
+        num:-385,
         name:"Jirachi",
         types:[
             "Steel",
@@ -16250,7 +16250,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     deoxys:{
-        num:386,
+        num:-386,
         name:"Deoxys",
         baseForme:"Normal",
         types:[
@@ -16292,7 +16292,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     deoxysattack:{
-        num:386,
+        num:-386,
         name:"Deoxys-Attack",
         baseSpecies:"Deoxys",
         forme:"Attack",
@@ -16320,7 +16320,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Deoxys"
     },
     deoxysdefense:{
-        num:386,
+        num:-386,
         name:"Deoxys-Defense",
         baseSpecies:"Deoxys",
         forme:"Defense",
@@ -16348,7 +16348,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Deoxys"
     },
     deoxysspeed:{
-        num:386,
+        num:-386,
         name:"Deoxys-Speed",
         baseSpecies:"Deoxys",
         forme:"Speed",
@@ -16376,7 +16376,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Deoxys"
     },
     turtwig:{
-        num:387,
+        num:-387,
         name:"Turtwig",
         types:[
             "Grass"
@@ -16409,7 +16409,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     grotle:{
-        num:388,
+        num:-388,
         name:"Grotle",
         types:[
             "Grass"
@@ -16444,7 +16444,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     torterra:{
-        num:389,
+        num:-389,
         name:"Torterra",
         types:[
             "Grass",
@@ -16477,7 +16477,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     chimchar:{
-        num:390,
+        num:-390,
         name:"Chimchar",
         types:[
             "Fire"
@@ -16510,7 +16510,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     monferno:{
-        num:391,
+        num:-391,
         name:"Monferno",
         types:[
             "Fire",
@@ -16546,7 +16546,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     infernape:{
-        num:392,
+        num:-392,
         name:"Infernape",
         types:[
             "Fire",
@@ -16579,7 +16579,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     piplup:{
-        num:393,
+        num:-393,
         name:"Piplup",
         types:[
             "Water"
@@ -16612,7 +16612,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     prinplup:{
-        num:394,
+        num:-394,
         name:"Prinplup",
         types:[
             "Water"
@@ -16647,7 +16647,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     empoleon:{
-        num:395,
+        num:-395,
         name:"Empoleon",
         types:[
             "Water",
@@ -16680,7 +16680,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     starly:{
-        num:396,
+        num:-396,
         name:"Starly",
         types:[
             "Normal",
@@ -16709,7 +16709,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     staravia:{
-        num:397,
+        num:-397,
         name:"Staravia",
         types:[
             "Normal",
@@ -16740,7 +16740,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     staraptor:{
-        num:398,
+        num:-398,
         name:"Staraptor",
         types:[
             "Normal",
@@ -16768,7 +16768,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     bidoof:{
-        num:399,
+        num:-399,
         name:"Bidoof",
         types:[
             "Normal"
@@ -16798,7 +16798,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     bibarel:{
-        num:400,
+        num:-400,
         name:"Bibarel",
         types:[
             "Normal",
@@ -16828,7 +16828,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     kricketot:{
-        num:401,
+        num:-401,
         name:"Kricketot",
         types:[
             "Bug"
@@ -16856,7 +16856,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     kricketune:{
-        num:402,
+        num:-402,
         name:"Kricketune",
         types:[
             "Bug"
@@ -16883,7 +16883,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     shinx:{
-        num:403,
+        num:-403,
         name:"Shinx",
         types:[
             "Electric"
@@ -16912,7 +16912,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     luxio:{
-        num:404,
+        num:-404,
         name:"Luxio",
         types:[
             "Electric"
@@ -16943,7 +16943,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     luxray:{
-        num:405,
+        num:-405,
         name:"Luxray",
         types:[
             "Electric"
@@ -16971,7 +16971,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     budew:{
-        num:406,
+        num:-406,
         name:"Budew",
         types:[
             "Grass",
@@ -17002,7 +17002,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         canHatch:true
     },
     roserade:{
-        num:407,
+        num:-407,
         name:"Roserade",
         types:[
             "Grass",
@@ -17033,7 +17033,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     cranidos:{
-        num:408,
+        num:-408,
         name:"Cranidos",
         types:[
             "Rock"
@@ -17065,7 +17065,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     rampardos:{
-        num:409,
+        num:-409,
         name:"Rampardos",
         types:[
             "Rock"
@@ -17096,7 +17096,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     shieldon:{
-        num:410,
+        num:-410,
         name:"Shieldon",
         types:[
             "Rock",
@@ -17129,7 +17129,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     bastiodon:{
-        num:411,
+        num:-411,
         name:"Bastiodon",
         types:[
             "Rock",
@@ -17161,7 +17161,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     burmy:{
-        num:412,
+        num:-412,
         name:"Burmy",
         baseForme:"Plant",
         types:[
@@ -17202,7 +17202,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     wormadam:{
-        num:413,
+        num:-413,
         name:"Wormadam",
         baseForme:"Plant",
         types:[
@@ -17241,7 +17241,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     wormadamsandy:{
-        num:413,
+        num:-413,
         name:"Wormadam-Sandy",
         baseSpecies:"Wormadam",
         forme:"Sandy",
@@ -17272,7 +17272,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     wormadamtrash:{
-        num:413,
+        num:-413,
         name:"Wormadam-Trash",
         baseSpecies:"Wormadam",
         forme:"Trash",
@@ -17303,7 +17303,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     mothim:{
-        num:414,
+        num:-414,
         name:"Mothim",
         types:[
             "Bug",
@@ -17332,7 +17332,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     combee:{
-        num:415,
+        num:-415,
         name:"Combee",
         types:[
             "Bug",
@@ -17365,7 +17365,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     vespiquen:{
-        num:416,
+        num:-416,
         name:"Vespiquen",
         types:[
             "Bug",
@@ -17395,7 +17395,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     pachirisu:{
-        num:417,
+        num:-417,
         name:"Pachirisu",
         types:[
             "Electric"
@@ -17422,7 +17422,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     buizel:{
-        num:418,
+        num:-418,
         name:"Buizel",
         types:[
             "Water"
@@ -17451,7 +17451,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     floatzel:{
-        num:419,
+        num:-419,
         name:"Floatzel",
         types:[
             "Water"
@@ -17479,7 +17479,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     cherubi:{
-        num:420,
+        num:-420,
         name:"Cherubi",
         types:[
             "Grass"
@@ -17507,7 +17507,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     cherrim:{
-        num:421,
+        num:-421,
         name:"Cherrim",
         baseForme:"Overcast",
         types:[
@@ -17542,7 +17542,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     cherrimsunshine:{
-        num:421,
+        num:-421,
         name:"Cherrim-Sunshine",
         baseSpecies:"Cherrim",
         forme:"Sunshine",
@@ -17571,7 +17571,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         battleOnly:"Cherrim"
     },
     shellos:{
-        num:422,
+        num:-422,
         name:"Shellos",
         baseForme:"West",
         types:[
@@ -17609,7 +17609,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     gastrodon:{
-        num:423,
+        num:-423,
         name:"Gastrodon",
         baseForme:"West",
         types:[
@@ -17647,7 +17647,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     ambipom:{
-        num:424,
+        num:-424,
         name:"Ambipom",
         types:[
             "Normal"
@@ -17676,7 +17676,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     drifloon:{
-        num:425,
+        num:-425,
         name:"Drifloon",
         types:[
             "Ghost",
@@ -17706,7 +17706,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     drifblim:{
-        num:426,
+        num:-426,
         name:"Drifblim",
         types:[
             "Ghost",
@@ -17735,7 +17735,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     buneary:{
-        num:427,
+        num:-427,
         name:"Buneary",
         types:[
             "Normal"
@@ -17765,7 +17765,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     lopunny:{
-        num:428,
+        num:-428,
         name:"Lopunny",
         types:[
             "Normal"
@@ -17801,7 +17801,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     lopunnymega:{
-        num:428,
+        num:-428,
         name:"Lopunny-Mega",
         baseSpecies:"Lopunny",
         forme:"Mega",
@@ -17830,7 +17830,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         requiredItem:"Lopunnite"
     },
     mismagius:{
-        num:429,
+        num:-429,
         name:"Mismagius",
         types:[
             "Ghost"
@@ -17859,7 +17859,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     honchkrow:{
-        num:430,
+        num:-430,
         name:"Honchkrow",
         types:[
             "Dark",
@@ -17889,7 +17889,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     glameow:{
-        num:431,
+        num:-431,
         name:"Glameow",
         types:[
             "Normal"
@@ -17922,7 +17922,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     purugly:{
-        num:432,
+        num:-432,
         name:"Purugly",
         types:[
             "Normal"
@@ -17954,7 +17954,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     chingling:{
-        num:433,
+        num:-433,
         name:"Chingling",
         types:[
             "Psychic"
@@ -17982,7 +17982,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         canHatch:true
     },
     stunky:{
-        num:434,
+        num:-434,
         name:"Stunky",
         types:[
             "Poison",
@@ -18012,7 +18012,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     skuntank:{
-        num:435,
+        num:-435,
         name:"Skuntank",
         types:[
             "Poison",
@@ -18041,7 +18041,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     bronzor:{
-        num:436,
+        num:-436,
         name:"Bronzor",
         types:[
             "Steel",
@@ -18072,7 +18072,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     bronzong:{
-        num:437,
+        num:-437,
         name:"Bronzong",
         types:[
             "Steel",
@@ -18102,7 +18102,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     bonsly:{
-        num:438,
+        num:-438,
         name:"Bonsly",
         types:[
             "Rock"
@@ -18132,7 +18132,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         canHatch:true
     },
     mimejr:{
-        num:439,
+        num:-439,
         name:"Mime Jr.",
         types:[
             "Psychic",
@@ -18164,7 +18164,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         canHatch:true
     },
     happiny:{
-        num:440,
+        num:-440,
         name:"Happiny",
         types:[
             "Normal"
@@ -18195,7 +18195,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         canHatch:true
     },
     chatot:{
-        num:441,
+        num:-441,
         name:"Chatot",
         types:[
             "Normal",
@@ -18222,7 +18222,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     spiritomb:{
-        num:442,
+        num:-442,
         name:"Spiritomb",
         types:[
             "Ghost",
@@ -18248,7 +18248,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     gible:{
-        num:443,
+        num:-443,
         name:"Gible",
         types:[
             "Dragon",
@@ -18278,7 +18278,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     gabite:{
-        num:444,
+        num:-444,
         name:"Gabite",
         types:[
             "Dragon",
@@ -18310,7 +18310,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     garchomp:{
-        num:445,
+        num:-445,
         name:"Garchomp",
         types:[
             "Dragon",
@@ -18346,7 +18346,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     garchompmega:{
-        num:445,
+        num:-445,
         name:"Garchomp-Mega",
         baseSpecies:"Garchomp",
         forme:"Mega",
@@ -18375,7 +18375,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         requiredItem:"Garchompite"
     },
     munchlax:{
-        num:446,
+        num:-446,
         name:"Munchlax",
         types:[
             "Normal"
@@ -18409,7 +18409,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         canHatch:true
     },
     riolu:{
-        num:447,
+        num:-447,
         name:"Riolu",
         types:[
             "Fighting"
@@ -18443,7 +18443,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         canHatch:true
     },
     lucario:{
-        num:448,
+        num:-448,
         name:"Lucario",
         types:[
             "Fighting",
@@ -18485,7 +18485,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     lucariomega:{
-        num:448,
+        num:-448,
         name:"Lucario-Mega",
         baseSpecies:"Lucario",
         forme:"Mega",
@@ -18518,7 +18518,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         requiredItem:"Lucarionite"
     },
     hippopotas:{
-        num:449,
+        num:-449,
         name:"Hippopotas",
         types:[
             "Ground"
@@ -18546,7 +18546,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     hippowdon:{
-        num:450,
+        num:-450,
         name:"Hippowdon",
         types:[
             "Ground"
@@ -18573,7 +18573,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     skorupi:{
-        num:451,
+        num:-451,
         name:"Skorupi",
         types:[
             "Poison",
@@ -18604,7 +18604,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     drapion:{
-        num:452,
+        num:-452,
         name:"Drapion",
         types:[
             "Poison",
@@ -18634,7 +18634,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     croagunk:{
-        num:453,
+        num:-453,
         name:"Croagunk",
         types:[
             "Poison",
@@ -18664,7 +18664,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     toxicroak:{
-        num:454,
+        num:-454,
         name:"Toxicroak",
         types:[
             "Poison",
@@ -18693,7 +18693,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     carnivine:{
-        num:455,
+        num:-455,
         name:"Carnivine",
         types:[
             "Grass"
@@ -18717,7 +18717,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     finneon:{
-        num:456,
+        num:-456,
         name:"Finneon",
         types:[
             "Water"
@@ -18746,7 +18746,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     lumineon:{
-        num:457,
+        num:-457,
         name:"Lumineon",
         types:[
             "Water"
@@ -18774,7 +18774,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     mantyke:{
-        num:458,
+        num:-458,
         name:"Mantyke",
         types:[
             "Water",
@@ -18805,7 +18805,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         canHatch:true
     },
     snover:{
-        num:459,
+        num:-459,
         name:"Snover",
         types:[
             "Grass",
@@ -18835,7 +18835,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     abomasnow:{
-        num:460,
+        num:-460,
         name:"Abomasnow",
         types:[
             "Grass",
@@ -18871,7 +18871,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     abomasnowmega:{
-        num:460,
+        num:-460,
         name:"Abomasnow-Mega",
         baseSpecies:"Abomasnow",
         forme:"Mega",
@@ -18900,7 +18900,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         requiredItem:"Abomasite"
     },
     weavile:{
-        num:461,
+        num:-461,
         name:"Weavile",
         types:[
             "Dark",
@@ -18932,7 +18932,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     magnezone:{
-        num:462,
+        num:-462,
         name:"Magnezone",
         types:[
             "Steel",
@@ -18964,7 +18964,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     lickilicky:{
-        num:463,
+        num:-463,
         name:"Lickilicky",
         types:[
             "Normal"
@@ -18993,7 +18993,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     rhyperior:{
-        num:464,
+        num:-464,
         name:"Rhyperior",
         types:[
             "Ground",
@@ -19024,7 +19024,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     tangrowth:{
-        num:465,
+        num:-465,
         name:"Tangrowth",
         types:[
             "Grass"
@@ -19053,7 +19053,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     electivire:{
-        num:466,
+        num:-466,
         name:"Electivire",
         types:[
             "Electric"
@@ -19085,7 +19085,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     magmortar:{
-        num:467,
+        num:-467,
         name:"Magmortar",
         types:[
             "Fire"
@@ -19117,7 +19117,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     togekiss:{
-        num:468,
+        num:-468,
         name:"Togekiss",
         types:[
             "Fairy",
@@ -19152,7 +19152,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     yanmega:{
-        num:469,
+        num:-469,
         name:"Yanmega",
         types:[
             "Bug",
@@ -19182,7 +19182,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     leafeon:{
-        num:470,
+        num:-470,
         name:"Leafeon",
         types:[
             "Grass"
@@ -19214,7 +19214,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     glaceon:{
-        num:471,
+        num:-471,
         name:"Glaceon",
         types:[
             "Ice"
@@ -19247,7 +19247,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     gliscor:{
-        num:472,
+        num:-472,
         name:"Gliscor",
         types:[
             "Ground",
@@ -19279,7 +19279,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     mamoswine:{
-        num:473,
+        num:-473,
         name:"Mamoswine",
         types:[
             "Ground",
@@ -19310,7 +19310,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     porygonz:{
-        num:474,
+        num:-474,
         name:"Porygon-Z",
         types:[
             "Normal"
@@ -19340,7 +19340,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     gallade:{
-        num:475,
+        num:-475,
         name:"Gallade",
         types:[
             "Psychic",
@@ -19379,7 +19379,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     gallademega:{
-        num:475,
+        num:-475,
         name:"Gallade-Mega",
         baseSpecies:"Gallade",
         forme:"Mega",
@@ -19408,7 +19408,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         requiredItem:"Galladite"
     },
     probopass:{
-        num:476,
+        num:-476,
         name:"Probopass",
         types:[
             "Rock",
@@ -19439,7 +19439,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     dusknoir:{
-        num:477,
+        num:-477,
         name:"Dusknoir",
         types:[
             "Ghost"
@@ -19468,7 +19468,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     froslass:{
-        num:478,
+        num:-478,
         name:"Froslass",
         types:[
             "Ice",
@@ -19500,7 +19500,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     rotom:{
-        num:479,
+        num:-479,
         name:"Rotom",
         types:[
             "Electric",
@@ -19541,7 +19541,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     rotomheat:{
-        num:479,
+        num:-479,
         name:"Rotom-Heat",
         baseSpecies:"Rotom",
         forme:"Heat",
@@ -19570,7 +19570,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Rotom"
     },
     rotomwash:{
-        num:479,
+        num:-479,
         name:"Rotom-Wash",
         baseSpecies:"Rotom",
         forme:"Wash",
@@ -19599,7 +19599,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Rotom"
     },
     rotomfrost:{
-        num:479,
+        num:-479,
         name:"Rotom-Frost",
         baseSpecies:"Rotom",
         forme:"Frost",
@@ -19628,7 +19628,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Rotom"
     },
     rotomfan:{
-        num:479,
+        num:-479,
         name:"Rotom-Fan",
         baseSpecies:"Rotom",
         forme:"Fan",
@@ -19657,7 +19657,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Rotom"
     },
     rotommow:{
-        num:479,
+        num:-479,
         name:"Rotom-Mow",
         baseSpecies:"Rotom",
         forme:"Mow",
@@ -19686,7 +19686,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Rotom"
     },
     uxie:{
-        num:480,
+        num:-480,
         name:"Uxie",
         types:[
             "Psychic"
@@ -19714,7 +19714,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     mesprit:{
-        num:481,
+        num:-481,
         name:"Mesprit",
         types:[
             "Psychic"
@@ -19742,7 +19742,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     azelf:{
-        num:482,
+        num:-482,
         name:"Azelf",
         types:[
             "Psychic"
@@ -19770,7 +19770,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     dialga:{
-        num:483,
+        num:-483,
         name:"Dialga",
         types:[
             "Steel",
@@ -19807,7 +19807,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     dialgaorigin:{
-        num:483,
+        num:-483,
         name:"Dialga-Origin",
         baseSpecies:"Dialga",
         forme:"Origin",
@@ -19839,7 +19839,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         gen:8
     },
     palkia:{
-        num:484,
+        num:-484,
         name:"Palkia",
         types:[
             "Water",
@@ -19876,7 +19876,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     palkiaorigin:{
-        num:484,
+        num:-484,
         name:"Palkia-Origin",
         baseSpecies:"Palkia",
         forme:"Origin",
@@ -19908,7 +19908,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         gen:8
     },
     heatran:{
-        num:485,
+        num:-485,
         name:"Heatran",
         types:[
             "Fire",
@@ -19937,7 +19937,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     regigigas:{
-        num:486,
+        num:-486,
         name:"Regigigas",
         types:[
             "Normal"
@@ -19965,7 +19965,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     giratina:{
-        num:487,
+        num:-487,
         name:"Giratina",
         baseForme:"Altered",
         types:[
@@ -20004,7 +20004,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     giratinaorigin:{
-        num:487,
+        num:-487,
         name:"Giratina-Origin",
         baseSpecies:"Giratina",
         forme:"Origin",
@@ -20034,7 +20034,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Giratina"
     },
     cresselia:{
-        num:488,
+        num:-488,
         name:"Cresselia",
         types:[
             "Psychic"
@@ -20062,7 +20062,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     phione:{
-        num:489,
+        num:-489,
         name:"Phione",
         types:[
             "Water"
@@ -20091,7 +20091,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     manaphy:{
-        num:490,
+        num:-490,
         name:"Manaphy",
         types:[
             "Water"
@@ -20120,7 +20120,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     darkrai:{
-        num:491,
+        num:-491,
         name:"Darkrai",
         types:[
             "Dark"
@@ -20148,7 +20148,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     shaymin:{
-        num:492,
+        num:-492,
         name:"Shaymin",
         baseForme:"Land",
         types:[
@@ -20184,7 +20184,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     shayminsky:{
-        num:492,
+        num:-492,
         name:"Shaymin-Sky",
         baseSpecies:"Shaymin",
         forme:"Sky",
@@ -20213,7 +20213,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Shaymin"
     },
     arceus:{
-        num:493,
+        num:-493,
         name:"Arceus",
         baseForme:"Normal",
         types:[
@@ -20281,7 +20281,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     arceusbug:{
-        num:493,
+        num:-493,
         name:"Arceus-Bug",
         baseSpecies:"Arceus",
         forme:"Bug",
@@ -20313,7 +20313,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Arceus"
     },
     arceusdark:{
-        num:493,
+        num:-493,
         name:"Arceus-Dark",
         baseSpecies:"Arceus",
         forme:"Dark",
@@ -20345,7 +20345,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Arceus"
     },
     arceusdragon:{
-        num:493,
+        num:-493,
         name:"Arceus-Dragon",
         baseSpecies:"Arceus",
         forme:"Dragon",
@@ -20377,7 +20377,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Arceus"
     },
     arceuselectric:{
-        num:493,
+        num:-493,
         name:"Arceus-Electric",
         baseSpecies:"Arceus",
         forme:"Electric",
@@ -20409,7 +20409,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Arceus"
     },
     arceusfairy:{
-        num:493,
+        num:-493,
         name:"Arceus-Fairy",
         baseSpecies:"Arceus",
         forme:"Fairy",
@@ -20442,7 +20442,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         gen:6
     },
     arceusfighting:{
-        num:493,
+        num:-493,
         name:"Arceus-Fighting",
         baseSpecies:"Arceus",
         forme:"Fighting",
@@ -20474,7 +20474,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Arceus"
     },
     arceusfire:{
-        num:493,
+        num:-493,
         name:"Arceus-Fire",
         baseSpecies:"Arceus",
         forme:"Fire",
@@ -20506,7 +20506,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Arceus"
     },
     arceusflying:{
-        num:493,
+        num:-493,
         name:"Arceus-Flying",
         baseSpecies:"Arceus",
         forme:"Flying",
@@ -20538,7 +20538,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Arceus"
     },
     arceusghost:{
-        num:493,
+        num:-493,
         name:"Arceus-Ghost",
         baseSpecies:"Arceus",
         forme:"Ghost",
@@ -20570,7 +20570,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Arceus"
     },
     arceusgrass:{
-        num:493,
+        num:-493,
         name:"Arceus-Grass",
         baseSpecies:"Arceus",
         forme:"Grass",
@@ -20602,7 +20602,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Arceus"
     },
     arceusground:{
-        num:493,
+        num:-493,
         name:"Arceus-Ground",
         baseSpecies:"Arceus",
         forme:"Ground",
@@ -20634,7 +20634,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Arceus"
     },
     arceusice:{
-        num:493,
+        num:-493,
         name:"Arceus-Ice",
         baseSpecies:"Arceus",
         forme:"Ice",
@@ -20666,7 +20666,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Arceus"
     },
     arceuspoison:{
-        num:493,
+        num:-493,
         name:"Arceus-Poison",
         baseSpecies:"Arceus",
         forme:"Poison",
@@ -20698,7 +20698,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Arceus"
     },
     arceuspsychic:{
-        num:493,
+        num:-493,
         name:"Arceus-Psychic",
         baseSpecies:"Arceus",
         forme:"Psychic",
@@ -20730,7 +20730,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Arceus"
     },
     arceusrock:{
-        num:493,
+        num:-493,
         name:"Arceus-Rock",
         baseSpecies:"Arceus",
         forme:"Rock",
@@ -20762,7 +20762,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Arceus"
     },
     arceussteel:{
-        num:493,
+        num:-493,
         name:"Arceus-Steel",
         baseSpecies:"Arceus",
         forme:"Steel",
@@ -20794,7 +20794,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Arceus"
     },
     arceuswater:{
-        num:493,
+        num:-493,
         name:"Arceus-Water",
         baseSpecies:"Arceus",
         forme:"Water",
@@ -20826,7 +20826,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Arceus"
     },
     victini:{
-        num:494,
+        num:-494,
         name:"Victini",
         types:[
             "Psychic",
@@ -20855,7 +20855,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     snivy:{
-        num:495,
+        num:-495,
         name:"Snivy",
         types:[
             "Grass"
@@ -20888,7 +20888,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     servine:{
-        num:496,
+        num:-496,
         name:"Servine",
         types:[
             "Grass"
@@ -20923,7 +20923,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     serperior:{
-        num:497,
+        num:-497,
         name:"Serperior",
         types:[
             "Grass"
@@ -20955,7 +20955,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     tepig:{
-        num:498,
+        num:-498,
         name:"Tepig",
         types:[
             "Fire"
@@ -20987,7 +20987,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     pignite:{
-        num:499,
+        num:-499,
         name:"Pignite",
         types:[
             "Fire",
@@ -21022,7 +21022,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     emboar:{
-        num:500,
+        num:-500,
         name:"Emboar",
         types:[
             "Fire",
@@ -21054,7 +21054,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     oshawott:{
-        num:501,
+        num:-501,
         name:"Oshawott",
         types:[
             "Water"
@@ -21086,7 +21086,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     dewott:{
-        num:502,
+        num:-502,
         name:"Dewott",
         types:[
             "Water"
@@ -21121,7 +21121,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     samurott:{
-        num:503,
+        num:-503,
         name:"Samurott",
         types:[
             "Water"
@@ -21159,7 +21159,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     samurotthisui:{
-        num:503,
+        num:-503,
         name:"Samurott-Hisui",
         baseSpecies:"Samurott",
         forme:"Hisui",
@@ -21193,7 +21193,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     patrat:{
-        num:504,
+        num:-504,
         name:"Patrat",
         types:[
             "Normal"
@@ -21222,7 +21222,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     watchog:{
-        num:505,
+        num:-505,
         name:"Watchog",
         types:[
             "Normal"
@@ -21250,7 +21250,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     lillipup:{
-        num:506,
+        num:-506,
         name:"Lillipup",
         types:[
             "Normal"
@@ -21279,7 +21279,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     herdier:{
-        num:507,
+        num:-507,
         name:"Herdier",
         types:[
             "Normal"
@@ -21310,7 +21310,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     stoutland:{
-        num:508,
+        num:-508,
         name:"Stoutland",
         types:[
             "Normal"
@@ -21338,7 +21338,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     purrloin:{
-        num:509,
+        num:-509,
         name:"Purrloin",
         types:[
             "Dark"
@@ -21367,7 +21367,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     liepard:{
-        num:510,
+        num:-510,
         name:"Liepard",
         types:[
             "Dark"
@@ -21395,7 +21395,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     pansage:{
-        num:511,
+        num:-511,
         name:"Pansage",
         types:[
             "Grass"
@@ -21427,7 +21427,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     simisage:{
-        num:512,
+        num:-512,
         name:"Simisage",
         types:[
             "Grass"
@@ -21459,7 +21459,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     pansear:{
-        num:513,
+        num:-513,
         name:"Pansear",
         types:[
             "Fire"
@@ -21491,7 +21491,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     simisear:{
-        num:514,
+        num:-514,
         name:"Simisear",
         types:[
             "Fire"
@@ -21523,7 +21523,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     panpour:{
-        num:515,
+        num:-515,
         name:"Panpour",
         types:[
             "Water"
@@ -21555,7 +21555,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     simipour:{
-        num:516,
+        num:-516,
         name:"Simipour",
         types:[
             "Water"
@@ -21587,7 +21587,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     munna:{
-        num:517,
+        num:-517,
         name:"Munna",
         types:[
             "Psychic"
@@ -21616,7 +21616,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     musharna:{
-        num:518,
+        num:-518,
         name:"Musharna",
         types:[
             "Psychic"
@@ -21645,7 +21645,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     pidove:{
-        num:519,
+        num:-519,
         name:"Pidove",
         types:[
             "Normal",
@@ -21675,7 +21675,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     tranquill:{
-        num:520,
+        num:-520,
         name:"Tranquill",
         types:[
             "Normal",
@@ -21707,7 +21707,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     unfezant:{
-        num:521,
+        num:-521,
         name:"Unfezant",
         types:[
             "Normal",
@@ -21736,7 +21736,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     blitzle:{
-        num:522,
+        num:-522,
         name:"Blitzle",
         types:[
             "Electric"
@@ -21765,7 +21765,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     zebstrika:{
-        num:523,
+        num:-523,
         name:"Zebstrika",
         types:[
             "Electric"
@@ -21793,7 +21793,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     roggenrola:{
-        num:524,
+        num:-524,
         name:"Roggenrola",
         types:[
             "Rock"
@@ -21822,7 +21822,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     boldore:{
-        num:525,
+        num:-525,
         name:"Boldore",
         types:[
             "Rock"
@@ -21853,7 +21853,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     gigalith:{
-        num:526,
+        num:-526,
         name:"Gigalith",
         types:[
             "Rock"
@@ -21881,7 +21881,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     woobat:{
-        num:527,
+        num:-527,
         name:"Woobat",
         types:[
             "Psychic",
@@ -21912,7 +21912,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     swoobat:{
-        num:528,
+        num:-528,
         name:"Swoobat",
         types:[
             "Psychic",
@@ -21942,7 +21942,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     drilbur:{
-        num:529,
+        num:-529,
         name:"Drilbur",
         types:[
             "Ground"
@@ -21971,7 +21971,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     excadrill:{
-        num:530,
+        num:-530,
         name:"Excadrill",
         types:[
             "Ground",
@@ -22000,7 +22000,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     audino:{
-        num:531,
+        num:-531,
         name:"Audino",
         types:[
             "Normal"
@@ -22033,7 +22033,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     audinomega:{
-        num:531,
+        num:-531,
         name:"Audino-Mega",
         baseSpecies:"Audino",
         forme:"Mega",
@@ -22061,7 +22061,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         requiredItem:"Audinite"
     },
     timburr:{
-        num:532,
+        num:-532,
         name:"Timburr",
         types:[
             "Fighting"
@@ -22094,7 +22094,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     gurdurr:{
-        num:533,
+        num:-533,
         name:"Gurdurr",
         types:[
             "Fighting"
@@ -22129,7 +22129,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     conkeldurr:{
-        num:534,
+        num:-534,
         name:"Conkeldurr",
         types:[
             "Fighting"
@@ -22161,7 +22161,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     tympole:{
-        num:535,
+        num:-535,
         name:"Tympole",
         types:[
             "Water"
@@ -22190,7 +22190,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     palpitoad:{
-        num:536,
+        num:-536,
         name:"Palpitoad",
         types:[
             "Water",
@@ -22222,7 +22222,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     seismitoad:{
-        num:537,
+        num:-537,
         name:"Seismitoad",
         types:[
             "Water",
@@ -22251,7 +22251,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     throh:{
-        num:538,
+        num:-538,
         name:"Throh",
         types:[
             "Fighting"
@@ -22278,7 +22278,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     sawk:{
-        num:539,
+        num:-539,
         name:"Sawk",
         types:[
             "Fighting"
@@ -22305,7 +22305,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     sewaddle:{
-        num:540,
+        num:-540,
         name:"Sewaddle",
         types:[
             "Bug",
@@ -22335,7 +22335,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     swadloon:{
-        num:541,
+        num:-541,
         name:"Swadloon",
         types:[
             "Bug",
@@ -22367,7 +22367,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     leavanny:{
-        num:542,
+        num:-542,
         name:"Leavanny",
         types:[
             "Bug",
@@ -22396,7 +22396,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     venipede:{
-        num:543,
+        num:-543,
         name:"Venipede",
         types:[
             "Bug",
@@ -22426,7 +22426,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     whirlipede:{
-        num:544,
+        num:-544,
         name:"Whirlipede",
         types:[
             "Bug",
@@ -22458,7 +22458,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     scolipede:{
-        num:545,
+        num:-545,
         name:"Scolipede",
         types:[
             "Bug",
@@ -22487,7 +22487,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     cottonee:{
-        num:546,
+        num:-546,
         name:"Cottonee",
         types:[
             "Grass",
@@ -22519,7 +22519,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     whimsicott:{
-        num:547,
+        num:-547,
         name:"Whimsicott",
         types:[
             "Fairy",
@@ -22551,7 +22551,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     petilil:{
-        num:548,
+        num:-548,
         name:"Petilil",
         types:[
             "Grass"
@@ -22582,7 +22582,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     lilligant:{
-        num:549,
+        num:-549,
         name:"Lilligant",
         types:[
             "Grass"
@@ -22619,7 +22619,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     lilliganthisui:{
-        num:549,
+        num:-549,
         name:"Lilligant-Hisui",
         baseSpecies:"Lilligant",
         forme:"Hisui",
@@ -22652,7 +22652,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     basculin:{
-        num:550,
+        num:-550,
         name:"Basculin",
         baseForme:"Red-Striped",
         types:[
@@ -22689,7 +22689,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     basculinbluestriped:{
-        num:550,
+        num:-550,
         name:"Basculin-Blue-Striped",
         baseSpecies:"Basculin",
         forme:"Blue-Striped",
@@ -22717,7 +22717,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     basculinwhitestriped:{
-        num:550,
+        num:-550,
         name:"Basculin-White-Striped",
         baseSpecies:"Basculin",
         forme:"White-Striped",
@@ -22750,7 +22750,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         gen:8
     },
     sandile:{
-        num:551,
+        num:-551,
         name:"Sandile",
         types:[
             "Ground",
@@ -22780,7 +22780,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     krokorok:{
-        num:552,
+        num:-552,
         name:"Krokorok",
         types:[
             "Ground",
@@ -22812,7 +22812,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     krookodile:{
-        num:553,
+        num:-553,
         name:"Krookodile",
         types:[
             "Ground",
@@ -22841,7 +22841,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     darumaka:{
-        num:554,
+        num:-554,
         name:"Darumaka",
         types:[
             "Fire"
@@ -22876,7 +22876,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     darumakagalar:{
-        num:554,
+        num:-554,
         name:"Darumaka-Galar",
         baseSpecies:"Darumaka",
         forme:"Galar",
@@ -22906,7 +22906,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     darmanitan:{
-        num:555,
+        num:-555,
         name:"Darmanitan",
         baseForme:"Standard",
         types:[
@@ -22945,7 +22945,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     darmanitanzen:{
-        num:555,
+        num:-555,
         name:"Darmanitan-Zen",
         baseSpecies:"Darmanitan",
         forme:"Zen",
@@ -22974,7 +22974,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         battleOnly:"Darmanitan"
     },
     darmanitangalar:{
-        num:555,
+        num:-555,
         name:"Darmanitan-Galar",
         baseSpecies:"Darmanitan",
         forme:"Galar",
@@ -23004,7 +23004,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     darmanitangalarzen:{
-        num:555,
+        num:-555,
         name:"Darmanitan-Galar-Zen",
         baseSpecies:"Darmanitan",
         forme:"Galar-Zen",
@@ -23033,7 +23033,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         battleOnly:"Darmanitan-Galar"
     },
     maractus:{
-        num:556,
+        num:-556,
         name:"Maractus",
         types:[
             "Grass",
@@ -23061,7 +23061,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     dwebble:{
-        num:557,
+        num:-557,
         name:"Dwebble",
         types:[
             "Bug",
@@ -23092,7 +23092,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     crustle:{
-        num:558,
+        num:-558,
         name:"Crustle",
         types:[
             "Bug",
@@ -23122,7 +23122,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     scraggy:{
-        num:559,
+        num:-559,
         name:"Scraggy",
         types:[
             "Dark",
@@ -23153,7 +23153,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     scrafty:{
-        num:560,
+        num:-560,
         name:"Scrafty",
         types:[
             "Dark",
@@ -23183,7 +23183,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     sigilyph:{
-        num:561,
+        num:-561,
         name:"Sigilyph",
         types:[
             "Psychic",
@@ -23210,7 +23210,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     yamask:{
-        num:562,
+        num:-562,
         name:"Yamask",
         types:[
             "Ghost"
@@ -23245,7 +23245,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     yamaskgalar:{
-        num:562,
+        num:-562,
         name:"Yamask-Galar",
         baseSpecies:"Yamask",
         forme:"Galar",
@@ -23276,7 +23276,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     cofagrigus:{
-        num:563,
+        num:-563,
         name:"Cofagrigus",
         types:[
             "Ghost"
@@ -23303,7 +23303,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     tirtouga:{
-        num:564,
+        num:-564,
         name:"Tirtouga",
         types:[
             "Water",
@@ -23338,7 +23338,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     carracosta:{
-        num:565,
+        num:-565,
         name:"Carracosta",
         types:[
             "Water",
@@ -23372,7 +23372,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     archen:{
-        num:566,
+        num:-566,
         name:"Archen",
         types:[
             "Rock",
@@ -23405,7 +23405,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     archeops:{
-        num:567,
+        num:-567,
         name:"Archeops",
         types:[
             "Rock",
@@ -23437,7 +23437,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     trubbish:{
-        num:568,
+        num:-568,
         name:"Trubbish",
         types:[
             "Poison"
@@ -23466,7 +23466,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     garbodor:{
-        num:569,
+        num:-569,
         name:"Garbodor",
         types:[
             "Poison"
@@ -23495,7 +23495,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         canGigantamax:"G-Max Malodor"
     },
     garbodorgmax:{
-        num:569,
+        num:-569,
         name:"Garbodor-Gmax",
         baseSpecies:"Garbodor",
         forme:"Gmax",
@@ -23524,7 +23524,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Garbodor"
     },
     zorua:{
-        num:570,
+        num:-570,
         name:"Zorua",
         types:[
             "Normal",
@@ -23565,7 +23565,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     zoruahisui:{
-        num:570,
+        num:-570,
         name:"Zorua-Hisui",
         baseSpecies:"Zorua",
         forme:"Hisui",
@@ -23599,7 +23599,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     zoroark:{
-        num:571,
+        num:-571,
         name:"Zoroark",
         types:[
             "Normal",
@@ -23639,7 +23639,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     zoroarkhisui:{
-        num:571,
+        num:-571,
         name:"Zoroark-Hisui",
         baseSpecies:"Zoroark",
         forme:"Hisui",
@@ -23672,7 +23672,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     minccino:{
-        num:572,
+        num:-572,
         name:"Minccino",
         types:[
             "Normal"
@@ -23705,7 +23705,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     cinccino:{
-        num:573,
+        num:-573,
         name:"Cinccino",
         types:[
             "Normal"
@@ -23738,7 +23738,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     gothita:{
-        num:574,
+        num:-574,
         name:"Gothita",
         types:[
             "Psychic"
@@ -23771,7 +23771,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     gothorita:{
-        num:575,
+        num:-575,
         name:"Gothorita",
         types:[
             "Psychic"
@@ -23806,7 +23806,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     gothitelle:{
-        num:576,
+        num:-576,
         name:"Gothitelle",
         types:[
             "Psychic"
@@ -23838,7 +23838,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     solosis:{
-        num:577,
+        num:-577,
         name:"Solosis",
         types:[
             "Psychic"
@@ -23867,7 +23867,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     duosion:{
-        num:578,
+        num:-578,
         name:"Duosion",
         types:[
             "Psychic"
@@ -23898,7 +23898,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     reuniclus:{
-        num:579,
+        num:-579,
         name:"Reuniclus",
         types:[
             "Psychic"
@@ -23926,7 +23926,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     ducklett:{
-        num:580,
+        num:-580,
         name:"Ducklett",
         types:[
             "Water",
@@ -23957,7 +23957,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     swanna:{
-        num:581,
+        num:-581,
         name:"Swanna",
         types:[
             "Water",
@@ -23987,7 +23987,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     vanillite:{
-        num:582,
+        num:-582,
         name:"Vanillite",
         types:[
             "Ice"
@@ -24016,7 +24016,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     vanillish:{
-        num:583,
+        num:-583,
         name:"Vanillish",
         types:[
             "Ice"
@@ -24047,7 +24047,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     vanilluxe:{
-        num:584,
+        num:-584,
         name:"Vanilluxe",
         types:[
             "Ice"
@@ -24075,7 +24075,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     deerling:{
-        num:585,
+        num:-585,
         name:"Deerling",
         baseForme:"Spring",
         types:[
@@ -24117,7 +24117,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     sawsbuck:{
-        num:586,
+        num:-586,
         name:"Sawsbuck",
         baseForme:"Spring",
         types:[
@@ -24158,7 +24158,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     emolga:{
-        num:587,
+        num:-587,
         name:"Emolga",
         types:[
             "Electric",
@@ -24185,7 +24185,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     karrablast:{
-        num:588,
+        num:-588,
         name:"Karrablast",
         types:[
             "Bug"
@@ -24214,7 +24214,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     escavalier:{
-        num:589,
+        num:-589,
         name:"Escavalier",
         types:[
             "Bug",
@@ -24244,7 +24244,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     foongus:{
-        num:590,
+        num:-590,
         name:"Foongus",
         types:[
             "Grass",
@@ -24273,7 +24273,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     amoonguss:{
-        num:591,
+        num:-591,
         name:"Amoonguss",
         types:[
             "Grass",
@@ -24301,7 +24301,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     frillish:{
-        num:592,
+        num:-592,
         name:"Frillish",
         types:[
             "Water",
@@ -24331,7 +24331,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     jellicent:{
-        num:593,
+        num:-593,
         name:"Jellicent",
         types:[
             "Water",
@@ -24360,7 +24360,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     alomomola:{
-        num:594,
+        num:-594,
         name:"Alomomola",
         types:[
             "Water"
@@ -24387,7 +24387,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     joltik:{
-        num:595,
+        num:-595,
         name:"Joltik",
         types:[
             "Electric",
@@ -24418,7 +24418,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     galvantula:{
-        num:596,
+        num:-596,
         name:"Galvantula",
         types:[
             "Electric",
@@ -24448,7 +24448,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     ferroseed:{
-        num:597,
+        num:-597,
         name:"Ferroseed",
         types:[
             "Grass",
@@ -24477,7 +24477,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     ferrothorn:{
-        num:598,
+        num:-598,
         name:"Ferrothorn",
         types:[
             "Grass",
@@ -24506,7 +24506,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     klink:{
-        num:599,
+        num:-599,
         name:"Klink",
         types:[
             "Steel"
@@ -24536,7 +24536,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     klang:{
-        num:600,
+        num:-600,
         name:"Klang",
         types:[
             "Steel"
@@ -24568,7 +24568,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     klinklang:{
-        num:601,
+        num:-601,
         name:"Klinklang",
         types:[
             "Steel"
@@ -24597,7 +24597,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     tynamo:{
-        num:602,
+        num:-602,
         name:"Tynamo",
         types:[
             "Electric"
@@ -24624,7 +24624,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     eelektrik:{
-        num:603,
+        num:-603,
         name:"Eelektrik",
         types:[
             "Electric"
@@ -24653,7 +24653,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     eelektross:{
-        num:604,
+        num:-604,
         name:"Eelektross",
         types:[
             "Electric"
@@ -24680,7 +24680,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     elgyem:{
-        num:605,
+        num:-605,
         name:"Elgyem",
         types:[
             "Psychic"
@@ -24709,7 +24709,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     beheeyem:{
-        num:606,
+        num:-606,
         name:"Beheeyem",
         types:[
             "Psychic"
@@ -24737,7 +24737,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     litwick:{
-        num:607,
+        num:-607,
         name:"Litwick",
         types:[
             "Ghost",
@@ -24767,7 +24767,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     lampent:{
-        num:608,
+        num:-608,
         name:"Lampent",
         types:[
             "Ghost",
@@ -24799,7 +24799,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     chandelure:{
-        num:609,
+        num:-609,
         name:"Chandelure",
         types:[
             "Ghost",
@@ -24829,7 +24829,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     axew:{
-        num:610,
+        num:-610,
         name:"Axew",
         types:[
             "Dragon"
@@ -24859,7 +24859,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     fraxure:{
-        num:611,
+        num:-611,
         name:"Fraxure",
         types:[
             "Dragon"
@@ -24891,7 +24891,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     haxorus:{
-        num:612,
+        num:-612,
         name:"Haxorus",
         types:[
             "Dragon"
@@ -24920,7 +24920,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     cubchoo:{
-        num:613,
+        num:-613,
         name:"Cubchoo",
         types:[
             "Ice"
@@ -24949,7 +24949,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     beartic:{
-        num:614,
+        num:-614,
         name:"Beartic",
         types:[
             "Ice"
@@ -24977,7 +24977,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     cryogonal:{
-        num:615,
+        num:-615,
         name:"Cryogonal",
         types:[
             "Ice"
@@ -25002,7 +25002,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     shelmet:{
-        num:616,
+        num:-616,
         name:"Shelmet",
         types:[
             "Bug"
@@ -25031,7 +25031,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     accelgor:{
-        num:617,
+        num:-617,
         name:"Accelgor",
         types:[
             "Bug"
@@ -25060,7 +25060,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     stunfisk:{
-        num:618,
+        num:-618,
         name:"Stunfisk",
         types:[
             "Ground",
@@ -25095,7 +25095,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     stunfiskgalar:{
-        num:618,
+        num:-618,
         name:"Stunfisk-Galar",
         baseSpecies:"Stunfisk",
         forme:"Galar",
@@ -25123,7 +25123,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     mienfoo:{
-        num:619,
+        num:-619,
         name:"Mienfoo",
         types:[
             "Fighting"
@@ -25153,7 +25153,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     mienshao:{
-        num:620,
+        num:-620,
         name:"Mienshao",
         types:[
             "Fighting"
@@ -25182,7 +25182,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     druddigon:{
-        num:621,
+        num:-621,
         name:"Druddigon",
         types:[
             "Dragon"
@@ -25209,7 +25209,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     golett:{
-        num:622,
+        num:-622,
         name:"Golett",
         types:[
             "Ground",
@@ -25240,7 +25240,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     golurk:{
-        num:623,
+        num:-623,
         name:"Golurk",
         types:[
             "Ground",
@@ -25270,7 +25270,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     pawniard:{
-        num:624,
+        num:-624,
         name:"Pawniard",
         types:[
             "Dark",
@@ -25300,7 +25300,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     bisharp:{
-        num:625,
+        num:-625,
         name:"Bisharp",
         types:[
             "Dark",
@@ -25332,7 +25332,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     bouffalant:{
-        num:626,
+        num:-626,
         name:"Bouffalant",
         types:[
             "Normal"
@@ -25358,7 +25358,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     rufflet:{
-        num:627,
+        num:-627,
         name:"Rufflet",
         types:[
             "Normal",
@@ -25390,7 +25390,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     braviary:{
-        num:628,
+        num:-628,
         name:"Braviary",
         types:[
             "Normal",
@@ -25427,7 +25427,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     braviaryhisui:{
-        num:628,
+        num:-628,
         name:"Braviary-Hisui",
         baseSpecies:"Braviary",
         forme:"Hisui",
@@ -25459,7 +25459,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     vullaby:{
-        num:629,
+        num:-629,
         name:"Vullaby",
         types:[
             "Dark",
@@ -25490,7 +25490,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     mandibuzz:{
-        num:630,
+        num:-630,
         name:"Mandibuzz",
         types:[
             "Dark",
@@ -25520,7 +25520,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     heatmor:{
-        num:631,
+        num:-631,
         name:"Heatmor",
         types:[
             "Fire"
@@ -25546,7 +25546,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     durant:{
-        num:632,
+        num:-632,
         name:"Durant",
         types:[
             "Bug",
@@ -25573,7 +25573,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     deino:{
-        num:633,
+        num:-633,
         name:"Deino",
         types:[
             "Dark",
@@ -25601,7 +25601,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     zweilous:{
-        num:634,
+        num:-634,
         name:"Zweilous",
         types:[
             "Dark",
@@ -25631,7 +25631,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     hydreigon:{
-        num:635,
+        num:-635,
         name:"Hydreigon",
         types:[
             "Dark",
@@ -25658,7 +25658,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     larvesta:{
-        num:636,
+        num:-636,
         name:"Larvesta",
         types:[
             "Bug",
@@ -25687,7 +25687,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     volcarona:{
-        num:637,
+        num:-637,
         name:"Volcarona",
         types:[
             "Bug",
@@ -25715,7 +25715,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     cobalion:{
-        num:638,
+        num:-638,
         name:"Cobalion",
         types:[
             "Steel",
@@ -25744,7 +25744,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     terrakion:{
-        num:639,
+        num:-639,
         name:"Terrakion",
         types:[
             "Rock",
@@ -25773,7 +25773,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     virizion:{
-        num:640,
+        num:-640,
         name:"Virizion",
         types:[
             "Grass",
@@ -25802,7 +25802,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     tornadus:{
-        num:641,
+        num:-641,
         name:"Tornadus",
         baseForme:"Incarnate",
         types:[
@@ -25839,7 +25839,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     tornadustherian:{
-        num:641,
+        num:-641,
         name:"Tornadus-Therian",
         baseSpecies:"Tornadus",
         forme:"Therian",
@@ -25867,7 +25867,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Tornadus"
     },
     thundurus:{
-        num:642,
+        num:-642,
         name:"Thundurus",
         baseForme:"Incarnate",
         types:[
@@ -25905,7 +25905,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     thundurustherian:{
-        num:642,
+        num:-642,
         name:"Thundurus-Therian",
         baseSpecies:"Thundurus",
         forme:"Therian",
@@ -25934,7 +25934,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Thundurus"
     },
     reshiram:{
-        num:643,
+        num:-643,
         name:"Reshiram",
         types:[
             "Dragon",
@@ -25963,7 +25963,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     zekrom:{
-        num:644,
+        num:-644,
         name:"Zekrom",
         types:[
             "Dragon",
@@ -25992,7 +25992,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     landorus:{
-        num:645,
+        num:-645,
         name:"Landorus",
         baseForme:"Incarnate",
         types:[
@@ -26030,7 +26030,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     landorustherian:{
-        num:645,
+        num:-645,
         name:"Landorus-Therian",
         baseSpecies:"Landorus",
         forme:"Therian",
@@ -26059,7 +26059,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Landorus"
     },
     kyurem:{
-        num:646,
+        num:-646,
         name:"Kyurem",
         types:[
             "Dragon",
@@ -26097,7 +26097,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     kyuremblack:{
-        num:646,
+        num:-646,
         name:"Kyurem-Black",
         baseSpecies:"Kyurem",
         forme:"Black",
@@ -26126,7 +26126,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Kyurem"
     },
     kyuremwhite:{
-        num:646,
+        num:-646,
         name:"Kyurem-White",
         baseSpecies:"Kyurem",
         forme:"White",
@@ -26155,7 +26155,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Kyurem"
     },
     keldeo:{
-        num:647,
+        num:-647,
         name:"Keldeo",
         baseForme:"Ordinary",
         types:[
@@ -26192,7 +26192,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     keldeoresolute:{
-        num:647,
+        num:-647,
         name:"Keldeo-Resolute",
         baseSpecies:"Keldeo",
         forme:"Resolute",
@@ -26222,7 +26222,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Keldeo"
     },
     meloetta:{
-        num:648,
+        num:-648,
         name:"Meloetta",
         baseForme:"Aria",
         types:[
@@ -26259,7 +26259,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     meloettapirouette:{
-        num:648,
+        num:-648,
         name:"Meloetta-Pirouette",
         baseSpecies:"Meloetta",
         forme:"Pirouette",
@@ -26289,7 +26289,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         battleOnly:"Meloetta"
     },
     genesect:{
-        num:649,
+        num:-649,
         name:"Genesect",
         types:[
             "Bug",
@@ -26331,7 +26331,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     genesectdouse:{
-        num:649,
+        num:-649,
         name:"Genesect-Douse",
         baseSpecies:"Genesect",
         forme:"Douse",
@@ -26361,7 +26361,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Genesect"
     },
     genesectshock:{
-        num:649,
+        num:-649,
         name:"Genesect-Shock",
         baseSpecies:"Genesect",
         forme:"Shock",
@@ -26391,7 +26391,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Genesect"
     },
     genesectburn:{
-        num:649,
+        num:-649,
         name:"Genesect-Burn",
         baseSpecies:"Genesect",
         forme:"Burn",
@@ -26421,7 +26421,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Genesect"
     },
     genesectchill:{
-        num:649,
+        num:-649,
         name:"Genesect-Chill",
         baseSpecies:"Genesect",
         forme:"Chill",
@@ -26451,7 +26451,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Genesect"
     },
     chespin:{
-        num:650,
+        num:-650,
         name:"Chespin",
         types:[
             "Grass"
@@ -26483,7 +26483,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     quilladin:{
-        num:651,
+        num:-651,
         name:"Quilladin",
         types:[
             "Grass"
@@ -26517,7 +26517,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     chesnaught:{
-        num:652,
+        num:-652,
         name:"Chesnaught",
         types:[
             "Grass",
@@ -26549,7 +26549,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     fennekin:{
-        num:653,
+        num:-653,
         name:"Fennekin",
         types:[
             "Fire"
@@ -26581,7 +26581,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     braixen:{
-        num:654,
+        num:-654,
         name:"Braixen",
         types:[
             "Fire"
@@ -26615,7 +26615,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     delphox:{
-        num:655,
+        num:-655,
         name:"Delphox",
         types:[
             "Fire",
@@ -26647,7 +26647,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     froakie:{
-        num:656,
+        num:-656,
         name:"Froakie",
         types:[
             "Water"
@@ -26679,7 +26679,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     frogadier:{
-        num:657,
+        num:-657,
         name:"Frogadier",
         types:[
             "Water"
@@ -26713,7 +26713,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     greninja:{
-        num:658,
+        num:-658,
         name:"Greninja",
         types:[
             "Water",
@@ -26755,7 +26755,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     greninjabond:{
-        num:658,
+        num:-658,
         name:"Greninja-Bond",
         baseSpecies:"Greninja",
         forme:"Bond",
@@ -26784,7 +26784,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         gen:7
     },
     greninjaash:{
-        num:658,
+        num:-658,
         name:"Greninja-Ash",
         baseSpecies:"Greninja",
         forme:"Ash",
@@ -26815,7 +26815,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         gen:7
     },
     bunnelby:{
-        num:659,
+        num:-659,
         name:"Bunnelby",
         types:[
             "Normal"
@@ -26844,7 +26844,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     diggersby:{
-        num:660,
+        num:-660,
         name:"Diggersby",
         types:[
             "Normal",
@@ -26873,7 +26873,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     fletchling:{
-        num:661,
+        num:-661,
         name:"Fletchling",
         types:[
             "Normal",
@@ -26903,7 +26903,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     fletchinder:{
-        num:662,
+        num:-662,
         name:"Fletchinder",
         types:[
             "Fire",
@@ -26936,7 +26936,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     talonflame:{
-        num:663,
+        num:-663,
         name:"Talonflame",
         types:[
             "Fire",
@@ -26966,7 +26966,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     scatterbug:{
-        num:664,
+        num:-664,
         name:"Scatterbug",
         types:[
             "Bug"
@@ -26995,7 +26995,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     spewpa:{
-        num:665,
+        num:-665,
         name:"Spewpa",
         types:[
             "Bug"
@@ -27026,7 +27026,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     vivillon:{
-        num:666,
+        num:-666,
         name:"Vivillon",
         baseForme:"Meadow",
         types:[
@@ -27101,7 +27101,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     vivillonfancy:{
-        num:666,
+        num:-666,
         name:"Vivillon-Fancy",
         baseSpecies:"Vivillon",
         forme:"Fancy",
@@ -27132,7 +27132,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     vivillonpokeball:{
-        num:666,
+        num:-666,
         name:"Vivillon-Pokeball",
         baseSpecies:"Vivillon",
         forme:"Pokeball",
@@ -27161,7 +27161,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     litleo:{
-        num:667,
+        num:-667,
         name:"Litleo",
         types:[
             "Fire",
@@ -27195,7 +27195,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     pyroar:{
-        num:668,
+        num:-668,
         name:"Pyroar",
         types:[
             "Fire",
@@ -27228,7 +27228,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     flabebe:{
-        num:669,
+        num:-669,
         name:"Flabe\u0301be\u0301",
         baseForme:"Red",
         types:[
@@ -27271,7 +27271,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     floette:{
-        num:670,
+        num:-670,
         name:"Floette",
         baseForme:"Red",
         types:[
@@ -27320,7 +27320,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     floetteeternal:{
-        num:670,
+        num:-670,
         name:"Floette-Eternal",
         baseSpecies:"Floette",
         forme:"Eternal",
@@ -27347,7 +27347,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     florges:{
-        num:671,
+        num:-671,
         name:"Florges",
         baseForme:"Red",
         types:[
@@ -27390,7 +27390,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     skiddo:{
-        num:672,
+        num:-672,
         name:"Skiddo",
         types:[
             "Grass"
@@ -27418,7 +27418,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     gogoat:{
-        num:673,
+        num:-673,
         name:"Gogoat",
         types:[
             "Grass"
@@ -27445,7 +27445,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     pancham:{
-        num:674,
+        num:-674,
         name:"Pancham",
         types:[
             "Fighting"
@@ -27475,7 +27475,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     pangoro:{
-        num:675,
+        num:-675,
         name:"Pangoro",
         types:[
             "Fighting",
@@ -27506,7 +27506,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     furfrou:{
-        num:676,
+        num:-676,
         name:"Furfrou",
         baseForme:"Natural",
         types:[
@@ -27554,7 +27554,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     espurr:{
-        num:677,
+        num:-677,
         name:"Espurr",
         types:[
             "Psychic"
@@ -27584,7 +27584,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     meowstic:{
-        num:678,
+        num:-678,
         name:"Meowstic",
         baseForme:"M",
         types:[
@@ -27621,7 +27621,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     meowsticf:{
-        num:678,
+        num:-678,
         name:"Meowstic-F",
         baseSpecies:"Meowstic",
         forme:"F",
@@ -27652,7 +27652,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     honedge:{
-        num:679,
+        num:-679,
         name:"Honedge",
         types:[
             "Steel",
@@ -27680,7 +27680,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     doublade:{
-        num:680,
+        num:-680,
         name:"Doublade",
         types:[
             "Steel",
@@ -27710,7 +27710,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     aegislash:{
-        num:681,
+        num:-681,
         name:"Aegislash",
         baseForme:"Shield",
         types:[
@@ -27746,7 +27746,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     aegislashblade:{
-        num:681,
+        num:-681,
         name:"Aegislash-Blade",
         baseSpecies:"Aegislash",
         forme:"Blade",
@@ -27775,7 +27775,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         battleOnly:"Aegislash"
     },
     spritzee:{
-        num:682,
+        num:-682,
         name:"Spritzee",
         types:[
             "Fairy"
@@ -27803,7 +27803,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     aromatisse:{
-        num:683,
+        num:-683,
         name:"Aromatisse",
         types:[
             "Fairy"
@@ -27831,7 +27831,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     swirlix:{
-        num:684,
+        num:-684,
         name:"Swirlix",
         types:[
             "Fairy"
@@ -27859,7 +27859,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     slurpuff:{
-        num:685,
+        num:-685,
         name:"Slurpuff",
         types:[
             "Fairy"
@@ -27887,7 +27887,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     inkay:{
-        num:686,
+        num:-686,
         name:"Inkay",
         types:[
             "Psychic",
@@ -27919,7 +27919,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     malamar:{
-        num:687,
+        num:-687,
         name:"Malamar",
         types:[
             "Psychic",
@@ -27951,7 +27951,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     binacle:{
-        num:688,
+        num:-688,
         name:"Binacle",
         types:[
             "Rock",
@@ -27981,7 +27981,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     barbaracle:{
-        num:689,
+        num:-689,
         name:"Barbaracle",
         types:[
             "Rock",
@@ -28010,7 +28010,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     skrelp:{
-        num:690,
+        num:-690,
         name:"Skrelp",
         types:[
             "Poison",
@@ -28042,7 +28042,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     dragalge:{
-        num:691,
+        num:-691,
         name:"Dragalge",
         types:[
             "Poison",
@@ -28073,7 +28073,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     clauncher:{
-        num:692,
+        num:-692,
         name:"Clauncher",
         types:[
             "Water"
@@ -28101,7 +28101,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     clawitzer:{
-        num:693,
+        num:-693,
         name:"Clawitzer",
         types:[
             "Water"
@@ -28128,7 +28128,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     helioptile:{
-        num:694,
+        num:-694,
         name:"Helioptile",
         types:[
             "Electric",
@@ -28159,7 +28159,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     heliolisk:{
-        num:695,
+        num:-695,
         name:"Heliolisk",
         types:[
             "Electric",
@@ -28190,7 +28190,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     tyrunt:{
-        num:696,
+        num:-696,
         name:"Tyrunt",
         types:[
             "Rock",
@@ -28224,7 +28224,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     tyrantrum:{
-        num:697,
+        num:-697,
         name:"Tyrantrum",
         types:[
             "Rock",
@@ -28258,7 +28258,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     amaura:{
-        num:698,
+        num:-698,
         name:"Amaura",
         types:[
             "Rock",
@@ -28291,7 +28291,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     aurorus:{
-        num:699,
+        num:-699,
         name:"Aurorus",
         types:[
             "Rock",
@@ -28324,7 +28324,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     sylveon:{
-        num:700,
+        num:-700,
         name:"Sylveon",
         types:[
             "Fairy"
@@ -28356,7 +28356,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     hawlucha:{
-        num:701,
+        num:-701,
         name:"Hawlucha",
         types:[
             "Fighting",
@@ -28384,7 +28384,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     dedenne:{
-        num:702,
+        num:-702,
         name:"Dedenne",
         types:[
             "Electric",
@@ -28412,7 +28412,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     carbink:{
-        num:703,
+        num:-703,
         name:"Carbink",
         types:[
             "Rock",
@@ -28440,7 +28440,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     goomy:{
-        num:704,
+        num:-704,
         name:"Goomy",
         types:[
             "Dragon"
@@ -28470,7 +28470,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     sliggoo:{
-        num:705,
+        num:-705,
         name:"Sliggoo",
         types:[
             "Dragon"
@@ -28508,7 +28508,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     sliggoohisui:{
-        num:705,
+        num:-705,
         name:"Sliggoo-Hisui",
         baseSpecies:"Sliggoo",
         forme:"Hisui",
@@ -28542,7 +28542,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     goodra:{
-        num:706,
+        num:-706,
         name:"Goodra",
         types:[
             "Dragon"
@@ -28578,7 +28578,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     goodrahisui:{
-        num:706,
+        num:-706,
         name:"Goodra-Hisui",
         baseSpecies:"Goodra",
         forme:"Hisui",
@@ -28610,7 +28610,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     klefki:{
-        num:707,
+        num:-707,
         name:"Klefki",
         types:[
             "Steel",
@@ -28636,7 +28636,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     phantump:{
-        num:708,
+        num:-708,
         name:"Phantump",
         types:[
             "Ghost",
@@ -28667,7 +28667,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     trevenant:{
-        num:709,
+        num:-709,
         name:"Trevenant",
         types:[
             "Ghost",
@@ -28697,7 +28697,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     pumpkaboo:{
-        num:710,
+        num:-710,
         name:"Pumpkaboo",
         baseForme:"Average",
         types:[
@@ -28739,7 +28739,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     pumpkaboosmall:{
-        num:710,
+        num:-710,
         name:"Pumpkaboo-Small",
         baseSpecies:"Pumpkaboo",
         forme:"Small",
@@ -28771,7 +28771,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     pumpkaboolarge:{
-        num:710,
+        num:-710,
         name:"Pumpkaboo-Large",
         baseSpecies:"Pumpkaboo",
         forme:"Large",
@@ -28803,7 +28803,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     pumpkaboosuper:{
-        num:710,
+        num:-710,
         name:"Pumpkaboo-Super",
         baseSpecies:"Pumpkaboo",
         forme:"Super",
@@ -28835,7 +28835,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     gourgeist:{
-        num:711,
+        num:-711,
         name:"Gourgeist",
         baseForme:"Average",
         types:[
@@ -28876,7 +28876,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     gourgeistsmall:{
-        num:711,
+        num:-711,
         name:"Gourgeist-Small",
         baseSpecies:"Gourgeist",
         forme:"Small",
@@ -28907,7 +28907,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     gourgeistlarge:{
-        num:711,
+        num:-711,
         name:"Gourgeist-Large",
         baseSpecies:"Gourgeist",
         forme:"Large",
@@ -28938,7 +28938,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     gourgeistsuper:{
-        num:711,
+        num:-711,
         name:"Gourgeist-Super",
         baseSpecies:"Gourgeist",
         forme:"Super",
@@ -28969,7 +28969,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     bergmite:{
-        num:712,
+        num:-712,
         name:"Bergmite",
         types:[
             "Ice"
@@ -29000,7 +29000,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     avalugg:{
-        num:713,
+        num:-713,
         name:"Avalugg",
         types:[
             "Ice"
@@ -29036,7 +29036,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     avalugghisui:{
-        num:713,
+        num:-713,
         name:"Avalugg-Hisui",
         baseSpecies:"Avalugg",
         forme:"Hisui",
@@ -29068,7 +29068,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     noibat:{
-        num:714,
+        num:-714,
         name:"Noibat",
         types:[
             "Flying",
@@ -29099,7 +29099,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     noivern:{
-        num:715,
+        num:-715,
         name:"Noivern",
         types:[
             "Flying",
@@ -29129,7 +29129,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     xerneas:{
-        num:716,
+        num:-716,
         name:"Xerneas",
         baseForme:"Active",
         types:[
@@ -29165,7 +29165,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     xerneasneutral:{
-        num:716,
+        num:-716,
         name:"Xerneas-Neutral",
         baseSpecies:"Xerneas",
         forme:"Neutral",
@@ -29192,7 +29192,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     yveltal:{
-        num:717,
+        num:-717,
         name:"Yveltal",
         types:[
             "Dark",
@@ -29221,7 +29221,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     zygarde:{
-        num:718,
+        num:-718,
         name:"Zygarde",
         baseForme:"50%",
         types:[
@@ -29263,7 +29263,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     zygarde10:{
-        num:718,
+        num:-718,
         name:"Zygarde-10%",
         baseSpecies:"Zygarde",
         forme:"10%",
@@ -29294,7 +29294,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         gen:7
     },
     zygardecomplete:{
-        num:718,
+        num:-718,
         name:"Zygarde-Complete",
         baseSpecies:"Zygarde",
         forme:"Complete",
@@ -29328,7 +29328,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         gen:7
     },
     diancie:{
-        num:719,
+        num:-719,
         name:"Diancie",
         types:[
             "Rock",
@@ -29364,7 +29364,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     dianciemega:{
-        num:719,
+        num:-719,
         name:"Diancie-Mega",
         baseSpecies:"Diancie",
         forme:"Mega",
@@ -29393,7 +29393,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         requiredItem:"Diancite"
     },
     hoopa:{
-        num:720,
+        num:-720,
         name:"Hoopa",
         baseForme:"Confined",
         types:[
@@ -29430,7 +29430,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     hoopaunbound:{
-        num:720,
+        num:-720,
         name:"Hoopa-Unbound",
         baseSpecies:"Hoopa",
         forme:"Unbound",
@@ -29459,7 +29459,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Hoopa"
     },
     volcanion:{
-        num:721,
+        num:-721,
         name:"Volcanion",
         types:[
             "Fire",
@@ -29488,7 +29488,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     rowlet:{
-        num:722,
+        num:-722,
         name:"Rowlet",
         types:[
             "Grass",
@@ -29521,7 +29521,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     dartrix:{
-        num:723,
+        num:-723,
         name:"Dartrix",
         types:[
             "Grass",
@@ -29557,7 +29557,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     decidueye:{
-        num:724,
+        num:-724,
         name:"Decidueye",
         types:[
             "Grass",
@@ -29596,7 +29596,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     decidueyehisui:{
-        num:724,
+        num:-724,
         name:"Decidueye-Hisui",
         baseSpecies:"Decidueye",
         forme:"Hisui",
@@ -29630,7 +29630,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     litten:{
-        num:725,
+        num:-725,
         name:"Litten",
         types:[
             "Fire"
@@ -29662,7 +29662,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     torracat:{
-        num:726,
+        num:-726,
         name:"Torracat",
         types:[
             "Fire"
@@ -29696,7 +29696,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     incineroar:{
-        num:727,
+        num:-727,
         name:"Incineroar",
         types:[
             "Fire",
@@ -29728,7 +29728,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     popplio:{
-        num:728,
+        num:-728,
         name:"Popplio",
         types:[
             "Water"
@@ -29761,7 +29761,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     brionne:{
-        num:729,
+        num:-729,
         name:"Brionne",
         types:[
             "Water"
@@ -29796,7 +29796,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     primarina:{
-        num:730,
+        num:-730,
         name:"Primarina",
         types:[
             "Water",
@@ -29829,7 +29829,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     pikipek:{
-        num:731,
+        num:-731,
         name:"Pikipek",
         types:[
             "Normal",
@@ -29859,7 +29859,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     trumbeak:{
-        num:732,
+        num:-732,
         name:"Trumbeak",
         types:[
             "Normal",
@@ -29891,7 +29891,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     toucannon:{
-        num:733,
+        num:-733,
         name:"Toucannon",
         types:[
             "Normal",
@@ -29920,7 +29920,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     yungoos:{
-        num:734,
+        num:-734,
         name:"Yungoos",
         types:[
             "Normal"
@@ -29949,7 +29949,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     gumshoos:{
-        num:735,
+        num:-735,
         name:"Gumshoos",
         types:[
             "Normal"
@@ -29985,7 +29985,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     gumshoostotem:{
-        num:735,
+        num:-735,
         name:"Gumshoos-Totem",
         baseSpecies:"Gumshoos",
         forme:"Totem",
@@ -30011,7 +30011,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     grubbin:{
-        num:736,
+        num:-736,
         name:"Grubbin",
         types:[
             "Bug"
@@ -30038,7 +30038,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     charjabug:{
-        num:737,
+        num:-737,
         name:"Charjabug",
         types:[
             "Bug",
@@ -30070,7 +30070,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     vikavolt:{
-        num:738,
+        num:-738,
         name:"Vikavolt",
         types:[
             "Bug",
@@ -30107,7 +30107,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     vikavolttotem:{
-        num:738,
+        num:-738,
         name:"Vikavolt-Totem",
         baseSpecies:"Vikavolt",
         forme:"Totem",
@@ -30134,7 +30134,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     crabrawler:{
-        num:739,
+        num:-739,
         name:"Crabrawler",
         types:[
             "Fighting"
@@ -30163,7 +30163,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     crabominable:{
-        num:740,
+        num:-740,
         name:"Crabominable",
         types:[
             "Fighting",
@@ -30193,7 +30193,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     oricorio:{
-        num:741,
+        num:-741,
         name:"Oricorio",
         baseForme:"Baile",
         types:[
@@ -30237,7 +30237,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     oricoriopompom:{
-        num:741,
+        num:-741,
         name:"Oricorio-Pom-Pom",
         baseSpecies:"Oricorio",
         forme:"Pom-Pom",
@@ -30269,7 +30269,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Oricorio"
     },
     oricoriopau:{
-        num:741,
+        num:-741,
         name:"Oricorio-Pa'u",
         baseSpecies:"Oricorio",
         forme:"Pa'u",
@@ -30301,7 +30301,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Oricorio"
     },
     oricoriosensu:{
-        num:741,
+        num:-741,
         name:"Oricorio-Sensu",
         baseSpecies:"Oricorio",
         forme:"Sensu",
@@ -30333,7 +30333,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Oricorio"
     },
     cutiefly:{
-        num:742,
+        num:-742,
         name:"Cutiefly",
         types:[
             "Bug",
@@ -30364,7 +30364,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     ribombee:{
-        num:743,
+        num:-743,
         name:"Ribombee",
         types:[
             "Bug",
@@ -30401,7 +30401,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     ribombeetotem:{
-        num:743,
+        num:-743,
         name:"Ribombee-Totem",
         baseSpecies:"Ribombee",
         forme:"Totem",
@@ -30429,7 +30429,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     rockruff:{
-        num:744,
+        num:-744,
         name:"Rockruff",
         baseForme:"Midday",
         types:[
@@ -30466,7 +30466,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     lycanroc:{
-        num:745,
+        num:-745,
         name:"Lycanroc",
         baseForme:"Midday",
         types:[
@@ -30505,7 +30505,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     lycanrocmidnight:{
-        num:745,
+        num:-745,
         name:"Lycanroc-Midnight",
         baseSpecies:"Lycanroc",
         forme:"Midnight",
@@ -30536,7 +30536,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     lycanrocdusk:{
-        num:745,
+        num:-745,
         name:"Lycanroc-Dusk",
         baseSpecies:"Lycanroc",
         forme:"Dusk",
@@ -30565,7 +30565,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     wishiwashi:{
-        num:746,
+        num:-746,
         name:"Wishiwashi",
         baseForme:"Solo",
         types:[
@@ -30597,7 +30597,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     wishiwashischool:{
-        num:746,
+        num:-746,
         name:"Wishiwashi-School",
         baseSpecies:"Wishiwashi",
         forme:"School",
@@ -30625,7 +30625,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         battleOnly:"Wishiwashi"
     },
     mareanie:{
-        num:747,
+        num:-747,
         name:"Mareanie",
         types:[
             "Poison",
@@ -30655,7 +30655,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     toxapex:{
-        num:748,
+        num:-748,
         name:"Toxapex",
         types:[
             "Poison",
@@ -30684,7 +30684,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     mudbray:{
-        num:749,
+        num:-749,
         name:"Mudbray",
         types:[
             "Ground"
@@ -30713,7 +30713,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     mudsdale:{
-        num:750,
+        num:-750,
         name:"Mudsdale",
         types:[
             "Ground"
@@ -30741,7 +30741,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     dewpider:{
-        num:751,
+        num:-751,
         name:"Dewpider",
         types:[
             "Water",
@@ -30771,7 +30771,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     araquanid:{
-        num:752,
+        num:-752,
         name:"Araquanid",
         types:[
             "Water",
@@ -30807,7 +30807,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     araquanidtotem:{
-        num:752,
+        num:-752,
         name:"Araquanid-Totem",
         baseSpecies:"Araquanid",
         forme:"Totem",
@@ -30835,7 +30835,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     fomantis:{
-        num:753,
+        num:-753,
         name:"Fomantis",
         types:[
             "Grass"
@@ -30863,7 +30863,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     lurantis:{
-        num:754,
+        num:-754,
         name:"Lurantis",
         types:[
             "Grass"
@@ -30898,7 +30898,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     lurantistotem:{
-        num:754,
+        num:-754,
         name:"Lurantis-Totem",
         baseSpecies:"Lurantis",
         forme:"Totem",
@@ -30924,7 +30924,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     morelull:{
-        num:755,
+        num:-755,
         name:"Morelull",
         types:[
             "Grass",
@@ -30954,7 +30954,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     shiinotic:{
-        num:756,
+        num:-756,
         name:"Shiinotic",
         types:[
             "Grass",
@@ -30983,7 +30983,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     salandit:{
-        num:757,
+        num:-757,
         name:"Salandit",
         types:[
             "Poison",
@@ -31019,7 +31019,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     salazzle:{
-        num:758,
+        num:-758,
         name:"Salazzle",
         types:[
             "Poison",
@@ -31058,7 +31058,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     salazzletotem:{
-        num:758,
+        num:-758,
         name:"Salazzle-Totem",
         baseSpecies:"Salazzle",
         forme:"Totem",
@@ -31087,7 +31087,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     stufful:{
-        num:759,
+        num:-759,
         name:"Stufful",
         types:[
             "Normal",
@@ -31117,7 +31117,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     bewear:{
-        num:760,
+        num:-760,
         name:"Bewear",
         types:[
             "Normal",
@@ -31146,7 +31146,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     bounsweet:{
-        num:761,
+        num:-761,
         name:"Bounsweet",
         types:[
             "Grass"
@@ -31176,7 +31176,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     steenee:{
-        num:762,
+        num:-762,
         name:"Steenee",
         types:[
             "Grass"
@@ -31208,7 +31208,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     tsareena:{
-        num:763,
+        num:-763,
         name:"Tsareena",
         types:[
             "Grass"
@@ -31238,7 +31238,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     comfey:{
-        num:764,
+        num:-764,
         name:"Comfey",
         types:[
             "Fairy"
@@ -31268,7 +31268,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     oranguru:{
-        num:765,
+        num:-765,
         name:"Oranguru",
         types:[
             "Normal",
@@ -31295,7 +31295,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     passimian:{
-        num:766,
+        num:-766,
         name:"Passimian",
         types:[
             "Fighting"
@@ -31320,7 +31320,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     wimpod:{
-        num:767,
+        num:-767,
         name:"Wimpod",
         types:[
             "Bug",
@@ -31351,7 +31351,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     golisopod:{
-        num:768,
+        num:-768,
         name:"Golisopod",
         types:[
             "Bug",
@@ -31381,7 +31381,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     sandygast:{
-        num:769,
+        num:-769,
         name:"Sandygast",
         types:[
             "Ghost",
@@ -31410,7 +31410,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     palossand:{
-        num:770,
+        num:-770,
         name:"Palossand",
         types:[
             "Ghost",
@@ -31438,7 +31438,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     pyukumuku:{
-        num:771,
+        num:-771,
         name:"Pyukumuku",
         types:[
             "Water"
@@ -31463,7 +31463,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     typenull:{
-        num:772,
+        num:-772,
         name:"Type: Null",
         types:[
             "Normal"
@@ -31494,7 +31494,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     silvally:{
-        num:773,
+        num:-773,
         name:"Silvally",
         types:[
             "Normal"
@@ -31563,7 +31563,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     silvallybug:{
-        num:773,
+        num:-773,
         name:"Silvally-Bug",
         baseSpecies:"Silvally",
         forme:"Bug",
@@ -31592,7 +31592,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Silvally"
     },
     silvallydark:{
-        num:773,
+        num:-773,
         name:"Silvally-Dark",
         baseSpecies:"Silvally",
         forme:"Dark",
@@ -31621,7 +31621,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Silvally"
     },
     silvallydragon:{
-        num:773,
+        num:-773,
         name:"Silvally-Dragon",
         baseSpecies:"Silvally",
         forme:"Dragon",
@@ -31650,7 +31650,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Silvally"
     },
     silvallyelectric:{
-        num:773,
+        num:-773,
         name:"Silvally-Electric",
         baseSpecies:"Silvally",
         forme:"Electric",
@@ -31679,7 +31679,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Silvally"
     },
     silvallyfairy:{
-        num:773,
+        num:-773,
         name:"Silvally-Fairy",
         baseSpecies:"Silvally",
         forme:"Fairy",
@@ -31708,7 +31708,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Silvally"
     },
     silvallyfighting:{
-        num:773,
+        num:-773,
         name:"Silvally-Fighting",
         baseSpecies:"Silvally",
         forme:"Fighting",
@@ -31737,7 +31737,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Silvally"
     },
     silvallyfire:{
-        num:773,
+        num:-773,
         name:"Silvally-Fire",
         baseSpecies:"Silvally",
         forme:"Fire",
@@ -31766,7 +31766,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Silvally"
     },
     silvallyflying:{
-        num:773,
+        num:-773,
         name:"Silvally-Flying",
         baseSpecies:"Silvally",
         forme:"Flying",
@@ -31795,7 +31795,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Silvally"
     },
     silvallyghost:{
-        num:773,
+        num:-773,
         name:"Silvally-Ghost",
         baseSpecies:"Silvally",
         forme:"Ghost",
@@ -31824,7 +31824,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Silvally"
     },
     silvallygrass:{
-        num:773,
+        num:-773,
         name:"Silvally-Grass",
         baseSpecies:"Silvally",
         forme:"Grass",
@@ -31853,7 +31853,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Silvally"
     },
     silvallyground:{
-        num:773,
+        num:-773,
         name:"Silvally-Ground",
         baseSpecies:"Silvally",
         forme:"Ground",
@@ -31882,7 +31882,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Silvally"
     },
     silvallyice:{
-        num:773,
+        num:-773,
         name:"Silvally-Ice",
         baseSpecies:"Silvally",
         forme:"Ice",
@@ -31911,7 +31911,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Silvally"
     },
     silvallypoison:{
-        num:773,
+        num:-773,
         name:"Silvally-Poison",
         baseSpecies:"Silvally",
         forme:"Poison",
@@ -31940,7 +31940,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Silvally"
     },
     silvallypsychic:{
-        num:773,
+        num:-773,
         name:"Silvally-Psychic",
         baseSpecies:"Silvally",
         forme:"Psychic",
@@ -31969,7 +31969,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Silvally"
     },
     silvallyrock:{
-        num:773,
+        num:-773,
         name:"Silvally-Rock",
         baseSpecies:"Silvally",
         forme:"Rock",
@@ -31998,7 +31998,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Silvally"
     },
     silvallysteel:{
-        num:773,
+        num:-773,
         name:"Silvally-Steel",
         baseSpecies:"Silvally",
         forme:"Steel",
@@ -32027,7 +32027,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Silvally"
     },
     silvallywater:{
-        num:773,
+        num:-773,
         name:"Silvally-Water",
         baseSpecies:"Silvally",
         forme:"Water",
@@ -32056,7 +32056,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Silvally"
     },
     minior:{
-        num:774,
+        num:-774,
         name:"Minior",
         baseForme:"Red",
         types:[
@@ -32110,7 +32110,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     miniormeteor:{
-        num:774,
+        num:-774,
         name:"Minior-Meteor",
         baseSpecies:"Minior",
         forme:"Meteor",
@@ -32140,7 +32140,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         battleOnly:"Minior"
     },
     komala:{
-        num:775,
+        num:-775,
         name:"Komala",
         types:[
             "Normal"
@@ -32164,7 +32164,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     turtonator:{
-        num:776,
+        num:-776,
         name:"Turtonator",
         types:[
             "Fire",
@@ -32190,7 +32190,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     togedemaru:{
-        num:777,
+        num:-777,
         name:"Togedemaru",
         types:[
             "Electric",
@@ -32226,7 +32226,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     togedemarutotem:{
-        num:777,
+        num:-777,
         name:"Togedemaru-Totem",
         baseSpecies:"Togedemaru",
         forme:"Totem",
@@ -32254,7 +32254,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     mimikyu:{
-        num:778,
+        num:-778,
         name:"Mimikyu",
         baseForme:"Disguised",
         types:[
@@ -32291,7 +32291,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     mimikyubusted:{
-        num:778,
+        num:-778,
         name:"Mimikyu-Busted",
         baseSpecies:"Mimikyu",
         forme:"Busted",
@@ -32320,7 +32320,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         battleOnly:"Mimikyu"
     },
     mimikyutotem:{
-        num:778,
+        num:-778,
         name:"Mimikyu-Totem",
         baseSpecies:"Mimikyu",
         forme:"Totem",
@@ -32347,7 +32347,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     mimikyubustedtotem:{
-        num:778,
+        num:-778,
         name:"Mimikyu-Busted-Totem",
         baseSpecies:"Mimikyu",
         forme:"Busted-Totem",
@@ -32376,7 +32376,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         battleOnly:"Mimikyu-Totem"
     },
     bruxish:{
-        num:779,
+        num:-779,
         name:"Bruxish",
         types:[
             "Water",
@@ -32403,7 +32403,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     drampa:{
-        num:780,
+        num:-780,
         name:"Drampa",
         types:[
             "Normal",
@@ -32431,7 +32431,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     dhelmise:{
-        num:781,
+        num:-781,
         name:"Dhelmise",
         types:[
             "Ghost",
@@ -32457,7 +32457,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     jangmoo:{
-        num:782,
+        num:-782,
         name:"Jangmo-o",
         types:[
             "Dragon"
@@ -32486,7 +32486,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     hakamoo:{
-        num:783,
+        num:-783,
         name:"Hakamo-o",
         types:[
             "Dragon",
@@ -32518,7 +32518,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     kommoo:{
-        num:784,
+        num:-784,
         name:"Kommo-o",
         types:[
             "Dragon",
@@ -32554,7 +32554,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     kommoototem:{
-        num:784,
+        num:-784,
         name:"Kommo-o-Totem",
         baseSpecies:"Kommo-o",
         forme:"Totem",
@@ -32581,7 +32581,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     tapukoko:{
-        num:785,
+        num:-785,
         name:"Tapu Koko",
         types:[
             "Electric",
@@ -32611,7 +32611,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     tapulele:{
-        num:786,
+        num:-786,
         name:"Tapu Lele",
         types:[
             "Psychic",
@@ -32641,7 +32641,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     tapubulu:{
-        num:787,
+        num:-787,
         name:"Tapu Bulu",
         types:[
             "Grass",
@@ -32671,7 +32671,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     tapufini:{
-        num:788,
+        num:-788,
         name:"Tapu Fini",
         types:[
             "Water",
@@ -32701,7 +32701,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     cosmog:{
-        num:789,
+        num:-789,
         name:"Cosmog",
         types:[
             "Psychic"
@@ -32732,7 +32732,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     cosmoem:{
-        num:790,
+        num:-790,
         name:"Cosmoem",
         types:[
             "Psychic"
@@ -32766,7 +32766,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     solgaleo:{
-        num:791,
+        num:-791,
         name:"Solgaleo",
         types:[
             "Psychic",
@@ -32797,7 +32797,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     lunala:{
-        num:792,
+        num:-792,
         name:"Lunala",
         types:[
             "Psychic",
@@ -32828,7 +32828,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     nihilego:{
-        num:793,
+        num:-793,
         name:"Nihilego",
         types:[
             "Poison",
@@ -32859,7 +32859,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     buzzwole:{
-        num:794,
+        num:-794,
         name:"Buzzwole",
         types:[
             "Bug",
@@ -32888,7 +32888,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     pheromosa:{
-        num:795,
+        num:-795,
         name:"Pheromosa",
         types:[
             "Bug",
@@ -32917,7 +32917,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     xurkitree:{
-        num:796,
+        num:-796,
         name:"Xurkitree",
         types:[
             "Electric"
@@ -32945,7 +32945,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     celesteela:{
-        num:797,
+        num:-797,
         name:"Celesteela",
         types:[
             "Steel",
@@ -32974,7 +32974,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     kartana:{
-        num:798,
+        num:-798,
         name:"Kartana",
         types:[
             "Grass",
@@ -33003,7 +33003,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     guzzlord:{
-        num:799,
+        num:-799,
         name:"Guzzlord",
         types:[
             "Dark",
@@ -33032,7 +33032,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     necrozma:{
-        num:800,
+        num:-800,
         name:"Necrozma",
         types:[
             "Psychic"
@@ -33071,7 +33071,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     necrozmaduskmane:{
-        num:800,
+        num:-800,
         name:"Necrozma-Dusk-Mane",
         baseSpecies:"Necrozma",
         forme:"Dusk-Mane",
@@ -33100,7 +33100,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Necrozma"
     },
     necrozmadawnwings:{
-        num:800,
+        num:-800,
         name:"Necrozma-Dawn-Wings",
         baseSpecies:"Necrozma",
         forme:"Dawn-Wings",
@@ -33129,7 +33129,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Necrozma"
     },
     necrozmaultra:{
-        num:800,
+        num:-800,
         name:"Necrozma-Ultra",
         baseSpecies:"Necrozma",
         forme:"Ultra",
@@ -33162,7 +33162,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     magearna:{
-        num:801,
+        num:-801,
         name:"Magearna",
         types:[
             "Steel",
@@ -33198,7 +33198,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     magearnaoriginal:{
-        num:801,
+        num:-801,
         name:"Magearna-Original",
         baseSpecies:"Magearna",
         forme:"Original",
@@ -33226,7 +33226,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     marshadow:{
-        num:802,
+        num:-802,
         name:"Marshadow",
         types:[
             "Fighting",
@@ -33255,7 +33255,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     poipole:{
-        num:803,
+        num:-803,
         name:"Poipole",
         types:[
             "Poison"
@@ -33286,7 +33286,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     naganadel:{
-        num:804,
+        num:-804,
         name:"Naganadel",
         types:[
             "Poison",
@@ -33318,7 +33318,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     stakataka:{
-        num:805,
+        num:-805,
         name:"Stakataka",
         types:[
             "Rock",
@@ -33347,7 +33347,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     blacephalon:{
-        num:806,
+        num:-806,
         name:"Blacephalon",
         types:[
             "Fire",
@@ -33376,7 +33376,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     zeraora:{
-        num:807,
+        num:-807,
         name:"Zeraora",
         types:[
             "Electric"
@@ -33407,7 +33407,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     meltan:{
-        num:808,
+        num:-808,
         name:"Meltan",
         types:[
             "Steel"
@@ -33435,7 +33435,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     melmetal:{
-        num:809,
+        num:-809,
         name:"Melmetal",
         types:[
             "Steel"
@@ -33464,7 +33464,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         canGigantamax:"G-Max Meltdown"
     },
     melmetalgmax:{
-        num:809,
+        num:-809,
         name:"Melmetal-Gmax",
         baseSpecies:"Melmetal",
         forme:"Gmax",
@@ -33492,7 +33492,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Melmetal"
     },
     grookey:{
-        num:810,
+        num:-810,
         name:"Grookey",
         types:[
             "Grass"
@@ -33525,7 +33525,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     thwackey:{
-        num:811,
+        num:-811,
         name:"Thwackey",
         types:[
             "Grass"
@@ -33560,7 +33560,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     rillaboom:{
-        num:812,
+        num:-812,
         name:"Rillaboom",
         types:[
             "Grass"
@@ -33593,7 +33593,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         canGigantamax:"G-Max Drum Solo"
     },
     rillaboomgmax:{
-        num:812,
+        num:-812,
         name:"Rillaboom-Gmax",
         baseSpecies:"Rillaboom",
         forme:"Gmax",
@@ -33626,7 +33626,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Rillaboom"
     },
     scorbunny:{
-        num:813,
+        num:-813,
         name:"Scorbunny",
         types:[
             "Fire"
@@ -33659,7 +33659,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     raboot:{
-        num:814,
+        num:-814,
         name:"Raboot",
         types:[
             "Fire"
@@ -33694,7 +33694,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     cinderace:{
-        num:815,
+        num:-815,
         name:"Cinderace",
         types:[
             "Fire"
@@ -33727,7 +33727,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         canGigantamax:"G-Max Fireball"
     },
     cinderacegmax:{
-        num:815,
+        num:-815,
         name:"Cinderace-Gmax",
         baseSpecies:"Cinderace",
         forme:"Gmax",
@@ -33760,7 +33760,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Cinderace"
     },
     sobble:{
-        num:816,
+        num:-816,
         name:"Sobble",
         types:[
             "Water"
@@ -33793,7 +33793,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     drizzile:{
-        num:817,
+        num:-817,
         name:"Drizzile",
         types:[
             "Water"
@@ -33828,7 +33828,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     inteleon:{
-        num:818,
+        num:-818,
         name:"Inteleon",
         types:[
             "Water"
@@ -33861,7 +33861,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         canGigantamax:"G-Max Hydrosnipe"
     },
     inteleongmax:{
-        num:818,
+        num:-818,
         name:"Inteleon-Gmax",
         baseSpecies:"Inteleon",
         forme:"Gmax",
@@ -33894,7 +33894,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Inteleon"
     },
     skwovet:{
-        num:819,
+        num:-819,
         name:"Skwovet",
         types:[
             "Normal"
@@ -33922,7 +33922,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     greedent:{
-        num:820,
+        num:-820,
         name:"Greedent",
         types:[
             "Normal"
@@ -33949,7 +33949,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     rookidee:{
-        num:821,
+        num:-821,
         name:"Rookidee",
         types:[
             "Flying"
@@ -33979,7 +33979,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     corvisquire:{
-        num:822,
+        num:-822,
         name:"Corvisquire",
         types:[
             "Flying"
@@ -34011,7 +34011,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     corviknight:{
-        num:823,
+        num:-823,
         name:"Corviknight",
         types:[
             "Flying",
@@ -34042,7 +34042,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     corviknightgmax:{
-        num:823,
+        num:-823,
         name:"Corviknight-Gmax",
         baseSpecies:"Corviknight",
         forme:"Gmax",
@@ -34072,7 +34072,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Corviknight"
     },
     blipbug:{
-        num:824,
+        num:-824,
         name:"Blipbug",
         types:[
             "Bug"
@@ -34101,7 +34101,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     dottler:{
-        num:825,
+        num:-825,
         name:"Dottler",
         types:[
             "Bug",
@@ -34133,7 +34133,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     orbeetle:{
-        num:826,
+        num:-826,
         name:"Orbeetle",
         types:[
             "Bug",
@@ -34163,7 +34163,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         canGigantamax:"G-Max Gravitas"
     },
     orbeetlegmax:{
-        num:826,
+        num:-826,
         name:"Orbeetle-Gmax",
         baseSpecies:"Orbeetle",
         forme:"Gmax",
@@ -34193,7 +34193,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Orbeetle"
     },
     nickit:{
-        num:827,
+        num:-827,
         name:"Nickit",
         types:[
             "Dark"
@@ -34222,7 +34222,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     thievul:{
-        num:828,
+        num:-828,
         name:"Thievul",
         types:[
             "Dark"
@@ -34250,7 +34250,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     gossifleur:{
-        num:829,
+        num:-829,
         name:"Gossifleur",
         types:[
             "Grass"
@@ -34279,7 +34279,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     eldegoss:{
-        num:830,
+        num:-830,
         name:"Eldegoss",
         types:[
             "Grass"
@@ -34307,7 +34307,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     wooloo:{
-        num:831,
+        num:-831,
         name:"Wooloo",
         types:[
             "Fairy",
@@ -34338,7 +34338,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     dubwool:{
-        num:832,
+        num:-832,
         name:"Dubwool",
         types:[
             "Fairy",
@@ -34368,7 +34368,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     chewtle:{
-        num:833,
+        num:-833,
         name:"Chewtle",
         types:[
             "Water"
@@ -34398,7 +34398,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     drednaw:{
-        num:834,
+        num:-834,
         name:"Drednaw",
         types:[
             "Water",
@@ -34429,7 +34429,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         canGigantamax:"G-Max Stonesurge"
     },
     drednawgmax:{
-        num:834,
+        num:-834,
         name:"Drednaw-Gmax",
         baseSpecies:"Drednaw",
         forme:"Gmax",
@@ -34460,7 +34460,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Drednaw"
     },
     yamper:{
-        num:835,
+        num:-835,
         name:"Yamper",
         types:[
             "Electric"
@@ -34488,7 +34488,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     boltund:{
-        num:836,
+        num:-836,
         name:"Boltund",
         types:[
             "Electric"
@@ -34515,7 +34515,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     rolycoly:{
-        num:837,
+        num:-837,
         name:"Rolycoly",
         types:[
             "Rock"
@@ -34544,7 +34544,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     carkol:{
-        num:838,
+        num:-838,
         name:"Carkol",
         types:[
             "Rock",
@@ -34576,7 +34576,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     coalossal:{
-        num:839,
+        num:-839,
         name:"Coalossal",
         types:[
             "Rock",
@@ -34606,7 +34606,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         canGigantamax:"G-Max Volcalith"
     },
     coalossalgmax:{
-        num:839,
+        num:-839,
         name:"Coalossal-Gmax",
         baseSpecies:"Coalossal",
         forme:"Gmax",
@@ -34636,7 +34636,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Coalossal"
     },
     applin:{
-        num:840,
+        num:-840,
         name:"Applin",
         types:[
             "Grass",
@@ -34669,7 +34669,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     flapple:{
-        num:841,
+        num:-841,
         name:"Flapple",
         types:[
             "Grass",
@@ -34701,7 +34701,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         canGigantamax:"G-Max Tartness"
     },
     flapplegmax:{
-        num:841,
+        num:-841,
         name:"Flapple-Gmax",
         baseSpecies:"Flapple",
         forme:"Gmax",
@@ -34732,7 +34732,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Flapple"
     },
     appletun:{
-        num:842,
+        num:-842,
         name:"Appletun",
         types:[
             "Grass",
@@ -34764,7 +34764,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         canGigantamax:"G-Max Sweetness"
     },
     appletungmax:{
-        num:842,
+        num:-842,
         name:"Appletun-Gmax",
         baseSpecies:"Appletun",
         forme:"Gmax",
@@ -34795,7 +34795,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Appletun"
     },
     silicobra:{
-        num:843,
+        num:-843,
         name:"Silicobra",
         types:[
             "Ground"
@@ -34825,7 +34825,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     sandaconda:{
-        num:844,
+        num:-844,
         name:"Sandaconda",
         types:[
             "Ground"
@@ -34855,7 +34855,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         canGigantamax:"G-Max Sandblast"
     },
     sandacondagmax:{
-        num:844,
+        num:-844,
         name:"Sandaconda-Gmax",
         baseSpecies:"Sandaconda",
         forme:"Gmax",
@@ -34885,7 +34885,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Sandaconda"
     },
     cramorant:{
-        num:845,
+        num:-845,
         name:"Cramorant",
         types:[
             "Flying",
@@ -34920,7 +34920,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     cramorantgulping:{
-        num:845,
+        num:-845,
         name:"Cramorant-Gulping",
         baseSpecies:"Cramorant",
         forme:"Gulping",
@@ -34950,7 +34950,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         battleOnly:"Cramorant"
     },
     cramorantgorging:{
-        num:845,
+        num:-845,
         name:"Cramorant-Gorging",
         baseSpecies:"Cramorant",
         forme:"Gorging",
@@ -34980,7 +34980,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         battleOnly:"Cramorant"
     },
     arrokuda:{
-        num:846,
+        num:-846,
         name:"Arrokuda",
         types:[
             "Water"
@@ -35008,7 +35008,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     barraskewda:{
-        num:847,
+        num:-847,
         name:"Barraskewda",
         types:[
             "Water"
@@ -35035,7 +35035,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     toxel:{
-        num:848,
+        num:-848,
         name:"Toxel",
         types:[
             "Electric",
@@ -35067,7 +35067,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         canHatch:true
     },
     toxtricity:{
-        num:849,
+        num:-849,
         name:"Toxtricity",
         baseForme:"Amped",
         types:[
@@ -35105,7 +35105,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         canGigantamax:"G-Max Stun Shock"
     },
     toxtricitylowkey:{
-        num:849,
+        num:-849,
         name:"Toxtricity-Low-Key",
         baseSpecies:"Toxtricity",
         forme:"Low-Key",
@@ -35137,7 +35137,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         canGigantamax:"G-Max Stun Shock"
     },
     toxtricitygmax:{
-        num:849,
+        num:-849,
         name:"Toxtricity-Gmax",
         baseSpecies:"Toxtricity",
         forme:"Gmax",
@@ -35167,7 +35167,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Toxtricity"
     },
     toxtricitylowkeygmax:{
-        num:849,
+        num:-849,
         name:"Toxtricity-Low-Key-Gmax",
         baseSpecies:"Toxtricity",
         forme:"Low-Key-Gmax",
@@ -35198,7 +35198,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Toxtricity-Low-Key"
     },
     sizzlipede:{
-        num:850,
+        num:-850,
         name:"Sizzlipede",
         types:[
             "Fire",
@@ -35228,7 +35228,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     centiskorch:{
-        num:851,
+        num:-851,
         name:"Centiskorch",
         types:[
             "Fire",
@@ -35258,7 +35258,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         canGigantamax:"G-Max Centiferno"
     },
     centiskorchgmax:{
-        num:851,
+        num:-851,
         name:"Centiskorch-Gmax",
         baseSpecies:"Centiskorch",
         forme:"Gmax",
@@ -35288,7 +35288,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Centiskorch"
     },
     clobbopus:{
-        num:852,
+        num:-852,
         name:"Clobbopus",
         types:[
             "Fighting"
@@ -35317,7 +35317,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     grapploct:{
-        num:853,
+        num:-853,
         name:"Grapploct",
         types:[
             "Fighting"
@@ -35346,7 +35346,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     sinistea:{
-        num:854,
+        num:-854,
         name:"Sinistea",
         baseForme:"Phony",
         types:[
@@ -35384,7 +35384,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     sinisteaantique:{
-        num:854,
+        num:-854,
         name:"Sinistea-Antique",
         baseSpecies:"Sinistea",
         forme:"Antique",
@@ -35415,7 +35415,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     polteageist:{
-        num:855,
+        num:-855,
         name:"Polteageist",
         baseForme:"Phony",
         types:[
@@ -35453,7 +35453,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     polteageistantique:{
-        num:855,
+        num:-855,
         name:"Polteageist-Antique",
         baseSpecies:"Polteageist",
         forme:"Antique",
@@ -35484,7 +35484,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     hatenna:{
-        num:856,
+        num:-856,
         name:"Hatenna",
         types:[
             "Psychic"
@@ -35514,7 +35514,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     hattrem:{
-        num:857,
+        num:-857,
         name:"Hattrem",
         types:[
             "Psychic",
@@ -35548,7 +35548,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     hatterene:{
-        num:858,
+        num:-858,
         name:"Hatterene",
         types:[
             "Psychic",
@@ -35580,7 +35580,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     hatterenegmax:{
-        num:858,
+        num:-858,
         name:"Hatterene-Gmax",
         baseSpecies:"Hatterene",
         forme:"Gmax",
@@ -35611,7 +35611,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Hatterene"
     },
     impidimp:{
-        num:859,
+        num:-859,
         name:"Impidimp",
         types:[
             "Dark",
@@ -35643,7 +35643,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     morgrem:{
-        num:860,
+        num:-860,
         name:"Morgrem",
         types:[
             "Dark",
@@ -35677,7 +35677,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     grimmsnarl:{
-        num:861,
+        num:-861,
         name:"Grimmsnarl",
         types:[
             "Dark",
@@ -35709,7 +35709,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         canGigantamax:"G-Max Snooze"
     },
     grimmsnarlgmax:{
-        num:861,
+        num:-861,
         name:"Grimmsnarl-Gmax",
         baseSpecies:"Grimmsnarl",
         forme:"Gmax",
@@ -35741,7 +35741,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Grimmsnarl"
     },
     obstagoon:{
-        num:862,
+        num:-862,
         name:"Obstagoon",
         types:[
             "Dark",
@@ -35771,7 +35771,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     perrserker:{
-        num:863,
+        num:-863,
         name:"Perrserker",
         types:[
             "Steel"
@@ -35799,7 +35799,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     cursola:{
-        num:864,
+        num:-864,
         name:"Cursola",
         types:[
             "Rock",
@@ -35834,7 +35834,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     sirfetchd:{
-        num:865,
+        num:-865,
         name:"Sirfetch\u2019d",
         types:[
             "Fighting",
@@ -35866,7 +35866,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     mrrime:{
-        num:866,
+        num:-866,
         name:"Mr. Rime",
         types:[
             "Ice",
@@ -35895,7 +35895,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     runerigus:{
-        num:867,
+        num:-867,
         name:"Runerigus",
         types:[
             "Ground",
@@ -35924,7 +35924,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     milcery:{
-        num:868,
+        num:-868,
         name:"Milcery",
         types:[
             "Fairy"
@@ -35954,7 +35954,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     alcremie:{
-        num:869,
+        num:-869,
         name:"Alcremie",
         baseForme:"Vanilla Cream",
         types:[
@@ -36007,7 +36007,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         canGigantamax:"G-Max Finale"
     },
     alcremiegmax:{
-        num:869,
+        num:-869,
         name:"Alcremie-Gmax",
         baseSpecies:"Alcremie",
         forme:"Gmax",
@@ -36037,7 +36037,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Alcremie"
     },
     falinks:{
-        num:870,
+        num:-870,
         name:"Falinks",
         types:[
             "Fighting",
@@ -36067,7 +36067,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     pincurchin:{
-        num:871,
+        num:-871,
         name:"Pincurchin",
         types:[
             "Electric"
@@ -36093,7 +36093,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     snom:{
-        num:872,
+        num:-872,
         name:"Snom",
         types:[
             "Bug",
@@ -36123,7 +36123,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     frosmoth:{
-        num:873,
+        num:-873,
         name:"Frosmoth",
         types:[
             "Fairy",
@@ -36153,7 +36153,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     stonjourner:{
-        num:874,
+        num:-874,
         name:"Stonjourner",
         types:[
             "Rock"
@@ -36177,7 +36177,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     eiscue:{
-        num:875,
+        num:-875,
         name:"Eiscue",
         types:[
             "Ice"
@@ -36209,7 +36209,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     eiscuenoice:{
-        num:875,
+        num:-875,
         name:"Eiscue-Noice",
         baseSpecies:"Eiscue",
         forme:"Noice",
@@ -36238,7 +36238,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         battleOnly:"Eiscue"
     },
     indeedee:{
-        num:876,
+        num:-876,
         name:"Indeedee",
         baseForme:"M",
         types:[
@@ -36275,7 +36275,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         mother:"indeedeef"
     },
     indeedeef:{
-        num:876,
+        num:-876,
         name:"Indeedee-F",
         baseSpecies:"Indeedee",
         forme:"F",
@@ -36305,7 +36305,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     morpeko:{
-        num:877,
+        num:-877,
         name:"Morpeko",
         types:[
             "Electric",
@@ -36338,7 +36338,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     morpekohangry:{
-        num:877,
+        num:-877,
         name:"Morpeko-Hangry",
         baseSpecies:"Morpeko",
         forme:"Hangry",
@@ -36368,7 +36368,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         battleOnly:"Morpeko"
     },
     cufant:{
-        num:878,
+        num:-878,
         name:"Cufant",
         types:[
             "Steel"
@@ -36397,7 +36397,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     copperajah:{
-        num:879,
+        num:-879,
         name:"Copperajah",
         types:[
             "Steel"
@@ -36426,7 +36426,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         canGigantamax:"G-Max Steelsurge"
     },
     copperajahgmax:{
-        num:879,
+        num:-879,
         name:"Copperajah-Gmax",
         baseSpecies:"Copperajah",
         forme:"Gmax",
@@ -36455,7 +36455,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Copperajah"
     },
     dracozolt:{
-        num:880,
+        num:-880,
         name:"Dracozolt",
         types:[
             "Electric",
@@ -36483,7 +36483,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     arctozolt:{
-        num:881,
+        num:-881,
         name:"Arctozolt",
         types:[
             "Electric",
@@ -36511,7 +36511,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     dracovish:{
-        num:882,
+        num:-882,
         name:"Dracovish",
         types:[
             "Water",
@@ -36539,7 +36539,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     arctovish:{
-        num:883,
+        num:-883,
         name:"Arctovish",
         types:[
             "Water",
@@ -36567,7 +36567,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     duraludon:{
-        num:884,
+        num:-884,
         name:"Duraludon",
         types:[
             "Steel",
@@ -36599,7 +36599,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         canGigantamax:"G-Max Depletion"
     },
     duraludongmax:{
-        num:884,
+        num:-884,
         name:"Duraludon-Gmax",
         baseSpecies:"Duraludon",
         forme:"Gmax",
@@ -36630,7 +36630,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Duraludon"
     },
     dreepy:{
-        num:885,
+        num:-885,
         name:"Dreepy",
         types:[
             "Dragon",
@@ -36661,7 +36661,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     drakloak:{
-        num:886,
+        num:-886,
         name:"Drakloak",
         types:[
             "Dragon",
@@ -36694,7 +36694,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     dragapult:{
-        num:887,
+        num:-887,
         name:"Dragapult",
         types:[
             "Dragon",
@@ -36724,7 +36724,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     zacian:{
-        num:888,
+        num:-888,
         name:"Zacian",
         baseForme:"Hero",
         types:[
@@ -36761,7 +36761,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         cannotDynamax:true
     },
     zaciancrowned:{
-        num:888,
+        num:-888,
         name:"Zacian-Crowned",
         baseSpecies:"Zacian",
         forme:"Crowned",
@@ -36792,7 +36792,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         cannotDynamax:true
     },
     zamazenta:{
-        num:889,
+        num:-889,
         name:"Zamazenta",
         baseForme:"Hero",
         types:[
@@ -36829,7 +36829,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         cannotDynamax:true
     },
     zamazentacrowned:{
-        num:889,
+        num:-889,
         name:"Zamazenta-Crowned",
         baseSpecies:"Zamazenta",
         forme:"Crowned",
@@ -36860,7 +36860,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         cannotDynamax:true
     },
     eternatus:{
-        num:890,
+        num:-890,
         name:"Eternatus",
         types:[
             "Poison",
@@ -36897,7 +36897,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         cannotDynamax:true
     },
     eternatuseternamax:{
-        num:890,
+        num:-890,
         name:"Eternatus-Eternamax",
         baseSpecies:"Eternatus",
         forme:"Eternamax",
@@ -36926,7 +36926,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         cannotDynamax:true
     },
     kubfu:{
-        num:891,
+        num:-891,
         name:"Kubfu",
         types:[
             "Fighting"
@@ -36961,7 +36961,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     urshifu:{
-        num:892,
+        num:-892,
         name:"Urshifu",
         baseForme:"Single-Strike",
         types:[
@@ -37005,7 +37005,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         canGigantamax:"G-Max One Blow"
     },
     urshifurapidstrike:{
-        num:892,
+        num:-892,
         name:"Urshifu-Rapid-Strike",
         baseSpecies:"Urshifu",
         forme:"Rapid-Strike",
@@ -37040,7 +37040,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         canGigantamax:"G-Max Rapid Flow"
     },
     urshifugmax:{
-        num:892,
+        num:-892,
         name:"Urshifu-Gmax",
         baseSpecies:"Urshifu",
         forme:"Gmax",
@@ -37072,7 +37072,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Urshifu"
     },
     urshifurapidstrikegmax:{
-        num:892,
+        num:-892,
         name:"Urshifu-Rapid-Strike-Gmax",
         baseSpecies:"Urshifu",
         forme:"Rapid-Strike-Gmax",
@@ -37105,7 +37105,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Urshifu-Rapid-Strike"
     },
     zarude:{
-        num:893,
+        num:-893,
         name:"Zarude",
         types:[
             "Dark",
@@ -37141,7 +37141,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     zarudedada:{
-        num:893,
+        num:-893,
         name:"Zarude-Dada",
         baseSpecies:"Zarude",
         forme:"Dada",
@@ -37169,7 +37169,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     regieleki:{
-        num:894,
+        num:-894,
         name:"Regieleki",
         types:[
             "Electric"
@@ -37197,7 +37197,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     regidrago:{
-        num:895,
+        num:-895,
         name:"Regidrago",
         types:[
             "Dragon"
@@ -37225,7 +37225,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     glastrier:{
-        num:896,
+        num:-896,
         name:"Glastrier",
         types:[
             "Ice"
@@ -37253,7 +37253,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     spectrier:{
-        num:897,
+        num:-897,
         name:"Spectrier",
         types:[
             "Ghost"
@@ -37281,7 +37281,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     calyrex:{
-        num:898,
+        num:-898,
         name:"Calyrex",
         types:[
             "Psychic",
@@ -37319,7 +37319,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     calyrexice:{
-        num:898,
+        num:-898,
         name:"Calyrex-Ice",
         baseSpecies:"Calyrex",
         forme:"Ice",
@@ -37348,7 +37348,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Calyrex"
     },
     calyrexshadow:{
-        num:898,
+        num:-898,
         name:"Calyrex-Shadow",
         baseSpecies:"Calyrex",
         forme:"Shadow",
@@ -37377,7 +37377,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Calyrex"
     },
     wyrdeer:{
-        num:899,
+        num:-899,
         name:"Wyrdeer",
         types:[
             "Normal",
@@ -37407,7 +37407,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     kleavor:{
-        num:900,
+        num:-900,
         name:"Kleavor",
         types:[
             "Bug",
@@ -37437,7 +37437,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     ursaluna:{
-        num:901,
+        num:-901,
         name:"Ursaluna",
         types:[
             "Ground",
@@ -37474,7 +37474,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     ursalunabloodmoon:{
-        num:901,
+        num:-901,
         name:"Ursaluna-Bloodmoon",
         baseSpecies:"Ursaluna",
         forme:"Bloodmoon",
@@ -37503,7 +37503,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         gen:9
     },
     basculegion:{
-        num:902,
+        num:-902,
         name:"Basculegion",
         baseForme:"M",
         types:[
@@ -37543,7 +37543,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     basculegionf:{
-        num:902,
+        num:-902,
         name:"Basculegion-F",
         baseSpecies:"Basculegion",
         forme:"F",
@@ -37576,7 +37576,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     sneasler:{
-        num:903,
+        num:-903,
         name:"Sneasler",
         types:[
             "Fighting",
@@ -37607,7 +37607,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     overqwil:{
-        num:904,
+        num:-904,
         name:"Overqwil",
         types:[
             "Dark",
@@ -37637,7 +37637,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     enamorus:{
-        num:905,
+        num:-905,
         name:"Enamorus",
         baseForme:"Incarnate",
         types:[
@@ -37675,7 +37675,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     enamorustherian:{
-        num:905,
+        num:-905,
         name:"Enamorus-Therian",
         baseSpecies:"Enamorus",
         forme:"Therian",
@@ -37704,7 +37704,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         changesFrom:"Enamorus"
     },
     sprigatito:{
-        num:906,
+        num:-906,
         name:"Sprigatito",
         types:[
             "Grass"
@@ -37737,7 +37737,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     floragato:{
-        num:907,
+        num:-907,
         name:"Floragato",
         types:[
             "Grass"
@@ -37772,7 +37772,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     meowscarada:{
-        num:908,
+        num:-908,
         name:"Meowscarada",
         types:[
             "Grass",
@@ -37805,7 +37805,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     fuecoco:{
-        num:909,
+        num:-909,
         name:"Fuecoco",
         types:[
             "Fire"
@@ -37837,7 +37837,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     crocalor:{
-        num:910,
+        num:-910,
         name:"Crocalor",
         types:[
             "Fire"
@@ -37871,7 +37871,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     skeledirge:{
-        num:911,
+        num:-911,
         name:"Skeledirge",
         types:[
             "Fire",
@@ -37903,7 +37903,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     quaxly:{
-        num:912,
+        num:-912,
         name:"Quaxly",
         types:[
             "Water"
@@ -37936,7 +37936,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     quaxwell:{
-        num:913,
+        num:-913,
         name:"Quaxwell",
         types:[
             "Water"
@@ -37971,7 +37971,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     quaquaval:{
-        num:914,
+        num:-914,
         name:"Quaquaval",
         types:[
             "Water",
@@ -38004,7 +38004,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     lechonk:{
-        num:915,
+        num:-915,
         name:"Lechonk",
         types:[
             "Normal"
@@ -38034,7 +38034,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     oinkologne:{
-        num:916,
+        num:-916,
         name:"Oinkologne",
         baseForme:"M",
         types:[
@@ -38071,7 +38071,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     oinkolognef:{
-        num:916,
+        num:-916,
         name:"Oinkologne-F",
         baseSpecies:"Oinkologne",
         forme:"F",
@@ -38102,7 +38102,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     tarountula:{
-        num:917,
+        num:-917,
         name:"Tarountula",
         types:[
             "Bug"
@@ -38130,7 +38130,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     spidops:{
-        num:918,
+        num:-918,
         name:"Spidops",
         types:[
             "Bug"
@@ -38157,7 +38157,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     nymble:{
-        num:919,
+        num:-919,
         name:"Nymble",
         types:[
             "Bug"
@@ -38185,7 +38185,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     lokix:{
-        num:920,
+        num:-920,
         name:"Lokix",
         types:[
             "Bug",
@@ -38213,7 +38213,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     pawmi:{
-        num:921,
+        num:-921,
         name:"Pawmi",
         types:[
             "Electric"
@@ -38242,7 +38242,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     pawmo:{
-        num:922,
+        num:-922,
         name:"Pawmo",
         types:[
             "Electric",
@@ -38274,7 +38274,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     pawmot:{
-        num:923,
+        num:-923,
         name:"Pawmot",
         types:[
             "Electric",
@@ -38304,7 +38304,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     tandemaus:{
-        num:924,
+        num:-924,
         name:"Tandemaus",
         types:[
             "Normal"
@@ -38336,7 +38336,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     maushold:{
-        num:925,
+        num:-925,
         name:"Maushold",
         baseForme:"Three",
         types:[
@@ -38374,7 +38374,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     mausholdfour:{
-        num:925,
+        num:-925,
         name:"Maushold-Four",
         baseSpecies:"Maushold",
         forme:"Four",
@@ -38406,7 +38406,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     fidough:{
-        num:926,
+        num:-926,
         name:"Fidough",
         types:[
             "Fairy"
@@ -38437,7 +38437,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     dachsbun:{
-        num:927,
+        num:-927,
         name:"Dachsbun",
         types:[
             "Fairy",
@@ -38468,7 +38468,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     smoliv:{
-        num:928,
+        num:-928,
         name:"Smoliv",
         types:[
             "Grass",
@@ -38498,7 +38498,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     dolliv:{
-        num:929,
+        num:-929,
         name:"Dolliv",
         types:[
             "Grass",
@@ -38529,7 +38529,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     arboliva:{
-        num:930,
+        num:-930,
         name:"Arboliva",
         types:[
             "Grass",
@@ -38557,7 +38557,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     squawkabilly:{
-        num:931,
+        num:-931,
         name:"Squawkabilly",
         baseForme:"Green",
         types:[
@@ -38596,7 +38596,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     squawkabillyblue:{
-        num:931,
+        num:-931,
         name:"Squawkabilly-Blue",
         baseSpecies:"Squawkabilly",
         forme:"Blue",
@@ -38625,7 +38625,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     squawkabillyyellow:{
-        num:931,
+        num:-931,
         name:"Squawkabilly-Yellow",
         baseSpecies:"Squawkabilly",
         forme:"Yellow",
@@ -38654,7 +38654,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     squawkabillywhite:{
-        num:931,
+        num:-931,
         name:"Squawkabilly-White",
         baseSpecies:"Squawkabilly",
         forme:"White",
@@ -38683,7 +38683,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     nacli:{
-        num:932,
+        num:-932,
         name:"Nacli",
         types:[
             "Rock"
@@ -38712,7 +38712,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     naclstack:{
-        num:933,
+        num:-933,
         name:"Naclstack",
         types:[
             "Rock"
@@ -38743,7 +38743,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     garganacl:{
-        num:934,
+        num:-934,
         name:"Garganacl",
         types:[
             "Rock"
@@ -38771,7 +38771,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     charcadet:{
-        num:935,
+        num:-935,
         name:"Charcadet",
         types:[
             "Fire"
@@ -38800,7 +38800,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     armarouge:{
-        num:936,
+        num:-936,
         name:"Armarouge",
         types:[
             "Fire",
@@ -38829,7 +38829,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     ceruledge:{
-        num:937,
+        num:-937,
         name:"Ceruledge",
         types:[
             "Fire",
@@ -38858,7 +38858,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     tadbulb:{
-        num:938,
+        num:-938,
         name:"Tadbulb",
         types:[
             "Electric"
@@ -38887,7 +38887,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     bellibolt:{
-        num:939,
+        num:-939,
         name:"Bellibolt",
         types:[
             "Electric"
@@ -38916,7 +38916,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     wattrel:{
-        num:940,
+        num:-940,
         name:"Wattrel",
         types:[
             "Electric",
@@ -38947,7 +38947,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     kilowattrel:{
-        num:941,
+        num:-941,
         name:"Kilowattrel",
         types:[
             "Electric",
@@ -38977,7 +38977,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     maschiff:{
-        num:942,
+        num:-942,
         name:"Maschiff",
         types:[
             "Dark"
@@ -39006,7 +39006,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     mabosstiff:{
-        num:943,
+        num:-943,
         name:"Mabosstiff",
         types:[
             "Dark"
@@ -39034,7 +39034,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     shroodle:{
-        num:944,
+        num:-944,
         name:"Shroodle",
         types:[
             "Poison",
@@ -39064,7 +39064,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     grafaiai:{
-        num:945,
+        num:-945,
         name:"Grafaiai",
         types:[
             "Poison",
@@ -39093,7 +39093,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     bramblin:{
-        num:946,
+        num:-946,
         name:"Bramblin",
         types:[
             "Grass",
@@ -39122,7 +39122,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     brambleghast:{
-        num:947,
+        num:-947,
         name:"Brambleghast",
         types:[
             "Grass",
@@ -39151,7 +39151,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     toedscool:{
-        num:948,
+        num:-948,
         name:"Toedscool",
         types:[
             "Ground",
@@ -39179,7 +39179,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     toedscruel:{
-        num:949,
+        num:-949,
         name:"Toedscruel",
         types:[
             "Ground",
@@ -39206,7 +39206,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     klawf:{
-        num:950,
+        num:-950,
         name:"Klawf",
         types:[
             "Rock"
@@ -39232,7 +39232,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     capsakid:{
-        num:951,
+        num:-951,
         name:"Capsakid",
         types:[
             "Grass"
@@ -39261,7 +39261,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     scovillain:{
-        num:952,
+        num:-952,
         name:"Scovillain",
         types:[
             "Grass",
@@ -39291,7 +39291,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     rellor:{
-        num:953,
+        num:-953,
         name:"Rellor",
         types:[
             "Bug"
@@ -39319,7 +39319,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     rabsca:{
-        num:954,
+        num:-954,
         name:"Rabsca",
         types:[
             "Bug",
@@ -39348,7 +39348,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     flittle:{
-        num:955,
+        num:-955,
         name:"Flittle",
         types:[
             "Psychic"
@@ -39377,7 +39377,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     espathra:{
-        num:956,
+        num:-956,
         name:"Espathra",
         types:[
             "Psychic"
@@ -39405,7 +39405,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     tinkatink:{
-        num:957,
+        num:-957,
         name:"Tinkatink",
         types:[
             "Fairy",
@@ -39436,7 +39436,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     tinkatuff:{
-        num:958,
+        num:-958,
         name:"Tinkatuff",
         types:[
             "Fairy",
@@ -39469,7 +39469,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     tinkaton:{
-        num:959,
+        num:-959,
         name:"Tinkaton",
         types:[
             "Fairy",
@@ -39499,7 +39499,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     wiglett:{
-        num:960,
+        num:-960,
         name:"Wiglett",
         types:[
             "Water"
@@ -39528,7 +39528,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     wugtrio:{
-        num:961,
+        num:-961,
         name:"Wugtrio",
         types:[
             "Water"
@@ -39556,7 +39556,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     bombirdier:{
-        num:962,
+        num:-962,
         name:"Bombirdier",
         types:[
             "Flying",
@@ -39583,7 +39583,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     finizen:{
-        num:963,
+        num:-963,
         name:"Finizen",
         types:[
             "Water"
@@ -39611,7 +39611,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     palafin:{
-        num:964,
+        num:-964,
         name:"Palafin",
         baseForme:"Zero",
         types:[
@@ -39646,7 +39646,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     palafinhero:{
-        num:964,
+        num:-964,
         name:"Palafin-Hero",
         baseSpecies:"Palafin",
         forme:"Hero",
@@ -39675,7 +39675,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         battleOnly:"Palafin"
     },
     varoom:{
-        num:965,
+        num:-965,
         name:"Varoom",
         types:[
             "Steel",
@@ -39704,7 +39704,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     revavroom:{
-        num:966,
+        num:-966,
         name:"Revavroom",
         types:[
             "Steel",
@@ -39732,7 +39732,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     cyclizar:{
-        num:967,
+        num:-967,
         name:"Cyclizar",
         types:[
             "Dragon",
@@ -39758,7 +39758,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     orthworm:{
-        num:968,
+        num:-968,
         name:"Orthworm",
         types:[
             "Steel"
@@ -39783,7 +39783,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     glimmet:{
-        num:969,
+        num:-969,
         name:"Glimmet",
         types:[
             "Rock",
@@ -39812,7 +39812,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     glimmora:{
-        num:970,
+        num:-970,
         name:"Glimmora",
         types:[
             "Rock",
@@ -39840,7 +39840,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     greavard:{
-        num:971,
+        num:-971,
         name:"Greavard",
         types:[
             "Ghost"
@@ -39868,7 +39868,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     houndstone:{
-        num:972,
+        num:-972,
         name:"Houndstone",
         types:[
             "Ghost"
@@ -39896,7 +39896,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     flamigo:{
-        num:973,
+        num:-973,
         name:"Flamigo",
         types:[
             "Flying",
@@ -39923,7 +39923,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     cetoddle:{
-        num:974,
+        num:-974,
         name:"Cetoddle",
         types:[
             "Ice"
@@ -39952,7 +39952,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     cetitan:{
-        num:975,
+        num:-975,
         name:"Cetitan",
         types:[
             "Ice"
@@ -39981,7 +39981,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     veluza:{
-        num:976,
+        num:-976,
         name:"Veluza",
         types:[
             "Water",
@@ -40007,7 +40007,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     dondozo:{
-        num:977,
+        num:-977,
         name:"Dondozo",
         types:[
             "Water"
@@ -40033,7 +40033,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     tatsugiri:{
-        num:978,
+        num:-978,
         name:"Tatsugiri",
         baseForme:"Curly",
         types:[
@@ -40069,7 +40069,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     annihilape:{
-        num:979,
+        num:-979,
         name:"Annihilape",
         types:[
             "Ghost",
@@ -40100,7 +40100,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     clodsire:{
-        num:980,
+        num:-980,
         name:"Clodsire",
         types:[
             "Poison",
@@ -40130,7 +40130,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     farigiraf:{
-        num:981,
+        num:-981,
         name:"Farigiraf",
         types:[
             "Normal",
@@ -40161,7 +40161,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     dudunsparce:{
-        num:982,
+        num:-982,
         name:"Dudunsparce",
         baseForme:"Two-Segment",
         types:[
@@ -40198,7 +40198,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     dudunsparcethreesegment:{
-        num:982,
+        num:-982,
         name:"Dudunsparce-Three-Segment",
         baseSpecies:"Dudunsparce",
         forme:"Three-Segment",
@@ -40229,7 +40229,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     kingambit:{
-        num:983,
+        num:-983,
         name:"Kingambit",
         types:[
             "Dark",
@@ -40259,7 +40259,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     greattusk:{
-        num:984,
+        num:-984,
         name:"Great Tusk",
         types:[
             "Ground",
@@ -40291,7 +40291,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     screamtail:{
-        num:985,
+        num:-985,
         name:"Scream Tail",
         types:[
             "Fairy",
@@ -40320,7 +40320,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     brutebonnet:{
-        num:986,
+        num:-986,
         name:"Brute Bonnet",
         types:[
             "Grass",
@@ -40349,7 +40349,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     fluttermane:{
-        num:987,
+        num:-987,
         name:"Flutter Mane",
         types:[
             "Ghost",
@@ -40378,7 +40378,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     slitherwing:{
-        num:988,
+        num:-988,
         name:"Slither Wing",
         types:[
             "Bug",
@@ -40407,7 +40407,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     sandyshocks:{
-        num:989,
+        num:-989,
         name:"Sandy Shocks",
         types:[
             "Electric",
@@ -40436,7 +40436,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     irontreads:{
-        num:990,
+        num:-990,
         name:"Iron Treads",
         types:[
             "Ground",
@@ -40465,7 +40465,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     ironbundle:{
-        num:991,
+        num:-991,
         name:"Iron Bundle",
         types:[
             "Ice",
@@ -40494,7 +40494,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     ironhands:{
-        num:992,
+        num:-992,
         name:"Iron Hands",
         types:[
             "Fighting",
@@ -40523,7 +40523,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     ironjugulis:{
-        num:993,
+        num:-993,
         name:"Iron Jugulis",
         types:[
             "Dark",
@@ -40552,7 +40552,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     ironmoth:{
-        num:994,
+        num:-994,
         name:"Iron Moth",
         types:[
             "Fire",
@@ -40581,7 +40581,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     ironthorns:{
-        num:995,
+        num:-995,
         name:"Iron Thorns",
         types:[
             "Rock",
@@ -40610,7 +40610,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     frigibax:{
-        num:996,
+        num:-996,
         name:"Frigibax",
         types:[
             "Dragon",
@@ -40640,7 +40640,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     arctibax:{
-        num:997,
+        num:-997,
         name:"Arctibax",
         types:[
             "Dragon",
@@ -40672,7 +40672,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     baxcalibur:{
-        num:998,
+        num:-998,
         name:"Baxcalibur",
         types:[
             "Dragon",
@@ -40701,7 +40701,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     gimmighoul:{
-        num:999,
+        num:-999,
         name:"Gimmighoul",
         baseForme:"Chest",
         types:[
@@ -40737,7 +40737,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     gimmighoulroaming:{
-        num:999,
+        num:-999,
         name:"Gimmighoul-Roaming",
         baseSpecies:"Gimmighoul",
         forme:"Roaming",
@@ -40767,7 +40767,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     gholdengo:{
-        num:1000,
+        num:-1000,
         name:"Gholdengo",
         types:[
             "Steel",
@@ -40796,7 +40796,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     wochien:{
-        num:1001,
+        num:-1001,
         name:"Wo-Chien",
         types:[
             "Dark",
@@ -40825,7 +40825,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     chienpao:{
-        num:1002,
+        num:-1002,
         name:"Chien-Pao",
         types:[
             "Dark",
@@ -40854,7 +40854,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     tinglu:{
-        num:1003,
+        num:-1003,
         name:"Ting-Lu",
         types:[
             "Dark",
@@ -40883,7 +40883,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     chiyu:{
-        num:1004,
+        num:-1004,
         name:"Chi-Yu",
         types:[
             "Dark",
@@ -40912,7 +40912,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     roaringmoon:{
-        num:1005,
+        num:-1005,
         name:"Roaring Moon",
         types:[
             "Dragon",
@@ -40941,7 +40941,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     ironvaliant:{
-        num:1006,
+        num:-1006,
         name:"Iron Valiant",
         types:[
             "Fairy",
@@ -40970,7 +40970,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     koraidon:{
-        num:1007,
+        num:-1007,
         name:"Koraidon",
         types:[
             "Fighting",
@@ -40999,7 +40999,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     miraidon:{
-        num:1008,
+        num:-1008,
         name:"Miraidon",
         types:[
             "Electric",
@@ -41028,7 +41028,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     walkingwake:{
-        num:1009,
+        num:-1009,
         name:"Walking Wake",
         types:[
             "Water",
@@ -41059,7 +41059,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         
     },
     ironleaves:{
-        num:1010,
+        num:-1010,
         name:"Iron Leaves",
         types:[
             "Grass",
@@ -41088,7 +41088,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     dipplin:{
-        num:1011,
+        num:-1011,
         name:"Dipplin",
         types:[
             "Grass",
@@ -41122,7 +41122,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     poltchageist:{
-        num:1012,
+        num:-1012,
         name:"Poltchageist",
         baseForme:"Counterfeit",
         types:[
@@ -41161,7 +41161,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     poltchageistartisan:{
-        num:1012,
+        num:-1012,
         name:"Poltchageist-Artisan",
         baseSpecies:"Poltchageist",
         forme:"Artisan",
@@ -41193,7 +41193,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     sinistcha:{
-        num:1013,
+        num:-1013,
         name:"Sinistcha",
         baseForme:"Unremarkable",
         types:[
@@ -41232,7 +41232,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     sinistchamasterpiece:{
-        num:1013,
+        num:-1013,
         name:"Sinistcha-Masterpiece",
         baseSpecies:"Sinistcha",
         forme:"Masterpiece",
@@ -41264,7 +41264,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     okidogi:{
-        num:1014,
+        num:-1014,
         name:"Okidogi",
         types:[
             "Poison",
@@ -41294,7 +41294,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     munkidori:{
-        num:1015,
+        num:-1015,
         name:"Munkidori",
         types:[
             "Poison",
@@ -41324,7 +41324,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     fezandipiti:{
-        num:1016,
+        num:-1016,
         name:"Fezandipiti",
         types:[
             "Poison",
@@ -41354,7 +41354,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     ogerpon:{
-        num:1017,
+        num:-1017,
         name:"Ogerpon",
         baseForme:"Teal",
         types:[
@@ -41403,7 +41403,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         forceTeraType:"Grass"
     },
     ogerponwellspring:{
-        num:1017,
+        num:-1017,
         name:"Ogerpon-Wellspring",
         baseSpecies:"Ogerpon",
         forme:"Wellspring",
@@ -41434,7 +41434,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         forceTeraType:"Water"
     },
     ogerponhearthflame:{
-        num:1017,
+        num:-1017,
         name:"Ogerpon-Hearthflame",
         baseSpecies:"Ogerpon",
         forme:"Hearthflame",
@@ -41465,7 +41465,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         forceTeraType:"Fire"
     },
     ogerponcornerstone:{
-        num:1017,
+        num:-1017,
         name:"Ogerpon-Cornerstone",
         baseSpecies:"Ogerpon",
         forme:"Cornerstone",
@@ -41496,7 +41496,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         forceTeraType:"Rock"
     },
     ogerpontealtera:{
-        num:1017,
+        num:-1017,
         name:"Ogerpon-Teal-Tera",
         baseSpecies:"Ogerpon",
         forme:"Teal-Tera",
@@ -41525,7 +41525,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         forceTeraType:"Grass"
     },
     ogerponwellspringtera:{
-        num:1017,
+        num:-1017,
         name:"Ogerpon-Wellspring-Tera",
         baseSpecies:"Ogerpon",
         forme:"Wellspring-Tera",
@@ -41556,7 +41556,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         forceTeraType:"Water"
     },
     ogerponhearthflametera:{
-        num:1017,
+        num:-1017,
         name:"Ogerpon-Hearthflame-Tera",
         baseSpecies:"Ogerpon",
         forme:"Hearthflame-Tera",
@@ -41587,7 +41587,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         forceTeraType:"Fire"
     },
     ogerponcornerstonetera:{
-        num:1017,
+        num:-1017,
         name:"Ogerpon-Cornerstone-Tera",
         baseSpecies:"Ogerpon",
         forme:"Cornerstone-Tera",
@@ -41618,7 +41618,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         forceTeraType:"Rock"
     },
     archaludon:{
-        num:1018,
+        num:-1018,
         name:"Archaludon",
         types:[
             "Steel",
@@ -41649,7 +41649,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     hydrapple:{
-        num:1019,
+        num:-1019,
         name:"Hydrapple",
         types:[
             "Grass",
@@ -41680,7 +41680,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     gougingfire:{
-        num:1020,
+        num:-1020,
         name:"Gouging Fire",
         types:[
             "Fire",
@@ -41706,7 +41706,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     ragingbolt:{
-        num:1021,
+        num:-1021,
         name:"Raging Bolt",
         types:[
             "Electric",
@@ -41732,7 +41732,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     ironboulder:{
-        num:1022,
+        num:-1022,
         name:"Iron Boulder",
         types:[
             "Rock",
@@ -41758,7 +41758,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     ironcrown:{
-        num:1023,
+        num:-1023,
         name:"Iron Crown",
         types:[
             "Steel",
@@ -41784,7 +41784,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     terapagos:{
-        num:1024,
+        num:-1024,
         name:"Terapagos",
         types:[
             "Normal"
@@ -41821,7 +41821,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         forceTeraType:"Stellar"
     },
     terapagosterastal:{
-        num:1024,
+        num:-1024,
         name:"Terapagos-Terastal",
         baseSpecies:"Terapagos",
         forme:"Terastal",
@@ -41849,7 +41849,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         forceTeraType:"Stellar"
     },
     terapagosstellar:{
-        num:1024,
+        num:-1024,
         name:"Terapagos-Stellar",
         baseSpecies:"Terapagos",
         forme:"Stellar",
@@ -41877,7 +41877,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         forceTeraType:"Stellar"
     },
     pecharunt:{
-        num:1025,
+        num:-1025,
         name:"Pecharunt",
         types:[
             "Poison",
@@ -41906,7 +41906,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ]
     },
     missingno:{
-        num:0,
+        num:-0,
         name:"MissingNo.",
         types:[
             "Bird",
@@ -41930,2894 +41930,2894 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             "Undiscovered"
         ]
     },
-    syclar:{
-        num:-1,
-        name:"Syclar",
-        types:[
-            "Ice",
-            "Bug"
-        ],
-        baseStats:{
-            hp:40,
-            atk:76,
-            def:45,
-            spa:74,
-            spd:39,
-            spe:91
-        },
-        abilities:{
-            0:"Compound Eyes",
-            1:"Snow Cloak",
-            H:"Ice Body"
-        },
-        heightm:0.2,
-        weightkg:4,
-        color:"Blue",
-        evos:[
-            "Syclant"
-        ],
-        eggGroups:[
-            "Bug"
-        ],
-        gen:4
-    },
-    syclant:{
-        num:-2,
-        name:"Syclant",
-        types:[
-            "Ice",
-            "Bug"
-        ],
-        baseStats:{
-            hp:70,
-            atk:116,
-            def:70,
-            spa:114,
-            spd:64,
-            spe:121
-        },
-        abilities:{
-            0:"Compound Eyes",
-            1:"Mountaineer",
-            H:"Ice Body"
-        },
-        heightm:1.7,
-        weightkg:52,
-        color:"Blue",
-        prevo:"Syclar",
-        evoLevel:30,
-        eggGroups:[
-            "Bug"
-        ],
-        gen:4
-    },
-    revenankh:{
-        num:-3,
-        name:"Revenankh",
-        types:[
-            "Ghost",
-            "Fighting"
-        ],
-        baseStats:{
-            hp:90,
-            atk:105,
-            def:90,
-            spa:65,
-            spd:110,
-            spe:65
-        },
-        abilities:{
-            0:"Air Lock",
-            1:"Triage",
-            H:"Shed Skin"
-        },
-        heightm:1.8,
-        weightkg:44,
-        color:"White",
-        eggGroups:[
-            "Amorphous",
-            "Human-Like"
-        ],
-        gen:4
-    },
-    embirch:{
-        num:-4,
-        name:"Embirch",
-        types:[
-            "Fire",
-            "Grass"
-        ],
-        baseStats:{
-            hp:60,
-            atk:40,
-            def:55,
-            spa:65,
-            spd:40,
-            spe:60
-        },
-        abilities:{
-            0:"Reckless",
-            1:"Leaf Guard",
-            H:"Chlorophyll"
-        },
-        heightm:0.6,
-        weightkg:15,
-        color:"Brown",
-        evos:[
-            "Flarelm"
-        ],
-        eggGroups:[
-            "Monster",
-            "Dragon"
-        ],
-        gen:4
-    },
-    flarelm:{
-        num:-5,
-        name:"Flarelm",
-        types:[
-            "Fire",
-            "Grass"
-        ],
-        baseStats:{
-            hp:90,
-            atk:50,
-            def:95,
-            spa:75,
-            spd:70,
-            spe:40
-        },
-        abilities:{
-            0:"Rock Head",
-            1:"Battle Armor",
-            H:"White Smoke"
-        },
-        heightm:1.4,
-        weightkg:73,
-        color:"Brown",
-        prevo:"Embirch",
-        evoLevel:24,
-        evos:[
-            "Pyroak"
-        ],
-        eggGroups:[
-            "Monster",
-            "Dragon"
-        ],
-        gen:4
-    },
-    pyroak:{
-        num:-6,
-        name:"Pyroak",
-        types:[
-            "Fire",
-            "Grass"
-        ],
-        baseStats:{
-            hp:120,
-            atk:70,
-            def:105,
-            spa:70,
-            spd:65,
-            spe:60
-        },
-        abilities:{
-            0:"Rock Head",
-            1:"Battle Armor",
-            H:"Contrary"
-        },
-        heightm:2.1,
-        weightkg:168,
-        color:"Brown",
-        prevo:"Flarelm",
-        evoLevel:38,
-        eggGroups:[
-            "Monster",
-            "Dragon"
-        ],
-        gen:4
-    },
-    breezi:{
-        num:-7,
-        name:"Breezi",
-        types:[
-            "Poison",
-            "Flying"
-        ],
-        baseStats:{
-            hp:50,
-            atk:46,
-            def:69,
-            spa:60,
-            spd:50,
-            spe:75
-        },
-        abilities:{
-            0:"Unburden",
-            1:"Own Tempo",
-            H:"Frisk"
-        },
-        heightm:0.4,
-        weightkg:0.6,
-        color:"Purple",
-        evos:[
-            "Fidgit"
-        ],
-        eggGroups:[
-            "Field"
-        ],
-        gen:4
-    },
-    fidgit:{
-        num:-8,
-        name:"Fidgit",
-        types:[
-            "Poison",
-            "Ground"
-        ],
-        baseStats:{
-            hp:95,
-            atk:76,
-            def:109,
-            spa:90,
-            spd:80,
-            spe:105
-        },
-        abilities:{
-            0:"Persistent",
-            1:"Vital Spirit",
-            H:"Frisk"
-        },
-        heightm:0.9,
-        weightkg:53,
-        color:"Purple",
-        prevo:"Breezi",
-        evoLevel:33,
-        eggGroups:[
-            "Field"
-        ],
-        gen:4
-    },
-    rebble:{
-        num:-9,
-        name:"Rebble",
-        types:[
-            "Rock"
-        ],
-        gender:"N",
-        baseStats:{
-            hp:45,
-            atk:25,
-            def:65,
-            spa:75,
-            spd:55,
-            spe:80
-        },
-        abilities:{
-            0:"Levitate",
-            1:"Solid Rock",
-            H:"Sniper"
-        },
-        heightm:0.3,
-        weightkg:7,
-        color:"Gray",
-        evos:[
-            "Tactite"
-        ],
-        eggGroups:[
-            "Mineral"
-        ],
-        gen:4
-    },
-    tactite:{
-        num:-10,
-        name:"Tactite",
-        types:[
-            "Rock"
-        ],
-        gender:"N",
-        baseStats:{
-            hp:70,
-            atk:40,
-            def:65,
-            spa:100,
-            spd:65,
-            spe:95
-        },
-        abilities:{
-            0:"Levitate",
-            1:"Technician",
-            H:"Sniper"
-        },
-        heightm:0.6,
-        weightkg:16,
-        color:"Gray",
-        prevo:"Rebble",
-        evoLevel:28,
-        evos:[
-            "Stratagem"
-        ],
-        eggGroups:[
-            "Mineral"
-        ],
-        gen:4
-    },
-    stratagem:{
-        num:-11,
-        name:"Stratagem",
-        types:[
-            "Rock"
-        ],
-        gender:"N",
-        baseStats:{
-            hp:90,
-            atk:60,
-            def:65,
-            spa:120,
-            spd:70,
-            spe:130
-        },
-        abilities:{
-            0:"Levitate",
-            1:"Technician",
-            H:"Sniper"
-        },
-        heightm:0.9,
-        weightkg:45,
-        color:"Gray",
-        prevo:"Tactite",
-        evoType:"trade",
-        eggGroups:[
-            "Mineral"
-        ],
-        gen:4
-    },
-    privatyke:{
-        num:-12,
-        name:"Privatyke",
-        types:[
-            "Water",
-            "Fighting"
-        ],
-        baseStats:{
-            hp:65,
-            atk:75,
-            def:65,
-            spa:40,
-            spd:60,
-            spe:45
-        },
-        abilities:{
-            0:"Unaware",
-            H:"Technician"
-        },
-        heightm:1,
-        weightkg:35,
-        color:"Green",
-        evos:[
-            "Arghonaut"
-        ],
-        eggGroups:[
-            "Water 1",
-            "Water 3"
-        ],
-        gen:4
-    },
-    arghonaut:{
-        num:-13,
-        name:"Arghonaut",
-        types:[
-            "Water",
-            "Fighting"
-        ],
-        baseStats:{
-            hp:105,
-            atk:110,
-            def:95,
-            spa:70,
-            spd:100,
-            spe:75
-        },
-        abilities:{
-            0:"Unaware",
-            H:"Technician"
-        },
-        heightm:1.7,
-        weightkg:151,
-        color:"Green",
-        prevo:"Privatyke",
-        evoLevel:37,
-        eggGroups:[
-            "Water 1",
-            "Water 3"
-        ],
-        gen:4
-    },
-    kitsunoh:{
-        num:-14,
-        name:"Kitsunoh",
-        types:[
-            "Ghost",
-            "Steel"
-        ],
-        baseStats:{
-            hp:80,
-            atk:117,
-            def:85,
-            spa:55,
-            spd:80,
-            spe:128
-        },
-        abilities:{
-            0:"Frisk",
-            1:"Limber",
-            H:"Trace"
-        },
-        heightm:1.1,
-        weightkg:51,
-        color:"Gray",
-        prevo:"Nohface",
-        evoType:"trade",
-        evoItem:"Metal Coat",
-        eggGroups:[
-            "Field"
-        ],
-        gen:4
-    },
-    cyclohm:{
-        num:-15,
-        name:"Cyclohm",
-        types:[
-            "Electric",
-            "Dragon"
-        ],
-        baseStats:{
-            hp:108,
-            atk:60,
-            def:118,
-            spa:112,
-            spd:70,
-            spe:80
-        },
-        abilities:{
-            0:"Shield Dust",
-            1:"Static",
-            H:"Damp"
-        },
-        heightm:1.6,
-        weightkg:59,
-        color:"Yellow",
-        prevo:"Duohm",
-        evoLevel:43,
-        eggGroups:[
-            "Dragon",
-            "Monster"
-        ],
-        gen:4
-    },
-    colossoil:{
-        num:-16,
-        name:"Colossoil",
-        types:[
-            "Ground",
-            "Dark"
-        ],
-        baseStats:{
-            hp:133,
-            atk:122,
-            def:72,
-            spa:71,
-            spd:72,
-            spe:95
-        },
-        abilities:{
-            0:"Rebound",
-            1:"Guts",
-            H:"Unnerve"
-        },
-        heightm:2.6,
-        weightkg:683.6,
-        color:"Brown",
-        prevo:"Dorsoil",
-        evoLevel:39,
-        eggGroups:[
-            "Water 2",
-            "Field"
-        ],
-        gen:4
-    },
-    krilowatt:{
-        num:-17,
-        name:"Krilowatt",
-        types:[
-            "Electric",
-            "Water"
-        ],
-        baseStats:{
-            hp:151,
-            atk:84,
-            def:73,
-            spa:83,
-            spd:74,
-            spe:105
-        },
-        abilities:{
-            0:"Trace",
-            1:"Magic Guard",
-            H:"Minus"
-        },
-        heightm:0.7,
-        weightkg:10.6,
-        color:"Red",
-        prevo:"Protowatt",
-        evoLevel:15,
-        eggGroups:[
-            "Water 1",
-            "Fairy"
-        ],
-        gen:4
-    },
-    voodoll:{
-        num:-18,
-        name:"Voodoll",
-        types:[
-            "Normal",
-            "Dark"
-        ],
-        baseStats:{
-            hp:55,
-            atk:40,
-            def:55,
-            spa:75,
-            spd:50,
-            spe:70
-        },
-        abilities:{
-            0:"Volt Absorb",
-            1:"Lightning Rod",
-            H:"Cursed Body"
-        },
-        heightm:1,
-        weightkg:25,
-        color:"Brown",
-        evos:[
-            "Voodoom"
-        ],
-        eggGroups:[
-            "Human-Like",
-            "Field"
-        ],
-        gen:4
-    },
-    voodoom:{
-        num:-19,
-        name:"Voodoom",
-        types:[
-            "Fighting",
-            "Dark"
-        ],
-        baseStats:{
-            hp:90,
-            atk:85,
-            def:80,
-            spa:130,
-            spd:80,
-            spe:110
-        },
-        abilities:{
-            0:"Volt Absorb",
-            1:"Lightning Rod",
-            H:"Cursed Body"
-        },
-        heightm:2,
-        weightkg:75.5,
-        color:"Brown",
-        prevo:"Voodoll",
-        evoLevel:32,
-        eggGroups:[
-            "Human-Like",
-            "Field"
-        ],
-        gen:4
-    },
-    scratchet:{
-        num:-20,
-        name:"Scratchet",
-        types:[
-            "Normal",
-            "Fighting"
-        ],
-        baseStats:{
-            hp:55,
-            atk:85,
-            def:80,
-            spa:20,
-            spd:70,
-            spe:40
-        },
-        abilities:{
-            0:"Scrappy",
-            1:"Prankster",
-            H:"Vital Spirit"
-        },
-        heightm:0.5,
-        weightkg:20,
-        color:"Brown",
-        evos:[
-            "Tomohawk"
-        ],
-        eggGroups:[
-            "Field",
-            "Flying"
-        ],
-        gen:5
-    },
-    tomohawk:{
-        num:-21,
-        name:"Tomohawk",
-        types:[
-            "Flying",
-            "Fighting"
-        ],
-        baseStats:{
-            hp:105,
-            atk:60,
-            def:90,
-            spa:115,
-            spd:80,
-            spe:85
-        },
-        abilities:{
-            0:"Intimidate",
-            1:"Prankster",
-            H:"Justified"
-        },
-        heightm:1.27,
-        weightkg:37.2,
-        color:"Red",
-        prevo:"Scratchet",
-        evoLevel:23,
-        eggGroups:[
-            "Field",
-            "Flying"
-        ],
-        gen:5
-    },
-    necturine:{
-        num:-22,
-        name:"Necturine",
-        types:[
-            "Grass",
-            "Ghost"
-        ],
-        gender:"F",
-        baseStats:{
-            hp:49,
-            atk:55,
-            def:60,
-            spa:50,
-            spd:75,
-            spe:51
-        },
-        abilities:{
-            0:"Anticipation",
-            H:"Telepathy"
-        },
-        heightm:0.3,
-        weightkg:1.8,
-        color:"White",
-        evos:[
-            "Necturna"
-        ],
-        eggGroups:[
-            "Grass",
-            "Field"
-        ],
-        gen:5
-    },
-    necturna:{
-        num:-23,
-        name:"Necturna",
-        types:[
-            "Grass",
-            "Ghost"
-        ],
-        gender:"F",
-        baseStats:{
-            hp:64,
-            atk:120,
-            def:100,
-            spa:85,
-            spd:120,
-            spe:58
-        },
-        abilities:{
-            0:"Forewarn",
-            H:"Telepathy"
-        },
-        heightm:1.65,
-        weightkg:49.6,
-        color:"Black",
-        prevo:"Necturine",
-        evoLevel:31,
-        eggGroups:[
-            "Grass",
-            "Field"
-        ],
-        gen:5
-    },
-    mollux:{
-        num:-24,
-        name:"Mollux",
-        types:[
-            "Fire",
-            "Poison"
-        ],
-        baseStats:{
-            hp:95,
-            atk:45,
-            def:83,
-            spa:131,
-            spd:105,
-            spe:76
-        },
-        abilities:{
-            0:"Dry Skin",
-            H:"Illuminate"
-        },
-        heightm:1.2,
-        weightkg:41,
-        color:"Pink",
-        eggGroups:[
-            "Fairy",
-            "Field"
-        ],
-        gen:5
-    },
-    cupra:{
-        num:-25,
-        name:"Cupra",
-        types:[
-            "Bug",
-            "Psychic"
-        ],
-        baseStats:{
-            hp:50,
-            atk:60,
-            def:49,
-            spa:67,
-            spd:30,
-            spe:44
-        },
-        abilities:{
-            0:"Shield Dust",
-            1:"Keen Eye",
-            H:"Magic Guard"
-        },
-        heightm:0.5,
-        weightkg:4.8,
-        color:"Brown",
-        evos:[
-            "Argalis"
-        ],
-        eggGroups:[
-            "Bug"
-        ],
-        gen:5
-    },
-    argalis:{
-        num:-26,
-        name:"Argalis",
-        types:[
-            "Bug",
-            "Psychic"
-        ],
-        baseStats:{
-            hp:60,
-            atk:90,
-            def:89,
-            spa:87,
-            spd:40,
-            spe:54
-        },
-        abilities:{
-            0:"Shed Skin",
-            1:"Compound Eyes",
-            H:"Overcoat"
-        },
-        heightm:1.3,
-        weightkg:341.4,
-        color:"Gray",
-        prevo:"Cupra",
-        evoLevel:30,
-        evos:[
-            "Aurumoth"
-        ],
-        eggGroups:[
-            "Bug"
-        ],
-        gen:5
-    },
-    aurumoth:{
-        num:-27,
-        name:"Aurumoth",
-        types:[
-            "Bug",
-            "Psychic"
-        ],
-        baseStats:{
-            hp:110,
-            atk:120,
-            def:99,
-            spa:117,
-            spd:60,
-            spe:94
-        },
-        abilities:{
-            0:"Weak Armor",
-            1:"No Guard",
-            H:"Light Metal"
-        },
-        heightm:2.1,
-        weightkg:193,
-        color:"Purple",
-        prevo:"Argalis",
-        evoLevel:50,
-        eggGroups:[
-            "Bug"
-        ],
-        gen:5
-    },
-    brattler:{
-        num:-28,
-        name:"Brattler",
-        types:[
-            "Dark",
-            "Grass"
-        ],
-        baseStats:{
-            hp:80,
-            atk:70,
-            def:40,
-            spa:20,
-            spd:90,
-            spe:30
-        },
-        abilities:{
-            0:"Harvest",
-            1:"Infiltrator",
-            H:"Rattled"
-        },
-        heightm:1.8,
-        weightkg:11.5,
-        color:"Brown",
-        evos:[
-            "Malaconda"
-        ],
-        eggGroups:[
-            "Grass",
-            "Dragon"
-        ],
-        gen:5
-    },
-    malaconda:{
-        num:-29,
-        name:"Malaconda",
-        types:[
-            "Dark",
-            "Grass"
-        ],
-        baseStats:{
-            hp:115,
-            atk:100,
-            def:60,
-            spa:40,
-            spd:130,
-            spe:55
-        },
-        abilities:{
-            0:"Harvest",
-            1:"Infiltrator",
-            H:"Drought"
-        },
-        heightm:5.5,
-        weightkg:108.8,
-        color:"Brown",
-        prevo:"Brattler",
-        evoLevel:33,
-        eggGroups:[
-            "Grass",
-            "Dragon"
-        ],
-        gen:5
-    },
-    cawdet:{
-        num:-30,
-        name:"Cawdet",
-        types:[
-            "Steel",
-            "Flying"
-        ],
-        baseStats:{
-            hp:35,
-            atk:72,
-            def:85,
-            spa:40,
-            spd:55,
-            spe:88
-        },
-        abilities:{
-            0:"Keen Eye",
-            1:"Volt Absorb",
-            H:"Big Pecks"
-        },
-        heightm:0.76,
-        weightkg:25,
-        color:"Gray",
-        evos:[
-            "Cawmodore"
-        ],
-        eggGroups:[
-            "Flying"
-        ],
-        gen:5
-    },
-    cawmodore:{
-        num:-31,
-        name:"Cawmodore",
-        types:[
-            "Steel",
-            "Flying"
-        ],
-        baseStats:{
-            hp:50,
-            atk:92,
-            def:130,
-            spa:65,
-            spd:75,
-            spe:118
-        },
-        abilities:{
-            0:"Intimidate",
-            1:"Volt Absorb",
-            H:"Big Pecks"
-        },
-        heightm:1.7,
-        weightkg:37,
-        color:"Black",
-        prevo:"Cawdet",
-        evoLevel:33,
-        eggGroups:[
-            "Flying"
-        ],
-        gen:5
-    },
-    volkritter:{
-        num:-32,
-        name:"Volkritter",
-        types:[
-            "Water",
-            "Fire"
-        ],
-        baseStats:{
-            hp:60,
-            atk:30,
-            def:50,
-            spa:80,
-            spd:60,
-            spe:70
-        },
-        abilities:{
-            0:"Anticipation",
-            1:"Infiltrator",
-            H:"Unnerve"
-        },
-        heightm:0.3,
-        weightkg:15,
-        color:"Red",
-        evos:[
-            "Volkraken"
-        ],
-        eggGroups:[
-            "Water 1",
-            "Water 2"
-        ],
-        gen:6
-    },
-    volkraken:{
-        num:-33,
-        name:"Volkraken",
-        types:[
-            "Water",
-            "Fire"
-        ],
-        baseStats:{
-            hp:100,
-            atk:45,
-            def:80,
-            spa:135,
-            spd:100,
-            spe:95
-        },
-        abilities:{
-            0:"Analytic",
-            1:"Infiltrator",
-            H:"Pressure"
-        },
-        heightm:1.3,
-        weightkg:44.5,
-        color:"Red",
-        prevo:"Volkritter",
-        evoLevel:34,
-        eggGroups:[
-            "Water 1",
-            "Water 2"
-        ],
-        gen:6
-    },
-    snugglow:{
-        num:-34,
-        name:"Snugglow",
-        types:[
-            "Electric",
-            "Poison"
-        ],
-        baseStats:{
-            hp:40,
-            atk:37,
-            def:79,
-            spa:91,
-            spd:68,
-            spe:70
-        },
-        abilities:{
-            0:"Storm Drain",
-            1:"Vital Spirit",
-            H:"Telepathy"
-        },
-        heightm:1.2,
-        weightkg:6,
-        color:"Purple",
-        evos:[
-            "Plasmanta"
-        ],
-        eggGroups:[
-            "Water 1",
-            "Water 2"
-        ],
-        gen:6
-    },
-    plasmanta:{
-        num:-35,
-        name:"Plasmanta",
-        types:[
-            "Electric",
-            "Poison"
-        ],
-        baseStats:{
-            hp:60,
-            atk:57,
-            def:119,
-            spa:131,
-            spd:98,
-            spe:100
-        },
-        abilities:{
-            0:"Storm Drain",
-            1:"Vital Spirit",
-            H:"Telepathy"
-        },
-        heightm:7,
-        weightkg:460,
-        color:"Purple",
-        prevo:"Snugglow",
-        evoLevel:29,
-        eggGroups:[
-            "Water 1",
-            "Water 2"
-        ],
-        gen:6
-    },
-    floatoy:{
-        num:-36,
-        name:"Floatoy",
-        types:[
-            "Water"
-        ],
-        baseStats:{
-            hp:48,
-            atk:70,
-            def:40,
-            spa:70,
-            spd:30,
-            spe:77
-        },
-        abilities:{
-            0:"Water Veil",
-            1:"Heatproof",
-            H:"Swift Swim"
-        },
-        heightm:0.8,
-        weightkg:1.9,
-        color:"White",
-        evos:[
-            "Caimanoe"
-        ],
-        eggGroups:[
-            "Water 1",
-            "Field"
-        ],
-        gen:6
-    },
-    caimanoe:{
-        num:-37,
-        name:"Caimanoe",
-        types:[
-            "Water",
-            "Steel"
-        ],
-        baseStats:{
-            hp:73,
-            atk:85,
-            def:65,
-            spa:80,
-            spd:40,
-            spe:87
-        },
-        abilities:{
-            0:"Water Veil",
-            1:"Heatproof",
-            H:"Light Metal"
-        },
-        heightm:1.4,
-        weightkg:72.5,
-        color:"Gray",
-        prevo:"Floatoy",
-        evoLevel:21,
-        evos:[
-            "Naviathan"
-        ],
-        eggGroups:[
-            "Water 1",
-            "Field"
-        ],
-        gen:6
-    },
-    naviathan:{
-        num:-38,
-        name:"Naviathan",
-        types:[
-            "Water",
-            "Steel"
-        ],
-        baseStats:{
-            hp:103,
-            atk:110,
-            def:90,
-            spa:95,
-            spd:65,
-            spe:97
-        },
-        abilities:{
-            0:"Guts",
-            1:"Heatproof",
-            H:"Light Metal"
-        },
-        heightm:3,
-        weightkg:510,
-        color:"Gray",
-        prevo:"Caimanoe",
-        evoLevel:40,
-        eggGroups:[
-            "Water 1",
-            "Field"
-        ],
-        gen:6
-    },
-    crucibelle:{
-        num:-39,
-        name:"Crucibelle",
-        types:[
-            "Rock",
-            "Poison"
-        ],
-        genderRatio:{
-            M:0.25,
-            F:0.75
-        },
-        baseStats:{
-            hp:106,
-            atk:105,
-            def:65,
-            spa:75,
-            spd:85,
-            spe:104
-        },
-        abilities:{
-            0:"Regenerator",
-            1:"Mold Breaker",
-            H:"Liquid Ooze"
-        },
-        heightm:1.3,
-        weightkg:23.6,
-        color:"Purple",
-        eggGroups:[
-            "Amorphous",
-            "Mineral"
-        ],
-        otherFormes:[
-            "Crucibelle-Mega"
-        ],
-        formeOrder:[
-            "Crucibelle",
-            "Crucibelle-Mega"
-        ],
-        gen:6
-    },
-    crucibellemega:{
-        num:-39,
-        name:"Crucibelle-Mega",
-        baseSpecies:"Crucibelle",
-        forme:"Mega",
-        types:[
-            "Rock",
-            "Poison"
-        ],
-        genderRatio:{
-            M:0.25,
-            F:0.75
-        },
-        baseStats:{
-            hp:106,
-            atk:135,
-            def:75,
-            spa:91,
-            spd:125,
-            spe:108
-        },
-        abilities:{
-            0:"Magic Guard"
-        },
-        heightm:1.4,
-        weightkg:22.5,
-        color:"Purple",
-        eggGroups:[
-            "Amorphous",
-            "Mineral"
-        ],
-        requiredItem:"Crucibellite",
-        gen:6
-    },
-    pluffle:{
-        num:-40,
-        name:"Pluffle",
-        types:[
-            "Fairy"
-        ],
-        baseStats:{
-            hp:74,
-            atk:38,
-            def:51,
-            spa:65,
-            spd:78,
-            spe:49
-        },
-        abilities:{
-            0:"Natural Cure",
-            1:"Aroma Veil",
-            H:"Friend Guard"
-        },
-        heightm:0.8,
-        weightkg:1.8,
-        color:"Pink",
-        evos:[
-            "Kerfluffle"
-        ],
-        eggGroups:[
-            "Fairy",
-            "Human-Like"
-        ],
-        gen:6
-    },
-    kerfluffle:{
-        num:-41,
-        name:"Kerfluffle",
-        types:[
-            "Fairy",
-            "Fighting"
-        ],
-        baseStats:{
-            hp:84,
-            atk:78,
-            def:86,
-            spa:115,
-            spd:88,
-            spe:119
-        },
-        abilities:{
-            0:"Natural Cure",
-            1:"Aroma Veil",
-            H:"Friend Guard"
-        },
-        heightm:2.1,
-        weightkg:24.2,
-        color:"Pink",
-        prevo:"Pluffle",
-        evoType:"levelMove",
-        evoMove:"Play Rough",
-        eggGroups:[
-            "Fairy",
-            "Human-Like"
-        ],
-        gen:6
-    },
-    pajantom:{
-        num:-42,
-        name:"Pajantom",
-        types:[
-            "Dragon",
-            "Ghost"
-        ],
-        baseStats:{
-            hp:84,
-            atk:133,
-            def:71,
-            spa:51,
-            spd:111,
-            spe:101
-        },
-        abilities:{
-            0:"Comatose"
-        },
-        heightm:1.1,
-        weightkg:3.1,
-        color:"Purple",
-        eggGroups:[
-            "Dragon",
-            "Monster"
-        ],
-        gen:7
-    },
-    mumbao:{
-        num:-43,
-        name:"Mumbao",
-        types:[
-            "Grass",
-            "Fairy"
-        ],
-        baseStats:{
-            hp:55,
-            atk:30,
-            def:64,
-            spa:87,
-            spd:73,
-            spe:66
-        },
-        abilities:{
-            0:"Trace",
-            1:"Overcoat",
-            H:"Solar Power"
-        },
-        heightm:1,
-        weightkg:83,
-        color:"Brown",
-        evos:[
-            "Jumbao"
-        ],
-        eggGroups:[
-            "Grass"
-        ],
-        gen:7
-    },
-    jumbao:{
-        num:-44,
-        name:"Jumbao",
-        types:[
-            "Grass",
-            "Fairy"
-        ],
-        baseStats:{
-            hp:92,
-            atk:63,
-            def:97,
-            spa:124,
-            spd:104,
-            spe:96
-        },
-        abilities:{
-            0:"Trace",
-            1:"Overcoat",
-            H:"Drought"
-        },
-        heightm:2.4,
-        weightkg:200,
-        color:"Brown",
-        prevo:"Mumbao",
-        evoType:"levelFriendship",
-        evoCondition:"during the day",
-        eggGroups:[
-            "Grass"
-        ],
-        gen:7
-    },
-    fawnifer:{
-        num:-45,
-        name:"Fawnifer",
-        types:[
-            "Grass"
-        ],
-        genderRatio:{
-            M:0.875,
-            F:0.125
-        },
-        baseStats:{
-            hp:49,
-            atk:61,
-            def:42,
-            spa:52,
-            spd:40,
-            spe:76
-        },
-        abilities:{
-            0:"Overgrow",
-            H:"Lightning Rod"
-        },
-        heightm:0.7,
-        weightkg:6.9,
-        color:"Green",
-        evos:[
-            "Electrelk"
-        ],
-        eggGroups:[
-            "Field"
-        ],
-        gen:7
-    },
-    electrelk:{
-        num:-46,
-        name:"Electrelk",
-        types:[
-            "Grass",
-            "Electric"
-        ],
-        genderRatio:{
-            M:0.875,
-            F:0.125
-        },
-        baseStats:{
-            hp:59,
-            atk:81,
-            def:67,
-            spa:57,
-            spd:55,
-            spe:101
-        },
-        abilities:{
-            0:"Overgrow",
-            H:"Galvanize"
-        },
-        heightm:1.4,
-        weightkg:41.5,
-        color:"Green",
-        prevo:"Fawnifer",
-        evoLevel:17,
-        evos:[
-            "Caribolt"
-        ],
-        eggGroups:[
-            "Field"
-        ],
-        gen:7
-    },
-    caribolt:{
-        num:-47,
-        name:"Caribolt",
-        types:[
-            "Grass",
-            "Electric"
-        ],
-        genderRatio:{
-            M:0.875,
-            F:0.125
-        },
-        baseStats:{
-            hp:84,
-            atk:106,
-            def:82,
-            spa:77,
-            spd:80,
-            spe:106
-        },
-        abilities:{
-            0:"Overgrow",
-            H:"Galvanize"
-        },
-        heightm:2.5,
-        weightkg:140,
-        color:"Green",
-        prevo:"Electrelk",
-        evoLevel:34,
-        eggGroups:[
-            "Field"
-        ],
-        gen:7
-    },
-    smogecko:{
-        num:-48,
-        name:"Smogecko",
-        types:[
-            "Fire"
-        ],
-        genderRatio:{
-            M:0.875,
-            F:0.125
-        },
-        baseStats:{
-            hp:48,
-            atk:66,
-            def:43,
-            spa:58,
-            spd:48,
-            spe:56
-        },
-        abilities:{
-            0:"Blaze",
-            H:"Technician"
-        },
-        heightm:0.5,
-        weightkg:8.5,
-        color:"Red",
-        evos:[
-            "Smoguana"
-        ],
-        eggGroups:[
-            "Field",
-            "Monster"
-        ],
-        gen:7
-    },
-    smoguana:{
-        num:-49,
-        name:"Smoguana",
-        types:[
-            "Fire",
-            "Ground"
-        ],
-        genderRatio:{
-            M:0.875,
-            F:0.125
-        },
-        baseStats:{
-            hp:68,
-            atk:86,
-            def:53,
-            spa:68,
-            spd:68,
-            spe:76
-        },
-        abilities:{
-            0:"Blaze",
-            H:"Technician"
-        },
-        heightm:1.5,
-        weightkg:22.2,
-        color:"Red",
-        prevo:"Smogecko",
-        evoLevel:15,
-        evos:[
-            "Smokomodo"
-        ],
-        eggGroups:[
-            "Field",
-            "Monster"
-        ],
-        gen:7
-    },
-    smokomodo:{
-        num:-50,
-        name:"Smokomodo",
-        types:[
-            "Fire",
-            "Ground"
-        ],
-        genderRatio:{
-            M:0.875,
-            F:0.125
-        },
-        baseStats:{
-            hp:88,
-            atk:116,
-            def:67,
-            spa:88,
-            spd:78,
-            spe:97
-        },
-        abilities:{
-            0:"Blaze",
-            H:"Technician"
-        },
-        heightm:2.2,
-        weightkg:205,
-        color:"Red",
-        prevo:"Smoguana",
-        evoLevel:36,
-        eggGroups:[
-            "Field",
-            "Monster"
-        ],
-        gen:7
-    },
-    swirlpool:{
-        num:-51,
-        name:"Swirlpool",
-        types:[
-            "Water"
-        ],
-        genderRatio:{
-            M:0.875,
-            F:0.125
-        },
-        baseStats:{
-            hp:61,
-            atk:49,
-            def:70,
-            spa:50,
-            spd:62,
-            spe:28
-        },
-        abilities:{
-            0:"Torrent",
-            H:"Poison Heal"
-        },
-        heightm:0.5,
-        weightkg:7,
-        color:"Blue",
-        evos:[
-            "Coribalis"
-        ],
-        eggGroups:[
-            "Water 1",
-            "Fairy"
-        ],
-        gen:7
-    },
-    coribalis:{
-        num:-52,
-        name:"Coribalis",
-        types:[
-            "Water",
-            "Bug"
-        ],
-        genderRatio:{
-            M:0.875,
-            F:0.125
-        },
-        baseStats:{
-            hp:76,
-            atk:69,
-            def:90,
-            spa:65,
-            spd:77,
-            spe:43
-        },
-        abilities:{
-            0:"Torrent",
-            H:"Poison Heal"
-        },
-        heightm:1.4,
-        weightkg:24.5,
-        color:"Blue",
-        prevo:"Swirlpool",
-        evoLevel:17,
-        evos:[
-            "Snaelstrom"
-        ],
-        eggGroups:[
-            "Water 1",
-            "Fairy"
-        ],
-        gen:7
-    },
-    snaelstrom:{
-        num:-53,
-        name:"Snaelstrom",
-        types:[
-            "Water",
-            "Bug"
-        ],
-        genderRatio:{
-            M:0.875,
-            F:0.125
-        },
-        baseStats:{
-            hp:91,
-            atk:94,
-            def:110,
-            spa:80,
-            spd:97,
-            spe:63
-        },
-        abilities:{
-            0:"Torrent",
-            H:"Poison Heal"
-        },
-        heightm:2,
-        weightkg:120,
-        color:"Blue",
-        prevo:"Coribalis",
-        evoLevel:34,
-        eggGroups:[
-            "Water 1",
-            "Fairy"
-        ],
-        gen:7
-    },
-    justyke:{
-        num:-54,
-        name:"Justyke",
-        types:[
-            "Steel",
-            "Ground"
-        ],
-        gender:"N",
-        baseStats:{
-            hp:72,
-            atk:70,
-            def:56,
-            spa:83,
-            spd:68,
-            spe:30
-        },
-        abilities:{
-            0:"Levitate",
-            1:"Bulletproof",
-            H:"Justified"
-        },
-        heightm:0.4,
-        weightkg:36.5,
-        color:"Brown",
-        evos:[
-            "Equilibra"
-        ],
-        eggGroups:[
-            "Mineral"
-        ],
-        gen:7
-    },
-    equilibra:{
-        num:-55,
-        name:"Equilibra",
-        types:[
-            "Steel",
-            "Ground"
-        ],
-        gender:"N",
-        baseStats:{
-            hp:102,
-            atk:50,
-            def:96,
-            spa:133,
-            spd:118,
-            spe:60
-        },
-        abilities:{
-            0:"Levitate",
-            1:"Bulletproof",
-            H:"Justified"
-        },
-        heightm:0.8,
-        weightkg:51.3,
-        color:"Brown",
-        prevo:"Justyke",
-        evoLevel:32,
-        eggGroups:[
-            "Mineral"
-        ],
-        gen:7
-    },
-    solotl:{
-        num:-56,
-        name:"Solotl",
-        types:[
-            "Fire",
-            "Dragon"
-        ],
-        baseStats:{
-            hp:68,
-            atk:48,
-            def:34,
-            spa:72,
-            spd:24,
-            spe:84
-        },
-        abilities:{
-            0:"Regenerator",
-            1:"Vital Spirit",
-            H:"Magician"
-        },
-        heightm:0.6,
-        weightkg:11.8,
-        color:"Red",
-        evos:[
-            "Astrolotl"
-        ],
-        eggGroups:[
-            "Dragon",
-            "Fairy"
-        ],
-        gen:8
-    },
-    astrolotl:{
-        num:-57,
-        name:"Astrolotl",
-        types:[
-            "Fire",
-            "Dragon"
-        ],
-        baseStats:{
-            hp:108,
-            atk:108,
-            def:74,
-            spa:92,
-            spd:64,
-            spe:114
-        },
-        abilities:{
-            0:"Regenerator",
-            1:"Vital Spirit",
-            H:"Magician"
-        },
-        heightm:1.9,
-        weightkg:50,
-        color:"Red",
-        prevo:"Solotl",
-        evoLevel:35,
-        eggGroups:[
-            "Dragon",
-            "Fairy"
-        ],
-        gen:8
-    },
-    miasmite:{
-        num:-58,
-        name:"Miasmite",
-        types:[
-            "Bug",
-            "Dragon"
-        ],
-        baseStats:{
-            hp:40,
-            atk:85,
-            def:60,
-            spa:52,
-            spd:52,
-            spe:44
-        },
-        abilities:{
-            0:"Neutralizing Gas",
-            1:"Hyper Cutter",
-            H:"Compound Eyes"
-        },
-        heightm:0.6,
-        weightkg:10.1,
-        color:"Green",
-        evos:[
-            "Miasmaw"
-        ],
-        eggGroups:[
-            "Bug",
-            "Dragon"
-        ],
-        gen:8
-    },
-    miasmaw:{
-        num:-59,
-        name:"Miasmaw",
-        types:[
-            "Bug",
-            "Dragon"
-        ],
-        baseStats:{
-            hp:85,
-            atk:135,
-            def:60,
-            spa:88,
-            spd:105,
-            spe:99
-        },
-        abilities:{
-            0:"Neutralizing Gas",
-            1:"Hyper Cutter",
-            H:"Compound Eyes"
-        },
-        heightm:1.2,
-        weightkg:57,
-        color:"Green",
-        prevo:"Miasmite",
-        evoLevel:30,
-        eggGroups:[
-            "Bug",
-            "Dragon"
-        ],
-        gen:8
-    },
-    chromera:{
-        num:-60,
-        name:"Chromera",
-        types:[
-            "Dark",
-            "Normal"
-        ],
-        gender:"N",
-        baseStats:{
-            hp:85,
-            atk:85,
-            def:115,
-            spa:115,
-            spd:100,
-            spe:100
-        },
-        abilities:{
-            0:"Color Change"
-        },
-        heightm:2.5,
-        weightkg:215,
-        color:"Purple",
-        eggGroups:[
-            "Undiscovered"
-        ],
-        gen:8
-    },
-    nohface:{
-        num:-61,
-        name:"Nohface",
-        types:[
-            "Ghost"
-        ],
-        baseStats:{
-            hp:50,
-            atk:73,
-            def:50,
-            spa:30,
-            spd:50,
-            spe:80
-        },
-        abilities:{
-            0:"Frisk",
-            1:"Limber",
-            H:"Unnerve"
-        },
-        heightm:0.5,
-        weightkg:5.9,
-        color:"Blue",
-        evos:[
-            "Kitsunoh"
-        ],
-        eggGroups:[
-            "Field"
-        ],
-        gen:4
-    },
-    monohm:{
-        num:-62,
-        name:"Monohm",
-        types:[
-            "Electric"
-        ],
-        baseStats:{
-            hp:53,
-            atk:40,
-            def:58,
-            spa:67,
-            spd:55,
-            spe:55
-        },
-        abilities:{
-            0:"Shield Dust",
-            1:"Static",
-            H:"Damp"
-        },
-        heightm:0.6,
-        weightkg:4.1,
-        color:"Yellow",
-        evos:[
-            "Duohm"
-        ],
-        eggGroups:[
-            "Dragon",
-            "Monster"
-        ],
-        gen:4
-    },
-    duohm:{
-        num:-63,
-        name:"Duohm",
-        types:[
-            "Electric",
-            "Dragon"
-        ],
-        baseStats:{
-            hp:88,
-            atk:40,
-            def:103,
-            spa:77,
-            spd:60,
-            spe:60
-        },
-        abilities:{
-            0:"Shield Dust",
-            1:"Static",
-            H:"Damp"
-        },
-        heightm:1.1,
-        weightkg:19.2,
-        color:"Yellow",
-        prevo:"Monohm",
-        evoLevel:32,
-        evos:[
-            "Cyclohm"
-        ],
-        eggGroups:[
-            "Dragon",
-            "Monster"
-        ],
-        gen:4
-    },
-    dorsoil:{
-        num:-64,
-        name:"Dorsoil",
-        types:[
-            "Ground"
-        ],
-        baseStats:{
-            hp:103,
-            atk:72,
-            def:52,
-            spa:61,
-            spd:52,
-            spe:65
-        },
-        abilities:{
-            0:"Oblivious",
-            1:"Guts",
-            H:"Unnerve"
-        },
-        heightm:1.3,
-        weightkg:145,
-        color:"White",
-        evos:[
-            "Colossoil"
-        ],
-        eggGroups:[
-            "Water 2",
-            "Field"
-        ],
-        gen:4
-    },
-    protowatt:{
-        num:-65,
-        name:"Protowatt",
-        types:[
-            "Electric",
-            "Water"
-        ],
-        baseStats:{
-            hp:51,
-            atk:44,
-            def:33,
-            spa:43,
-            spd:34,
-            spe:65
-        },
-        abilities:{
-            0:"Trace",
-            1:"Magic Guard",
-            H:"Minus"
-        },
-        heightm:0.1,
-        weightkg:0.1,
-        color:"Red",
-        evos:[
-            "Krilowatt"
-        ],
-        eggGroups:[
-            "Water 1",
-            "Fairy"
-        ],
-        gen:4
-    },
-    venomicon:{
-        num:-66,
-        name:"Venomicon",
-        baseForme:"Prologue",
-        types:[
-            "Poison",
-            "Flying"
-        ],
-        gender:"N",
-        baseStats:{
-            hp:85,
-            atk:50,
-            def:113,
-            spa:118,
-            spd:90,
-            spe:64
-        },
-        abilities:{
-            0:"Stamina",
-            H:"Power of Alchemy"
-        },
-        heightm:0.8,
-        weightkg:11.5,
-        color:"Purple",
-        eggGroups:[
-            "Amorphous"
-        ],
-        otherFormes:[
-            "Venomicon-Epilogue"
-        ],
-        formeOrder:[
-            "Venomicon",
-            "Venomicon-Epilogue"
-        ],
-        gen:8
-    },
-    venomiconepilogue:{
-        num:-66,
-        name:"Venomicon-Epilogue",
-        baseSpecies:"Venomicon",
-        forme:"Epilogue",
-        types:[
-            "Poison",
-            "Flying"
-        ],
-        gender:"N",
-        baseStats:{
-            hp:85,
-            atk:102,
-            def:85,
-            spa:62,
-            spd:85,
-            spe:101
-        },
-        abilities:{
-            0:"Tinted Lens"
-        },
-        heightm:0.8,
-        weightkg:12.4,
-        color:"Purple",
-        eggGroups:[
-            "Amorphous"
-        ],
-        requiredItem:"Vile Vial",
-        changesFrom:"Venomicon",
-        gen:8
-    },
-    saharascal:{
-        num:-67,
-        name:"Saharascal",
-        types:[
-            "Ground"
-        ],
-        baseStats:{
-            hp:50,
-            atk:80,
-            def:65,
-            spa:45,
-            spd:90,
-            spe:70
-        },
-        abilities:{
-            0:"Water Absorb",
-            1:"Pickpocket",
-            H:"Sand Spit"
-        },
-        heightm:1.2,
-        weightkg:48,
-        color:"Brown",
-        evos:[
-            "Saharaja"
-        ],
-        eggGroups:[
-            "Field"
-        ],
-        gen:8
-    },
-    saharaja:{
-        num:-68,
-        name:"Saharaja",
-        types:[
-            "Ground"
-        ],
-        baseStats:{
-            hp:70,
-            atk:112,
-            def:105,
-            spa:65,
-            spd:123,
-            spe:78
-        },
-        abilities:{
-            0:"Water Absorb",
-            1:"Serene Grace",
-            H:"Sand Spit"
-        },
-        heightm:2.3,
-        weightkg:303.9,
-        color:"White",
-        prevo:"Saharascal",
-        evoType:"useItem",
-        evoItem:"Shiny Stone",
-        eggGroups:[
-            "Field"
-        ],
-        gen:8
-    },
-    ababo:{
-        num:-69,
-        name:"Ababo",
-        types:[
-            "Fairy"
-        ],
-        genderRatio:{
-            M:0.75,
-            F:0.25
-        },
-        baseStats:{
-            hp:42,
-            atk:35,
-            def:27,
-            spa:35,
-            spd:35,
-            spe:38
-        },
-        abilities:{
-            0:"Pixilate",
-            1:"Rattled",
-            H:"Own Tempo"
-        },
-        heightm:0.5,
-        weightkg:3.5,
-        color:"White",
-        evos:[
-            "Scattervein"
-        ],
-        eggGroups:[
-            "Undiscovered"
-        ],
-        canHatch:true,
-        gen:9
-    },
-    scattervein:{
-        num:-70,
-        name:"Scattervein",
-        types:[
-            "Fairy"
-        ],
-        genderRatio:{
-            M:0.75,
-            F:0.25
-        },
-        baseStats:{
-            hp:75,
-            atk:74,
-            def:87,
-            spa:62,
-            spd:89,
-            spe:63
-        },
-        abilities:{
-            0:"Pixilate",
-            1:"Intimidate",
-            H:"Own Tempo"
-        },
-        heightm:1.5,
-        weightkg:25,
-        color:"Pink",
-        prevo:"Ababo",
-        evoType:"levelFriendship",
-        evos:[
-            "Hemogoblin"
-        ],
-        eggGroups:[
-            "Monster",
-            "Fairy"
-        ],
-        canHatch:true,
-        gen:9
-    },
-    hemogoblin:{
-        num:-71,
-        name:"Hemogoblin",
-        types:[
-            "Fairy",
-            "Fire"
-        ],
-        genderRatio:{
-            M:0.75,
-            F:0.25
-        },
-        baseStats:{
-            hp:90,
-            atk:96,
-            def:87,
-            spa:96,
-            spd:89,
-            spe:55
-        },
-        abilities:{
-            0:"Pixilate",
-            1:"Intimidate",
-            H:"Own Tempo"
-        },
-        heightm:1.4,
-        weightkg:85,
-        color:"Pink",
-        prevo:"Scattervein",
-        evoType:"useItem",
-        evoItem:"Fire Stone",
-        eggGroups:[
-            "Monster",
-            "Fairy"
-        ],
-        gen:9
-    },
-    cresceidon:{
-        num:-72,
-        name:"Cresceidon",
-        types:[
-            "Water",
-            "Fairy"
-        ],
-        baseStats:{
-            hp:80,
-            atk:32,
-            def:111,
-            spa:88,
-            spd:99,
-            spe:124
-        },
-        abilities:{
-            0:"Multiscale",
-            1:"Rough Skin",
-            H:"Water Veil"
-        },
-        heightm:10,
-        weightkg:999.9,
-        color:"Blue",
-        eggGroups:[
-            "Amorphous",
-            "Water 3"
-        ],
-        gen:9
-    },
-    chuggalong:{
-        num:-75,
-        name:"Chuggalong",
-        types:[
-            "Dragon",
-            "Poison"
-        ],
-        baseStats:{
-            hp:45,
-            atk:43,
-            def:117,
-            spa:120,
-            spd:110,
-            spe:108
-        },
-        abilities:{
-            0:"Armor Tail",
-            1:"White Smoke",
-            H:"Slow Start"
-        },
-        heightm:6.2,
-        weightkg:201.6,
-        color:"Black",
-        eggGroups:[
-            "Dragon",
-            "Mineral"
-        ],
-        gen:9
-    },
-    pokestarsmeargle:{
-        num:-5000,
-        name:"Pokestar Smeargle",
-        types:[
-            "Normal"
-        ],
-        baseStats:{
-            hp:55,
-            atk:20,
-            def:35,
-            spa:20,
-            spd:45,
-            spe:75
-        },
-        abilities:{
-            0:"Own Tempo",
-            1:"Technician",
-            H:"Moody"
-        },
-        heightm:1.5,
-        weightkg:61,
-        color:"White",
-        eggGroups:[
-            "Field"
-        ],
-        gen:5
-    },
-    pokestarufo:{
-        num:-5001,
-        name:"Pokestar UFO",
-        types:[
-            "Flying",
-            "Electric"
-        ],
-        gender:"N",
-        baseStats:{
-            hp:100,
-            atk:100,
-            def:100,
-            spa:100,
-            spd:100,
-            spe:100
-        },
-        abilities:{
-            0:"Levitate"
-        },
-        heightm:1.5,
-        weightkg:61,
-        color:"White",
-        eggGroups:[
-            "Undiscovered"
-        ],
-        otherFormes:[
-            "Pokestar UFO-2",
-            "Pokestar UFO-PropU2"
-        ],
-        cosmeticFormes:[
-            "Pokestar UFO-PropU1"
-        ],
-        gen:5
-    },
-    pokestarufo2:{
-        num:-5001,
-        name:"Pokestar UFO-2",
-        baseSpecies:"Pokestar UFO",
-        forme:"2",
-        types:[
-            "Psychic",
-            "Electric"
-        ],
-        gender:"N",
-        baseStats:{
-            hp:100,
-            atk:100,
-            def:100,
-            spa:100,
-            spd:100,
-            spe:100
-        },
-        abilities:{
-            0:"Levitate"
-        },
-        heightm:1.5,
-        weightkg:61,
-        color:"White",
-        eggGroups:[
-            "Undiscovered"
-        ],
-        gen:5
-    },
-    pokestarbrycenman:{
-        num:-5002,
-        name:"Pokestar Brycen-Man",
-        types:[
-            "Dark",
-            "Psychic"
-        ],
-        gender:"M",
-        baseStats:{
-            hp:100,
-            atk:100,
-            def:100,
-            spa:100,
-            spd:100,
-            spe:100
-        },
-        abilities:{
-            0:"Levitate"
-        },
-        heightm:1.5,
-        weightkg:61,
-        color:"White",
-        eggGroups:[
-            "Undiscovered"
-        ],
-        cosmeticFormes:[
-            "Pokestar Brycen-Man-Prop"
-        ],
-        gen:5
-    },
-    pokestarmt:{
-        num:-5003,
-        name:"Pokestar MT",
-        types:[
-            "Steel"
-        ],
-        gender:"N",
-        baseStats:{
-            hp:100,
-            atk:100,
-            def:100,
-            spa:100,
-            spd:100,
-            spe:100
-        },
-        abilities:{
-            0:"Analytic"
-        },
-        heightm:1.5,
-        weightkg:61,
-        color:"White",
-        eggGroups:[
-            "Undiscovered"
-        ],
-        cosmeticFormes:[
-            "Pokestar MT-Prop"
-        ],
-        gen:5
-    },
-    pokestarmt2:{
-        num:-5004,
-        name:"Pokestar MT2",
-        types:[
-            "Steel",
-            "Electric"
-        ],
-        gender:"N",
-        baseStats:{
-            hp:100,
-            atk:100,
-            def:100,
-            spa:100,
-            spd:100,
-            spe:100
-        },
-        abilities:{
-            0:"Flash Fire"
-        },
-        heightm:1.5,
-        weightkg:61,
-        color:"White",
-        eggGroups:[
-            "Undiscovered"
-        ],
-        cosmeticFormes:[
-            "Pokestar MT2-Prop"
-        ],
-        gen:5
-    },
-    pokestartransport:{
-        num:-5005,
-        name:"Pokestar Transport",
-        types:[
-            "Steel"
-        ],
-        gender:"N",
-        baseStats:{
-            hp:100,
-            atk:100,
-            def:100,
-            spa:100,
-            spd:100,
-            spe:100
-        },
-        abilities:{
-            0:"Motor Drive"
-        },
-        heightm:1.5,
-        weightkg:61,
-        color:"White",
-        eggGroups:[
-            "Undiscovered"
-        ],
-        cosmeticFormes:[
-            "Pokestar Transport-Prop"
-        ],
-        gen:5
-    },
-    pokestargiant:{
-        num:-5006,
-        name:"Pokestar Giant",
-        types:[
-            "Normal"
-        ],
-        gender:"F",
-        baseStats:{
-            hp:100,
-            atk:100,
-            def:100,
-            spa:100,
-            spd:100,
-            spe:100
-        },
-        abilities:{
-            0:"Huge Power"
-        },
-        heightm:1.5,
-        weightkg:61,
-        color:"White",
-        eggGroups:[
-            "Undiscovered"
-        ],
-        cosmeticFormes:[
-            "Pokestar Giant-2",
-            "Pokestar Giant-PropO1",
-            "Pokestar Giant-PropO2"
-        ],
-        gen:5
-    },
-    pokestarhumanoid:{
-        num:-5007,
-        name:"Pokestar Humanoid",
-        types:[
-            "Normal"
-        ],
-        baseStats:{
-            hp:100,
-            atk:100,
-            def:100,
-            spa:100,
-            spd:100,
-            spe:100
-        },
-        abilities:{
-            0:"Insomnia"
-        },
-        heightm:1.5,
-        weightkg:61,
-        color:"White",
-        eggGroups:[
-            "Undiscovered"
-        ],
-        cosmeticFormes:[
-            "Pokestar Humanoid-Prop"
-        ],
-        gen:5
-    },
-    pokestarmonster:{
-        num:-5008,
-        name:"Pokestar Monster",
-        types:[
-            "Dark"
-        ],
-        baseStats:{
-            hp:100,
-            atk:100,
-            def:100,
-            spa:100,
-            spd:100,
-            spe:100
-        },
-        abilities:{
-            0:"Pressure"
-        },
-        heightm:1.5,
-        weightkg:61,
-        color:"White",
-        eggGroups:[
-            "Undiscovered"
-        ],
-        cosmeticFormes:[
-            "Pokestar Monster-Prop"
-        ],
-        gen:5
-    },
-    pokestarf00:{
-        num:-5009,
-        name:"Pokestar F-00",
-        types:[
-            "Steel",
-            "Normal"
-        ],
-        baseStats:{
-            hp:100,
-            atk:100,
-            def:100,
-            spa:100,
-            spd:100,
-            spe:100
-        },
-        abilities:{
-            0:"Volt Absorb"
-        },
-        heightm:1.5,
-        weightkg:61,
-        color:"White",
-        eggGroups:[
-            "Undiscovered"
-        ],
-        cosmeticFormes:[
-            "Pokestar F-00-Prop"
-        ],
-        gen:5
-    },
-    pokestarf002:{
-        num:-5010,
-        name:"Pokestar F-002",
-        types:[
-            "Steel",
-            "Normal"
-        ],
-        baseStats:{
-            hp:100,
-            atk:100,
-            def:100,
-            spa:100,
-            spd:100,
-            spe:100
-        },
-        abilities:{
-            0:"Reckless"
-        },
-        heightm:1.5,
-        weightkg:61,
-        color:"White",
-        eggGroups:[
-            "Undiscovered"
-        ],
-        cosmeticFormes:[
-            "Pokestar F-002-Prop"
-        ],
-        gen:5
-    },
-    pokestarspirit:{
-        num:-5011,
-        name:"Pokestar Spirit",
-        types:[
-            "Dark",
-            "Ghost"
-        ],
-        baseStats:{
-            hp:100,
-            atk:100,
-            def:100,
-            spa:100,
-            spd:100,
-            spe:100
-        },
-        abilities:{
-            0:"Wonder Guard"
-        },
-        heightm:1.5,
-        weightkg:61,
-        color:"White",
-        eggGroups:[
-            "Undiscovered"
-        ],
-        cosmeticFormes:[
-            "Pokestar Spirit-Prop"
-        ],
-        gen:5
-    },
-    pokestarblackdoor:{
-        num:-5012,
-        name:"Pokestar Black Door",
-        types:[
-            "Grass"
-        ],
-        gender:"F",
-        baseStats:{
-            hp:100,
-            atk:100,
-            def:100,
-            spa:100,
-            spd:100,
-            spe:100
-        },
-        abilities:{
-            0:"Early Bird"
-        },
-        heightm:1.5,
-        weightkg:61,
-        color:"White",
-        eggGroups:[
-            "Undiscovered"
-        ],
-        cosmeticFormes:[
-            "Pokestar Black Door-Prop"
-        ],
-        gen:5
-    },
-    pokestarwhitedoor:{
-        num:-5013,
-        name:"Pokestar White Door",
-        types:[
-            "Fire"
-        ],
-        gender:"M",
-        baseStats:{
-            hp:100,
-            atk:100,
-            def:100,
-            spa:100,
-            spd:100,
-            spe:100
-        },
-        abilities:{
-            0:"Blaze"
-        },
-        heightm:1.5,
-        weightkg:61,
-        color:"White",
-        eggGroups:[
-            "Undiscovered"
-        ],
-        cosmeticFormes:[
-            "Pokestar White Door-Prop"
-        ],
-        gen:5
-    },
-    pokestarblackbelt:{
-        num:-5014,
-        name:"Pokestar Black Belt",
-        types:[
-            "Fighting"
-        ],
-        gender:"M",
-        baseStats:{
-            hp:100,
-            atk:100,
-            def:100,
-            spa:100,
-            spd:100,
-            spe:100
-        },
-        abilities:{
-            0:"Huge Power"
-        },
-        heightm:1.5,
-        weightkg:61,
-        color:"White",
-        eggGroups:[
-            "Undiscovered"
-        ],
-        cosmeticFormes:[
-            "Pokestar Black Belt-Prop"
-        ],
-        gen:5
-    },
-    pokestarufopropu2:{
-        num:-5001,
-        name:"Pokestar UFO-PropU2",
-        baseSpecies:"Pokestar UFO",
-        forme:"PropU2",
-        types:[
-            "Psychic",
-            "Electric"
-        ],
-        gender:"N",
-        baseStats:{
-            hp:100,
-            atk:100,
-            def:100,
-            spa:100,
-            spd:100,
-            spe:100
-        },
-        abilities:{
-            0:"Levitate"
-        },
-        heightm:1.5,
-        weightkg:61,
-        color:"White",
-        eggGroups:[
-            "Undiscovered"
-        ],
-        gen:5
-    },
+    // syclar:{
+    //     num:-1,
+    //     name:"Syclar",
+    //     types:[
+    //         "Ice",
+    //         "Bug"
+    //     ],
+    //     baseStats:{
+    //         hp:40,
+    //         atk:76,
+    //         def:45,
+    //         spa:74,
+    //         spd:39,
+    //         spe:91
+    //     },
+    //     abilities:{
+    //         0:"Compound Eyes",
+    //         1:"Snow Cloak",
+    //         H:"Ice Body"
+    //     },
+    //     heightm:0.2,
+    //     weightkg:4,
+    //     color:"Blue",
+    //     evos:[
+    //         "Syclant"
+    //     ],
+    //     eggGroups:[
+    //         "Bug"
+    //     ],
+    //     gen:4
+    // },
+    // syclant:{
+    //     num:-2,
+    //     name:"Syclant",
+    //     types:[
+    //         "Ice",
+    //         "Bug"
+    //     ],
+    //     baseStats:{
+    //         hp:70,
+    //         atk:116,
+    //         def:70,
+    //         spa:114,
+    //         spd:64,
+    //         spe:121
+    //     },
+    //     abilities:{
+    //         0:"Compound Eyes",
+    //         1:"Mountaineer",
+    //         H:"Ice Body"
+    //     },
+    //     heightm:1.7,
+    //     weightkg:52,
+    //     color:"Blue",
+    //     prevo:"Syclar",
+    //     evoLevel:30,
+    //     eggGroups:[
+    //         "Bug"
+    //     ],
+    //     gen:4
+    // },
+    // revenankh:{
+    //     num:-3,
+    //     name:"Revenankh",
+    //     types:[
+    //         "Ghost",
+    //         "Fighting"
+    //     ],
+    //     baseStats:{
+    //         hp:90,
+    //         atk:105,
+    //         def:90,
+    //         spa:65,
+    //         spd:110,
+    //         spe:65
+    //     },
+    //     abilities:{
+    //         0:"Air Lock",
+    //         1:"Triage",
+    //         H:"Shed Skin"
+    //     },
+    //     heightm:1.8,
+    //     weightkg:44,
+    //     color:"White",
+    //     eggGroups:[
+    //         "Amorphous",
+    //         "Human-Like"
+    //     ],
+    //     gen:4
+    // },
+    // embirch:{
+    //     num:-4,
+    //     name:"Embirch",
+    //     types:[
+    //         "Fire",
+    //         "Grass"
+    //     ],
+    //     baseStats:{
+    //         hp:60,
+    //         atk:40,
+    //         def:55,
+    //         spa:65,
+    //         spd:40,
+    //         spe:60
+    //     },
+    //     abilities:{
+    //         0:"Reckless",
+    //         1:"Leaf Guard",
+    //         H:"Chlorophyll"
+    //     },
+    //     heightm:0.6,
+    //     weightkg:15,
+    //     color:"Brown",
+    //     evos:[
+    //         "Flarelm"
+    //     ],
+    //     eggGroups:[
+    //         "Monster",
+    //         "Dragon"
+    //     ],
+    //     gen:4
+    // },
+    // flarelm:{
+    //     num:-5,
+    //     name:"Flarelm",
+    //     types:[
+    //         "Fire",
+    //         "Grass"
+    //     ],
+    //     baseStats:{
+    //         hp:90,
+    //         atk:50,
+    //         def:95,
+    //         spa:75,
+    //         spd:70,
+    //         spe:40
+    //     },
+    //     abilities:{
+    //         0:"Rock Head",
+    //         1:"Battle Armor",
+    //         H:"White Smoke"
+    //     },
+    //     heightm:1.4,
+    //     weightkg:73,
+    //     color:"Brown",
+    //     prevo:"Embirch",
+    //     evoLevel:24,
+    //     evos:[
+    //         "Pyroak"
+    //     ],
+    //     eggGroups:[
+    //         "Monster",
+    //         "Dragon"
+    //     ],
+    //     gen:4
+    // },
+    // pyroak:{
+    //     num:-6,
+    //     name:"Pyroak",
+    //     types:[
+    //         "Fire",
+    //         "Grass"
+    //     ],
+    //     baseStats:{
+    //         hp:120,
+    //         atk:70,
+    //         def:105,
+    //         spa:70,
+    //         spd:65,
+    //         spe:60
+    //     },
+    //     abilities:{
+    //         0:"Rock Head",
+    //         1:"Battle Armor",
+    //         H:"Contrary"
+    //     },
+    //     heightm:2.1,
+    //     weightkg:168,
+    //     color:"Brown",
+    //     prevo:"Flarelm",
+    //     evoLevel:38,
+    //     eggGroups:[
+    //         "Monster",
+    //         "Dragon"
+    //     ],
+    //     gen:4
+    // },
+    // breezi:{
+    //     num:-7,
+    //     name:"Breezi",
+    //     types:[
+    //         "Poison",
+    //         "Flying"
+    //     ],
+    //     baseStats:{
+    //         hp:50,
+    //         atk:46,
+    //         def:69,
+    //         spa:60,
+    //         spd:50,
+    //         spe:75
+    //     },
+    //     abilities:{
+    //         0:"Unburden",
+    //         1:"Own Tempo",
+    //         H:"Frisk"
+    //     },
+    //     heightm:0.4,
+    //     weightkg:0.6,
+    //     color:"Purple",
+    //     evos:[
+    //         "Fidgit"
+    //     ],
+    //     eggGroups:[
+    //         "Field"
+    //     ],
+    //     gen:4
+    // },
+    // fidgit:{
+    //     num:-8,
+    //     name:"Fidgit",
+    //     types:[
+    //         "Poison",
+    //         "Ground"
+    //     ],
+    //     baseStats:{
+    //         hp:95,
+    //         atk:76,
+    //         def:109,
+    //         spa:90,
+    //         spd:80,
+    //         spe:105
+    //     },
+    //     abilities:{
+    //         0:"Persistent",
+    //         1:"Vital Spirit",
+    //         H:"Frisk"
+    //     },
+    //     heightm:0.9,
+    //     weightkg:53,
+    //     color:"Purple",
+    //     prevo:"Breezi",
+    //     evoLevel:33,
+    //     eggGroups:[
+    //         "Field"
+    //     ],
+    //     gen:4
+    // },
+    // rebble:{
+    //     num:-9,
+    //     name:"Rebble",
+    //     types:[
+    //         "Rock"
+    //     ],
+    //     gender:"N",
+    //     baseStats:{
+    //         hp:45,
+    //         atk:25,
+    //         def:65,
+    //         spa:75,
+    //         spd:55,
+    //         spe:80
+    //     },
+    //     abilities:{
+    //         0:"Levitate",
+    //         1:"Solid Rock",
+    //         H:"Sniper"
+    //     },
+    //     heightm:0.3,
+    //     weightkg:7,
+    //     color:"Gray",
+    //     evos:[
+    //         "Tactite"
+    //     ],
+    //     eggGroups:[
+    //         "Mineral"
+    //     ],
+    //     gen:4
+    // },
+    // tactite:{
+    //     num:-10,
+    //     name:"Tactite",
+    //     types:[
+    //         "Rock"
+    //     ],
+    //     gender:"N",
+    //     baseStats:{
+    //         hp:70,
+    //         atk:40,
+    //         def:65,
+    //         spa:100,
+    //         spd:65,
+    //         spe:95
+    //     },
+    //     abilities:{
+    //         0:"Levitate",
+    //         1:"Technician",
+    //         H:"Sniper"
+    //     },
+    //     heightm:0.6,
+    //     weightkg:16,
+    //     color:"Gray",
+    //     prevo:"Rebble",
+    //     evoLevel:28,
+    //     evos:[
+    //         "Stratagem"
+    //     ],
+    //     eggGroups:[
+    //         "Mineral"
+    //     ],
+    //     gen:4
+    // },
+    // stratagem:{
+    //     num:-11,
+    //     name:"Stratagem",
+    //     types:[
+    //         "Rock"
+    //     ],
+    //     gender:"N",
+    //     baseStats:{
+    //         hp:90,
+    //         atk:60,
+    //         def:65,
+    //         spa:120,
+    //         spd:70,
+    //         spe:130
+    //     },
+    //     abilities:{
+    //         0:"Levitate",
+    //         1:"Technician",
+    //         H:"Sniper"
+    //     },
+    //     heightm:0.9,
+    //     weightkg:45,
+    //     color:"Gray",
+    //     prevo:"Tactite",
+    //     evoType:"trade",
+    //     eggGroups:[
+    //         "Mineral"
+    //     ],
+    //     gen:4
+    // },
+    // privatyke:{
+    //     num:-12,
+    //     name:"Privatyke",
+    //     types:[
+    //         "Water",
+    //         "Fighting"
+    //     ],
+    //     baseStats:{
+    //         hp:65,
+    //         atk:75,
+    //         def:65,
+    //         spa:40,
+    //         spd:60,
+    //         spe:45
+    //     },
+    //     abilities:{
+    //         0:"Unaware",
+    //         H:"Technician"
+    //     },
+    //     heightm:1,
+    //     weightkg:35,
+    //     color:"Green",
+    //     evos:[
+    //         "Arghonaut"
+    //     ],
+    //     eggGroups:[
+    //         "Water 1",
+    //         "Water 3"
+    //     ],
+    //     gen:4
+    // },
+    // arghonaut:{
+    //     num:-13,
+    //     name:"Arghonaut",
+    //     types:[
+    //         "Water",
+    //         "Fighting"
+    //     ],
+    //     baseStats:{
+    //         hp:105,
+    //         atk:110,
+    //         def:95,
+    //         spa:70,
+    //         spd:100,
+    //         spe:75
+    //     },
+    //     abilities:{
+    //         0:"Unaware",
+    //         H:"Technician"
+    //     },
+    //     heightm:1.7,
+    //     weightkg:151,
+    //     color:"Green",
+    //     prevo:"Privatyke",
+    //     evoLevel:37,
+    //     eggGroups:[
+    //         "Water 1",
+    //         "Water 3"
+    //     ],
+    //     gen:4
+    // },
+    // kitsunoh:{
+    //     num:-14,
+    //     name:"Kitsunoh",
+    //     types:[
+    //         "Ghost",
+    //         "Steel"
+    //     ],
+    //     baseStats:{
+    //         hp:80,
+    //         atk:117,
+    //         def:85,
+    //         spa:55,
+    //         spd:80,
+    //         spe:128
+    //     },
+    //     abilities:{
+    //         0:"Frisk",
+    //         1:"Limber",
+    //         H:"Trace"
+    //     },
+    //     heightm:1.1,
+    //     weightkg:51,
+    //     color:"Gray",
+    //     prevo:"Nohface",
+    //     evoType:"trade",
+    //     evoItem:"Metal Coat",
+    //     eggGroups:[
+    //         "Field"
+    //     ],
+    //     gen:4
+    // },
+    // cyclohm:{
+    //     num:-15,
+    //     name:"Cyclohm",
+    //     types:[
+    //         "Electric",
+    //         "Dragon"
+    //     ],
+    //     baseStats:{
+    //         hp:108,
+    //         atk:60,
+    //         def:118,
+    //         spa:112,
+    //         spd:70,
+    //         spe:80
+    //     },
+    //     abilities:{
+    //         0:"Shield Dust",
+    //         1:"Static",
+    //         H:"Damp"
+    //     },
+    //     heightm:1.6,
+    //     weightkg:59,
+    //     color:"Yellow",
+    //     prevo:"Duohm",
+    //     evoLevel:43,
+    //     eggGroups:[
+    //         "Dragon",
+    //         "Monster"
+    //     ],
+    //     gen:4
+    // },
+    // colossoil:{
+    //     num:-16,
+    //     name:"Colossoil",
+    //     types:[
+    //         "Ground",
+    //         "Dark"
+    //     ],
+    //     baseStats:{
+    //         hp:133,
+    //         atk:122,
+    //         def:72,
+    //         spa:71,
+    //         spd:72,
+    //         spe:95
+    //     },
+    //     abilities:{
+    //         0:"Rebound",
+    //         1:"Guts",
+    //         H:"Unnerve"
+    //     },
+    //     heightm:2.6,
+    //     weightkg:683.6,
+    //     color:"Brown",
+    //     prevo:"Dorsoil",
+    //     evoLevel:39,
+    //     eggGroups:[
+    //         "Water 2",
+    //         "Field"
+    //     ],
+    //     gen:4
+    // },
+    // krilowatt:{
+    //     num:-17,
+    //     name:"Krilowatt",
+    //     types:[
+    //         "Electric",
+    //         "Water"
+    //     ],
+    //     baseStats:{
+    //         hp:151,
+    //         atk:84,
+    //         def:73,
+    //         spa:83,
+    //         spd:74,
+    //         spe:105
+    //     },
+    //     abilities:{
+    //         0:"Trace",
+    //         1:"Magic Guard",
+    //         H:"Minus"
+    //     },
+    //     heightm:0.7,
+    //     weightkg:10.6,
+    //     color:"Red",
+    //     prevo:"Protowatt",
+    //     evoLevel:15,
+    //     eggGroups:[
+    //         "Water 1",
+    //         "Fairy"
+    //     ],
+    //     gen:4
+    // },
+    // voodoll:{
+    //     num:-18,
+    //     name:"Voodoll",
+    //     types:[
+    //         "Normal",
+    //         "Dark"
+    //     ],
+    //     baseStats:{
+    //         hp:55,
+    //         atk:40,
+    //         def:55,
+    //         spa:75,
+    //         spd:50,
+    //         spe:70
+    //     },
+    //     abilities:{
+    //         0:"Volt Absorb",
+    //         1:"Lightning Rod",
+    //         H:"Cursed Body"
+    //     },
+    //     heightm:1,
+    //     weightkg:25,
+    //     color:"Brown",
+    //     evos:[
+    //         "Voodoom"
+    //     ],
+    //     eggGroups:[
+    //         "Human-Like",
+    //         "Field"
+    //     ],
+    //     gen:4
+    // },
+    // voodoom:{
+    //     num:-19,
+    //     name:"Voodoom",
+    //     types:[
+    //         "Fighting",
+    //         "Dark"
+    //     ],
+    //     baseStats:{
+    //         hp:90,
+    //         atk:85,
+    //         def:80,
+    //         spa:130,
+    //         spd:80,
+    //         spe:110
+    //     },
+    //     abilities:{
+    //         0:"Volt Absorb",
+    //         1:"Lightning Rod",
+    //         H:"Cursed Body"
+    //     },
+    //     heightm:2,
+    //     weightkg:75.5,
+    //     color:"Brown",
+    //     prevo:"Voodoll",
+    //     evoLevel:32,
+    //     eggGroups:[
+    //         "Human-Like",
+    //         "Field"
+    //     ],
+    //     gen:4
+    // },
+    // scratchet:{
+    //     num:-20,
+    //     name:"Scratchet",
+    //     types:[
+    //         "Normal",
+    //         "Fighting"
+    //     ],
+    //     baseStats:{
+    //         hp:55,
+    //         atk:85,
+    //         def:80,
+    //         spa:20,
+    //         spd:70,
+    //         spe:40
+    //     },
+    //     abilities:{
+    //         0:"Scrappy",
+    //         1:"Prankster",
+    //         H:"Vital Spirit"
+    //     },
+    //     heightm:0.5,
+    //     weightkg:20,
+    //     color:"Brown",
+    //     evos:[
+    //         "Tomohawk"
+    //     ],
+    //     eggGroups:[
+    //         "Field",
+    //         "Flying"
+    //     ],
+    //     gen:5
+    // },
+    // tomohawk:{
+    //     num:-21,
+    //     name:"Tomohawk",
+    //     types:[
+    //         "Flying",
+    //         "Fighting"
+    //     ],
+    //     baseStats:{
+    //         hp:105,
+    //         atk:60,
+    //         def:90,
+    //         spa:115,
+    //         spd:80,
+    //         spe:85
+    //     },
+    //     abilities:{
+    //         0:"Intimidate",
+    //         1:"Prankster",
+    //         H:"Justified"
+    //     },
+    //     heightm:1.27,
+    //     weightkg:37.2,
+    //     color:"Red",
+    //     prevo:"Scratchet",
+    //     evoLevel:23,
+    //     eggGroups:[
+    //         "Field",
+    //         "Flying"
+    //     ],
+    //     gen:5
+    // },
+    // necturine:{
+    //     num:-22,
+    //     name:"Necturine",
+    //     types:[
+    //         "Grass",
+    //         "Ghost"
+    //     ],
+    //     gender:"F",
+    //     baseStats:{
+    //         hp:49,
+    //         atk:55,
+    //         def:60,
+    //         spa:50,
+    //         spd:75,
+    //         spe:51
+    //     },
+    //     abilities:{
+    //         0:"Anticipation",
+    //         H:"Telepathy"
+    //     },
+    //     heightm:0.3,
+    //     weightkg:1.8,
+    //     color:"White",
+    //     evos:[
+    //         "Necturna"
+    //     ],
+    //     eggGroups:[
+    //         "Grass",
+    //         "Field"
+    //     ],
+    //     gen:5
+    // },
+    // necturna:{
+    //     num:-23,
+    //     name:"Necturna",
+    //     types:[
+    //         "Grass",
+    //         "Ghost"
+    //     ],
+    //     gender:"F",
+    //     baseStats:{
+    //         hp:64,
+    //         atk:120,
+    //         def:100,
+    //         spa:85,
+    //         spd:120,
+    //         spe:58
+    //     },
+    //     abilities:{
+    //         0:"Forewarn",
+    //         H:"Telepathy"
+    //     },
+    //     heightm:1.65,
+    //     weightkg:49.6,
+    //     color:"Black",
+    //     prevo:"Necturine",
+    //     evoLevel:31,
+    //     eggGroups:[
+    //         "Grass",
+    //         "Field"
+    //     ],
+    //     gen:5
+    // },
+    // mollux:{
+    //     num:-24,
+    //     name:"Mollux",
+    //     types:[
+    //         "Fire",
+    //         "Poison"
+    //     ],
+    //     baseStats:{
+    //         hp:95,
+    //         atk:45,
+    //         def:83,
+    //         spa:131,
+    //         spd:105,
+    //         spe:76
+    //     },
+    //     abilities:{
+    //         0:"Dry Skin",
+    //         H:"Illuminate"
+    //     },
+    //     heightm:1.2,
+    //     weightkg:41,
+    //     color:"Pink",
+    //     eggGroups:[
+    //         "Fairy",
+    //         "Field"
+    //     ],
+    //     gen:5
+    // },
+    // cupra:{
+    //     num:-25,
+    //     name:"Cupra",
+    //     types:[
+    //         "Bug",
+    //         "Psychic"
+    //     ],
+    //     baseStats:{
+    //         hp:50,
+    //         atk:60,
+    //         def:49,
+    //         spa:67,
+    //         spd:30,
+    //         spe:44
+    //     },
+    //     abilities:{
+    //         0:"Shield Dust",
+    //         1:"Keen Eye",
+    //         H:"Magic Guard"
+    //     },
+    //     heightm:0.5,
+    //     weightkg:4.8,
+    //     color:"Brown",
+    //     evos:[
+    //         "Argalis"
+    //     ],
+    //     eggGroups:[
+    //         "Bug"
+    //     ],
+    //     gen:5
+    // },
+    // argalis:{
+    //     num:-26,
+    //     name:"Argalis",
+    //     types:[
+    //         "Bug",
+    //         "Psychic"
+    //     ],
+    //     baseStats:{
+    //         hp:60,
+    //         atk:90,
+    //         def:89,
+    //         spa:87,
+    //         spd:40,
+    //         spe:54
+    //     },
+    //     abilities:{
+    //         0:"Shed Skin",
+    //         1:"Compound Eyes",
+    //         H:"Overcoat"
+    //     },
+    //     heightm:1.3,
+    //     weightkg:341.4,
+    //     color:"Gray",
+    //     prevo:"Cupra",
+    //     evoLevel:30,
+    //     evos:[
+    //         "Aurumoth"
+    //     ],
+    //     eggGroups:[
+    //         "Bug"
+    //     ],
+    //     gen:5
+    // },
+    // aurumoth:{
+    //     num:-27,
+    //     name:"Aurumoth",
+    //     types:[
+    //         "Bug",
+    //         "Psychic"
+    //     ],
+    //     baseStats:{
+    //         hp:110,
+    //         atk:120,
+    //         def:99,
+    //         spa:117,
+    //         spd:60,
+    //         spe:94
+    //     },
+    //     abilities:{
+    //         0:"Weak Armor",
+    //         1:"No Guard",
+    //         H:"Light Metal"
+    //     },
+    //     heightm:2.1,
+    //     weightkg:193,
+    //     color:"Purple",
+    //     prevo:"Argalis",
+    //     evoLevel:50,
+    //     eggGroups:[
+    //         "Bug"
+    //     ],
+    //     gen:5
+    // },
+    // brattler:{
+    //     num:-28,
+    //     name:"Brattler",
+    //     types:[
+    //         "Dark",
+    //         "Grass"
+    //     ],
+    //     baseStats:{
+    //         hp:80,
+    //         atk:70,
+    //         def:40,
+    //         spa:20,
+    //         spd:90,
+    //         spe:30
+    //     },
+    //     abilities:{
+    //         0:"Harvest",
+    //         1:"Infiltrator",
+    //         H:"Rattled"
+    //     },
+    //     heightm:1.8,
+    //     weightkg:11.5,
+    //     color:"Brown",
+    //     evos:[
+    //         "Malaconda"
+    //     ],
+    //     eggGroups:[
+    //         "Grass",
+    //         "Dragon"
+    //     ],
+    //     gen:5
+    // },
+    // malaconda:{
+    //     num:-29,
+    //     name:"Malaconda",
+    //     types:[
+    //         "Dark",
+    //         "Grass"
+    //     ],
+    //     baseStats:{
+    //         hp:115,
+    //         atk:100,
+    //         def:60,
+    //         spa:40,
+    //         spd:130,
+    //         spe:55
+    //     },
+    //     abilities:{
+    //         0:"Harvest",
+    //         1:"Infiltrator",
+    //         H:"Drought"
+    //     },
+    //     heightm:5.5,
+    //     weightkg:108.8,
+    //     color:"Brown",
+    //     prevo:"Brattler",
+    //     evoLevel:33,
+    //     eggGroups:[
+    //         "Grass",
+    //         "Dragon"
+    //     ],
+    //     gen:5
+    // },
+    // cawdet:{
+    //     num:-30,
+    //     name:"Cawdet",
+    //     types:[
+    //         "Steel",
+    //         "Flying"
+    //     ],
+    //     baseStats:{
+    //         hp:35,
+    //         atk:72,
+    //         def:85,
+    //         spa:40,
+    //         spd:55,
+    //         spe:88
+    //     },
+    //     abilities:{
+    //         0:"Keen Eye",
+    //         1:"Volt Absorb",
+    //         H:"Big Pecks"
+    //     },
+    //     heightm:0.76,
+    //     weightkg:25,
+    //     color:"Gray",
+    //     evos:[
+    //         "Cawmodore"
+    //     ],
+    //     eggGroups:[
+    //         "Flying"
+    //     ],
+    //     gen:5
+    // },
+    // cawmodore:{
+    //     num:-31,
+    //     name:"Cawmodore",
+    //     types:[
+    //         "Steel",
+    //         "Flying"
+    //     ],
+    //     baseStats:{
+    //         hp:50,
+    //         atk:92,
+    //         def:130,
+    //         spa:65,
+    //         spd:75,
+    //         spe:118
+    //     },
+    //     abilities:{
+    //         0:"Intimidate",
+    //         1:"Volt Absorb",
+    //         H:"Big Pecks"
+    //     },
+    //     heightm:1.7,
+    //     weightkg:37,
+    //     color:"Black",
+    //     prevo:"Cawdet",
+    //     evoLevel:33,
+    //     eggGroups:[
+    //         "Flying"
+    //     ],
+    //     gen:5
+    // },
+    // volkritter:{
+    //     num:-32,
+    //     name:"Volkritter",
+    //     types:[
+    //         "Water",
+    //         "Fire"
+    //     ],
+    //     baseStats:{
+    //         hp:60,
+    //         atk:30,
+    //         def:50,
+    //         spa:80,
+    //         spd:60,
+    //         spe:70
+    //     },
+    //     abilities:{
+    //         0:"Anticipation",
+    //         1:"Infiltrator",
+    //         H:"Unnerve"
+    //     },
+    //     heightm:0.3,
+    //     weightkg:15,
+    //     color:"Red",
+    //     evos:[
+    //         "Volkraken"
+    //     ],
+    //     eggGroups:[
+    //         "Water 1",
+    //         "Water 2"
+    //     ],
+    //     gen:6
+    // },
+    // volkraken:{
+    //     num:-33,
+    //     name:"Volkraken",
+    //     types:[
+    //         "Water",
+    //         "Fire"
+    //     ],
+    //     baseStats:{
+    //         hp:100,
+    //         atk:45,
+    //         def:80,
+    //         spa:135,
+    //         spd:100,
+    //         spe:95
+    //     },
+    //     abilities:{
+    //         0:"Analytic",
+    //         1:"Infiltrator",
+    //         H:"Pressure"
+    //     },
+    //     heightm:1.3,
+    //     weightkg:44.5,
+    //     color:"Red",
+    //     prevo:"Volkritter",
+    //     evoLevel:34,
+    //     eggGroups:[
+    //         "Water 1",
+    //         "Water 2"
+    //     ],
+    //     gen:6
+    // },
+    // snugglow:{
+    //     num:-34,
+    //     name:"Snugglow",
+    //     types:[
+    //         "Electric",
+    //         "Poison"
+    //     ],
+    //     baseStats:{
+    //         hp:40,
+    //         atk:37,
+    //         def:79,
+    //         spa:91,
+    //         spd:68,
+    //         spe:70
+    //     },
+    //     abilities:{
+    //         0:"Storm Drain",
+    //         1:"Vital Spirit",
+    //         H:"Telepathy"
+    //     },
+    //     heightm:1.2,
+    //     weightkg:6,
+    //     color:"Purple",
+    //     evos:[
+    //         "Plasmanta"
+    //     ],
+    //     eggGroups:[
+    //         "Water 1",
+    //         "Water 2"
+    //     ],
+    //     gen:6
+    // },
+    // plasmanta:{
+    //     num:-35,
+    //     name:"Plasmanta",
+    //     types:[
+    //         "Electric",
+    //         "Poison"
+    //     ],
+    //     baseStats:{
+    //         hp:60,
+    //         atk:57,
+    //         def:119,
+    //         spa:131,
+    //         spd:98,
+    //         spe:100
+    //     },
+    //     abilities:{
+    //         0:"Storm Drain",
+    //         1:"Vital Spirit",
+    //         H:"Telepathy"
+    //     },
+    //     heightm:7,
+    //     weightkg:460,
+    //     color:"Purple",
+    //     prevo:"Snugglow",
+    //     evoLevel:29,
+    //     eggGroups:[
+    //         "Water 1",
+    //         "Water 2"
+    //     ],
+    //     gen:6
+    // },
+    // floatoy:{
+    //     num:-36,
+    //     name:"Floatoy",
+    //     types:[
+    //         "Water"
+    //     ],
+    //     baseStats:{
+    //         hp:48,
+    //         atk:70,
+    //         def:40,
+    //         spa:70,
+    //         spd:30,
+    //         spe:77
+    //     },
+    //     abilities:{
+    //         0:"Water Veil",
+    //         1:"Heatproof",
+    //         H:"Swift Swim"
+    //     },
+    //     heightm:0.8,
+    //     weightkg:1.9,
+    //     color:"White",
+    //     evos:[
+    //         "Caimanoe"
+    //     ],
+    //     eggGroups:[
+    //         "Water 1",
+    //         "Field"
+    //     ],
+    //     gen:6
+    // },
+    // caimanoe:{
+    //     num:-37,
+    //     name:"Caimanoe",
+    //     types:[
+    //         "Water",
+    //         "Steel"
+    //     ],
+    //     baseStats:{
+    //         hp:73,
+    //         atk:85,
+    //         def:65,
+    //         spa:80,
+    //         spd:40,
+    //         spe:87
+    //     },
+    //     abilities:{
+    //         0:"Water Veil",
+    //         1:"Heatproof",
+    //         H:"Light Metal"
+    //     },
+    //     heightm:1.4,
+    //     weightkg:72.5,
+    //     color:"Gray",
+    //     prevo:"Floatoy",
+    //     evoLevel:21,
+    //     evos:[
+    //         "Naviathan"
+    //     ],
+    //     eggGroups:[
+    //         "Water 1",
+    //         "Field"
+    //     ],
+    //     gen:6
+    // },
+    // naviathan:{
+    //     num:-38,
+    //     name:"Naviathan",
+    //     types:[
+    //         "Water",
+    //         "Steel"
+    //     ],
+    //     baseStats:{
+    //         hp:103,
+    //         atk:110,
+    //         def:90,
+    //         spa:95,
+    //         spd:65,
+    //         spe:97
+    //     },
+    //     abilities:{
+    //         0:"Guts",
+    //         1:"Heatproof",
+    //         H:"Light Metal"
+    //     },
+    //     heightm:3,
+    //     weightkg:510,
+    //     color:"Gray",
+    //     prevo:"Caimanoe",
+    //     evoLevel:40,
+    //     eggGroups:[
+    //         "Water 1",
+    //         "Field"
+    //     ],
+    //     gen:6
+    // },
+    // crucibelle:{
+    //     num:-39,
+    //     name:"Crucibelle",
+    //     types:[
+    //         "Rock",
+    //         "Poison"
+    //     ],
+    //     genderRatio:{
+    //         M:0.25,
+    //         F:0.75
+    //     },
+    //     baseStats:{
+    //         hp:106,
+    //         atk:105,
+    //         def:65,
+    //         spa:75,
+    //         spd:85,
+    //         spe:104
+    //     },
+    //     abilities:{
+    //         0:"Regenerator",
+    //         1:"Mold Breaker",
+    //         H:"Liquid Ooze"
+    //     },
+    //     heightm:1.3,
+    //     weightkg:23.6,
+    //     color:"Purple",
+    //     eggGroups:[
+    //         "Amorphous",
+    //         "Mineral"
+    //     ],
+    //     otherFormes:[
+    //         "Crucibelle-Mega"
+    //     ],
+    //     formeOrder:[
+    //         "Crucibelle",
+    //         "Crucibelle-Mega"
+    //     ],
+    //     gen:6
+    // },
+    // crucibellemega:{
+    //     num:-39,
+    //     name:"Crucibelle-Mega",
+    //     baseSpecies:"Crucibelle",
+    //     forme:"Mega",
+    //     types:[
+    //         "Rock",
+    //         "Poison"
+    //     ],
+    //     genderRatio:{
+    //         M:0.25,
+    //         F:0.75
+    //     },
+    //     baseStats:{
+    //         hp:106,
+    //         atk:135,
+    //         def:75,
+    //         spa:91,
+    //         spd:125,
+    //         spe:108
+    //     },
+    //     abilities:{
+    //         0:"Magic Guard"
+    //     },
+    //     heightm:1.4,
+    //     weightkg:22.5,
+    //     color:"Purple",
+    //     eggGroups:[
+    //         "Amorphous",
+    //         "Mineral"
+    //     ],
+    //     requiredItem:"Crucibellite",
+    //     gen:6
+    // },
+    // pluffle:{
+    //     num:-40,
+    //     name:"Pluffle",
+    //     types:[
+    //         "Fairy"
+    //     ],
+    //     baseStats:{
+    //         hp:74,
+    //         atk:38,
+    //         def:51,
+    //         spa:65,
+    //         spd:78,
+    //         spe:49
+    //     },
+    //     abilities:{
+    //         0:"Natural Cure",
+    //         1:"Aroma Veil",
+    //         H:"Friend Guard"
+    //     },
+    //     heightm:0.8,
+    //     weightkg:1.8,
+    //     color:"Pink",
+    //     evos:[
+    //         "Kerfluffle"
+    //     ],
+    //     eggGroups:[
+    //         "Fairy",
+    //         "Human-Like"
+    //     ],
+    //     gen:6
+    // },
+    // kerfluffle:{
+    //     num:-41,
+    //     name:"Kerfluffle",
+    //     types:[
+    //         "Fairy",
+    //         "Fighting"
+    //     ],
+    //     baseStats:{
+    //         hp:84,
+    //         atk:78,
+    //         def:86,
+    //         spa:115,
+    //         spd:88,
+    //         spe:119
+    //     },
+    //     abilities:{
+    //         0:"Natural Cure",
+    //         1:"Aroma Veil",
+    //         H:"Friend Guard"
+    //     },
+    //     heightm:2.1,
+    //     weightkg:24.2,
+    //     color:"Pink",
+    //     prevo:"Pluffle",
+    //     evoType:"levelMove",
+    //     evoMove:"Play Rough",
+    //     eggGroups:[
+    //         "Fairy",
+    //         "Human-Like"
+    //     ],
+    //     gen:6
+    // },
+    // pajantom:{
+    //     num:-42,
+    //     name:"Pajantom",
+    //     types:[
+    //         "Dragon",
+    //         "Ghost"
+    //     ],
+    //     baseStats:{
+    //         hp:84,
+    //         atk:133,
+    //         def:71,
+    //         spa:51,
+    //         spd:111,
+    //         spe:101
+    //     },
+    //     abilities:{
+    //         0:"Comatose"
+    //     },
+    //     heightm:1.1,
+    //     weightkg:3.1,
+    //     color:"Purple",
+    //     eggGroups:[
+    //         "Dragon",
+    //         "Monster"
+    //     ],
+    //     gen:7
+    // },
+    // mumbao:{
+    //     num:-43,
+    //     name:"Mumbao",
+    //     types:[
+    //         "Grass",
+    //         "Fairy"
+    //     ],
+    //     baseStats:{
+    //         hp:55,
+    //         atk:30,
+    //         def:64,
+    //         spa:87,
+    //         spd:73,
+    //         spe:66
+    //     },
+    //     abilities:{
+    //         0:"Trace",
+    //         1:"Overcoat",
+    //         H:"Solar Power"
+    //     },
+    //     heightm:1,
+    //     weightkg:83,
+    //     color:"Brown",
+    //     evos:[
+    //         "Jumbao"
+    //     ],
+    //     eggGroups:[
+    //         "Grass"
+    //     ],
+    //     gen:7
+    // },
+    // jumbao:{
+    //     num:-44,
+    //     name:"Jumbao",
+    //     types:[
+    //         "Grass",
+    //         "Fairy"
+    //     ],
+    //     baseStats:{
+    //         hp:92,
+    //         atk:63,
+    //         def:97,
+    //         spa:124,
+    //         spd:104,
+    //         spe:96
+    //     },
+    //     abilities:{
+    //         0:"Trace",
+    //         1:"Overcoat",
+    //         H:"Drought"
+    //     },
+    //     heightm:2.4,
+    //     weightkg:200,
+    //     color:"Brown",
+    //     prevo:"Mumbao",
+    //     evoType:"levelFriendship",
+    //     evoCondition:"during the day",
+    //     eggGroups:[
+    //         "Grass"
+    //     ],
+    //     gen:7
+    // },
+    // fawnifer:{
+    //     num:-45,
+    //     name:"Fawnifer",
+    //     types:[
+    //         "Grass"
+    //     ],
+    //     genderRatio:{
+    //         M:0.875,
+    //         F:0.125
+    //     },
+    //     baseStats:{
+    //         hp:49,
+    //         atk:61,
+    //         def:42,
+    //         spa:52,
+    //         spd:40,
+    //         spe:76
+    //     },
+    //     abilities:{
+    //         0:"Overgrow",
+    //         H:"Lightning Rod"
+    //     },
+    //     heightm:0.7,
+    //     weightkg:6.9,
+    //     color:"Green",
+    //     evos:[
+    //         "Electrelk"
+    //     ],
+    //     eggGroups:[
+    //         "Field"
+    //     ],
+    //     gen:7
+    // },
+    // electrelk:{
+    //     num:-46,
+    //     name:"Electrelk",
+    //     types:[
+    //         "Grass",
+    //         "Electric"
+    //     ],
+    //     genderRatio:{
+    //         M:0.875,
+    //         F:0.125
+    //     },
+    //     baseStats:{
+    //         hp:59,
+    //         atk:81,
+    //         def:67,
+    //         spa:57,
+    //         spd:55,
+    //         spe:101
+    //     },
+    //     abilities:{
+    //         0:"Overgrow",
+    //         H:"Galvanize"
+    //     },
+    //     heightm:1.4,
+    //     weightkg:41.5,
+    //     color:"Green",
+    //     prevo:"Fawnifer",
+    //     evoLevel:17,
+    //     evos:[
+    //         "Caribolt"
+    //     ],
+    //     eggGroups:[
+    //         "Field"
+    //     ],
+    //     gen:7
+    // },
+    // caribolt:{
+    //     num:-47,
+    //     name:"Caribolt",
+    //     types:[
+    //         "Grass",
+    //         "Electric"
+    //     ],
+    //     genderRatio:{
+    //         M:0.875,
+    //         F:0.125
+    //     },
+    //     baseStats:{
+    //         hp:84,
+    //         atk:106,
+    //         def:82,
+    //         spa:77,
+    //         spd:80,
+    //         spe:106
+    //     },
+    //     abilities:{
+    //         0:"Overgrow",
+    //         H:"Galvanize"
+    //     },
+    //     heightm:2.5,
+    //     weightkg:140,
+    //     color:"Green",
+    //     prevo:"Electrelk",
+    //     evoLevel:34,
+    //     eggGroups:[
+    //         "Field"
+    //     ],
+    //     gen:7
+    // },
+    // smogecko:{
+    //     num:-48,
+    //     name:"Smogecko",
+    //     types:[
+    //         "Fire"
+    //     ],
+    //     genderRatio:{
+    //         M:0.875,
+    //         F:0.125
+    //     },
+    //     baseStats:{
+    //         hp:48,
+    //         atk:66,
+    //         def:43,
+    //         spa:58,
+    //         spd:48,
+    //         spe:56
+    //     },
+    //     abilities:{
+    //         0:"Blaze",
+    //         H:"Technician"
+    //     },
+    //     heightm:0.5,
+    //     weightkg:8.5,
+    //     color:"Red",
+    //     evos:[
+    //         "Smoguana"
+    //     ],
+    //     eggGroups:[
+    //         "Field",
+    //         "Monster"
+    //     ],
+    //     gen:7
+    // },
+    // smoguana:{
+    //     num:-49,
+    //     name:"Smoguana",
+    //     types:[
+    //         "Fire",
+    //         "Ground"
+    //     ],
+    //     genderRatio:{
+    //         M:0.875,
+    //         F:0.125
+    //     },
+    //     baseStats:{
+    //         hp:68,
+    //         atk:86,
+    //         def:53,
+    //         spa:68,
+    //         spd:68,
+    //         spe:76
+    //     },
+    //     abilities:{
+    //         0:"Blaze",
+    //         H:"Technician"
+    //     },
+    //     heightm:1.5,
+    //     weightkg:22.2,
+    //     color:"Red",
+    //     prevo:"Smogecko",
+    //     evoLevel:15,
+    //     evos:[
+    //         "Smokomodo"
+    //     ],
+    //     eggGroups:[
+    //         "Field",
+    //         "Monster"
+    //     ],
+    //     gen:7
+    // },
+    // smokomodo:{
+    //     num:-50,
+    //     name:"Smokomodo",
+    //     types:[
+    //         "Fire",
+    //         "Ground"
+    //     ],
+    //     genderRatio:{
+    //         M:0.875,
+    //         F:0.125
+    //     },
+    //     baseStats:{
+    //         hp:88,
+    //         atk:116,
+    //         def:67,
+    //         spa:88,
+    //         spd:78,
+    //         spe:97
+    //     },
+    //     abilities:{
+    //         0:"Blaze",
+    //         H:"Technician"
+    //     },
+    //     heightm:2.2,
+    //     weightkg:205,
+    //     color:"Red",
+    //     prevo:"Smoguana",
+    //     evoLevel:36,
+    //     eggGroups:[
+    //         "Field",
+    //         "Monster"
+    //     ],
+    //     gen:7
+    // },
+    // swirlpool:{
+    //     num:-51,
+    //     name:"Swirlpool",
+    //     types:[
+    //         "Water"
+    //     ],
+    //     genderRatio:{
+    //         M:0.875,
+    //         F:0.125
+    //     },
+    //     baseStats:{
+    //         hp:61,
+    //         atk:49,
+    //         def:70,
+    //         spa:50,
+    //         spd:62,
+    //         spe:28
+    //     },
+    //     abilities:{
+    //         0:"Torrent",
+    //         H:"Poison Heal"
+    //     },
+    //     heightm:0.5,
+    //     weightkg:7,
+    //     color:"Blue",
+    //     evos:[
+    //         "Coribalis"
+    //     ],
+    //     eggGroups:[
+    //         "Water 1",
+    //         "Fairy"
+    //     ],
+    //     gen:7
+    // },
+    // coribalis:{
+    //     num:-52,
+    //     name:"Coribalis",
+    //     types:[
+    //         "Water",
+    //         "Bug"
+    //     ],
+    //     genderRatio:{
+    //         M:0.875,
+    //         F:0.125
+    //     },
+    //     baseStats:{
+    //         hp:76,
+    //         atk:69,
+    //         def:90,
+    //         spa:65,
+    //         spd:77,
+    //         spe:43
+    //     },
+    //     abilities:{
+    //         0:"Torrent",
+    //         H:"Poison Heal"
+    //     },
+    //     heightm:1.4,
+    //     weightkg:24.5,
+    //     color:"Blue",
+    //     prevo:"Swirlpool",
+    //     evoLevel:17,
+    //     evos:[
+    //         "Snaelstrom"
+    //     ],
+    //     eggGroups:[
+    //         "Water 1",
+    //         "Fairy"
+    //     ],
+    //     gen:7
+    // },
+    // snaelstrom:{
+    //     num:-53,
+    //     name:"Snaelstrom",
+    //     types:[
+    //         "Water",
+    //         "Bug"
+    //     ],
+    //     genderRatio:{
+    //         M:0.875,
+    //         F:0.125
+    //     },
+    //     baseStats:{
+    //         hp:91,
+    //         atk:94,
+    //         def:110,
+    //         spa:80,
+    //         spd:97,
+    //         spe:63
+    //     },
+    //     abilities:{
+    //         0:"Torrent",
+    //         H:"Poison Heal"
+    //     },
+    //     heightm:2,
+    //     weightkg:120,
+    //     color:"Blue",
+    //     prevo:"Coribalis",
+    //     evoLevel:34,
+    //     eggGroups:[
+    //         "Water 1",
+    //         "Fairy"
+    //     ],
+    //     gen:7
+    // },
+    // justyke:{
+    //     num:-54,
+    //     name:"Justyke",
+    //     types:[
+    //         "Steel",
+    //         "Ground"
+    //     ],
+    //     gender:"N",
+    //     baseStats:{
+    //         hp:72,
+    //         atk:70,
+    //         def:56,
+    //         spa:83,
+    //         spd:68,
+    //         spe:30
+    //     },
+    //     abilities:{
+    //         0:"Levitate",
+    //         1:"Bulletproof",
+    //         H:"Justified"
+    //     },
+    //     heightm:0.4,
+    //     weightkg:36.5,
+    //     color:"Brown",
+    //     evos:[
+    //         "Equilibra"
+    //     ],
+    //     eggGroups:[
+    //         "Mineral"
+    //     ],
+    //     gen:7
+    // },
+    // equilibra:{
+    //     num:-55,
+    //     name:"Equilibra",
+    //     types:[
+    //         "Steel",
+    //         "Ground"
+    //     ],
+    //     gender:"N",
+    //     baseStats:{
+    //         hp:102,
+    //         atk:50,
+    //         def:96,
+    //         spa:133,
+    //         spd:118,
+    //         spe:60
+    //     },
+    //     abilities:{
+    //         0:"Levitate",
+    //         1:"Bulletproof",
+    //         H:"Justified"
+    //     },
+    //     heightm:0.8,
+    //     weightkg:51.3,
+    //     color:"Brown",
+    //     prevo:"Justyke",
+    //     evoLevel:32,
+    //     eggGroups:[
+    //         "Mineral"
+    //     ],
+    //     gen:7
+    // },
+    // solotl:{
+    //     num:-56,
+    //     name:"Solotl",
+    //     types:[
+    //         "Fire",
+    //         "Dragon"
+    //     ],
+    //     baseStats:{
+    //         hp:68,
+    //         atk:48,
+    //         def:34,
+    //         spa:72,
+    //         spd:24,
+    //         spe:84
+    //     },
+    //     abilities:{
+    //         0:"Regenerator",
+    //         1:"Vital Spirit",
+    //         H:"Magician"
+    //     },
+    //     heightm:0.6,
+    //     weightkg:11.8,
+    //     color:"Red",
+    //     evos:[
+    //         "Astrolotl"
+    //     ],
+    //     eggGroups:[
+    //         "Dragon",
+    //         "Fairy"
+    //     ],
+    //     gen:8
+    // },
+    // astrolotl:{
+    //     num:-57,
+    //     name:"Astrolotl",
+    //     types:[
+    //         "Fire",
+    //         "Dragon"
+    //     ],
+    //     baseStats:{
+    //         hp:108,
+    //         atk:108,
+    //         def:74,
+    //         spa:92,
+    //         spd:64,
+    //         spe:114
+    //     },
+    //     abilities:{
+    //         0:"Regenerator",
+    //         1:"Vital Spirit",
+    //         H:"Magician"
+    //     },
+    //     heightm:1.9,
+    //     weightkg:50,
+    //     color:"Red",
+    //     prevo:"Solotl",
+    //     evoLevel:35,
+    //     eggGroups:[
+    //         "Dragon",
+    //         "Fairy"
+    //     ],
+    //     gen:8
+    // },
+    // miasmite:{
+    //     num:-58,
+    //     name:"Miasmite",
+    //     types:[
+    //         "Bug",
+    //         "Dragon"
+    //     ],
+    //     baseStats:{
+    //         hp:40,
+    //         atk:85,
+    //         def:60,
+    //         spa:52,
+    //         spd:52,
+    //         spe:44
+    //     },
+    //     abilities:{
+    //         0:"Neutralizing Gas",
+    //         1:"Hyper Cutter",
+    //         H:"Compound Eyes"
+    //     },
+    //     heightm:0.6,
+    //     weightkg:10.1,
+    //     color:"Green",
+    //     evos:[
+    //         "Miasmaw"
+    //     ],
+    //     eggGroups:[
+    //         "Bug",
+    //         "Dragon"
+    //     ],
+    //     gen:8
+    // },
+    // miasmaw:{
+    //     num:-59,
+    //     name:"Miasmaw",
+    //     types:[
+    //         "Bug",
+    //         "Dragon"
+    //     ],
+    //     baseStats:{
+    //         hp:85,
+    //         atk:135,
+    //         def:60,
+    //         spa:88,
+    //         spd:105,
+    //         spe:99
+    //     },
+    //     abilities:{
+    //         0:"Neutralizing Gas",
+    //         1:"Hyper Cutter",
+    //         H:"Compound Eyes"
+    //     },
+    //     heightm:1.2,
+    //     weightkg:57,
+    //     color:"Green",
+    //     prevo:"Miasmite",
+    //     evoLevel:30,
+    //     eggGroups:[
+    //         "Bug",
+    //         "Dragon"
+    //     ],
+    //     gen:8
+    // },
+    // chromera:{
+    //     num:-60,
+    //     name:"Chromera",
+    //     types:[
+    //         "Dark",
+    //         "Normal"
+    //     ],
+    //     gender:"N",
+    //     baseStats:{
+    //         hp:85,
+    //         atk:85,
+    //         def:115,
+    //         spa:115,
+    //         spd:100,
+    //         spe:100
+    //     },
+    //     abilities:{
+    //         0:"Color Change"
+    //     },
+    //     heightm:2.5,
+    //     weightkg:215,
+    //     color:"Purple",
+    //     eggGroups:[
+    //         "Undiscovered"
+    //     ],
+    //     gen:8
+    // },
+    // nohface:{
+    //     num:-61,
+    //     name:"Nohface",
+    //     types:[
+    //         "Ghost"
+    //     ],
+    //     baseStats:{
+    //         hp:50,
+    //         atk:73,
+    //         def:50,
+    //         spa:30,
+    //         spd:50,
+    //         spe:80
+    //     },
+    //     abilities:{
+    //         0:"Frisk",
+    //         1:"Limber",
+    //         H:"Unnerve"
+    //     },
+    //     heightm:0.5,
+    //     weightkg:5.9,
+    //     color:"Blue",
+    //     evos:[
+    //         "Kitsunoh"
+    //     ],
+    //     eggGroups:[
+    //         "Field"
+    //     ],
+    //     gen:4
+    // },
+    // monohm:{
+    //     num:-62,
+    //     name:"Monohm",
+    //     types:[
+    //         "Electric"
+    //     ],
+    //     baseStats:{
+    //         hp:53,
+    //         atk:40,
+    //         def:58,
+    //         spa:67,
+    //         spd:55,
+    //         spe:55
+    //     },
+    //     abilities:{
+    //         0:"Shield Dust",
+    //         1:"Static",
+    //         H:"Damp"
+    //     },
+    //     heightm:0.6,
+    //     weightkg:4.1,
+    //     color:"Yellow",
+    //     evos:[
+    //         "Duohm"
+    //     ],
+    //     eggGroups:[
+    //         "Dragon",
+    //         "Monster"
+    //     ],
+    //     gen:4
+    // },
+    // duohm:{
+    //     num:-63,
+    //     name:"Duohm",
+    //     types:[
+    //         "Electric",
+    //         "Dragon"
+    //     ],
+    //     baseStats:{
+    //         hp:88,
+    //         atk:40,
+    //         def:103,
+    //         spa:77,
+    //         spd:60,
+    //         spe:60
+    //     },
+    //     abilities:{
+    //         0:"Shield Dust",
+    //         1:"Static",
+    //         H:"Damp"
+    //     },
+    //     heightm:1.1,
+    //     weightkg:19.2,
+    //     color:"Yellow",
+    //     prevo:"Monohm",
+    //     evoLevel:32,
+    //     evos:[
+    //         "Cyclohm"
+    //     ],
+    //     eggGroups:[
+    //         "Dragon",
+    //         "Monster"
+    //     ],
+    //     gen:4
+    // },
+    // dorsoil:{
+    //     num:-64,
+    //     name:"Dorsoil",
+    //     types:[
+    //         "Ground"
+    //     ],
+    //     baseStats:{
+    //         hp:103,
+    //         atk:72,
+    //         def:52,
+    //         spa:61,
+    //         spd:52,
+    //         spe:65
+    //     },
+    //     abilities:{
+    //         0:"Oblivious",
+    //         1:"Guts",
+    //         H:"Unnerve"
+    //     },
+    //     heightm:1.3,
+    //     weightkg:145,
+    //     color:"White",
+    //     evos:[
+    //         "Colossoil"
+    //     ],
+    //     eggGroups:[
+    //         "Water 2",
+    //         "Field"
+    //     ],
+    //     gen:4
+    // },
+    // protowatt:{
+    //     num:-65,
+    //     name:"Protowatt",
+    //     types:[
+    //         "Electric",
+    //         "Water"
+    //     ],
+    //     baseStats:{
+    //         hp:51,
+    //         atk:44,
+    //         def:33,
+    //         spa:43,
+    //         spd:34,
+    //         spe:65
+    //     },
+    //     abilities:{
+    //         0:"Trace",
+    //         1:"Magic Guard",
+    //         H:"Minus"
+    //     },
+    //     heightm:0.1,
+    //     weightkg:0.1,
+    //     color:"Red",
+    //     evos:[
+    //         "Krilowatt"
+    //     ],
+    //     eggGroups:[
+    //         "Water 1",
+    //         "Fairy"
+    //     ],
+    //     gen:4
+    // },
+    // venomicon:{
+    //     num:-66,
+    //     name:"Venomicon",
+    //     baseForme:"Prologue",
+    //     types:[
+    //         "Poison",
+    //         "Flying"
+    //     ],
+    //     gender:"N",
+    //     baseStats:{
+    //         hp:85,
+    //         atk:50,
+    //         def:113,
+    //         spa:118,
+    //         spd:90,
+    //         spe:64
+    //     },
+    //     abilities:{
+    //         0:"Stamina",
+    //         H:"Power of Alchemy"
+    //     },
+    //     heightm:0.8,
+    //     weightkg:11.5,
+    //     color:"Purple",
+    //     eggGroups:[
+    //         "Amorphous"
+    //     ],
+    //     otherFormes:[
+    //         "Venomicon-Epilogue"
+    //     ],
+    //     formeOrder:[
+    //         "Venomicon",
+    //         "Venomicon-Epilogue"
+    //     ],
+    //     gen:8
+    // },
+    // venomiconepilogue:{
+    //     num:-66,
+    //     name:"Venomicon-Epilogue",
+    //     baseSpecies:"Venomicon",
+    //     forme:"Epilogue",
+    //     types:[
+    //         "Poison",
+    //         "Flying"
+    //     ],
+    //     gender:"N",
+    //     baseStats:{
+    //         hp:85,
+    //         atk:102,
+    //         def:85,
+    //         spa:62,
+    //         spd:85,
+    //         spe:101
+    //     },
+    //     abilities:{
+    //         0:"Tinted Lens"
+    //     },
+    //     heightm:0.8,
+    //     weightkg:12.4,
+    //     color:"Purple",
+    //     eggGroups:[
+    //         "Amorphous"
+    //     ],
+    //     requiredItem:"Vile Vial",
+    //     changesFrom:"Venomicon",
+    //     gen:8
+    // },
+    // saharascal:{
+    //     num:-67,
+    //     name:"Saharascal",
+    //     types:[
+    //         "Ground"
+    //     ],
+    //     baseStats:{
+    //         hp:50,
+    //         atk:80,
+    //         def:65,
+    //         spa:45,
+    //         spd:90,
+    //         spe:70
+    //     },
+    //     abilities:{
+    //         0:"Water Absorb",
+    //         1:"Pickpocket",
+    //         H:"Sand Spit"
+    //     },
+    //     heightm:1.2,
+    //     weightkg:48,
+    //     color:"Brown",
+    //     evos:[
+    //         "Saharaja"
+    //     ],
+    //     eggGroups:[
+    //         "Field"
+    //     ],
+    //     gen:8
+    // },
+    // saharaja:{
+    //     num:-68,
+    //     name:"Saharaja",
+    //     types:[
+    //         "Ground"
+    //     ],
+    //     baseStats:{
+    //         hp:70,
+    //         atk:112,
+    //         def:105,
+    //         spa:65,
+    //         spd:123,
+    //         spe:78
+    //     },
+    //     abilities:{
+    //         0:"Water Absorb",
+    //         1:"Serene Grace",
+    //         H:"Sand Spit"
+    //     },
+    //     heightm:2.3,
+    //     weightkg:303.9,
+    //     color:"White",
+    //     prevo:"Saharascal",
+    //     evoType:"useItem",
+    //     evoItem:"Shiny Stone",
+    //     eggGroups:[
+    //         "Field"
+    //     ],
+    //     gen:8
+    // },
+    // ababo:{
+    //     num:-69,
+    //     name:"Ababo",
+    //     types:[
+    //         "Fairy"
+    //     ],
+    //     genderRatio:{
+    //         M:0.75,
+    //         F:0.25
+    //     },
+    //     baseStats:{
+    //         hp:42,
+    //         atk:35,
+    //         def:27,
+    //         spa:35,
+    //         spd:35,
+    //         spe:38
+    //     },
+    //     abilities:{
+    //         0:"Pixilate",
+    //         1:"Rattled",
+    //         H:"Own Tempo"
+    //     },
+    //     heightm:0.5,
+    //     weightkg:3.5,
+    //     color:"White",
+    //     evos:[
+    //         "Scattervein"
+    //     ],
+    //     eggGroups:[
+    //         "Undiscovered"
+    //     ],
+    //     canHatch:true,
+    //     gen:9
+    // },
+    // scattervein:{
+    //     num:-70,
+    //     name:"Scattervein",
+    //     types:[
+    //         "Fairy"
+    //     ],
+    //     genderRatio:{
+    //         M:0.75,
+    //         F:0.25
+    //     },
+    //     baseStats:{
+    //         hp:75,
+    //         atk:74,
+    //         def:87,
+    //         spa:62,
+    //         spd:89,
+    //         spe:63
+    //     },
+    //     abilities:{
+    //         0:"Pixilate",
+    //         1:"Intimidate",
+    //         H:"Own Tempo"
+    //     },
+    //     heightm:1.5,
+    //     weightkg:25,
+    //     color:"Pink",
+    //     prevo:"Ababo",
+    //     evoType:"levelFriendship",
+    //     evos:[
+    //         "Hemogoblin"
+    //     ],
+    //     eggGroups:[
+    //         "Monster",
+    //         "Fairy"
+    //     ],
+    //     canHatch:true,
+    //     gen:9
+    // },
+    // hemogoblin:{
+    //     num:-71,
+    //     name:"Hemogoblin",
+    //     types:[
+    //         "Fairy",
+    //         "Fire"
+    //     ],
+    //     genderRatio:{
+    //         M:0.75,
+    //         F:0.25
+    //     },
+    //     baseStats:{
+    //         hp:90,
+    //         atk:96,
+    //         def:87,
+    //         spa:96,
+    //         spd:89,
+    //         spe:55
+    //     },
+    //     abilities:{
+    //         0:"Pixilate",
+    //         1:"Intimidate",
+    //         H:"Own Tempo"
+    //     },
+    //     heightm:1.4,
+    //     weightkg:85,
+    //     color:"Pink",
+    //     prevo:"Scattervein",
+    //     evoType:"useItem",
+    //     evoItem:"Fire Stone",
+    //     eggGroups:[
+    //         "Monster",
+    //         "Fairy"
+    //     ],
+    //     gen:9
+    // },
+    // cresceidon:{
+    //     num:-72,
+    //     name:"Cresceidon",
+    //     types:[
+    //         "Water",
+    //         "Fairy"
+    //     ],
+    //     baseStats:{
+    //         hp:80,
+    //         atk:32,
+    //         def:111,
+    //         spa:88,
+    //         spd:99,
+    //         spe:124
+    //     },
+    //     abilities:{
+    //         0:"Multiscale",
+    //         1:"Rough Skin",
+    //         H:"Water Veil"
+    //     },
+    //     heightm:10,
+    //     weightkg:999.9,
+    //     color:"Blue",
+    //     eggGroups:[
+    //         "Amorphous",
+    //         "Water 3"
+    //     ],
+    //     gen:9
+    // },
+    // chuggalong:{
+    //     num:-75,
+    //     name:"Chuggalong",
+    //     types:[
+    //         "Dragon",
+    //         "Poison"
+    //     ],
+    //     baseStats:{
+    //         hp:45,
+    //         atk:43,
+    //         def:117,
+    //         spa:120,
+    //         spd:110,
+    //         spe:108
+    //     },
+    //     abilities:{
+    //         0:"Armor Tail",
+    //         1:"White Smoke",
+    //         H:"Slow Start"
+    //     },
+    //     heightm:6.2,
+    //     weightkg:201.6,
+    //     color:"Black",
+    //     eggGroups:[
+    //         "Dragon",
+    //         "Mineral"
+    //     ],
+    //     gen:9
+    // },
+    // pokestarsmeargle:{
+    //     num:-5000,
+    //     name:"Pokestar Smeargle",
+    //     types:[
+    //         "Normal"
+    //     ],
+    //     baseStats:{
+    //         hp:55,
+    //         atk:20,
+    //         def:35,
+    //         spa:20,
+    //         spd:45,
+    //         spe:75
+    //     },
+    //     abilities:{
+    //         0:"Own Tempo",
+    //         1:"Technician",
+    //         H:"Moody"
+    //     },
+    //     heightm:1.5,
+    //     weightkg:61,
+    //     color:"White",
+    //     eggGroups:[
+    //         "Field"
+    //     ],
+    //     gen:5
+    // },
+    // pokestarufo:{
+    //     num:-5001,
+    //     name:"Pokestar UFO",
+    //     types:[
+    //         "Flying",
+    //         "Electric"
+    //     ],
+    //     gender:"N",
+    //     baseStats:{
+    //         hp:100,
+    //         atk:100,
+    //         def:100,
+    //         spa:100,
+    //         spd:100,
+    //         spe:100
+    //     },
+    //     abilities:{
+    //         0:"Levitate"
+    //     },
+    //     heightm:1.5,
+    //     weightkg:61,
+    //     color:"White",
+    //     eggGroups:[
+    //         "Undiscovered"
+    //     ],
+    //     otherFormes:[
+    //         "Pokestar UFO-2",
+    //         "Pokestar UFO-PropU2"
+    //     ],
+    //     cosmeticFormes:[
+    //         "Pokestar UFO-PropU1"
+    //     ],
+    //     gen:5
+    // },
+    // pokestarufo2:{
+    //     num:-5001,
+    //     name:"Pokestar UFO-2",
+    //     baseSpecies:"Pokestar UFO",
+    //     forme:"2",
+    //     types:[
+    //         "Psychic",
+    //         "Electric"
+    //     ],
+    //     gender:"N",
+    //     baseStats:{
+    //         hp:100,
+    //         atk:100,
+    //         def:100,
+    //         spa:100,
+    //         spd:100,
+    //         spe:100
+    //     },
+    //     abilities:{
+    //         0:"Levitate"
+    //     },
+    //     heightm:1.5,
+    //     weightkg:61,
+    //     color:"White",
+    //     eggGroups:[
+    //         "Undiscovered"
+    //     ],
+    //     gen:5
+    // },
+    // pokestarbrycenman:{
+    //     num:-5002,
+    //     name:"Pokestar Brycen-Man",
+    //     types:[
+    //         "Dark",
+    //         "Psychic"
+    //     ],
+    //     gender:"M",
+    //     baseStats:{
+    //         hp:100,
+    //         atk:100,
+    //         def:100,
+    //         spa:100,
+    //         spd:100,
+    //         spe:100
+    //     },
+    //     abilities:{
+    //         0:"Levitate"
+    //     },
+    //     heightm:1.5,
+    //     weightkg:61,
+    //     color:"White",
+    //     eggGroups:[
+    //         "Undiscovered"
+    //     ],
+    //     cosmeticFormes:[
+    //         "Pokestar Brycen-Man-Prop"
+    //     ],
+    //     gen:5
+    // },
+    // pokestarmt:{
+    //     num:-5003,
+    //     name:"Pokestar MT",
+    //     types:[
+    //         "Steel"
+    //     ],
+    //     gender:"N",
+    //     baseStats:{
+    //         hp:100,
+    //         atk:100,
+    //         def:100,
+    //         spa:100,
+    //         spd:100,
+    //         spe:100
+    //     },
+    //     abilities:{
+    //         0:"Analytic"
+    //     },
+    //     heightm:1.5,
+    //     weightkg:61,
+    //     color:"White",
+    //     eggGroups:[
+    //         "Undiscovered"
+    //     ],
+    //     cosmeticFormes:[
+    //         "Pokestar MT-Prop"
+    //     ],
+    //     gen:5
+    // },
+    // pokestarmt2:{
+    //     num:-5004,
+    //     name:"Pokestar MT2",
+    //     types:[
+    //         "Steel",
+    //         "Electric"
+    //     ],
+    //     gender:"N",
+    //     baseStats:{
+    //         hp:100,
+    //         atk:100,
+    //         def:100,
+    //         spa:100,
+    //         spd:100,
+    //         spe:100
+    //     },
+    //     abilities:{
+    //         0:"Flash Fire"
+    //     },
+    //     heightm:1.5,
+    //     weightkg:61,
+    //     color:"White",
+    //     eggGroups:[
+    //         "Undiscovered"
+    //     ],
+    //     cosmeticFormes:[
+    //         "Pokestar MT2-Prop"
+    //     ],
+    //     gen:5
+    // },
+    // pokestartransport:{
+    //     num:-5005,
+    //     name:"Pokestar Transport",
+    //     types:[
+    //         "Steel"
+    //     ],
+    //     gender:"N",
+    //     baseStats:{
+    //         hp:100,
+    //         atk:100,
+    //         def:100,
+    //         spa:100,
+    //         spd:100,
+    //         spe:100
+    //     },
+    //     abilities:{
+    //         0:"Motor Drive"
+    //     },
+    //     heightm:1.5,
+    //     weightkg:61,
+    //     color:"White",
+    //     eggGroups:[
+    //         "Undiscovered"
+    //     ],
+    //     cosmeticFormes:[
+    //         "Pokestar Transport-Prop"
+    //     ],
+    //     gen:5
+    // },
+    // pokestargiant:{
+    //     num:-5006,
+    //     name:"Pokestar Giant",
+    //     types:[
+    //         "Normal"
+    //     ],
+    //     gender:"F",
+    //     baseStats:{
+    //         hp:100,
+    //         atk:100,
+    //         def:100,
+    //         spa:100,
+    //         spd:100,
+    //         spe:100
+    //     },
+    //     abilities:{
+    //         0:"Huge Power"
+    //     },
+    //     heightm:1.5,
+    //     weightkg:61,
+    //     color:"White",
+    //     eggGroups:[
+    //         "Undiscovered"
+    //     ],
+    //     cosmeticFormes:[
+    //         "Pokestar Giant-2",
+    //         "Pokestar Giant-PropO1",
+    //         "Pokestar Giant-PropO2"
+    //     ],
+    //     gen:5
+    // },
+    // pokestarhumanoid:{
+    //     num:-5007,
+    //     name:"Pokestar Humanoid",
+    //     types:[
+    //         "Normal"
+    //     ],
+    //     baseStats:{
+    //         hp:100,
+    //         atk:100,
+    //         def:100,
+    //         spa:100,
+    //         spd:100,
+    //         spe:100
+    //     },
+    //     abilities:{
+    //         0:"Insomnia"
+    //     },
+    //     heightm:1.5,
+    //     weightkg:61,
+    //     color:"White",
+    //     eggGroups:[
+    //         "Undiscovered"
+    //     ],
+    //     cosmeticFormes:[
+    //         "Pokestar Humanoid-Prop"
+    //     ],
+    //     gen:5
+    // },
+    // pokestarmonster:{
+    //     num:-5008,
+    //     name:"Pokestar Monster",
+    //     types:[
+    //         "Dark"
+    //     ],
+    //     baseStats:{
+    //         hp:100,
+    //         atk:100,
+    //         def:100,
+    //         spa:100,
+    //         spd:100,
+    //         spe:100
+    //     },
+    //     abilities:{
+    //         0:"Pressure"
+    //     },
+    //     heightm:1.5,
+    //     weightkg:61,
+    //     color:"White",
+    //     eggGroups:[
+    //         "Undiscovered"
+    //     ],
+    //     cosmeticFormes:[
+    //         "Pokestar Monster-Prop"
+    //     ],
+    //     gen:5
+    // },
+    // pokestarf00:{
+    //     num:-5009,
+    //     name:"Pokestar F-00",
+    //     types:[
+    //         "Steel",
+    //         "Normal"
+    //     ],
+    //     baseStats:{
+    //         hp:100,
+    //         atk:100,
+    //         def:100,
+    //         spa:100,
+    //         spd:100,
+    //         spe:100
+    //     },
+    //     abilities:{
+    //         0:"Volt Absorb"
+    //     },
+    //     heightm:1.5,
+    //     weightkg:61,
+    //     color:"White",
+    //     eggGroups:[
+    //         "Undiscovered"
+    //     ],
+    //     cosmeticFormes:[
+    //         "Pokestar F-00-Prop"
+    //     ],
+    //     gen:5
+    // },
+    // pokestarf002:{
+    //     num:-5010,
+    //     name:"Pokestar F-002",
+    //     types:[
+    //         "Steel",
+    //         "Normal"
+    //     ],
+    //     baseStats:{
+    //         hp:100,
+    //         atk:100,
+    //         def:100,
+    //         spa:100,
+    //         spd:100,
+    //         spe:100
+    //     },
+    //     abilities:{
+    //         0:"Reckless"
+    //     },
+    //     heightm:1.5,
+    //     weightkg:61,
+    //     color:"White",
+    //     eggGroups:[
+    //         "Undiscovered"
+    //     ],
+    //     cosmeticFormes:[
+    //         "Pokestar F-002-Prop"
+    //     ],
+    //     gen:5
+    // },
+    // pokestarspirit:{
+    //     num:-5011,
+    //     name:"Pokestar Spirit",
+    //     types:[
+    //         "Dark",
+    //         "Ghost"
+    //     ],
+    //     baseStats:{
+    //         hp:100,
+    //         atk:100,
+    //         def:100,
+    //         spa:100,
+    //         spd:100,
+    //         spe:100
+    //     },
+    //     abilities:{
+    //         0:"Wonder Guard"
+    //     },
+    //     heightm:1.5,
+    //     weightkg:61,
+    //     color:"White",
+    //     eggGroups:[
+    //         "Undiscovered"
+    //     ],
+    //     cosmeticFormes:[
+    //         "Pokestar Spirit-Prop"
+    //     ],
+    //     gen:5
+    // },
+    // pokestarblackdoor:{
+    //     num:-5012,
+    //     name:"Pokestar Black Door",
+    //     types:[
+    //         "Grass"
+    //     ],
+    //     gender:"F",
+    //     baseStats:{
+    //         hp:100,
+    //         atk:100,
+    //         def:100,
+    //         spa:100,
+    //         spd:100,
+    //         spe:100
+    //     },
+    //     abilities:{
+    //         0:"Early Bird"
+    //     },
+    //     heightm:1.5,
+    //     weightkg:61,
+    //     color:"White",
+    //     eggGroups:[
+    //         "Undiscovered"
+    //     ],
+    //     cosmeticFormes:[
+    //         "Pokestar Black Door-Prop"
+    //     ],
+    //     gen:5
+    // },
+    // pokestarwhitedoor:{
+    //     num:-5013,
+    //     name:"Pokestar White Door",
+    //     types:[
+    //         "Fire"
+    //     ],
+    //     gender:"M",
+    //     baseStats:{
+    //         hp:100,
+    //         atk:100,
+    //         def:100,
+    //         spa:100,
+    //         spd:100,
+    //         spe:100
+    //     },
+    //     abilities:{
+    //         0:"Blaze"
+    //     },
+    //     heightm:1.5,
+    //     weightkg:61,
+    //     color:"White",
+    //     eggGroups:[
+    //         "Undiscovered"
+    //     ],
+    //     cosmeticFormes:[
+    //         "Pokestar White Door-Prop"
+    //     ],
+    //     gen:5
+    // },
+    // pokestarblackbelt:{
+    //     num:-5014,
+    //     name:"Pokestar Black Belt",
+    //     types:[
+    //         "Fighting"
+    //     ],
+    //     gender:"M",
+    //     baseStats:{
+    //         hp:100,
+    //         atk:100,
+    //         def:100,
+    //         spa:100,
+    //         spd:100,
+    //         spe:100
+    //     },
+    //     abilities:{
+    //         0:"Huge Power"
+    //     },
+    //     heightm:1.5,
+    //     weightkg:61,
+    //     color:"White",
+    //     eggGroups:[
+    //         "Undiscovered"
+    //     ],
+    //     cosmeticFormes:[
+    //         "Pokestar Black Belt-Prop"
+    //     ],
+    //     gen:5
+    // },
+    // pokestarufopropu2:{
+    //     num:-5001,
+    //     name:"Pokestar UFO-PropU2",
+    //     baseSpecies:"Pokestar UFO",
+    //     forme:"PropU2",
+    //     types:[
+    //         "Psychic",
+    //         "Electric"
+    //     ],
+    //     gender:"N",
+    //     baseStats:{
+    //         hp:100,
+    //         atk:100,
+    //         def:100,
+    //         spa:100,
+    //         spd:100,
+    //         spe:100
+    //     },
+    //     abilities:{
+    //         0:"Levitate"
+    //     },
+    //     heightm:1.5,
+    //     weightkg:61,
+    //     color:"White",
+    //     eggGroups:[
+    //         "Undiscovered"
+    //     ],
+    //     gen:5
+    // },
     warliv:{
         num:-6001,
         name:"Warliv",
