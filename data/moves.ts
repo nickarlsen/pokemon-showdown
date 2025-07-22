@@ -22718,6 +22718,24 @@ export const Moves: import('../sim/dex-moves').MoveDataTable = {
 		type: "Normal",
 		contestType: "Cool",
 	},
+	dracorush: {
+		num: -1037,
+		accuracy: 100,
+		basePower: 40,
+		category: "Physical",
+		name: "Draco Rush",
+		pp: 20,
+		priority: 1,
+		flags: {contact: 1, protect: 1, mirror: 1},
+		secondary: {
+			chance: 100,
+			status: 'brn',	
+		},
+		target: "normal",
+		type: "Dragon",
+		contestType: "Cool",
+	},
+		
 
 
 

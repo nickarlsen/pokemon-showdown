@@ -7726,5 +7726,10 @@ export const MovesText: {[id: IDEntry]: MoveText} = {
 		desc: "Swiftly reinforces the user's armor, sharply raising Sp.Def.",
 		shortDesc: "User raises Sp.Def. by 2 stages",
 	},
-
+	dracorush: {
+		name: "Draco Rush",
+		desc: "Sets the user's heart ablaze. Burns the target.",
+		shortDesc: "Burns the target.",
+	}
+	
 };
