@@ -9538,7 +9538,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             ]
         }
     },
-    cntiskorch: {
+    centiskorch: {
         inherit: true,
         learnset: {
             tackle: [
