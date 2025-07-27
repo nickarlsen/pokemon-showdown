@@ -13539,7 +13539,7 @@ export const Moves: import('../sim/dex-moves').MoveDataTable = {
 		flags: {protect: 1, mirror: 1, sound: 1, bypasssub: 1},
 		secondary: null,
 		target: "allAdjacentFoes",
-		type: "Electric",
+		type: "Psychic",
 	},
 	overheat: {
 		num: -315,

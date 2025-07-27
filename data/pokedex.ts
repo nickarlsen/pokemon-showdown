@@ -4539,7 +4539,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:60
         },
         abilities:{
-            0:"Serene grace",
+            0:"Serene Grace",
             1:"Early bird"
         },
         heightm:1.8,
@@ -8370,7 +8370,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:45
         },
         abilities:{
-            0:"Serene grace"
+            0:"Serene Grace"
         },
         heightm:0.3,
         weightkg:1.5,
@@ -8405,7 +8405,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:55
         },
         abilities:{
-            0:"Serene grace"
+            0:"Serene Grace"
         },
         heightm:0.6,
         weightkg:3.2,
@@ -9907,7 +9907,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:55
         },
         abilities:{
-            0:"Serene grace",
+            0:"Serene Grace",
             1:"Inner focus"
         },
         heightm:0.9,
@@ -10841,7 +10841,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Natural cure",
-            1:"Serene grace"
+            1:"Serene Grace"
         },
         heightm:1.5,
         weightkg:46.8,
@@ -16235,7 +16235,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:100
         },
         abilities:{
-            0:"Serene grace"
+            0:"Serene Grace"
         },
         heightm:0.3,
         weightkg:1.1,
@@ -18915,7 +18915,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:70
         },
         abilities:{
-            0:"Serene grace",
+            0:"Serene Grace",
             1:"Inner focus"
         },
         heightm:1.1,
@@ -19136,7 +19136,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:85
         },
         abilities:{
-            0:"Serene grace"
+            0:"Serene Grace"
         },
         heightm:1.5,
         weightkg:38,

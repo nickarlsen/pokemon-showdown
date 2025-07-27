@@ -3029,6 +3029,7 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 	{
 		name: "[Gen 3] OU",
 		mod: 'gen3',
+		gameType: 'doubles',
 		ruleset: ['Standard'],
 		banlist: [
 			'Uber',
