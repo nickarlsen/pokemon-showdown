@@ -1817,6 +1817,7 @@ export class TeamValidator {
 		}
 		
 		if (nonexistentCheck) {
+			return null;
 			if (tierSpecies.isNonstandard === 'Past' || tierSpecies.isNonstandard === 'Future') {
 				return `${tierSpecies.name} does not exist in Gen ${dex.gen}.`;
 			}

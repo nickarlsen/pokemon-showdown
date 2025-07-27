@@ -1699,7 +1699,7 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	sceptilemega: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
@@ -1717,7 +1717,7 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "UUBL",
 	},
 	blazikenmega: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "Uber",
 	},
@@ -1733,7 +1733,7 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	swampertmega: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "UU",
 	},
@@ -1746,52 +1746,52 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	zigzagoon: {
-		isNonstandard: "Past",
+		
 	tier: "OU",
 		natDexTier: "NFE",
 	},
 	zigzagoongalar: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "LC",
 	},
 	linoone: {
-		isNonstandard: "Past",
+		
 	tier: "OU",
 		natDexTier: "RU",
 	},
 	linoonegalar: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "NFE",
 	},
 	obstagoon: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	wurmple: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "LC",
 	},
 	silcoon: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "NFE",
 	},
 	beautifly: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	cascoon: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "NFE",
 	},
 	dustox: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
@@ -1818,12 +1818,12 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	taillow: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "LC",
 	},
 	swellow: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
@@ -1847,7 +1847,7 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	gardevoirmega: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "UU",
 	},
@@ -1857,7 +1857,7 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	gallademega: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "UU",
 	},
@@ -1889,32 +1889,32 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	nincada: {
-		isNonstandard: "Past",
+		
 	tier: "OU",
 		natDexTier: "LC",
 	},
 	ninjask: {
-		isNonstandard: "Past",
+		
 	tier: "OU",
 		natDexTier: "RU",
 	},
 	shedinja: {
-		isNonstandard: "Past",
+		
 	tier: "OU",
 		natDexTier: "AG",
 	},
 	whismur: {
-		isNonstandard: "Past",
+		
 	tier: "OU",
 		natDexTier: "LC",
 	},
 	loudred: {
-		isNonstandard: "Past",
+		
 	tier: "OU",
 		natDexTier: "NFE",
 	},
 	exploud: {
-		isNonstandard: "Past",
+		
 	tier: "OU",
 		natDexTier: "RU",
 	},
@@ -1935,12 +1935,12 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	skitty: {
-		isNonstandard: "Past",
+		
 	tier: "OU",
 		natDexTier: "LC",
 	},
 	delcatty: {
-		isNonstandard: "Past",
+		
 	tier: "OU",
 		natDexTier: "RU",
 	},
@@ -1950,37 +1950,37 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	sableyemega: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "UU",
 	},
 	mawile: {
-		isNonstandard: "Past",
+		
 	tier: "OU",
 		natDexTier: "RU",
 	},
 	mawilemega: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "UUBL",
 	},
 	aron: {
-		isNonstandard: "Past",
+		
 	tier: "OU",
 		natDexTier: "LC",
 	},
 	lairon: {
-		isNonstandard: "Past",
+		
 	tier: "OU",
 		natDexTier: "NFE",
 	},
 	aggron: {
-		isNonstandard: "Past",
+		
 	tier: "OU",
 		natDexTier: "RU",
 	},
 	aggronmega: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
@@ -1993,22 +1993,22 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	medichammega: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "UUBL",
 	},
 	electrike: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "LC",
 	},
 	manectric: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	manectricmega: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
@@ -2033,17 +2033,17 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	budew: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "LC",
 	},
 	roselia: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "NFE",
 	},
 	roserade: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
@@ -2056,27 +2056,27 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	carvanha: {
-		isNonstandard: "Past",
+		
 	tier: "OU",
 		natDexTier: "LC",
 	},
 	sharpedo: {
-		isNonstandard: "Past",
+		
 	tier: "OU",
 		natDexTier: "RU",
 	},
 	sharpedomega: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	wailmer: {
-		isNonstandard: "Past",
+		
 	tier: "OU",
 		natDexTier: "LC",
 	},
 	wailord: {
-		isNonstandard: "Past",
+		
 	tier: "OU",
 		natDexTier: "RU",
 	},
@@ -2089,7 +2089,7 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	cameruptmega: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
@@ -2107,7 +2107,7 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	spinda: {
-		isNonstandard: "Past",
+		
 	tier: "OU",
 		natDexTier: "RU",
 	},
@@ -2139,7 +2139,7 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	altariamega: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RUBL",
 	},
@@ -2154,12 +2154,12 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	lunatone: {
-		isNonstandard: "Past",
+		
 	tier: "OU",
 		natDexTier: "RU",
 	},
 	solrock: {
-		isNonstandard: "Past",
+		
 	tier: "OU",
 		natDexTier: "RU",
 	},
@@ -2180,32 +2180,32 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	baltoy: {
-		isNonstandard: "Past",
+		
 	tier: "OU",
 		natDexTier: "LC",
 	},
 	claydol: {
-		isNonstandard: "Past",
+		
 	tier: "OU",
 		natDexTier: "RU",
 	},
 	lileep: {
-		isNonstandard: "Past",
+		
 	tier: "OU",
 		natDexTier: "LC",
 	},
 	cradily: {
-		isNonstandard: "Past",
+		
 	tier: "OU",
 		natDexTier: "RU",
 	},
 	anorith: {
-		isNonstandard: "Past",
+		
 	tier: "OU",
 		natDexTier: "LC",
 	},
 	armaldo: {
-		isNonstandard: "Past",
+		
 	tier: "OU",
 		natDexTier: "RU",
 	},
@@ -2218,21 +2218,21 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	castform: {
-		isNonstandard: "Past",
+		
 	tier: "OU",
 		natDexTier: "RU",
 	},
 	castformsunny: {
-		isNonstandard: "Past",
+		
 	},
 	castformrainy: {
-		isNonstandard: "Past",
+		
 	},
 	castformsnowy: {
-		isNonstandard: "Past",
+		
 	},
 	kecleon: {
-		isNonstandard: "Past",
+		
 	tier: "OU",
 		natDexTier: "RU",
 	},
@@ -2245,7 +2245,7 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	banettemega: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "OU",
 	},
@@ -2274,12 +2274,12 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	absol: {
-		isNonstandard: "Past",
+		
 	tier: "OU",
 		natDexTier: "RU",
 	},
 	absolmega: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
@@ -2292,7 +2292,7 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	glaliemega: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
@@ -2302,37 +2302,37 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	spheal: {
-		isNonstandard: "Past",
+		
 	tier: "OU",
 		natDexTier: "LC",
 	},
 	sealeo: {
-		isNonstandard: "Past",
+		
 	tier: "OU",
 		natDexTier: "NFE",
 	},
 	walrein: {
-		isNonstandard: "Past",
+		
 	tier: "OU",
 		natDexTier: "RU",
 	},
 	clamperl: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "NFE",
 	},
 	huntail: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	gorebyss: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	relicanth: {
-		isNonstandard: "Past",
+		
 	tier: "OU",
 		natDexTier: "RU",
 	},
@@ -2353,7 +2353,7 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RUBL",
 	},
 	salamencemega: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "Uber",
 	},
@@ -2369,7 +2369,7 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	metagrossmega: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "Uber",
 	},
@@ -2394,7 +2394,7 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	latiasmega: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "UU",
 	},
@@ -2404,7 +2404,7 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "UUBL",
 	},
 	latiosmega: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "UUBL",
 	},
@@ -2414,7 +2414,7 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "Uber",
 	},
 	kyogreprimal: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "Uber",
 	},
@@ -2424,7 +2424,7 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "Uber",
 	},
 	groudonprimal: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "Uber",
 	},
@@ -2434,7 +2434,7 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "Uber",
 	},
 	rayquazamega: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "AG",
 	},
@@ -2508,12 +2508,12 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	bidoof: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "LC",
 	},
 	bibarel: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
@@ -2553,27 +2553,27 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	burmy: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "LC",
 	},
 	wormadam: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	wormadamsandy: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	wormadamtrash: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	mothim: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
@@ -2599,17 +2599,17 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	cherubi: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "LC",
 	},
 	cherrim: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	cherrimsunshine: {
-		isNonstandard: "Past",
+		
 	},
 	shellos: {
 	tier: "Uber",
@@ -2629,27 +2629,27 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	buneary: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "LC",
 	},
 	lopunny: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	lopunnymega: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "OU",
 	},
 	glameow: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "LC",
 	},
 	purugly: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
@@ -2670,7 +2670,7 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	chatot: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
@@ -2691,7 +2691,7 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "OU",
 	},
 	garchompmega: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "(OU)",
 	},
@@ -2704,7 +2704,7 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	lucariomega: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "Uber",
 	},
@@ -2717,12 +2717,12 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "UU",
 	},
 	skorupi: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "LC",
 	},
 	drapion: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
@@ -2735,7 +2735,7 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	carnivine: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
@@ -2756,7 +2756,7 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	abomasnowmega: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
@@ -2881,7 +2881,7 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "Uber",
 	},
 	victini: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "UU",
 	},
@@ -2924,92 +2924,92 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "OU",
 	},
 	patrat: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "LC",
 	},
 	watchog: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	lillipup: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "LC",
 	},
 	herdier: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "NFE",
 	},
 	stoutland: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	purrloin: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "LC",
 	},
 	liepard: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	pansage: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "LC",
 	},
 	simisage: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	pansear: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "LC",
 	},
 	simisear: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	panpour: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "LC",
 	},
 	simipour: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	munna: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "LC",
 	},
 	musharna: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	pidove: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "LC",
 	},
 	tranquill: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "NFE",
 	},
 	unfezant: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
@@ -3022,27 +3022,27 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	roggenrola: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "LC",
 	},
 	boldore: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "NFE",
 	},
 	gigalith: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	woobat: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "NFE",
 	},
 	swoobat: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
@@ -3055,12 +3055,12 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "UU",
 	},
 	audino: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	audinomega: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
@@ -3078,27 +3078,27 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RUBL",
 	},
 	tympole: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "LC",
 	},
 	palpitoad: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "NFE",
 	},
 	seismitoad: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	throh: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	sawk: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
@@ -3114,17 +3114,17 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	venipede: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "LC",
 	},
 	whirlipede: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "NFE",
 	},
 	scolipede: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RUBL",
 	},
@@ -3176,43 +3176,43 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	darumaka: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "LC",
 	},
 	darumakagalar: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "LC",
 	},
 	darmanitan: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	darmanitanzen: {
-		isNonstandard: "Past",
+		
 	},
 	darmanitangalar: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "Uber",
 	},
 	darmanitangalarzen: {
-		isNonstandard: "Past",
+		
 	},
 	maractus: {
-		isNonstandard: "Past",
+		
 	tier: "OU",
 		natDexTier: "RU",
 	},
 	dwebble: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "LC",
 	},
 	crustle: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
@@ -3225,62 +3225,62 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	sigilyph: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	yamask: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "LC",
 	},
 	yamaskgalar: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "LC",
 	},
 	cofagrigus: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	runerigus: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	tirtouga: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "LC",
 	},
 	carracosta: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	archen: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "LC",
 	},
 	archeops: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	trubbish: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "LC",
 	},
 	garbodor: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	garbodorgmax: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 	},
 	zorua: {
@@ -3338,17 +3338,17 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	vanillite: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "LC",
 	},
 	vanillish: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "NFE",
 	},
 	vanilluxe: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
@@ -3361,17 +3361,17 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	emolga: {
-		isNonstandard: "Past",
+		
 	tier: "OU",
 		natDexTier: "RU",
 	},
 	karrablast: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "LC",
 	},
 	escavalier: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
@@ -3384,12 +3384,12 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	frillish: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "LC",
 	},
 	jellicent: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
@@ -3407,27 +3407,27 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	ferroseed: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "LC",
 	},
 	ferrothorn: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "OU",
 	},
 	klink: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "LC",
 	},
 	klang: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "NFE",
 	},
 	klinklang: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
@@ -3443,12 +3443,12 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	elgyem: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "LC",
 	},
 	beheeyem: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
@@ -3488,22 +3488,22 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	shelmet: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "LC",
 	},
 	accelgor: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	stunfisk: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	stunfiskgalar: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
@@ -3516,7 +3516,7 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RUBL",
 	},
 	druddigon: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
@@ -3537,7 +3537,7 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "UU",
 	},
 	bouffalant: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
@@ -3563,12 +3563,12 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	heatmor: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	durant: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
@@ -3672,27 +3672,27 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	genesect: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "Uber",
 	},
 	genesectburn: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "Uber",
 	},
 	genesectchill: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "Uber",
 	},
 	genesectdouse: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "Uber",
 	},
 	genesectshock: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "Uber",
 	},
@@ -3730,16 +3730,16 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "UU",
 	},
 	greninjaash: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 	},
 	bunnelby: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "LC",
 	},
 	diggersby: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
@@ -3780,7 +3780,7 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 	tier: "Uber",
 	},
 	floetteeternal: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 	},
 	florges: {
@@ -3797,17 +3797,17 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	pancham: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "LC",
 	},
 	pangoro: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	furfrou: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
@@ -3820,40 +3820,40 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	honedge: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "LC",
 	},
 	doublade: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "NFE",
 	},
 	aegislash: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "UU",
 	},
 	aegislashblade: {
-		isNonstandard: "Past",
+		
 	},
 	spritzee: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "LC",
 	},
 	aromatisse: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	swirlix: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "NFE",
 	},
 	slurpuff: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
@@ -3866,12 +3866,12 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	binacle: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "LC",
 	},
 	barbaracle: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
@@ -3892,32 +3892,32 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	helioptile: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "LC",
 	},
 	heliolisk: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	tyrunt: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "LC",
 	},
 	tyrantrum: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	amaura: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "LC",
 	},
 	aurorus: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
@@ -3969,32 +3969,32 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	pumpkaboo: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "LC",
 	},
 	pumpkaboosmall: {
-		isNonstandard: "Past",
+		
 	},
 	pumpkaboolarge: {
-		isNonstandard: "Past",
+		
 	},
 	pumpkaboosuper: {
-		isNonstandard: "Past",
+		
 	},
 	gourgeist: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	gourgeistsmall: {
-		isNonstandard: "Past",
+		
 	},
 	gourgeistlarge: {
-		isNonstandard: "Past",
+		
 	},
 	gourgeistsuper: {
-		isNonstandard: "Past",
+		
 	},
 	bergmite: {
 	tier: "Uber",
@@ -4018,7 +4018,7 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	xerneas: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "AG",
 	},
@@ -4027,22 +4027,22 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 	tier: "Uber",
 	},
 	yveltal: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "Uber",
 	},
 	zygarde: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "Uber",
 	},
 	zygarde10: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	zygardecomplete: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "Uber",
 	},
@@ -4052,7 +4052,7 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	dianciemega: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "OU",
 	},
@@ -4129,7 +4129,7 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	gumshoostotem: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 	},
 	grubbin: {
@@ -4144,7 +4144,7 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	vikavolttotem: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 	},
 	crabrawler: {
@@ -4184,7 +4184,7 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "UU",
 	},
 	ribombeetotem: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 	},
 	rockruff: {
@@ -4209,12 +4209,12 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	wishiwashi: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	wishiwashischool: {
-		isNonstandard: "Past",
+		
 	},
 	mareanie: {
 	tier: "Uber",
@@ -4241,7 +4241,7 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	araquanidtotem: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 	},
 	fomantis: {
@@ -4253,16 +4253,16 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	lurantistotem: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 	},
 	morelull: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "LC",
 	},
 	shiinotic: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
@@ -4275,16 +4275,16 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	salazzletotem: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 	},
 	stufful: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "LC",
 	},
 	bewear: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
@@ -4315,12 +4315,12 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	wimpod: {
-		isNonstandard: "Past",
+		
 	tier: "OU",
 		natDexTier: "LC",
 	},
 	golisopod: {
-		isNonstandard: "Past",
+		
 	tier: "OU",
 		natDexTier: "RU",
 	},
@@ -4333,102 +4333,102 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	pyukumuku: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	typenull: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "NFE",
 	},
 	silvally: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	silvallybug: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	silvallydark: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	silvallydragon: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	silvallyelectric: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	silvallyfairy: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	silvallyfighting: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	silvallyfire: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	silvallyflying: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	silvallyghost: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	silvallygrass: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	silvallyground: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	silvallyice: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	silvallypoison: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	silvallypsychic: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	silvallyrock: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	silvallysteel: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	silvallywater: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
@@ -4443,17 +4443,17 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	turtonator: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	togedemaru: {
-		isNonstandard: "Past",
+		
 	tier: "OU",
 		natDexTier: "RU",
 	},
 	togedemarutotem: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 	},
 	mimikyu: {
@@ -4462,11 +4462,11 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	mimikyutotem: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 	},
 	mimikyubustedtotem: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 	},
 	bruxish: {
@@ -4475,12 +4475,12 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	drampa: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	dhelmise: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
@@ -4496,26 +4496,26 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "UUBL",
 	},
 	kommoototem: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 	},
 	tapukoko: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "OU",
 	},
 	tapulele: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "OU",
 	},
 	tapubulu: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "UU",
 	},
 	tapufini: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "UU",
 	},
@@ -4536,37 +4536,37 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "Uber",
 	},
 	nihilego: {
-		isNonstandard: "Past",
+		
 	tier: "OU",
 		natDexTier: "RU",
 	},
 	buzzwole: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RUBL",
 	},
 	pheromosa: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "Uber",
 	},
 	xurkitree: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "UUBL",
 	},
 	celesteela: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "UU",
 	},
 	kartana: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "OU",
 	},
 	guzzlord: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
@@ -4586,7 +4586,7 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "Uber",
 	},
 	necrozmaultra: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "Uber",
 	},
@@ -4596,47 +4596,47 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "Uber",
 	},
 	marshadow: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "Uber",
 	},
 	poipole: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "NFE",
 	},
 	naganadel: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "Uber",
 	},
 	stakataka: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	blacephalon: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "UU",
 	},
 	zeraora: {
-		isNonstandard: "Past",
+		
 	tier: "OU",
 		natDexTier: "UU",
 	},
 	meltan: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	melmetal: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "Uber",
 	},
 	melmetalgmax: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 	},
 	grookey: {
@@ -4653,7 +4653,7 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "OU",
 	},
 	rillaboomgmax: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 	},
 	scorbunny: {
@@ -4668,7 +4668,7 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "UUBL",
 	},
 	cinderacegmax: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 	},
 	sobble: {
@@ -4683,7 +4683,7 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	inteleongmax: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 	},
 	skwovet: {
@@ -4706,55 +4706,55 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "OU",
 	},
 	corviknightgmax: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 	},
 	blipbug: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "LC",
 	},
 	dottler: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "NFE",
 	},
 	orbeetle: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	orbeetlegmax: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 	},
 	nickit: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "LC",
 	},
 	thievul: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	gossifleur: {
-		isNonstandard: "Past",
+		
 	tier: "OU",
 		natDexTier: "LC",
 	},
 	eldegoss: {
-		isNonstandard: "Past",
+		
 	tier: "OU",
 		natDexTier: "RU",
 	},
 	wooloo: {
-		isNonstandard: "Past",
+		
 	tier: "OU",
 		natDexTier: "LC",
 	},
 	dubwool: {
-		isNonstandard: "Past",
+		
 	tier: "OU",
 		natDexTier: "RU",
 	},
@@ -4767,16 +4767,16 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	drednawgmax: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 	},
 	yamper: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "LC",
 	},
 	boltund: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
@@ -4792,7 +4792,7 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	coalossalgmax: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 	},
 	applin: {
@@ -4804,7 +4804,7 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	flapplegmax: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 	},
 	appletun: {
@@ -4813,7 +4813,7 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	appletungmax: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 	},
 	dipplin: {
@@ -4830,7 +4830,7 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	sandacondagmax: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 	},
 	cramorant: {
@@ -4855,34 +4855,34 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	toxtricitygmax: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 	},
 	toxtricitylowkeygmax: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 	},
 	sizzlipede: {
-		isNonstandard: "Past",
+		
 	tier: "OU",
 		natDexTier: "LC",
 	},
 	centiskorch: {
-		isNonstandard: "Past",
+		
 	tier: "OU",
 		natDexTier: "RU",
 	},
 	centiskorchgmax: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 	},
 	clobbopus: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "LC",
 	},
 	grapploct: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
@@ -4906,7 +4906,7 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "OU",
 	},
 	hatterenegmax: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 	},
 	impidimp: {
@@ -4921,7 +4921,7 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	grimmsnarlgmax: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 	},
 	milcery: {
@@ -4933,7 +4933,7 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	alcremiegmax: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 	},
 	falinks: {
@@ -4988,26 +4988,26 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	copperajahgmax: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 	},
 	dracozolt: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	arctozolt: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
 	dracovish: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "Uber",
 	},
 	arctovish: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 		natDexTier: "RU",
 	},
@@ -5017,7 +5017,7 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "RU",
 	},
 	duraludongmax: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 	},
 	dreepy: {
@@ -5057,7 +5057,7 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "Uber",
 	},
 	eternatuseternamax: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 	},
 	kubfu: {
@@ -5074,11 +5074,11 @@ export const FormatsData: import('../../../sim/dex-species').SpeciesFormatsDataT
 		natDexTier: "OU",
 	},
 	urshifugmax: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 	},
 	urshifurapidstrikegmax: {
-		isNonstandard: "Past",
+		
 	tier: "Uber",
 	},
 	zarude: {
