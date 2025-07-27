@@ -2228,7 +2228,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Flash fire",
-            1:"Run away"
+            1:"Run Away"
         },
         heightm:0.6,
         weightkg:9.9,
@@ -4063,7 +4063,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:50
         },
         abilities:{
-            0:"Run away",
+            0:"Run Away",
             1:"Flash fire"
         },
         heightm:1,
@@ -4132,7 +4132,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:65
         },
         abilities:{
-            0:"Run away",
+            0:"Run Away",
             1:"Flash fire"
         },
         heightm:1.7,
@@ -4508,7 +4508,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:35
         },
         abilities:{
-            0:"Run away",
+            0:"Run Away",
             1:"Early bird"
         },
         heightm:1.4,
@@ -6627,7 +6627,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:55
         },
         abilities:{
-            0:"Run away"
+            0:"Run Away"
         },
         heightm:0.3,
         weightkg:6.5,
@@ -7906,7 +7906,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:35
         },
         abilities:{
-            0:"Run away",
+            0:"Run Away",
             1:"Keen eye"
         },
         heightm:0.8,
@@ -7936,7 +7936,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:85
         },
         abilities:{
-            0:"Run away",
+            0:"Run Away",
             1:"Keen eye"
         },
         heightm:1.8,
@@ -8497,7 +8497,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Plus",
-            1:"Run away"
+            1:"Run Away"
         },
         heightm:0.6,
         weightkg:7.8,
@@ -10505,7 +10505,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:90
         },
         abilities:{
-            0:"Run away",
+            0:"Run Away",
             1:"Sturdy"
         },
         heightm:0.5,
@@ -30053,7 +30053,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:57
         },
         abilities:{
-            0:"Run away"
+            0:"Run Away"
         },
         heightm:0.5,
         weightkg:10.5,
@@ -31003,7 +31003,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Shed skin",
-            1:"Run away"
+            1:"Run Away"
         },
         heightm:0.6,
         weightkg:4.8,
@@ -31335,7 +31335,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:55
         },
         abilities:{
-            0:"Run away"
+            0:"Run Away"
         },
         heightm:0.5,
         weightkg:12,
@@ -34322,7 +34322,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:52
         },
         abilities:{
-            0:"Run away",
+            0:"Run Away",
             1:"Volt Absorb"
         },
         heightm:0.6,
@@ -38420,7 +38420,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:60
         },
         abilities:{
-            0:"Run away",
+            0:"Run Away",
             1:"Pickup"
         },
         heightm:0.3,
@@ -45148,7 +45148,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             "Undiscovered"
         ],
         abilities:{
-            0:"Run away",
+            0:"Run Away",
             1:"Pickup"
         }
     },
