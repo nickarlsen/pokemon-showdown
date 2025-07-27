@@ -2023,7 +2023,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
                 "3M",
                 "3T"
             ],
-            faintattack: [
+            feintattack: [
                 "3L24"
             ],
             confuseray: [
@@ -2282,7 +2282,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             screech: [
                 "3L14"
             ],
-            faintattack: [
+            feintattack: [
                 "3L17"
             ],
             iciclespear: [
@@ -3777,7 +3777,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             aquajet: [
                 "3L18"
             ],
-            faintattack: [
+            feintattack: [
                 "3L21"
             ],
             rest: [
@@ -5667,7 +5667,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             aquajet: [
                 "3L18"
             ],
-            faintattack: [
+            feintattack: [
                 "3L21"
             ],
             rest: [
@@ -5895,7 +5895,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
                 "3M",
                 "3T"
             ],
-            faintattack: [
+            feintattack: [
                 "3L24"
             ],
             confuseray: [
@@ -6680,7 +6680,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             payday: [
                 "3L20"
             ],
-            faintattack: [
+            feintattack: [
                 "3L29"
             ],
             screech: [
@@ -11333,7 +11333,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             bite: [
                 "3L1"
             ],
-            faintattack: [
+            feintattack: [
                 "3L9"
             ],
             clayblade: [
@@ -11439,7 +11439,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             seismictoss: [
                 "3L19"
             ],
-            faintattack: [
+            feintattack: [
                 "3L22"
             ],
             revenge: [
@@ -15342,7 +15342,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             seismictoss: [
                 "3L19"
             ],
-            faintattack: [
+            feintattack: [
                 "3L22"
             ],
             revenge: [
@@ -20101,7 +20101,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
                 "3M",
                 "3T"
             ],
-            faintattack: [
+            feintattack: [
                 "3L25"
             ],
             charm: [
@@ -21725,7 +21725,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             pinmissile: [
                 "3L20"
             ],
-            faintattack: [
+            feintattack: [
                 "3L23"
             ],
             bulletpunch: [
@@ -22991,7 +22991,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             fakeout: [
                 "3L20"
             ],
-            faintattack: [
+            feintattack: [
                 "3L24"
             ],
             confuseray: [
@@ -25741,7 +25741,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
                 "3M",
                 "3T"
             ],
-            faintattack: [
+            feintattack: [
                 "3L25"
             ],
             charm: [
@@ -26764,7 +26764,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             bite: [
                 "3L1"
             ],
-            faintattack: [
+            feintattack: [
                 "3L1"
             ],
             diamondcut: [
@@ -28452,7 +28452,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             harden: [
                 "3L4"
             ],
-            faintattack: [
+            feintattack: [
                 "3L9"
             ],
             snarl: [
@@ -29656,7 +29656,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             mudslap: [
                 "3L8"
             ],
-            faintattack: [
+            feintattack: [
                 "3L14"
             ],
             pinmissile: [
@@ -29940,7 +29940,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             slackoff: [
                 "3L12"
             ],
-            faintattack: [
+            feintattack: [
                 "3L15"
             ],
             slash: [
@@ -32049,7 +32049,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             odorsleuth: [
                 "3L31"
             ],
-            faintattack: [
+            feintattack: [
                 "3L37"
             ],
             flamethrower: [
@@ -32713,7 +32713,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             metalclaw: [
                 "3L21"
             ],
-            faintattack: [
+            feintattack: [
                 "3L23"
             ],
             trislash: [
@@ -37116,7 +37116,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             metalclaw: [
                 "3L21"
             ],
-            faintattack: [
+            feintattack: [
                 "3L23"
             ],
             trislash: [
@@ -37230,7 +37230,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             screech: [
                 "3L14"
             ],
-            faintattack: [
+            feintattack: [
                 "3L17"
             ],
             iciclespear: [
@@ -37387,7 +37387,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             bind: [
                 "3L4"
             ],
-            faintattack: [
+            feintattack: [
                 "3L7"
             ],
             swordsdance: [
@@ -37570,7 +37570,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             block: [
                 "3L33"
             ],
-            faintattack: [
+            feintattack: [
                 "3L41"
             ],
             slam: [
@@ -37676,7 +37676,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             payday: [
                 "3L20"
             ],
-            faintattack: [
+            feintattack: [
                 "3L28"
             ],
             screech: [
@@ -38138,7 +38138,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             slackoff: [
                 "3L12"
             ],
-            faintattack: [
+            feintattack: [
                 "3L15"
             ],
             slash: [
@@ -38811,7 +38811,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             bite: [
                 "3L1"
             ],
-            faintattack: [
+            feintattack: [
                 "3L1"
             ],
             diamondcut: [
@@ -39474,7 +39474,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             pinmissile: [
                 "3L20"
             ],
-            faintattack: [
+            feintattack: [
                 "3L23"
             ],
             bulletpunch: [
@@ -40659,7 +40659,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             absorb: [
                 "3L1"
             ],
-            faintattack: [
+            feintattack: [
                 "3L8"
             ],
             megadrain: [
@@ -43479,7 +43479,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             slackoff: [
                 "3L12"
             ],
-            faintattack: [
+            feintattack: [
                 "3L15"
             ],
             slash: [
@@ -45245,7 +45245,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             harden: [
                 "3L4"
             ],
-            faintattack: [
+            feintattack: [
                 "3L9"
             ],
             snarl: [
@@ -46503,7 +46503,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             odorsleuth: [
                 "3L35"
             ],
-            faintattack: [
+            feintattack: [
                 "3L43"
             ],
             flamethrower: [
@@ -46604,7 +46604,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             mudslap: [
                 "3L8"
             ],
-            faintattack: [
+            feintattack: [
                 "3L14"
             ],
             pinmissile: [

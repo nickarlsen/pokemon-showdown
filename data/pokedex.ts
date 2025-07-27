@@ -2601,7 +2601,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Effect spore",
-            1:"Thick fat"
+            1:"Thick Fat"
         },
         heightm:0.3,
         weightkg:5.4,
@@ -2633,7 +2633,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Effect spore",
-            1:"Thick fat"
+            1:"Thick Fat"
         },
         heightm:1,
         weightkg:29.5,
@@ -3110,7 +3110,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Sturdy",
-            1:"Vital spirit"
+            1:"Vital Spirit"
         },
         heightm:0.5,
         weightkg:28,
@@ -3140,10 +3140,10 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Sturdy",
-            1:"Vital spirit"
+            1:"Vital Spirit"
         },
         heightm:1,
-        weightkg:32,
+        weightkg:22,
         color:"Brown",
         prevo:"Mankey",
         evoLevel:28,
@@ -6249,7 +6249,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:65
         },
         abilities:{
-            0:"Thick fat",
+            0:"Thick Fat",
             1:"Sun boosted"
         },
         heightm:1.5,
@@ -6354,7 +6354,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Intimidate",
-            1:"Thick fat"
+            1:"Thick Fat"
         },
         heightm:1.4,
         weightkg:115,
@@ -6385,7 +6385,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Intimidate",
-            1:"Thick fat"
+            1:"Thick Fat"
         },
         heightm:1.4,
         weightkg:85,
@@ -7085,7 +7085,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Immunity",
-            1:"Thick fat"
+            1:"Thick Fat"
         },
         heightm:2.1,
         weightkg:460,
@@ -8656,7 +8656,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Huge power",
-            1:"Thick fat"
+            1:"Thick Fat"
         },
         heightm:0.4,
         weightkg:8.5,
@@ -8691,7 +8691,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Huge power",
-            1:"Thick fat"
+            1:"Thick Fat"
         },
         heightm:0.8,
         weightkg:28.5,
@@ -9408,7 +9408,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:80
         },
         abilities:{
-            0:"Thick fat",
+            0:"Thick Fat",
             1:"Natural cure"
         },
         heightm:1.5,
@@ -10096,7 +10096,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Oblivious",
-            1:"Thick fat"
+            1:"Thick Fat"
         },
         heightm:0.4,
         weightkg:6.5,
@@ -10127,13 +10127,13 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Oblivious",
-            1:"Thick fat"
+            1:"Thick Fat"
         },
         heightm:1.1,
         weightkg:55.8,
         color:"Brown",
         prevo:"Swinub",
-        evoLevel:33,
+        evoLevel:24,
         evos:[
             "Mamoswine"
         ],
@@ -12551,7 +12551,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:80
         },
         abilities:{
-            0:"Vital spirit"
+            0:"Vital Spirit"
         },
         heightm:1.4,
         weightkg:46.5,
@@ -12799,7 +12799,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:102
         },
         abilities:{
-            0:"Thick fat",
+            0:"Thick Fat",
             1:"Volt absorb"
         },
         heightm:1,
@@ -12834,7 +12834,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:130
         },
         abilities:{
-            0:"Thick fat",
+            0:"Thick Fat",
             1:"Volt absorb"
         },
         heightm:2.3,
@@ -12868,7 +12868,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:50
         },
         abilities:{
-            0:"Thick fat",
+            0:"Thick Fat",
             1:"Huge power"
         },
         heightm:0.2,
@@ -15063,7 +15063,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Sun boosted",
-            1:"Thick fat"
+            1:"Thick Fat"
         },
         heightm:2,
         weightkg:100,
@@ -15309,7 +15309,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Huge power",
-            1:"Thick fat"
+            1:"Thick Fat"
         },
         heightm:0.8,
         weightkg:39.5,
@@ -15341,7 +15341,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Huge power",
-            1:"Thick fat"
+            1:"Thick Fat"
         },
         heightm:1.1,
         weightkg:87.6,
@@ -15375,7 +15375,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Huge power",
-            1:"Thick fat"
+            1:"Thick Fat"
         },
         heightm:1.4,
         weightkg:150.6,
@@ -19294,8 +19294,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:110
         },
         abilities:{
-            0:"Vital spirit",
-            1:"Thick fat"
+            0:"Vital Spirit",
+            1:"Thick Fat"
         },
         heightm:2.5,
         weightkg:291,
@@ -33391,7 +33391,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:80
         },
         abilities:{
-            0:"Vital spirit",
+            0:"Vital Spirit",
             1:"Plus"
         },
         heightm:1.5,
@@ -35564,7 +35564,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:70
         },
         abilities:{
-            0:"Thick fat",
+            0:"Thick Fat",
             1:"Beauty ward"
         },
         heightm:2.1,
@@ -35849,7 +35849,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:100
         },
         abilities:{
-            0:"Vital spirit",
+            0:"Vital Spirit",
             1:"Sun boosted"
         },
         heightm:0.8,
@@ -37521,7 +37521,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Swift swim",
-            1:"Vital spirit"
+            1:"Vital Spirit"
         },
         heightm:3,
         weightkg:110,
@@ -40085,7 +40085,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Sturdy",
-            1:"Vital spirit"
+            1:"Vital Spirit"
         },
         heightm:1.2,
         weightkg:56,
@@ -40145,7 +40145,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:140
         },
         abilities:{
-            0:"Thick fat",
+            0:"Thick Fat",
             1:"Natural cure"
         },
         heightm:3.2,
