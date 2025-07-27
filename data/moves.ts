@@ -9275,7 +9275,7 @@ export const Moves: import('../sim/dex-moves').MoveDataTable = {
 	hornattack: {
 		num: -30,
 		accuracy: 100,
-		basePower: 65,
+		basePower: 60,
 		category: "Physical",
 		name: "Horn Attack",
 		pp: 25,
@@ -9283,7 +9283,7 @@ export const Moves: import('../sim/dex-moves').MoveDataTable = {
 		flags: {contact: 1, protect: 1, mirror: 1, metronome: 1},
 		secondary: null,
 		target: "normal",
-		type: "Normal",
+		type: "Ground",
 		contestType: "Cool",
 	},
 	horndrill: {
