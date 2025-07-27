@@ -644,7 +644,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:60
         },
         abilities:{
-            0:"Compoundeyes"
+            0:"Compound Eyes"
         },
         heightm:1.1,
         weightkg:32,
@@ -10535,7 +10535,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:120
         },
         abilities:{
-            0:"Speed boost",
+            0:"Speed Boost",
             1:"Sturdy"
         },
         heightm:1.1,
@@ -12493,7 +12493,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:70
         },
         abilities:{
-            0:"Speed boost"
+            0:"Speed Boost"
         },
         heightm:1.2,
         weightkg:39.2,
@@ -12611,7 +12611,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:31
         },
         abilities:{
-            0:"Compoundeyes"
+            0:"Compound Eyes"
         },
         heightm:0.5,
         weightkg:5.5,
@@ -12642,7 +12642,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:71
         },
         abilities:{
-            0:"Speed boost"
+            0:"Speed Boost"
         },
         heightm:0.8,
         weightkg:12,
@@ -13001,7 +13001,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:60
         },
         abilities:{
-            0:"Compoundeyes",
+            0:"Compound Eyes",
             1:"Synchronize"
         },
         heightm:0.5,
@@ -13160,14 +13160,14 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:60
         },
         abilities:{
-            0:"Rock head",
-            1:"Battle armor"
+            0:"Rock Head",
+            1:"Battle Armor"
         },
         heightm:0.9,
         weightkg:120,
         color:"Gray",
         prevo:"Aron",
-        evoLevel:32,
+        evoLevel:24,
         evos:[
             "Aggron"
         ],
@@ -13529,7 +13529,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Minus",
-            1:"Speed boost"
+            1:"Speed Boost"
         },
         heightm:0.6,
         weightkg:17.7,
@@ -13652,7 +13652,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Rough skin",
-            1:"Speed boost"
+            1:"Speed Boost"
         },
         heightm:0.8,
         weightkg:20.8,
@@ -13683,7 +13683,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Rough skin",
-            1:"Speed boost"
+            1:"Speed Boost"
         },
         heightm:1.8,
         weightkg:88.8,
@@ -22502,7 +22502,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:60
         },
         abilities:{
-            0:"Speed boost",
+            0:"Speed Boost",
             1:"Sun boosted"
         },
         heightm:0.3,
@@ -22534,7 +22534,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:80
         },
         abilities:{
-            0:"Speed boost",
+            0:"Speed Boost",
             1:"Sun boosted"
         },
         heightm:0.7,
@@ -24402,7 +24402,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:50
         },
         abilities:{
-            0:"Compoundeyes",
+            0:"Compound Eyes",
             1:"Sun boosted"
         },
         heightm:0.1,
@@ -24433,7 +24433,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:90
         },
         abilities:{
-            0:"Compoundeyes",
+            0:"Compound Eyes",
             1:"Sun boosted"
         },
         heightm:0.8,
@@ -31036,7 +31036,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Flash fire",
-            1:"Speed boost"
+            1:"Speed Boost"
         },
         heightm:1.2,
         weightkg:22.2,
@@ -32205,7 +32205,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:65
         },
         abilities:{
-            0:"Speed boost",
+            0:"Speed Boost",
             1:"Volt absorb"
         },
         heightm:0.3,
@@ -36108,7 +36108,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:65
         },
         abilities:{
-            0:"Compoundeyes"
+            0:"Compound Eyes"
         },
         heightm:0.3,
         weightkg:3.8,
@@ -41044,7 +41044,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:100
         },
         abilities:{
-            0:"Speed boost"
+            0:"Speed Boost"
         },
         heightm:3.5,
         weightkg:280,
@@ -44891,7 +44891,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             "Undiscovered"
         ],
         abilities:{
-            0:"Compoundeyes",
+            0:"Compound Eyes",
             1:"Synchronize"
         }
     },
@@ -44917,7 +44917,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ],
         
         abilities:{
-            0:"Speed boost",
+            0:"Speed Boost",
             1:"Minus"
         }
     },
@@ -44969,7 +44969,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ],
         
         abilities:{
-            0:"Compoundeyes"
+            0:"Compound Eyes"
         }
     },
     cloudiou:{
@@ -45252,7 +45252,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ],
         abilities:{
             0:"Intimidate",
-            1:"Speed boost"
+            1:"Speed Boost"
         }
     },
     boskoal:{
