@@ -1761,7 +1761,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:60
         },
         abilities:{
-            0:"Volt absorb",
+            0:"Volt Absorb",
             1:"Sun boosted"
         },
         heightm:0.8,
@@ -2719,7 +2719,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Sand veil",
-            1:"Arena trap"
+            1:"Arena Trap"
         },
         heightm:0.2,
         weightkg:0.8,
@@ -2789,7 +2789,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Sand veil",
-            1:"Arena trap"
+            1:"Arena Trap"
         },
         heightm:0.7,
         weightkg:33.3,
@@ -6774,7 +6774,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:65
         },
         abilities:{
-            0:"Volt absorb"
+            0:"Volt Absorb"
         },
         heightm:0.8,
         weightkg:24.5,
@@ -8174,7 +8174,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:75
         },
         abilities:{
-            0:"Volt absorb",
+            0:"Volt Absorb",
             1:"Rain dish"
         },
         heightm:0.5,
@@ -12800,7 +12800,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Thick Fat",
-            1:"Volt absorb"
+            1:"Volt Absorb"
         },
         heightm:1,
         weightkg:86.4,
@@ -12835,7 +12835,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Thick Fat",
-            1:"Volt absorb"
+            1:"Volt Absorb"
         },
         heightm:2.3,
         weightkg:253.8,
@@ -13498,7 +13498,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Plus",
-            1:"Volt absorb"
+            1:"Volt Absorb"
         },
         heightm:0.7,
         weightkg:17.7,
@@ -14013,7 +14013,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Hyper cutter",
-            1:"Arena trap"
+            1:"Arena Trap"
         },
         heightm:0.7,
         weightkg:15,
@@ -24173,7 +24173,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:60
         },
         abilities:{
-            0:"Volt absorb"
+            0:"Volt Absorb"
         },
         heightm:0.4,
         weightkg:5,
@@ -32206,7 +32206,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Speed Boost",
-            1:"Volt absorb"
+            1:"Volt Absorb"
         },
         heightm:0.3,
         weightkg:3.3,
@@ -34323,7 +34323,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Run away",
-            1:"Volt absorb"
+            1:"Volt Absorb"
         },
         heightm:0.6,
         weightkg:6,
@@ -34353,8 +34353,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:72
         },
         abilities:{
-            0:"Arena trap",
-            1:"Volt absorb"
+            0:"Arena Trap",
+            1:"Volt Absorb"
         },
         heightm:1.3,
         weightkg:43,
