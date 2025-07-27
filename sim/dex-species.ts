@@ -329,23 +329,25 @@ export class Species extends BasicEffect implements Readonly<BasicEffect & Speci
 		if (Array.isArray(data.changesFrom)) this.changesFrom = data.changesFrom[0];
 
 		if (!this.gen && this.num >= 1) {
-			if (this.num >= 906 || this.forme.includes('Paldea')) {
-				this.gen = 9;
-			} else if (this.num >= 810 || ['Gmax', 'Galar', 'Galar-Zen', 'Hisui'].includes(this.forme)) {
-				this.gen = 8;
-			} else if (this.num >= 722 || this.forme.startsWith('Alola') || this.forme === 'Starter') {
-				this.gen = 7;
-			} else if (this.forme === 'Primal') {
-				this.gen = 6;
-				this.isPrimal = true;
-				this.battleOnly = this.baseSpecies;
-			} else if (this.num >= 650 || this.isMega) {
-				this.gen = 6;
-			} else if (this.num >= 494) {
-				this.gen = 5;
-			} else if (this.num >= 387) {
-				this.gen = 4;
-			} else if (this.num >= 252) {
+			// if 
+			// (this.num >= 906 || this.forme.includes('Paldea')) {
+			// 	this.gen = 9;
+			// } else if (this.num >= 810 || ['Gmax', 'Galar', 'Galar-Zen', 'Hisui'].includes(this.forme)) {
+			// 	this.gen = 8;
+			// } else if (this.num >= 722 || this.forme.startsWith('Alola') || this.forme === 'Starter') {
+			// 	this.gen = 7;
+			// } else if (this.forme === 'Primal') {
+			// 	this.gen = 6;
+			// 	this.isPrimal = true;
+			// 	this.battleOnly = this.baseSpecies;
+			// } else if (this.num >= 650 || this.isMega) {
+			// 	this.gen = 6;
+			// } else if (this.num >= 494) {
+			// 	this.gen = 5;
+			// } else if (this.num >= 387) {
+			// 	this.gen = 4;
+			// } else 
+			if (this.num >= 252) {
 				this.gen = 3;
 			} else if (this.num >= 152) {
 				this.gen = 2;
