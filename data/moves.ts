@@ -12856,7 +12856,7 @@ export const Moves: import('../sim/dex-moves').MoveDataTable = {
 	mudslap: {
 		num: -189,
 		accuracy: 100,
-		basePower: 20,
+		basePower: 50,
 		category: "Special",
 		name: "Mud-Slap",
 		pp: 10,
@@ -12865,7 +12865,7 @@ export const Moves: import('../sim/dex-moves').MoveDataTable = {
 		secondary: {
 			chance: 100,
 			boosts: {
-				accuracy: -1,
+				spe: -1,
 			},
 		},
 		target: "normal",
