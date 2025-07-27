@@ -3146,7 +3146,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         weightkg:22,
         color:"Brown",
         prevo:"Mankey",
-        evoLevel:28,
+        evoLevel:22,
         evos:[
             "Annihilape"
         ],

@@ -1792,6 +1792,7 @@ export class TeamValidator {
 		// complicated in terms of what trumps it. We don't want e.g.
 		// +Mythical to unban Shaymin in Gen 1, for instance.
 		let nonexistentCheck = Tags.nonexistent.genericFilter!(tierSpecies) && ruleTable.check('nonexistent');
+		nonexistentCheck = false;
 
 		const EXISTENCE_TAG = ['past', 'future', 'lgpe', 'unobtainable', 'cap', 'custom', 'nonexistent'];
 
