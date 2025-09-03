@@ -583,7 +583,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:45
         },
         abilities:{
-            0:"Shield dust"
+            0:"Shield Dust"
         },
         heightm:0.3,
         weightkg:2.9,
@@ -612,7 +612,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:50
         },
         abilities:{
-            0:"Shed skin"
+            0:"Shed Skin"
         },
         heightm:0.7,
         weightkg:9.9,
@@ -703,7 +703,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:40
         },
         abilities:{
-            0:"Shield dust"
+            0:"Shield Dust"
         },
         heightm:0.3,
         weightkg:3.2,
@@ -733,7 +733,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:45
         },
         abilities:{
-            0:"Shed skin"
+            0:"Shed Skin"
         },
         heightm:0.6,
         weightkg:10,
@@ -1110,7 +1110,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:40
         },
         abilities:{
-            0:"Keen eye"
+            0:"Keen Eye"
         },
         heightm:0.3,
         weightkg:2,
@@ -1140,7 +1140,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:80
         },
         abilities:{
-            0:"Keen eye"
+            0:"Keen Eye"
         },
         heightm:1.2,
         weightkg:38,
@@ -1169,7 +1169,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Intimidate",
-            1:"Shed skin"
+            1:"Shed Skin"
         },
         heightm:2,
         weightkg:6.9,
@@ -1201,7 +1201,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Intimidate",
-            1:"Shed skin"
+            1:"Shed Skin"
         },
         heightm:3.5,
         weightkg:65,
@@ -1231,7 +1231,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Static",
-            1:"Sun boosted"
+            1:"Sun Boosted"
         },
         heightm:0.4,
         weightkg:6,
@@ -1762,7 +1762,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Volt Absorb",
-            1:"Sun boosted"
+            1:"Sun Boosted"
         },
         heightm:0.8,
         weightkg:30,
@@ -1831,7 +1831,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:50
         },
         abilities:{
-            0:"Sand veil"
+            0:"Sand Veil"
         },
         heightm:0.6,
         weightkg:12,
@@ -1898,7 +1898,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:75
         },
         abilities:{
-            0:"Sand stream"
+            0:"Sand Stream"
         },
         heightm:1,
         weightkg:29.5,
@@ -1965,7 +1965,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:55
         },
         abilities:{
-            0:"Poison point"
+            0:"Poison Point"
         },
         heightm:0.4,
         weightkg:7,
@@ -1996,7 +1996,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:70
         },
         abilities:{
-            0:"Poison point"
+            0:"Poison Point"
         },
         heightm:0.8,
         weightkg:20,
@@ -2029,7 +2029,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:90
         },
         abilities:{
-            0:"Poison point"
+            0:"Poison Point"
         },
         heightm:1.3,
         weightkg:60,
@@ -2059,7 +2059,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:46
         },
         abilities:{
-            0:"Poison point"
+            0:"Poison Point"
         },
         heightm:0.5,
         weightkg:9,
@@ -2091,7 +2091,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:61
         },
         abilities:{
-            0:"Poison point"
+            0:"Poison Point"
         },
         heightm:0.9,
         weightkg:19.5,
@@ -2125,7 +2125,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:81
         },
         abilities:{
-            0:"Poison point"
+            0:"Poison Point"
         },
         heightm:1.4,
         weightkg:62,
@@ -2159,7 +2159,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:70
         },
         abilities:{
-            0:"Cute charm"
+            0:"Cute Charm"
         },
         heightm:0.6,
         weightkg:7.5,
@@ -2194,7 +2194,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:95
         },
         abilities:{
-            0:"Cute charm"
+            0:"Cute Charm"
         },
         heightm:1.3,
         weightkg:40,
@@ -2227,7 +2227,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:38
         },
         abilities:{
-            0:"Flash fire",
+            0:"Flash Fire",
             1:"Run Away"
         },
         heightm:0.6,
@@ -2302,7 +2302,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:85
         },
         abilities:{
-            0:"Flash fire",
+            0:"Flash Fire",
             1:"Drought"
         },
         heightm:1.1,
@@ -2379,7 +2379,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:115
         },
         abilities:{
-            0:"Cute charm"
+            0:"Cute Charm"
         },
         heightm:0.5,
         weightkg:5.5,
@@ -2415,7 +2415,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:180
         },
         abilities:{
-            0:"Cute charm"
+            0:"Cute Charm"
         },
         heightm:1,
         weightkg:12,
@@ -2445,7 +2445,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:40
         },
         abilities:{
-            0:"Inner focus"
+            0:"Inner Focus"
         },
         heightm:0.8,
         weightkg:7.5,
@@ -2475,7 +2475,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:75
         },
         abilities:{
-            0:"Inner focus"
+            0:"Inner Focus"
         },
         heightm:1.6,
         weightkg:55,
@@ -2507,7 +2507,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:45
         },
         abilities:{
-            0:"Sun boosted"
+            0:"Sun Boosted"
         },
         heightm:0.5,
         weightkg:5.4,
@@ -2537,7 +2537,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:60
         },
         abilities:{
-            0:"Sun boosted"
+            0:"Sun Boosted"
         },
         heightm:0.8,
         weightkg:8.6,
@@ -2570,7 +2570,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:75
         },
         abilities:{
-            0:"Sun boosted"
+            0:"Sun Boosted"
         },
         heightm:1.2,
         weightkg:18.6,
@@ -2600,7 +2600,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:35
         },
         abilities:{
-            0:"Effect spore",
+            0:"Effect Spore",
             1:"Thick Fat"
         },
         heightm:0.3,
@@ -2632,7 +2632,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:70
         },
         abilities:{
-            0:"Effect spore",
+            0:"Effect Spore",
             1:"Thick Fat"
         },
         heightm:1,
@@ -2718,7 +2718,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:10
         },
         abilities:{
-            0:"Sand veil",
+            0:"Sand Veil",
             1:"Arena Trap"
         },
         heightm:0.2,
@@ -2788,7 +2788,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:55
         },
         abilities:{
-            0:"Sand veil",
+            0:"Sand Veil",
             1:"Arena Trap"
         },
         heightm:0.7,
@@ -3218,7 +3218,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Intimidate",
-            1:"Flash fire"
+            1:"Flash Fire"
         },
         heightm:0.8,
         weightkg:22.7,
@@ -3252,7 +3252,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Intimidate",
-            1:"Flash fire"
+            1:"Flash Fire"
         },
         heightm:1.9,
         weightkg:155,
@@ -3296,7 +3296,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Intimidate",
-            1:"Flash fire"
+            1:"Flash Fire"
         },
         heightm:2,
         weightkg:168,
@@ -3325,7 +3325,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:40
         },
         abilities:{
-            0:"Water absorb",
+            0:"Water Absorb",
             1:"Damp"
         },
         heightm:0.6,
@@ -3355,7 +3355,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:65
         },
         abilities:{
-            0:"Water absorb",
+            0:"Water Absorb",
             1:"Damp"
         },
         heightm:1,
@@ -3389,7 +3389,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:90
         },
         abilities:{
-            0:"Water absorb",
+            0:"Water Absorb",
             1:"Damp"
         },
         heightm:1.3,
@@ -3424,7 +3424,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Synchronize",
-            1:"Inner focus"
+            1:"Inner Focus"
         },
         heightm:0.9,
         weightkg:19.5,
@@ -3458,7 +3458,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Synchronize",
-            1:"Inner focus"
+            1:"Inner Focus"
         },
         heightm:1.3,
         weightkg:56.5,
@@ -3494,7 +3494,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Synchronize",
-            1:"Inner focus"
+            1:"Inner Focus"
         },
         heightm:1.5,
         weightkg:48,
@@ -3565,7 +3565,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Guts",
-            1:"Battle armor"
+            1:"Battle Armor"
         },
         heightm:0.8,
         weightkg:19.5,
@@ -3599,7 +3599,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Guts",
-            1:"Battle armor"
+            1:"Battle Armor"
         },
         heightm:1.5,
         weightkg:70.5,
@@ -3636,7 +3636,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Guts",
-            1:"Flash fire"
+            1:"Flash Fire"
         },
         heightm:1.6,
         weightkg:130,
@@ -3698,7 +3698,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:50
         },
         abilities:{
-            0:"Sun boosted"
+            0:"Sun Boosted"
         },
         heightm:0.7,
         weightkg:4,
@@ -3728,7 +3728,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:65
         },
         abilities:{
-            0:"Sun boosted"
+            0:"Sun Boosted"
         },
         heightm:1,
         weightkg:6.4,
@@ -3760,7 +3760,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:80
         },
         abilities:{
-            0:"Sun boosted"
+            0:"Sun Boosted"
         },
         heightm:1.7,
         weightkg:15.5,
@@ -3790,8 +3790,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:40
         },
         abilities:{
-            0:"Clear body",
-            1:"Liquid ooze"
+            0:"Clear Body",
+            1:"Liquid Ooze"
         },
         heightm:0.9,
         weightkg:45.5,
@@ -3821,8 +3821,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:80
         },
         abilities:{
-            0:"Clear body",
-            1:"Liquid ooze"
+            0:"Clear Body",
+            1:"Liquid Ooze"
         },
         heightm:1.6,
         weightkg:55,
@@ -3851,7 +3851,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:40
         },
         abilities:{
-            0:"Rock head",
+            0:"Rock Head",
             1:"Sturdy"
         },
         heightm:0.4,
@@ -3921,7 +3921,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:55
         },
         abilities:{
-            0:"Rock head",
+            0:"Rock Head",
             1:"Sturdy"
         },
         heightm:1,
@@ -3995,7 +3995,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:80
         },
         abilities:{
-            0:"Rock head",
+            0:"Rock Head",
             1:"Sturdy"
         },
         heightm:1.4,
@@ -4064,7 +4064,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Run Away",
-            1:"Flash fire"
+            1:"Flash Fire"
         },
         heightm:1,
         weightkg:30,
@@ -4133,7 +4133,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Run Away",
-            1:"Flash fire"
+            1:"Flash Fire"
         },
         heightm:1.7,
         weightkg:95,
@@ -4201,7 +4201,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Oblivious",
-            1:"Own tempo"
+            1:"Own Tempo"
         },
         heightm:1.2,
         weightkg:36,
@@ -4274,7 +4274,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Oblivious",
-            1:"Own tempo"
+            1:"Own Tempo"
         },
         heightm:1.6,
         weightkg:78.5,
@@ -4377,7 +4377,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Sturdy",
-            1:"Magnet pull"
+            1:"Magnet Pull"
         },
         heightm:0.3,
         weightkg:6,
@@ -4409,7 +4409,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Sturdy",
-            1:"Magnet pull"
+            1:"Magnet Pull"
         },
         heightm:1,
         weightkg:60,
@@ -4441,8 +4441,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:52
         },
         abilities:{
-            0:"Keen eye",
-            1:"Sun boosted"
+            0:"Keen Eye",
+            1:"Sun Boosted"
         },
         heightm:0.8,
         weightkg:15,
@@ -4509,7 +4509,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Run Away",
-            1:"Early bird"
+            1:"Early Bird"
         },
         heightm:1.4,
         weightkg:39.2,
@@ -4540,7 +4540,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Serene Grace",
-            1:"Early bird"
+            1:"Early Bird"
         },
         heightm:1.8,
         weightkg:85.2,
@@ -4663,7 +4663,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Stench",
-            1:"Sticky hold"
+            1:"Sticky Hold"
         },
         heightm:0.7,
         weightkg:42,
@@ -4730,7 +4730,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Stench",
-            1:"Sticky hold"
+            1:"Sticky Hold"
         },
         heightm:1,
         weightkg:52,
@@ -4759,8 +4759,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:30
         },
         abilities:{
-            0:"Shell armor",
-            1:"Water absorb"
+            0:"Shell Armor",
+            1:"Water Absorb"
         },
         heightm:0.3,
         weightkg:4,
@@ -4790,8 +4790,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:50
         },
         abilities:{
-            0:"Water absorb",
-            1:"Shell armor"
+            0:"Water Absorb",
+            1:"Shell Armor"
         },
         heightm:1.5,
         weightkg:132.5,
@@ -4976,7 +4976,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:65
         },
         abilities:{
-            0:"Rock head",
+            0:"Rock Head",
             1:"Sturdy"
         },
         heightm:8.8,
@@ -5381,7 +5381,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:50
         },
         abilities:{
-            0:"Rock head",
+            0:"Rock Head",
             1:"Lightningrod"
         },
         heightm:0.4,
@@ -5412,7 +5412,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:60
         },
         abilities:{
-            0:"Rock head",
+            0:"Rock Head",
             1:"Lightningrod"
         },
         heightm:1,
@@ -5872,7 +5872,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:30
         },
         abilities:{
-            0:"Swift swim"
+            0:"Swift Swim"
         },
         heightm:0.4,
         weightkg:8,
@@ -5902,7 +5902,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:55
         },
         abilities:{
-            0:"Poison point"
+            0:"Poison Point"
         },
         heightm:1.2,
         weightkg:25,
@@ -5992,7 +5992,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Trace",
-            1:"Natural cure"
+            1:"Natural Cure"
         },
         heightm:0.8,
         weightkg:34.5,
@@ -6024,7 +6024,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Trace",
-            1:"Natural cure"
+            1:"Natural Cure"
         },
         heightm:1.1,
         weightkg:80,
@@ -6250,7 +6250,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Thick Fat",
-            1:"Sun boosted"
+            1:"Sun Boosted"
         },
         heightm:1.5,
         weightkg:55,
@@ -6441,7 +6441,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:20
         },
         abilities:{
-            0:"Swift swim"
+            0:"Swift Swim"
         },
         heightm:0.9,
         weightkg:10,
@@ -6741,7 +6741,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Drizzle",
-            1:"Rain dish"
+            1:"Rain Dish"
         },
         heightm:1,
         weightkg:29,
@@ -6808,7 +6808,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Drought",
-            1:"Flash fire"
+            1:"Flash Fire"
         },
         heightm:0.9,
         weightkg:25,
@@ -6872,8 +6872,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:35
         },
         abilities:{
-            0:"Swift swim",
-            1:"Shell armor"
+            0:"Swift Swim",
+            1:"Shell Armor"
         },
         heightm:0.4,
         weightkg:7.5,
@@ -6908,8 +6908,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:70
         },
         abilities:{
-            0:"Swift swim",
-            1:"Shell armor"
+            0:"Swift Swim",
+            1:"Shell Armor"
         },
         heightm:1,
         weightkg:35,
@@ -6943,8 +6943,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:30
         },
         abilities:{
-            0:"Swift swim",
-            1:"Battle armor"
+            0:"Swift Swim",
+            1:"Battle Armor"
         },
         heightm:0.5,
         weightkg:11.5,
@@ -6979,8 +6979,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:70
         },
         abilities:{
-            0:"Swift swim",
-            1:"Battle armor"
+            0:"Swift Swim",
+            1:"Battle Armor"
         },
         heightm:1.3,
         weightkg:40.5,
@@ -7014,7 +7014,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:80
         },
         abilities:{
-            0:"Rock head",
+            0:"Rock HEAD$3",
             1:"Pressure"
         },
         heightm:1.8,
@@ -7150,7 +7150,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:90
         },
         abilities:{
-            0:"Beauty ward"
+            0:"Beauty Ward"
         },
         heightm:1.7,
         weightkg:55.4,
@@ -7907,7 +7907,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Run Away",
-            1:"Keen eye"
+            1:"Keen Eye"
         },
         heightm:0.8,
         weightkg:6,
@@ -7937,7 +7937,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Run Away",
-            1:"Keen eye"
+            1:"Keen Eye"
         },
         heightm:1.8,
         weightkg:32.5,
@@ -8026,7 +8026,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Swarm",
-            1:"Early bird"
+            1:"Early Bird"
         },
         heightm:1,
         weightkg:10.8,
@@ -8057,7 +8057,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Swarm",
-            1:"Early bird"
+            1:"Early Bird"
         },
         heightm:1.4,
         weightkg:35.6,
@@ -8145,7 +8145,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:85
         },
         abilities:{
-            0:"Inner focus"
+            0:"Inner Focus"
         },
         heightm:1.8,
         weightkg:75,
@@ -8175,7 +8175,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Volt Absorb",
-            1:"Rain dish"
+            1:"Rain Dish"
         },
         heightm:0.5,
         weightkg:12,
@@ -8206,7 +8206,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Lightningrod",
-            1:"Water absorb"
+            1:"Water Absorb"
         },
         heightm:1.2,
         weightkg:22.5,
@@ -8655,7 +8655,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:70
         },
         abilities:{
-            0:"Huge power",
+            0:"Huge Power",
             1:"Thick Fat"
         },
         heightm:0.4,
@@ -8690,7 +8690,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:120
         },
         abilities:{
-            0:"Huge power",
+            0:"Huge Power",
             1:"Thick Fat"
         },
         heightm:0.8,
@@ -8721,7 +8721,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Sturdy",
-            1:"Rock head"
+            1:"Rock Head"
         },
         heightm:1.2,
         weightkg:38,
@@ -8751,7 +8751,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:90
         },
         abilities:{
-            0:"Water absorb",
+            0:"Water Absorb",
             1:"Damp"
         },
         heightm:1.1,
@@ -8782,7 +8782,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:35
         },
         abilities:{
-            0:"Sun boosted"
+            0:"Sun Boosted"
         },
         heightm:0.4,
         weightkg:0.5,
@@ -8813,7 +8813,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:55
         },
         abilities:{
-            0:"Sun boosted"
+            0:"Sun Boosted"
         },
         heightm:0.6,
         weightkg:1,
@@ -8846,7 +8846,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:75
         },
         abilities:{
-            0:"Sun boosted"
+            0:"Sun Boosted"
         },
         heightm:0.8,
         weightkg:3,
@@ -8904,7 +8904,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:30
         },
         abilities:{
-            0:"Sun boosted"
+            0:"Sun Boosted"
         },
         heightm:0.3,
         weightkg:1.8,
@@ -8933,7 +8933,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:75
         },
         abilities:{
-            0:"Sun boosted"
+            0:"Sun Boosted"
         },
         heightm:0.8,
         weightkg:8.5,
@@ -8994,7 +8994,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Damp",
-            1:"Water absorb"
+            1:"Water Absorb"
         },
         heightm:0.4,
         weightkg:8.5,
@@ -9066,7 +9066,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Damp",
-            1:"Water absorb"
+            1:"Water Absorb"
         },
         heightm:1.4,
         weightkg:75,
@@ -9193,7 +9193,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Oblivious",
-            1:"Own tempo"
+            1:"Own Tempo"
         },
         heightm:2,
         weightkg:79.5,
@@ -9378,7 +9378,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:190
         },
         abilities:{
-            0:"Shadow tag"
+            0:"Shadow Tag"
         },
         heightm:1.3,
         weightkg:28.5,
@@ -9409,7 +9409,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Thick Fat",
-            1:"Natural cure"
+            1:"Natural Cure"
         },
         heightm:1.5,
         weightkg:41.5,
@@ -9525,7 +9525,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:65
         },
         abilities:{
-            0:"Hyper cutter",
+            0:"Hyper Cutter",
             1:"Lightningrod"
         },
         heightm:1.1,
@@ -9556,7 +9556,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:75
         },
         abilities:{
-            0:"Rock head",
+            0:"Rock Head",
             1:"Sturdy"
         },
         heightm:9.2,
@@ -9908,7 +9908,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Serene Grace",
-            1:"Inner focus"
+            1:"Inner Focus"
         },
         heightm:0.9,
         weightkg:28,
@@ -10164,7 +10164,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Sturdy",
-            1:"Water absorb"
+            1:"Water Absorb"
         },
         heightm:0.6,
         weightkg:5,
@@ -10352,7 +10352,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:65
         },
         abilities:{
-            0:"Keen eye",
+            0:"Keen Eye",
             1:"Sturdy"
         },
         heightm:1.7,
@@ -10380,8 +10380,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:45
         },
         abilities:{
-            0:"Early bird",
-            1:"Flash fire"
+            0:"Early Bird",
+            1:"Flash Fire"
         },
         heightm:0.6,
         weightkg:10.8,
@@ -10411,8 +10411,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:75
         },
         abilities:{
-            0:"Early bird",
-            1:"Flash fire"
+            0:"Early Bird",
+            1:"Flash Fire"
         },
         heightm:1.4,
         weightkg:35,
@@ -10476,7 +10476,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:75
         },
         abilities:{
-            0:"Swift swim"
+            0:"Swift Swim"
         },
         heightm:1.8,
         weightkg:152,
@@ -10625,7 +10625,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:55
         },
         abilities:{
-            0:"Own tempo"
+            0:"Own Tempo"
         },
         heightm:1.2,
         weightkg:58,
@@ -10840,7 +10840,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:255
         },
         abilities:{
-            0:"Natural cure",
+            0:"Natural Cure",
             1:"Serene Grace"
         },
         heightm:1.5,
@@ -10990,7 +10990,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:70
         },
         abilities:{
-            0:"Shed skin"
+            0:"Shed Skin"
         },
         heightm:1.2,
         weightkg:152,
@@ -11022,7 +11022,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:95
         },
         abilities:{
-            0:"Sand stream"
+            0:"Sand Stream"
         },
         heightm:2,
         weightkg:202,
@@ -11149,7 +11149,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:100
         },
         abilities:{
-            0:"Natural cure"
+            0:"Natural Cure"
         },
         heightm:0.6,
         weightkg:5,
@@ -11734,7 +11734,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:100
         },
         abilities:{
-            0:"Shield dust"
+            0:"Shield Dust"
         },
         heightm:0.5,
         weightkg:32.5,
@@ -11833,7 +11833,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:50
         },
         abilities:{
-            0:"Shed skin"
+            0:"Shed Skin"
         },
         heightm:0.6,
         weightkg:10,
@@ -11893,7 +11893,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:50
         },
         abilities:{
-            0:"Shed skin"
+            0:"Shed Skin"
         },
         heightm:0.7,
         weightkg:11.5,
@@ -11925,7 +11925,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:60
         },
         abilities:{
-            0:"Shield dust"
+            0:"Shield Dust"
         },
         heightm:1.2,
         weightkg:31.6,
@@ -11954,8 +11954,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:40
         },
         abilities:{
-            0:"Swift swim",
-            1:"Rain dish"
+            0:"Swift Swim",
+            1:"Rain Dish"
         },
         heightm:0.5,
         weightkg:2.6,
@@ -11986,8 +11986,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:60
         },
         abilities:{
-            0:"Swift swim",
-            1:"Rain dish"
+            0:"Swift Swim",
+            1:"Rain Dish"
         },
         heightm:1.2,
         weightkg:32.5,
@@ -12020,8 +12020,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:85
         },
         abilities:{
-            0:"Swift swim",
-            1:"Rain dish"
+            0:"Swift Swim",
+            1:"Rain Dish"
         },
         heightm:1.5,
         weightkg:55,
@@ -12051,8 +12051,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:40
         },
         abilities:{
-            0:"Sun boosted",
-            1:"Early bird"
+            0:"Sun Boosted",
+            1:"Early Bird"
         },
         heightm:0.5,
         weightkg:4,
@@ -12083,8 +12083,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:70
         },
         abilities:{
-            0:"Sun boosted",
-            1:"Early bird"
+            0:"Sun Boosted",
+            1:"Early Bird"
         },
         heightm:1,
         weightkg:28,
@@ -12117,8 +12117,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:90
         },
         abilities:{
-            0:"Sun boosted",
-            1:"Early bird"
+            0:"Sun Boosted",
+            1:"Early Bird"
         },
         heightm:1.3,
         weightkg:59.6,
@@ -12207,7 +12207,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Lightningrod",
-            1:"Water absorb"
+            1:"Water Absorb"
         },
         heightm:0.6,
         weightkg:9.5,
@@ -12402,7 +12402,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:50
         },
         abilities:{
-            0:"Swift swim"
+            0:"Swift Swim"
         },
         heightm:0.5,
         weightkg:1.7,
@@ -12462,7 +12462,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:60
         },
         abilities:{
-            0:"Effect spore"
+            0:"Effect Spore"
         },
         heightm:0.4,
         weightkg:4.5,
@@ -12673,7 +12673,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         maxHP:1,
         abilities:{
-            0:"Wonder guard"
+            0:"Wonder Guard"
         },
         heightm:0.8,
         weightkg:1.2,
@@ -12701,7 +12701,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:64
         },
         abilities:{
-            0:"Rough skin"
+            0:"Rough Skin"
         },
         heightm:0.6,
         weightkg:16.3,
@@ -12731,8 +12731,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:84
         },
         abilities:{
-            0:"Rough skin",
-            1:"Flash fire"
+            0:"Rough Skin",
+            1:"Flash Fire"
         },
         heightm:1,
         weightkg:40.5,
@@ -12765,7 +12765,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Soundproof",
-            1:"Rough skin"
+            1:"Rough Skin"
         },
         heightm:1.5,
         weightkg:84,
@@ -12869,7 +12869,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Thick Fat",
-            1:"Huge power"
+            1:"Huge Power"
         },
         heightm:0.2,
         weightkg:2,
@@ -12899,8 +12899,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:30
         },
         abilities:{
-            0:"Battle armor",
-            1:"Magnet pull"
+            0:"Battle Armor",
+            1:"Magnet Pull"
         },
         heightm:1,
         weightkg:97,
@@ -12934,7 +12934,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Synchronize",
-            1:"Cute charm"
+            1:"Cute Charm"
         },
         heightm:0.6,
         weightkg:11,
@@ -12970,7 +12970,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Synchronize",
-            1:"Cute charm"
+            1:"Cute Charm"
         },
         heightm:1.1,
         weightkg:32.6,
@@ -13064,7 +13064,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:50
         },
         abilities:{
-            0:"Hyper cutter",
+            0:"Hyper Cutter",
             1:"Intimidate"
         },
         heightm:0.6,
@@ -13129,8 +13129,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:50
         },
         abilities:{
-            0:"Rock head",
-            1:"Battle armor"
+            0:"Rock Head",
+            1:"Battle Armor"
         },
         heightm:0.4,
         weightkg:60,
@@ -13193,8 +13193,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:75
         },
         abilities:{
-            0:"Rock head",
-            1:"Battle armor"
+            0:"Rock Head",
+            1:"Battle Armor"
         },
         heightm:2.1,
         weightkg:360,
@@ -13257,7 +13257,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:40
         },
         abilities:{
-            0:"Pure power"
+            0:"Pure Power"
         },
         heightm:0.6,
         weightkg:11.2,
@@ -13287,7 +13287,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:50
         },
         abilities:{
-            0:"Pure power"
+            0:"Pure Power"
         },
         heightm:1.3,
         weightkg:31.5,
@@ -13591,8 +13591,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:90
         },
         abilities:{
-            0:"Liquid ooze",
-            1:"Sticky hold"
+            0:"Liquid Ooze",
+            1:"Sticky Hold"
         },
         heightm:0.4,
         weightkg:10.3,
@@ -13621,8 +13621,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:133
         },
         abilities:{
-            0:"Water absorb",
-            1:"Liquid ooze"
+            0:"Water Absorb",
+            1:"Liquid Ooze"
         },
         heightm:1.7,
         weightkg:80,
@@ -13651,7 +13651,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:45
         },
         abilities:{
-            0:"Rough skin",
+            0:"Rough Skin",
             1:"Speed Boost"
         },
         heightm:0.8,
@@ -13682,7 +13682,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:115
         },
         abilities:{
-            0:"Rough skin",
+            0:"Rough Skin",
             1:"Speed Boost"
         },
         heightm:1.8,
@@ -13746,7 +13746,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:120
         },
         abilities:{
-            0:"Water veil"
+            0:"Water Veil"
         },
         heightm:2,
         weightkg:130,
@@ -13776,7 +13776,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:170
         },
         abilities:{
-            0:"Water veil"
+            0:"Water Veil"
         },
         heightm:14.5,
         weightkg:398,
@@ -13806,8 +13806,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:60
         },
         abilities:{
-            0:"Flash fire",
-            1:"Flame body"
+            0:"Flash Fire",
+            1:"Flame Body"
         },
         heightm:0.7,
         weightkg:24,
@@ -13838,7 +13838,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Sturdy",
-            1:"Flame body"
+            1:"Flame Body"
         },
         heightm:1.9,
         weightkg:220,
@@ -13984,8 +13984,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:60
         },
         abilities:{
-            0:"Own tempo",
-            1:"Rock head"
+            0:"Own Tempo",
+            1:"Rock Head"
         },
         heightm:1.1,
         weightkg:5,
@@ -14012,7 +14012,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:45
         },
         abilities:{
-            0:"Hyper cutter",
+            0:"Hyper Cutter",
             1:"Arena Trap"
         },
         heightm:0.7,
@@ -14109,8 +14109,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:70
         },
         abilities:{
-            0:"Sand veil",
-            1:"Shield dust"
+            0:"Sand Veil",
+            1:"Shield Dust"
         },
         heightm:0.4,
         weightkg:51.3,
@@ -14141,8 +14141,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:85
         },
         abilities:{
-            0:"Sand veil",
-            1:"Shield dust"
+            0:"Sand Veil",
+            1:"Shield Dust"
         },
         heightm:1.3,
         weightkg:77.4,
@@ -14172,7 +14172,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:55
         },
         abilities:{
-            0:"Natural cure"
+            0:"Natural Cure"
         },
         heightm:0.4,
         weightkg:1.2,
@@ -14203,8 +14203,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:80
         },
         abilities:{
-            0:"Natural cure",
-            1:"Beauty ward"
+            0:"Natural Cure",
+            1:"Beauty Ward"
         },
         heightm:1.1,
         weightkg:20.6,
@@ -14296,7 +14296,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:100
         },
         abilities:{
-            0:"Rough skin",
+            0:"Rough Skin",
             1:"Guts"
         },
         heightm:2.7,
@@ -14440,8 +14440,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:43
         },
         abilities:{
-            0:"Swift swim",
-            1:"Shell armor"
+            0:"Swift Swim",
+            1:"Shell Armor"
         },
         heightm:0.6,
         weightkg:11.5,
@@ -14472,8 +14472,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:85
         },
         abilities:{
-            0:"Swift swim",
-            1:"Shell armor"
+            0:"Swift Swim",
+            1:"Shell Armor"
         },
         heightm:1.1,
         weightkg:32.8,
@@ -14568,7 +14568,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:66
         },
         abilities:{
-            0:"Suction cups"
+            0:"Suction Cups"
         },
         heightm:1,
         weightkg:23.8,
@@ -14635,7 +14635,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:61
         },
         abilities:{
-            0:"Battle armor"
+            0:"Battle Armor"
         },
         heightm:0.7,
         weightkg:12.5,
@@ -14669,7 +14669,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:111
         },
         abilities:{
-            0:"Battle armor"
+            0:"Battle Armor"
         },
         heightm:1.5,
         weightkg:68.2,
@@ -14697,7 +14697,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:20
         },
         abilities:{
-            0:"Swift swim"
+            0:"Swift Swim"
         },
         heightm:0.6,
         weightkg:7.4,
@@ -14727,7 +14727,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:95
         },
         abilities:{
-            0:"Beauty ward"
+            0:"Beauty Ward"
         },
         heightm:6.2,
         weightkg:162,
@@ -14882,7 +14882,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:80
         },
         abilities:{
-            0:"Color change"
+            0:"Color Change"
         },
         heightm:1,
         weightkg:22,
@@ -15030,7 +15030,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:60
         },
         abilities:{
-            0:"Clear body"
+            0:"Clear Body"
         },
         heightm:1.6,
         weightkg:30.6,
@@ -15062,7 +15062,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:110
         },
         abilities:{
-            0:"Sun boosted",
+            0:"Sun Boosted",
             1:"Thick Fat"
         },
         heightm:2,
@@ -15120,7 +15120,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:75
         },
         abilities:{
-            0:"Cloud nine"
+            0:"Cloud Nine"
         },
         heightm:1.2,
         weightkg:47,
@@ -15180,7 +15180,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:95
         },
         abilities:{
-            0:"Shadow tag"
+            0:"Shadow Tag"
         },
         heightm:0.6,
         weightkg:14,
@@ -15210,8 +15210,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:60
         },
         abilities:{
-            0:"Inner focus",
-            1:"Clear body"
+            0:"Inner Focus",
+            1:"Clear Body"
         },
         heightm:0.7,
         weightkg:16.8,
@@ -15242,8 +15242,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:80
         },
         abilities:{
-            0:"Inner focus",
-            1:"Clear body"
+            0:"Inner Focus",
+            1:"Clear Body"
         },
         heightm:1.5,
         weightkg:256.5,
@@ -15308,7 +15308,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:80
         },
         abilities:{
-            0:"Huge power",
+            0:"Huge Power",
             1:"Thick Fat"
         },
         heightm:0.8,
@@ -15340,7 +15340,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:100
         },
         abilities:{
-            0:"Huge power",
+            0:"Huge Power",
             1:"Thick Fat"
         },
         heightm:1.1,
@@ -15374,7 +15374,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:120
         },
         abilities:{
-            0:"Huge power",
+            0:"Huge Power",
             1:"Thick Fat"
         },
         heightm:1.4,
@@ -15494,8 +15494,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:100
         },
         abilities:{
-            0:"Swift swim",
-            1:"Rock head"
+            0:"Swift Swim",
+            1:"Rock Head"
         },
         heightm:1,
         weightkg:23.4,
@@ -15527,8 +15527,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:58
         },
         abilities:{
-            0:"Swift swim",
-            1:"Water absorb"
+            0:"Swift Swim",
+            1:"Water Absorb"
         },
         heightm:0.6,
         weightkg:8.7,
@@ -15554,7 +15554,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:45
         },
         abilities:{
-            0:"Rock head"
+            0:"Rock Head"
         },
         heightm:0.6,
         weightkg:42.1,
@@ -15583,7 +15583,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:65
         },
         abilities:{
-            0:"Rock head"
+            0:"Rock Head"
         },
         heightm:1.1,
         weightkg:110.5,
@@ -15680,8 +15680,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:40
         },
         abilities:{
-            0:"Clear body",
-            1:"Sun boosted"
+            0:"Clear Body",
+            1:"Sun Boosted"
         },
         heightm:0.6,
         weightkg:95.2,
@@ -15712,8 +15712,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:60
         },
         abilities:{
-            0:"Clear body",
-            1:"Sun boosted"
+            0:"Clear Body",
+            1:"Sun Boosted"
         },
         heightm:1.2,
         weightkg:202.5,
@@ -15746,8 +15746,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:80
         },
         abilities:{
-            0:"Clear body",
-            1:"Sun boosted"
+            0:"Clear Body",
+            1:"Sun Boosted"
         },
         heightm:1.6,
         weightkg:550,
@@ -15812,7 +15812,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:80
         },
         abilities:{
-            0:"Clear body"
+            0:"Clear Body"
         },
         heightm:1.7,
         weightkg:230,
@@ -15842,7 +15842,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:80
         },
         abilities:{
-            0:"Clear body"
+            0:"Clear Body"
         },
         heightm:1.8,
         weightkg:175,
@@ -15872,7 +15872,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:80
         },
         abilities:{
-            0:"Clear body"
+            0:"Clear Body"
         },
         heightm:1.9,
         weightkg:205,
@@ -16168,7 +16168,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:105
         },
         abilities:{
-            0:"Air lock"
+            0:"Air Lock"
         },
         heightm:7,
         weightkg:206.5,
@@ -18916,7 +18916,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Serene Grace",
-            1:"Inner focus"
+            1:"Inner Focus"
         },
         heightm:1.1,
         weightkg:34,
@@ -18949,7 +18949,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Sturdy",
-            1:"Magnet pull"
+            1:"Magnet Pull"
         },
         heightm:1.2,
         weightkg:180,
@@ -19424,7 +19424,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Levitate",
-            1:"Magnet pull"
+            1:"Magnet Pull"
         },
         heightm:1.4,
         weightkg:340,
@@ -19453,7 +19453,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:70
         },
         abilities:{
-            0:"Clear body"
+            0:"Clear Body"
         },
         heightm:2.2,
         weightkg:106.6,
@@ -19484,7 +19484,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:75
         },
         abilities:{
-            0:"Shadow tag"
+            0:"Shadow Tag"
         },
         heightm:1.3,
         weightkg:26.6,
@@ -22503,7 +22503,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Speed Boost",
-            1:"Sun boosted"
+            1:"Sun Boosted"
         },
         heightm:0.3,
         weightkg:0.6,
@@ -22535,7 +22535,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Speed Boost",
-            1:"Sun boosted"
+            1:"Sun Boosted"
         },
         heightm:0.7,
         weightkg:6.6,
@@ -22667,8 +22667,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:62
         },
         abilities:{
-            0:"Swift swim",
-            1:"Water veil"
+            0:"Swift Swim",
+            1:"Water Veil"
         },
         heightm:1,
         weightkg:18,
@@ -23048,8 +23048,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:76
         },
         abilities:{
-            0:"Sun boosted",
-            1:"Water absorb"
+            0:"Sun Boosted",
+            1:"Water Absorb"
         },
         heightm:1,
         weightkg:28,
@@ -24403,7 +24403,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Compound Eyes",
-            1:"Sun boosted"
+            1:"Sun Boosted"
         },
         heightm:0.1,
         weightkg:0.6,
@@ -24434,7 +24434,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Compound Eyes",
-            1:"Sun boosted"
+            1:"Sun Boosted"
         },
         heightm:0.8,
         weightkg:14.3,
@@ -26888,7 +26888,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:45
         },
         abilities:{
-            0:"Keen eye"
+            0:"Keen Eye"
         },
         heightm:0.3,
         weightkg:1.7,
@@ -26918,8 +26918,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:62
         },
         abilities:{
-            0:"Flame body",
-            1:"Rock head"
+            0:"Flame Body",
+            1:"Rock Head"
         },
         heightm:0.7,
         weightkg:16,
@@ -26951,8 +26951,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:75
         },
         abilities:{
-            0:"Flame body",
-            1:"Rock head"
+            0:"Flame Body",
+            1:"Rock Head"
         },
         heightm:1.2,
         weightkg:24.5,
@@ -27903,7 +27903,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Damp",
-            1:"Cloud nine"
+            1:"Cloud Nine"
         },
         heightm:0.4,
         weightkg:3.5,
@@ -27934,8 +27934,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:117
         },
         abilities:{
-            0:"Swift swim",
-            1:"Cloud nine"
+            0:"Swift Swim",
+            1:"Cloud Nine"
         },
         heightm:1.5,
         weightkg:47,
@@ -28025,8 +28025,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:50
         },
         abilities:{
-            0:"Poison point",
-            1:"Swift swim"
+            0:"Poison Point",
+            1:"Swift Swim"
         },
         heightm:0.5,
         weightkg:7.3,
@@ -28057,8 +28057,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:85
         },
         abilities:{
-            0:"Poison point",
-            1:"Swift swim"
+            0:"Poison Point",
+            1:"Swift Swim"
         },
         heightm:1.8,
         weightkg:81.5,
@@ -30214,7 +30214,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Synchronize",
-            1:"Early bird"
+            1:"Early Bird"
         },
         heightm:0.6,
         weightkg:3.4,
@@ -31002,7 +31002,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:40
         },
         abilities:{
-            0:"Shed skin",
+            0:"Shed Skin",
             1:"Run Away"
         },
         heightm:0.6,
@@ -31035,7 +31035,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:75
         },
         abilities:{
-            0:"Flash fire",
+            0:"Flash Fire",
             1:"Speed Boost"
         },
         heightm:1.2,
@@ -33964,7 +33964,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Guts",
-            1:"Keen eye"
+            1:"Keen Eye"
         },
         heightm:0.2,
         weightkg:1.8,
@@ -33994,7 +33994,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Guts",
-            1:"Keen eye"
+            1:"Keen Eye"
         },
         heightm:0.8,
         weightkg:16,
@@ -34264,7 +34264,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:50
         },
         abilities:{
-            0:"Natural cure"
+            0:"Natural Cure"
         },
         heightm:0.4,
         weightkg:2.2,
@@ -34293,7 +34293,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:90
         },
         abilities:{
-            0:"Shield dust"
+            0:"Shield Dust"
         },
         heightm:0.5,
         weightkg:2.5,
@@ -35530,8 +35530,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:70
         },
         abilities:{
-            0:"Cute charm",
-            1:"Beauty ward"
+            0:"Cute Charm",
+            1:"Beauty Ward"
         },
         heightm:0.6,
         weightkg:4.8,
@@ -35565,7 +35565,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Thick Fat",
-            1:"Beauty ward"
+            1:"Beauty Ward"
         },
         heightm:2.1,
         weightkg:5.1,
@@ -35819,7 +35819,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Sturdy",
-            1:"Water absorb"
+            1:"Water Absorb"
         },
         heightm:1,
         weightkg:0.4,
@@ -35850,7 +35850,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Vital Spirit",
-            1:"Sun boosted"
+            1:"Sun Boosted"
         },
         heightm:0.8,
         weightkg:117,
@@ -36054,7 +36054,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Sturdy",
-            1:"Battle armor"
+            1:"Battle Armor"
         },
         heightm:3,
         weightkg:62,
@@ -37520,7 +37520,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:120
         },
         abilities:{
-            0:"Swift swim",
+            0:"Swift Swim",
             1:"Vital Spirit"
         },
         heightm:3,
@@ -38452,7 +38452,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:77
         },
         abilities:{
-            0:"Flash fire",
+            0:"Flash Fire",
             1:"Hustle"
         },
         heightm:0.5,
@@ -38483,7 +38483,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             hp:61
         },
         abilities:{
-            0:"Huge power"
+            0:"Huge Power"
         },
         heightm:0.3,
         weightkg:6.5,
@@ -40146,7 +40146,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Thick Fat",
-            1:"Natural cure"
+            1:"Natural Cure"
         },
         heightm:3.2,
         weightkg:160,
@@ -40276,7 +40276,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         },
         abilities:{
             0:"Sturdy",
-            1:"Rough skin"
+            1:"Rough Skin"
         },
         heightm:2.2,
         weightkg:320,
@@ -44840,7 +44840,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             "Undiscovered"
         ],
         abilities:{
-            0:"Huge power"
+            0:"Huge Power"
         }
     },
     sindetta:{
@@ -44943,8 +44943,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ],
         
         abilities:{
-            0:"Swift swim",
-            1:"Water absorb"
+            0:"Swift Swim",
+            1:"Water Absorb"
         }
     },
     lunamite:{
@@ -44995,7 +44995,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ],
         abilities:{
             0:"Levitate",
-            1:"Beauty ward"
+            1:"Beauty Ward"
         }
     },
     meduru:{
@@ -45020,7 +45020,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             "Undiscovered"
         ],
         abilities:{
-            0:"Pure power"
+            0:"Pure Power"
         }
     },
     bleakrath:{
@@ -45045,7 +45045,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             "Undiscovered"
         ],
         abilities:{
-            0:"Huge power",
+            0:"Huge Power",
             1:"Minus"
         }
     },
@@ -45123,7 +45123,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             "Undiscovered"
         ],
         abilities:{
-            0:"Rough skin",
+            0:"Rough Skin",
             1:"Guts"
         }
     },
@@ -45174,7 +45174,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
             "Undiscovered"
         ],
         abilities:{
-            0:"Rough skin"
+            0:"Rough Skin"
         }
     },
     volcamel:{
@@ -45200,7 +45200,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ],
         abilities:{
             0:"Sturdy",
-            1:"Flame body"
+            1:"Flame Body"
         }
     },
     dizzbear:{
@@ -45226,7 +45226,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         ],
         abilities:{
             0:"Plus",
-            1:"Rock head"
+            1:"Rock Head"
         }
     },
     noxdrill:{
